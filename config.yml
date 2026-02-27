@@ -1,0 +1,15 @@
+# 科研论文追踪配置文件
+research_fields:
+  - "Precision Agriculture"
+  - "Plant Protection Robot"
+  - "Test-Time Adaptation"
+  - "Vision-Language Models"
+  - "Geometric Structure-Preserving"
+
+# 每次抓取的论文数量
+max_results: 10
+
+# 排除的关键词（可选）
+exclude_keywords:
+  - "medical"
+  - "survey"
