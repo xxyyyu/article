@@ -1,12 +1,12 @@
-name: Daily arXiv Summary
+name: Dynamic Research Tracker
 
 on:
   schedule:
-    - cron: '0 2 * * *' # 每天北京时间上午10点执行
-  workflow_dispatch:      # 允许手动点击运行
+    - cron: '0 2 * * *'
+  workflow_dispatch:
 
 jobs:
-  build:
+  track_papers:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -18,29 +18,43 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: pip install arxiv requests
+        run: pip install arxiv PyYAML
 
-      - name: Run Scraper
+      - name: Generate Summary
         run: |
           python <<EOF
           import arxiv
+          import yaml
           import datetime
 
-          # 定义搜索关键词，针对您的研究方向
-          keywords = '("Agricultural Robot" OR "Computer Vision" OR "Signal Processing")'
-          search = arxiv.Search(query=keywords, max_results=5, sort_by=arxiv.SortCriterion.SubmittedDate)
+          # 1. 加载定制化的配置文件
+          with open('config.yml', 'r') as f:
+              config = yaml.safe_load(f)
+          
+          keywords = ' OR '.join([f'"{k}"' for k in config['research_fields']])
+          max_res = config.get('max_results', 5)
 
-          with open("README.md", "a") as f:
-              f.write(f"\n## 更新日期: {datetime.date.today()}\n")
+          # 2. 搜索 arXiv
+          search = arxiv.Search(
+              query=keywords,
+              max_results=max_res,
+              sort_by=arxiv.SortCriterion.SubmittedDate
+          )
+
+          # 3. 写入 README
+          with open("README.md", "a", encoding="utf-8") as f:
+              f.write(f"\n\n### 📅 研究周报: {datetime.date.today()}\n")
+              f.write(f"> **当前追踪方向**: {', '.join(config['research_fields'])}\n\n")
               for result in search.results():
-                  line = f"* **[{result.title}]({result.entry_id})**\n  - *Abstract*: {result.summary[:200]}...\n"
-                  f.write(line)
+                  f.write(f"#### [{result.title}]({result.entry_id})\n")
+                  f.write(f"- **领域**: {result.primary_category}\n")
+                  f.write(f"- **核心摘要**: {result.summary[:300]}...\n\n")
           EOF
 
-      - name: Commit and Push
+      - name: Update Repository
         run: |
-          git config --global user.name "Researcher-Bot"
+          git config --global user.name "Scholar-Bot"
           git config --global user.email "bot@github.com"
           git add README.md
-          git commit -m "Update papers for $(date)"
+          git commit -m "Auto-update papers for $(date)" || echo "No changes to commit"
           git push
