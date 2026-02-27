@@ -1,0 +1,46 @@
+name: Daily arXiv Summary
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # 每天北京时间上午10点执行
+  workflow_dispatch:      # 允许手动点击运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install arxiv requests
+
+      - name: Run Scraper
+        run: |
+          python <<EOF
+          import arxiv
+          import datetime
+
+          # 定义搜索关键词，针对您的研究方向
+          keywords = '("Agricultural Robot" OR "Computer Vision" OR "Signal Processing")'
+          search = arxiv.Search(query=keywords, max_results=5, sort_by=arxiv.SortCriterion.SubmittedDate)
+
+          with open("README.md", "a") as f:
+              f.write(f"\n## 更新日期: {datetime.date.today()}\n")
+              for result in search.results():
+                  line = f"* **[{result.title}]({result.entry_id})**\n  - *Abstract*: {result.summary[:200]}...\n"
+                  f.write(line)
+          EOF
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Researcher-Bot"
+          git config --global user.email "bot@github.com"
+          git add README.md
+          git commit -m "Update papers for $(date)"
+          git push
