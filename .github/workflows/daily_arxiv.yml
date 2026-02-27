@@ -1,60 +1,33 @@
-name: Dynamic Research Tracker
-
-on:
-  schedule:
-    - cron: '0 2 * * *'
-  workflow_dispatch:
-
-jobs:
-  track_papers:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-
-      - name: Install dependencies
-        run: pip install arxiv PyYAML
-
-      - name: Generate Summary
-        run: |
-          python <<EOF
-          import arxiv
+import arxiv
           import yaml
           import datetime
+          import os
 
-          # 1. 加载定制化的配置文件
+          # 1. 加载配置
           with open('config.yml', 'r') as f:
               config = yaml.safe_load(f)
           
           keywords = ' OR '.join([f'"{k}"' for k in config['research_fields']])
-          max_res = config.get('max_results', 5)
+          
+          # 2. 创建 PDF 存储文件夹
+          pdf_dir = f"pdfs/{datetime.date.today()}"
+          os.makedirs(pdf_dir, exist_ok=True)
 
-          # 2. 搜索 arXiv
+          # 3. 搜索并下载
           search = arxiv.Search(
               query=keywords,
-              max_results=max_res,
+              max_results=config.get('max_results', 5),
               sort_by=arxiv.SortCriterion.SubmittedDate
           )
 
-          # 3. 写入 README
           with open("README.md", "a", encoding="utf-8") as f:
-              f.write(f"\n\n### 📅 研究周报: {datetime.date.today()}\n")
-              f.write(f"> **当前追踪方向**: {', '.join(config['research_fields'])}\n\n")
+              f.write(f"\n\n### 📅 研究周报 & PDF 已下载: {datetime.date.today()}\n")
               for result in search.results():
+                  # 下载 PDF 并保存
+                  file_name = f"{result.entry_id.split('/')[-1]}.pdf"
+                  result.download_pdf(dirpath=pdf_dir, filename=file_name)
+                  
+                  # 写入 README，并附带本地 PDF 链接
                   f.write(f"#### [{result.title}]({result.entry_id})\n")
-                  f.write(f"- **领域**: {result.primary_category}\n")
+                  f.write(f"- **本地 PDF 查看**: [点击打开](./{pdf_dir}/{file_name})\n")
                   f.write(f"- **核心摘要**: {result.summary[:300]}...\n\n")
-          EOF
-
-      - name: Update Repository
-        run: |
-          git config --global user.name "Scholar-Bot"
-          git config --global user.email "bot@github.com"
-          git add README.md
-          git commit -m "Auto-update papers for $(date)" || echo "No changes to commit"
-          git push
