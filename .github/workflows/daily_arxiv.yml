@@ -2,7 +2,9 @@ name: Dynamic Research Tracker with PDF
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    # GitHub Actions 使用的是 UTC 时间（世界协调时）
+    # 北京时间 (UTC+8) 的早上 9:00，对应的 UTC 时间是凌晨 1:00
+    - cron: '0 1 * * *' 
   workflow_dispatch:
 
 jobs:
