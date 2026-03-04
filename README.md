@@ -318,3 +318,58 @@
 - **领域**: cs.HC
 - **核心摘要**: High text recognition performance does not guarantee that Vision-Language Models (VLMs) share human-like decision patterns when resolving ambiguity. We investigate this behavioral gap by directly comparing humans and VLMs using continuously interpolated Japanese character shapes generated via a $β$-...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-04
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Utonia: Toward One Encoder for All Point Clouds](http://arxiv.org/abs/2603.03283v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-04/Utonia_Toward_One_Encoder_for_All_Point_Clouds.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We dream of a future where point clouds from all domains can come together to shape a single model that benefits them all. Toward this goal, we present Utonia, a first step toward training a single self-supervised point transformer encoder across diverse domains, spanning remote sensing, outdoor LiD...
+
+#### [Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping](http://arxiv.org/abs/2603.03278v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-04/Tether_Autonomous_Functional_Play_with_Corresponde.pdf)
+- **领域**: cs.RO
+- **核心摘要**: The ability to conduct and learn from interaction and experience is a central challenge in robotics, offering a scalable alternative to labor-intensive human demonstrations. However, realizing such "play" requires (1) a policy robust to diverse, potentially out-of-distribution environment states, an...
+
+#### [UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?](http://arxiv.org/abs/2603.03241v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-04/UniG2U-Bench_Do_Unified_Models_Advance_Multimodal_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Unified multimodal models have recently demonstrated strong generative capabilities, yet whether and when generation improves understanding remains unclear. Existing benchmarks lack a systematic exploration of the specific tasks where generation facilitates understanding. To this end, we introduce U...
+
+#### [TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2603.02972v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-04/TagaVLM_Topology-Aware_Global_Action_Reasoning_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Navigation (VLN) presents a unique challenge for Large Vision-Language Models (VLMs) due to their inherent architectural mismatch: VLMs are primarily pretrained on static, disembodied vision-language tasks, which fundamentally clash with the dynamic, embodied, and spatially-structure...
+
+#### [Semi-Supervised Few-Shot Adaptation of Vision-Language Models](http://arxiv.org/abs/2603.02959v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-04/Semi-Supervised_Few-Shot_Adaptation_of_Vision-Lang.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) pre-trained on large, heterogeneous data sources are becoming increasingly popular, providing rich multi-modal embeddings that enable efficient transfer to new tasks. A particularly relevant application is few-shot adaptation, where only a handful of annotated examples ...
+
+#### [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](http://arxiv.org/abs/2603.02872v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-04/Think-as-You-See_Streaming_Chain-of-Thought_Reason.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision Language Models (LVLMs) exhibit strong Chain-of-Thought (CoT) capabilities, yet most existing paradigms assume full-video availability before inference, a batch-style process misaligned with real-world video streams where information arrives sequentially. Motivated by the streaming natu...
+
+#### [Nodes Are Early, Edges Are Late: Probing Diagram Representations in Large Vision-Language Models](http://arxiv.org/abs/2603.02865v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-04/Nodes_Are_Early_Edges_Are_Late_Probing_Diagram_Rep.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Large vision-language models (LVLMs) demonstrate strong performance on diagram understanding benchmarks, yet they still struggle with understanding relationships between elements, particularly those represented by nodes and directed edges (e.g., arrows and lines). To investigate the underlying cause...
+
+#### [CoFL: Continuous Flow Fields for Language-Conditioned Navigation](http://arxiv.org/abs/2603.02854v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-04/CoFL_Continuous_Flow_Fields_for_Language-Condition.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Language-conditioned navigation pipelines often rely on brittle modular components or costly action-sequence generation. To address these limitations, we present CoFL, an end-to-end policy that directly maps a bird's-eye view (BEV) observation and a language instruction to a continuous flow field fo...
+
+#### [iGVLM: Dynamic Instruction-Guided Vision Encoding for Question-Aware Multimodal Understanding](http://arxiv.org/abs/2603.02748v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-04/iGVLM_Dynamic_Instruction-Guided_Vision_Encoding_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite the success of Large Vision--Language Models (LVLMs), most existing architectures suffer from a representation bottleneck: they rely on static, instruction-agnostic vision encoders whose visual representations are utilized in an invariant manner across different textual tasks. This rigidity ...
+
+#### [Behavior-Aware Anthropometric Scene Generation for Human-Usable 3D Layouts](http://arxiv.org/abs/2603.02662v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-04/Behavior-Aware_Anthropometric_Scene_Generation_for.pdf)
+- **领域**: cs.HC
+- **核心摘要**: Well-designed indoor scenes should prioritize how people can act within a space rather than merely what objects to place. However, existing 3D scene generation methods emphasize visual and semantic plausibility, while insufficiently addressing whether people can comfortably walk, sit, or manipulate ...
+
