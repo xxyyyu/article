@@ -373,3 +373,58 @@
 - **领域**: cs.HC
 - **核心摘要**: Well-designed indoor scenes should prioritize how people can act within a space rather than merely what objects to place. However, existing 3D scene generation methods emphasize visual and semantic plausibility, while insufficiently addressing whether people can comfortably walk, sit, or manipulate ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-05
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning](http://arxiv.org/abs/2603.04380v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-05/TaxonRL_Reinforcement_Learning_with_Intermediate_R.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Traditional vision-language models struggle with contrastive fine-grained taxonomic reasoning, particularly when distinguishing between visually similar species within the same genus or family. We introduce TaxonRL, a reinforcement learning approach using Group Relative Policy Optimization with inte...
+
+#### [Scalable Evaluation of the Realism of Synthetic Environmental Augmentations in Images](http://arxiv.org/abs/2603.04325v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-05/Scalable_Evaluation_of_the_Realism_of_Synthetic_En.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Evaluation of AI systems often requires synthetic test cases, particularly for rare or safety-critical conditions that are difficult to observe in operational data. Generative AI offers a promising approach for producing such data through controllable image editing, but its usefulness depends on whe...
+
+#### [Real5-OmniDocBench: A Full-Scale Physical Reconstruction Benchmark for Robust Document Parsing in the Wild](http://arxiv.org/abs/2603.04205v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-05/Real5-OmniDocBench_A_Full-Scale_Physical_Reconstru.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While Vision-Language Models (VLMs) achieve near-perfect scores on digital document benchmarks like OmniDocBench, their performance in the unpredictable physical world remains largely unknown due to the lack of controlled yet realistic evaluations. We introduce Real5-OmniDocBench, the first benchmar...
+
+#### [When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models](http://arxiv.org/abs/2603.03989v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-05/When_Visual_Evidence_is_Ambiguous_Pareidolia_as_a_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: When visual evidence is ambiguous, vision models must decide whether to interpret face-like patterns as meaningful. Face pareidolia, the perception of faces in non-face objects, provides a controlled probe of this behavior. We introduce a representation-level diagnostic framework that analyzes detec...
+
+#### [Lightweight Visual Reasoning for Socially-Aware Robots](http://arxiv.org/abs/2603.03942v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-05/Lightweight_Visual_Reasoning_for_Socially-Aware_Ro.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Robots operating in shared human environments must not only navigate, interact, and detect their surroundings, they must also interpret and respond to dynamic, and often unpredictable, human behaviours. Although recent advances have shown promise in enhancing robotic perception and instruction-follo...
+
+#### [DeepScan: A Training-Free Framework for Visually Grounded Reasoning in Large Vision-Language Models](http://arxiv.org/abs/2603.03857v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-05/DeepScan_A_Training-Free_Framework_for_Visually_Gr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Humans can robustly localize visual evidence and provide grounded answers even in noisy environments by identifying critical cues and then relating them to the full context in a bottom-up manner. Inspired by this, we propose DeepScan, a training-free framework that combines Hierarchical Scanning, Re...
+
+#### [When and Where to Reset Matters for Long-Term Test-Time Adaptation](http://arxiv.org/abs/2603.03796v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-05/When_and_Where_to_Reset_Matters_for_Long-Term_Test.pdf)
+- **领域**: cs.LG
+- **核心摘要**: When continual test-time adaptation (TTA) persists over the long term, errors accumulate in the model and further cause it to predict only a few classes for all inputs, a phenomenon known as model collapse. Recent studies have explored reset strategies that completely erase these accumulated errors....
+
+#### [Logit-Level Uncertainty Quantification in Vision-Language Models for Histopathology Image Analysis](http://arxiv.org/abs/2603.03527v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-05/Logit-Level_Uncertainty_Quantification_in_Vision-L.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Vision-Language Models (VLMs) with their multimodal capabilities have demonstrated remarkable success in almost all domains, including education, transportation, healthcare, energy, finance, law, and retail. Nevertheless, the utilization of VLMs in healthcare applications raises crucial concerns due...
+
+#### [Test-Time Meta-Adaptation with Self-Synthesis](http://arxiv.org/abs/2603.03524v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-05/Test-Time_Meta-Adaptation_with_Self-Synthesis.pdf)
+- **领域**: cs.LG
+- **核心摘要**: As strong general reasoners, large language models (LLMs) encounter diverse domains and tasks, where the ability to adapt and self-improve at test time is valuable. We introduce MASS, a meta-learning framework that enables LLMs to self-adapt by generating problem-specific synthetic training data and...
+
+#### [Utonia: Toward One Encoder for All Point Clouds](http://arxiv.org/abs/2603.03283v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-05/Utonia_Toward_One_Encoder_for_All_Point_Clouds.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We dream of a future where point clouds from all domains can come together to shape a single model that benefits them all. Toward this goal, we present Utonia, a first step toward training a single self-supervised point transformer encoder across diverse domains, spanning remote sensing, outdoor LiD...
+
