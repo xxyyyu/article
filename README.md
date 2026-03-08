@@ -538,3 +538,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Hallucination has been a significant impediment to the development and application of current Large Vision-Language Models (LVLMs). To mitigate hallucinations, one intuitive and effective way is to directly increase attention weights to image tokens during inference. Although this effectively reduce...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-08
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [HALP: Detecting Hallucinations in Vision-Language Models without Generating a Single Token](http://arxiv.org/abs/2603.05465v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-08/HALP_Detecting_Hallucinations_in_Vision-Language_M.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Hallucinations remain a persistent challenge for vision-language models (VLMs), which often describe nonexistent objects or fabricate facts. Existing detection methods typically operate after text generation, making intervention both costly and untimely. We investigate whether hallucination risk can...
+
+#### [ORMOT: A Dataset and Framework for Omnidirectional Referring Multi-Object Tracking](http://arxiv.org/abs/2603.05384v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-08/ORMOT_A_Dataset_and_Framework_for_Omnidirectional_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multi-Object Tracking (MOT) is a fundamental task in computer vision, aiming to track targets across video frames. Existing MOT methods perform well in general visual scenes, but face significant challenges and limitations when extended to visual-language settings. To bridge this gap, the task of Re...
+
+#### [DiSCTT: Consensus-Guided Self-Curriculum for Efficient Test-Time Adaptation in Reasoning](http://arxiv.org/abs/2603.05357v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-08/DiSCTT_Consensus-Guided_Self-Curriculum_for_Effici.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Test-time adaptation offers a promising avenue for improving reasoning performance in large language models without additional supervision, but existing approaches often apply a uniform optimization objective across all inputs, leading to inefficient or unstable adaptation on heterogeneous reasoning...
+
+#### [Boosting ASR Robustness via Test-Time Reinforcement Learning with Audio-Text Semantic Rewards](http://arxiv.org/abs/2603.05231v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-08/Boosting_ASR_Robustness_via_Test-Time_Reinforcemen.pdf)
+- **领域**: cs.SD
+- **核心摘要**: Recently, Automatic Speech Recognition (ASR) systems (e.g., Whisper) have achieved remarkable accuracy improvements but remain highly sensitive to real-world unseen data (data with large distribution shifts), including noisy environments and diverse accents. To address this issue, test-time adaptati...
+
+#### [Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation](http://arxiv.org/abs/2603.05185v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-08/Critic_in_the_Loop_A_Tri-System_VLA_Framework_for_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Balancing high-level semantic reasoning with low-level reactive control remains a core challenge in visual robotic manipulation. While Vision-Language Models (VLMs) excel at cognitive planning, their inference latency precludes real-time execution. Conversely, fast Vision-Language-Action (VLA) model...
+
+#### [Logi-PAR: Logic-Infused Patient Activity Recognition via Differentiable Rule](http://arxiv.org/abs/2603.05184v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-08/Logi-PAR_Logic-Infused_Patient_Activity_Recognitio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Patient Activity Recognition (PAR) in clinical settings uses activity data to improve safety and quality of care. Although significant progress has been made, current models mainly identify which activity is occurring. They often spatially compose sub-sparse visual cues using global and local attent...
+
+#### [Mario: Multimodal Graph Reasoning with Large Language Models](http://arxiv.org/abs/2603.05181v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-08/Mario_Multimodal_Graph_Reasoning_with_Large_Langua.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in large language models (LLMs) have opened new avenues for multimodal reasoning. Yet, most existing methods still rely on pretrained vision-language models (VLMs) to encode image-text pairs in isolation, ignoring the relational structure that real-world multimodal data naturally for...
+
+#### [Exploiting Intermediate Reconstructions in Optical Coherence Tomography for Test-Time Adaption of Medical Image Segmentation](http://arxiv.org/abs/2603.05041v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-08/Exploiting_Intermediate_Reconstructions_in_Optical.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Primary health care frequently relies on low-cost imaging devices, which are commonly used for screening purposes. To ensure accurate diagnosis, these systems depend on advanced reconstruction algorithms designed to approximate the performance of high-quality counterparts. Such algorithms typically ...
+
+#### [Direct Contact-Tolerant Motion Planning With Vision Language Models](http://arxiv.org/abs/2603.05017v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-08/Direct_Contact-Tolerant_Motion_Planning_With_Visio.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Navigation in cluttered environments often requires robots to tolerate contact with movable or deformable objects to maintain efficiency. Existing contact-tolerant motion planning (CTMP) methods rely on indirect spatial representations (e.g., prebuilt map, obstacle set), resulting in inaccuracies an...
+
+#### [AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM](http://arxiv.org/abs/2603.04908v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-08/AdaIAT_Adaptively_Increasing_Attention_to_Generate.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Hallucination has been a significant impediment to the development and application of current Large Vision-Language Models (LVLMs). To mitigate hallucinations, one intuitive and effective way is to directly increase attention weights to image tokens during inference. Although this effectively reduce...
+
