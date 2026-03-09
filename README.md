@@ -593,3 +593,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Hallucination has been a significant impediment to the development and application of current Large Vision-Language Models (LVLMs). To mitigate hallucinations, one intuitive and effective way is to directly increase attention weights to image tokens during inference. Although this effectively reduce...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-09
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Multimodal Large Language Models as Image Classifiers](http://arxiv.org/abs/2603.06578v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-09/Multimodal_Large_Language_Models_as_Image_Classifi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multimodal Large Language Models (MLLM) classification performance depends critically on evaluation protocol and ground truth quality. Studies comparing MLLMs with supervised and vision-language models report conflicting conclusions, and we show these conflicts stem from protocols that either inflat...
+
+#### [SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning](http://arxiv.org/abs/2603.06570v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-09/SUREON_A_Benchmark_and_Vision-Language-Model_for_S.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Surgeons don't just see -- they interpret. When an expert observes a surgical scene, they understand not only what instrument is being used, but why it was chosen, what risk it poses, and what comes next. Current surgical AI cannot answer such questions, largely because training data that explicitly...
+
+#### [Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](http://arxiv.org/abs/2603.06569v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-09/Penguin-VL_Exploring_the_Efficiency_Limits_of_VLM_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision Language Model (VLM) development has largely relied on scaling model size, which hinders deployment on compute-constrained mobile and edge devices such as smartphones and robots. In this work, we explore the performance limits of compact (e.g., 2B and 8B) VLMs. We challenge the prevailing pra...
+
+#### [Do Foundation Models Know Geometry? Probing Frozen Features for Continuous Physical Measurement](http://arxiv.org/abs/2603.06459v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-09/Do_Foundation_Models_Know_Geometry_Probing_Frozen_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models encode continuous geometry that their text pathway fails to express: a 6,000-parameter linear probe extracts hand joint angles at 6.1 degrees MAE from frozen features, while the best text output achieves only 20.0 degrees -- a 3.3x bottleneck. LoRA fine-tuning (r=16, 2,000 ima...
+
+#### [OralGPT-Plus: Learning to Use Visual Tools via Reinforcement Learning for Panoramic X-ray Analysis](http://arxiv.org/abs/2603.06366v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-09/OralGPT-Plus_Learning_to_Use_Visual_Tools_via_Rein.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Panoramic dental radiographs require fine-grained spatial reasoning, bilateral symmetry understanding, and multi-step diagnostic verification, yet existing vision-language models operate under a static single-pass paradigm that limits their clinical reliability. In this paper, we introduce OralGPT-P...
+
+#### [K-MaT: Knowledge-Anchored Manifold Transport for Cross-Modal Prompt Learning in Medical Imaging](http://arxiv.org/abs/2603.06340v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-09/K-MaT_Knowledge-Anchored_Manifold_Transport_for_Cr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large-scale biomedical vision-language models (VLMs) adapted on high-end imaging (e.g., CT) often fail to transfer to frontline low-end modalities (e.g., radiography), collapsing into modality-specific shortcuts. We propose K-MaT (Knowledge-Anchored Manifold Transport), a prompt-learning framework t...
+
+#### [WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection](http://arxiv.org/abs/2603.06313v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-09/WMoE-CLIP_Wavelet-Enhanced_Mixture-of-Experts_Prom.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models have recently shown strong generalization in zero-shot anomaly detection (ZSAD), enabling the detection of unseen anomalies without task-specific supervision. However, existing approaches typically rely on fixed textual prompts, which struggle to capture complex semantics, and...
+
+#### [DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models](http://arxiv.org/abs/2603.06302v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-09/DEX-AR_A_Dynamic_Explainability_Method_for_Autoreg.pdf)
+- **领域**: cs.CV
+- **核心摘要**: As Vision-Language Models (VLMs) become increasingly sophisticated and widely used, it becomes more and more crucial to understand their decision-making process. Traditional explainability methods, designed for classification tasks, struggle with modern autoregressive VLMs due to their complex token...
+
+#### [HiPP-Prune: Hierarchical Preference-Conditioned Structured Pruning for Vision-Language Models](http://arxiv.org/abs/2603.06270v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-09/HiPP-Prune_Hierarchical_Preference-Conditioned_Str.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Pruning vision-language models (VLMs) for efficient deployment is challenging because compression can affect not only task utility but also visual grounding, often amplifying object hallucinations even at the same sparsity level. We present HiPP-Prune, a hierarchical preference-conditioned structure...
+
+#### [GazeMoE: Perception of Gaze Target with Mixture-of-Experts](http://arxiv.org/abs/2603.06256v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-09/GazeMoE_Perception_of_Gaze_Target_with_Mixture-of-.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Estimating human gaze target from visible images is a critical task for robots to understand human attention, yet the development of generalizable neural architectures and training paradigms remains challenging. While recent advances in pre-trained vision foundation models offer promising avenues fo...
+
