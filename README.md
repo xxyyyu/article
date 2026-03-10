@@ -648,3 +648,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Estimating human gaze target from visible images is a critical task for robots to understand human attention, yet the development of generalizable neural architectures and training paradigms remains challenging. While recent advances in pre-trained vision foundation models offer promising avenues fo...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-10
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models](http://arxiv.org/abs/2603.08708v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-10/FVG-PT_Adaptive_Foreground_View-Guided_Prompt_Tuni.pdf)
+- **领域**: cs.CV
+- **核心摘要**: CLIP-based prompt tuning enables pretrained Vision-Language Models (VLMs) to efficiently adapt to downstream tasks. Although existing studies have made significant progress, they pay limited attention to changes in the internal attention representations of VLMs during the tuning process. In this pap...
+
+#### [Exp-Force: Experience-Conditioned Pre-Grasp Force Selection with Vision-Language Models](http://arxiv.org/abs/2603.08668v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-10/Exp-Force_Experience-Conditioned_Pre-Grasp_Force_S.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Accurate pre-contact grasp force selection is critical for safe and reliable robotic manipulation. Adaptive controllers regulate force after contact but still require a reasonable initial estimate. Starting a grasp with too little force requires reactive adjustment, while starting a grasp with too h...
+
+#### [Drift-to-Action Controllers: Budgeted Interventions with Online Risk Certificates](http://arxiv.org/abs/2603.08578v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-10/Drift-to-Action_Controllers_Budgeted_Interventions.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Deployed machine learning systems face distribution drift, yet most monitoring pipelines stop at alarms and leave the response underspecified under labeling, compute, and latency constraints. We introduce Drift2Act, a drift-to-action controller that treats monitoring as constrained decision-making w...
+
+#### [MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation](http://arxiv.org/abs/2603.08572v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-10/MetaWorld-X_Hierarchical_World_Modeling_via_VLM-Or.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Learning natural, stable, and compositionally generalizable whole-body control policies for humanoid robots performing simultaneous locomotion and manipulation (loco-manipulation) remains a fundamental challenge in robotics. Existing reinforcement learning approaches typically rely on a single monol...
+
+#### [RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback](http://arxiv.org/abs/2603.08561v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-10/RetroAgent_From_Solving_to_Evolving_via_Retrospect.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Large language model (LLM)-based agents trained with reinforcement learning (RL) have shown strong potential on complex interactive tasks. However, standard RL paradigms favor static problem-solving over continuous adaptation: agents often converge to suboptimal strategies due to insufficient explor...
+
+#### [The Neural Compass: Probabilistic Relative Feature Fields for Robotic Search](http://arxiv.org/abs/2603.08544v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-10/The_Neural_Compass_Probabilistic_Relative_Feature_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Object co-occurrences provide a key cue for finding objects successfully and efficiently in unfamiliar environments. Typically, one looks for cups in kitchens and views fridges as evidence of being in a kitchen. Such priors have also been exploited in artificial agents, but they are typically learne...
+
+#### [Reading $\neq$ Seeing: Diagnosing and Closing the Typography Gap in Vision-Language Models](http://arxiv.org/abs/2603.08497v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-10/Reading_neq_Seeing_Diagnosing_and_Closing_the_Typo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models achieve near-perfect accuracy at reading text in images, yet prove largely typography-blind: capable of recognizing what text says, but not how it looks. We systematically investigate this gap by evaluating font family, size, style, and color recognition across 26 fonts, four ...
+
+#### [Global Cross-Modal Geo-Localization: A Million-Scale Dataset and a Physical Consistency Learning Framework](http://arxiv.org/abs/2603.08491v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-10/Global_Cross-Modal_Geo-Localization_A_Million-Scal.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Cross-modal Geo-localization (CMGL) matches ground-level text descriptions with geo-tagged aerial imagery, which is crucial for pedestrian navigation and emergency response. However, existing researches are constrained by narrow geographic coverage and simplistic scene diversity, failing to reflect ...
+
+#### [Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images](http://arxiv.org/abs/2603.08486v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-10/Visual_Self-Fulfilling_Alignment_Shaping_Safety-Or.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multimodal large language models (MLLMs) face safety misalignment, where visual inputs enable harmful outputs. To address this, existing methods require explicit safety labels or contrastive data; yet, threat-related concepts are concrete and visually depictable, while safety concepts, like helpfuln...
+
+#### [R2F: Repurposing Ray Frontiers for LLM-free Object Navigation](http://arxiv.org/abs/2603.08475v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-10/R2F_Repurposing_Ray_Frontiers_for_LLM-free_Object_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Zero-shot open-vocabulary object navigation has progressed rapidly with the emergence of large Vision-Language Models (VLMs) and Large Language Models (LLMs), now widely used as high-level decision-makers instead of end-to-end policies. Although effective, such systems often rely on iterative large-...
+
