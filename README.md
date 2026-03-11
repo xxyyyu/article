@@ -703,3 +703,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Zero-shot open-vocabulary object navigation has progressed rapidly with the emergence of large Vision-Language Models (VLMs) and Large Language Models (LLMs), now widely used as high-level decision-makers instead of end-to-end policies. Although effective, such systems often rely on iterative large-...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-11
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion](http://arxiv.org/abs/2603.09961v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-11/BEACON_Language-Conditioned_Navigation_Affordance_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Language-conditioned local navigation requires a robot to infer a nearby traversable target location from its current observation and an open-vocabulary, relational instruction. Existing vision-language spatial grounding methods usually rely on vision-language models (VLMs) to reason in image space,...
+
+#### [MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems](http://arxiv.org/abs/2603.09909v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-11/MedMASLab_A_Unified_Orchestration_Framework_for_Be.pdf)
+- **领域**: cs.AI
+- **核心摘要**: While Multi-Agent Systems (MAS) show potential for complex clinical decision support, the field remains hindered by architectural fragmentation and the lack of standardized multimodal integration. Current medical MAS research suffers from non-uniform data ingestion pipelines, inconsistent visual-rea...
+
+#### [Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports](http://arxiv.org/abs/2603.09896v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-11/Stepping_VLMs_onto_the_Court_Benchmarking_Spatial_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Sports have long attracted broad attention as they push the limits of human physical and cognitive capabilities. Amid growing interest in spatial intelligence for vision-language models (VLMs), sports provide a natural testbed for understanding high-intensity human motion and dynamic object interact...
+
+#### [VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](http://arxiv.org/abs/2603.09826v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-11/VLM-Loc_Localization_in_Point_Cloud_Maps_via_Visio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Text-to-point-cloud (T2P) localization aims to infer precise spatial positions within 3D point cloud maps from natural language descriptions, reflecting how humans perceive and communicate spatial layouts through language. However, existing methods largely rely on shallow text-point cloud correspond...
+
+#### [Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency](http://arxiv.org/abs/2603.09798v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-11/Test-time_Ego-Exo-centric_Adaptation_for_Action_An.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Efficient adaptation between Egocentric (Ego) and Exocentric (Exo) views is crucial for applications such as human-robot cooperation. However, the success of most existing Ego-Exo adaptation methods relies heavily on target-view data for training, thereby increasing computational and data collection...
+
+#### [Ego: Embedding-Guided Personalization of Vision-Language Models](http://arxiv.org/abs/2603.09771v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-11/Ego_Embedding-Guided_Personalization_of_Vision-Lan.pdf)
+- **领域**: cs.CV
+- **核心摘要**: AI assistants that support humans in daily life are becoming increasingly feasible, driven by the rapid advancements in multimodal language models. A key challenge lies in overcoming the generic nature of these models to deliver personalized experiences. Existing approaches to personalizing large vi...
+
+#### [LAP: A Language-Aware Planning Model For Procedure Planning In Instructional Videos](http://arxiv.org/abs/2603.09743v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-11/LAP_A_Language-Aware_Planning_Model_For_Procedure_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Procedure planning requires a model to predict a sequence of actions that transform a start visual observation into a goal in instructional videos. While most existing methods rely primarily on visual observations as input, they often struggle with the inherent ambiguity where different actions can ...
+
+#### [Finetuning a Text-to-Audio Model for Room Impulse Response Generation](http://arxiv.org/abs/2603.09708v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-11/Finetuning_a_Text-to-Audio_Model_for_Room_Impulse_.pdf)
+- **领域**: eess.AS
+- **核心摘要**: Room Impulse Responses (RIRs) enable realistic acoustic simulation, with applications ranging from multimedia production to speech data augmentation. However, acquiring high-quality real-world RIRs is labor-intensive, and data scarcity remains a challenge for data-driven RIR generation approaches. I...
+
+#### [PRECEPT: Planning Resilience via Experience, Context Engineering & Probing Trajectories A Unified Framework for Test-Time Adaptation with Compositional Rule Learning and Pareto-Guided Prompt Evolution](http://arxiv.org/abs/2603.09641v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-11/PRECEPT_Planning_Resilience_via_Experience_Context.pdf)
+- **领域**: cs.AI
+- **核心摘要**: LLM agents that store knowledge as natural language suffer steep retrieval degradation as condition count grows, often struggle to compose learned rules reliably, and typically lack explicit mechanisms to detect stale or adversarial knowledge. We introduce PRECEPT, a unified framework for test-time ...
+
+#### [X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models](http://arxiv.org/abs/2603.09632v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-11/X-GS_An_Extensible_Open_Framework_Unifying_3DGS_Ar.pdf)
+- **领域**: cs.CV
+- **核心摘要**: 3D Gaussian Splatting (3DGS) has emerged as a powerful technique for novel view synthesis, subsequently extending into numerous spatial AI applications. However, most existing 3DGS methods are isolated, focusing on specific domains such as online SLAM, semantic enrichment, or 3DGS for unposed images...
+
