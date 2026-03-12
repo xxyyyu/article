@@ -758,3 +758,58 @@
 - **领域**: cs.CV
 - **核心摘要**: 3D Gaussian Splatting (3DGS) has emerged as a powerful technique for novel view synthesis, subsequently extending into numerous spatial AI applications. However, most existing 3DGS methods are isolated, focusing on specific domains such as online SLAM, semantic enrichment, or 3DGS for unposed images...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-12
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style](http://arxiv.org/abs/2603.11024v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-12/Does_AI_See_like_Art_Historians_Interpreting_How_V.pdf)
+- **领域**: cs.CV
+- **核心摘要**: VLMs have become increasingly proficient at a range of computer vision tasks, such as visual question answering and object detection. This includes increasingly strong capabilities in the domain of art, from analyzing artwork to generation of art. In an interdisciplinary collaboration between comput...
+
+#### [GroundCount: Grounding Vision-Language Models with Object Detection for Mitigating Counting Hallucinations](http://arxiv.org/abs/2603.10978v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-12/GroundCount_Grounding_Vision-Language_Models_with_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision Language Models (VLMs) exhibit persistent hallucinations in counting tasks, with accuracy substantially lower than other visual reasoning tasks (excluding sentiment). This phenomenon persists even in state-of-the-art reasoning-capable VLMs. Conversely, CNN-based object detection models (ODMs)...
+
+#### [From Images to Words: Efficient Cross-Modal Knowledge Distillation to Language Models from Black-box Teachers](http://arxiv.org/abs/2603.10877v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-12/From_Images_to_Words_Efficient_Cross-Modal_Knowled.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Knowledge distillation (KD) methods are pivotal in compressing large pre-trained language models into smaller models, ensuring computational efficiency without significantly dropping performance. Traditional KD techniques assume homogeneity in modalities between the teacher (source) and the student ...
+
+#### [HanMoVLM: Large Vision-Language Models for Professional Artistic Painting Evaluation](http://arxiv.org/abs/2603.10814v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-12/HanMoVLM_Large_Vision-Language_Models_for_Professi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While Large Vision-Language Models (VLMs) demonstrate impressive general visual capabilities, they remain artistically blind and unable to offer professional evaluation of artworks within specific artistic domains like human experts. To bridge this gap, we transform VLMs into experts capable of prof...
+
+#### [Taking Shortcuts for Categorical VQA Using Super Neurons](http://arxiv.org/abs/2603.10781v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-12/Taking_Shortcuts_for_Categorical_VQA_Using_Super_N.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Sparse Attention Vectors (SAVs) have emerged as an excellent training-free alternative to supervised finetuning or low-rank adaptation to improve the performance of Vision Language Models (VLMs). At their heart, SAVs select a few accurate attention heads for a task of interest and use them as classi...
+
+#### [WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation](http://arxiv.org/abs/2603.10703v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-12/WalkGPT_Grounded_Vision-Language_Conversation_with.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Ensuring accessible pedestrian navigation requires reasoning about both semantic and spatial aspects of complex urban scenes, a challenge that existing Large Vision-Language Models (LVLMs) struggle to meet. Although these models can describe visual content, their lack of explicit grounding leads to ...
+
+#### [OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency](http://arxiv.org/abs/2603.10682v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-12/OnFly_Onboard_Zero-Shot_Aerial_Vision-Language_Nav.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Aerial vision-language navigation (AVLN) enables UAVs to follow natural-language instructions in complex 3D environments. However, existing zero-shot AVLN methods often suffer from unstable single-stream Vision-Language Model decision-making, unreliable long-horizon progress monitoring, and a trade-...
+
+#### [Are Video Reasoning Models Ready to Go Outside?](http://arxiv.org/abs/2603.10652v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-12/Are_Video_Reasoning_Models_Ready_to_Go_Outside.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In real-world deployment, vision-language models often encounter disturbances such as weather, occlusion, and camera motion. Under such conditions, their understanding and reasoning degrade substantially, revealing a gap between clean, controlled (i.e., unperturbed) evaluation settings and real-worl...
+
+#### [AdaClearGrasp: Learning Adaptive Clearing for Zero-Shot Robust Dexterous Grasping in Densely Cluttered Environments](http://arxiv.org/abs/2603.10616v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-12/AdaClearGrasp_Learning_Adaptive_Clearing_for_Zero-.pdf)
+- **领域**: cs.RO
+- **核心摘要**: In densely cluttered environments, physical interference, visual occlusions, and unstable contacts often cause direct dexterous grasping to fail, while aggressive singulation strategies may compromise safety. Enabling robots to adaptively decide whether to clear surrounding objects or directly grasp...
+
+#### [R4-CGQA: Retrieval-based Vision Language Models for Computer Graphics Image Quality Assessment](http://arxiv.org/abs/2603.10578v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-12/R4-CGQA_Retrieval-based_Vision_Language_Models_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Immersive Computer Graphics (CGs) rendering has become ubiquitous in modern daily life. However, comprehensively evaluating CG quality remains challenging for two reasons: First, existing CG datasets lack systematic descriptions of rendering quality; and second existing CG quality assessment methods...
+
