@@ -813,3 +813,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Immersive Computer Graphics (CGs) rendering has become ubiquitous in modern daily life. However, comprehensively evaluating CG quality remains challenging for two reasons: First, existing CG datasets lack systematic descriptions of rendering quality; and second existing CG quality assessment methods...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-13
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation](http://arxiv.org/abs/2603.12238v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-13/SceneAssistant_A_Visual_Feedback_Agent_for_Open-Vo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Text-to-3D scene generation from natural language is highly desirable for digital content creation. However, existing methods are largely domain-restricted or reliant on predefined spatial relationships, limiting their capacity for unconstrained, open-vocabulary 3D scene synthesis. In this paper, we...
+
+#### [ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models](http://arxiv.org/abs/2603.12208v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-13/ForensicZip_More_Tokens_are_Better_but_Not_Necessa.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multimodal Large Language Models (MLLMs) enable interpretable multimedia forensics by generating textual rationales for forgery detection. However, processing dense visual sequences incurs high computational costs, particularly for high-resolution images and videos. Visual token pruning is a practic...
+
+#### [BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning](http://arxiv.org/abs/2603.12176v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-13/BehaviorVLM_Unified_Finetuning-Free_Behavioral_Und.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Understanding freely moving animal behavior is central to neuroscience, where pose estimation and behavioral understanding form the foundation for linking neural activity to natural actions. Yet both tasks still depend heavily on human annotation or unstable unsupervised pipelines, limiting scalabil...
+
+#### [HATS: Hardness-Aware Trajectory Synthesis for GUI Agents](http://arxiv.org/abs/2603.12138v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-13/HATS_Hardness-Aware_Trajectory_Synthesis_for_GUI_A.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Graphical user interface (GUI) agents powered by large vision-language models (VLMs) have shown remarkable potential in automating digital tasks, highlighting the need for high-quality trajectory data to support effective agent training. Yet existing trajectory synthesis pipelines often yield agents...
+
+#### [EmbTracker: Traceable Black-box Watermarking for Federated Language Models](http://arxiv.org/abs/2603.12089v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-13/EmbTracker_Traceable_Black-box_Watermarking_for_Fe.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Federated Language Model (FedLM) allows a collaborative learning without sharing raw data, yet it introduces a critical vulnerability, as every untrustworthy client may leak the received functional model instance. Current watermarking schemes for FedLM often require white-box access and client-side ...
+
+#### [Paper Title: LoV3D: Grounding Cognitive Prognosis Reasoning in Longitudinal 3D Brain MRI via Regional Volume Assessments](http://arxiv.org/abs/2603.12071v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-13/Paper_Title_LoV3D_Grounding_Cognitive_Prognosis_Re.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Longitudinal brain MRI is essential for characterizing the progression of neurological diseases such as Alzheimer's disease assessment. However, current deep-learning tools fragment this process: classifiers reduce a scan to a label, volumetric pipelines produce uninterpreted measurements, and visio...
+
+#### [Continual Learning with Vision-Language Models via Semantic-Geometry Preservation](http://arxiv.org/abs/2603.12055v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-13/Continual_Learning_with_Vision-Language_Models_via.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Continual learning of pretrained vision-language models (VLMs) is prone to catastrophic forgetting, yet current approaches adapt to new tasks without explicitly preserving the cross-modal semantic geometry inherited from pretraining and previous stages, allowing new-task supervision to induce geomet...
+
+#### [HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios](http://arxiv.org/abs/2603.11975v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-13/HomeSafe-Bench_Evaluating_Vision-Language_Models_o.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The rapid evolution of embodied agents has accelerated the deployment of household robots in real-world environments. However, unlike structured industrial settings, household spaces introduce unpredictable safety risks, where system limitations such as perception latency and lack of common sense kn...
+
+#### [RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset](http://arxiv.org/abs/2603.11811v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-13/RADAR_Closed-Loop_Robotic_Data_Generation_via_Sema.pdf)
+- **领域**: cs.RO
+- **核心摘要**: The acquisition of large-scale physical interaction data, a critical prerequisite for modern robot learning, is severely bottlenecked by the prohibitive cost and scalability limits of human-in-the-loop collection paradigms. To break this barrier, we introduce Robust Autonomous Data Acquisition for R...
+
+#### [OSM-based Domain Adaptation for Remote Sensing VLMs](http://arxiv.org/abs/2603.11804v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-13/OSM-based_Domain_Adaptation_for_Remote_Sensing_VLM.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) adapted to remote sensing rely heavily on domain-specific image-text supervision, yet high-quality annotations for satellite and aerial imagery remain scarce and expensive to produce. Prevailing pseudo-labeling pipelines address this gap by distilling knowledge from lar...
+
