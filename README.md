@@ -923,3 +923,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Vision-Language Models (VLMs) adapted to remote sensing rely heavily on domain-specific image-text supervision, yet high-quality annotations for satellite and aerial imagery remain scarce and expensive to produce. Prevailing pseudo-labeling pipelines address this gap by distilling knowledge from lar...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-16
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Visual-ERM: Reward Modeling for Visual Equivalence](http://arxiv.org/abs/2603.13224v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-16/Visual-ERM_Reward_Modeling_for_Visual_Equivalence.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-to-code tasks require models to reconstruct structured visual inputs, such as charts, tables, and SVGs, into executable or structured representations with high visual fidelity. While recent Large Vision Language Models (LVLMs) achieve strong results via supervised fine-tuning, reinforcement l...
+
+#### [Navig-AI-tion: Navigation by Contextual AI and Spatial Audio](http://arxiv.org/abs/2603.13200v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-16/Navig-AI-tion_Navigation_by_Contextual_AI_and_Spat.pdf)
+- **领域**: cs.HC
+- **核心摘要**: Audio-only walking navigation can leave users disoriented, relying on vague cardinal directions and lacking real-time environmental context, leading to frequent errors. To address this, we present a novel system that integrates a Vision Language Model (VLM) with a spatial audio cue. Our system extra...
+
+#### [Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos](http://arxiv.org/abs/2603.13185v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-16/Towards_Spatio-Temporal_World_Scene_Graph_Generati.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Spatio-temporal scene graphs provide a principled representation for modeling evolving object interactions, yet existing methods remain fundamentally frame-centric: they reason only about currently visible objects, discard entities upon occlusion, and operate in 2D. To address this, we first introdu...
+
+#### [Geometry-Guided Camera Motion Understanding in VideoLLMs](http://arxiv.org/abs/2603.13119v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-16/Geometry-Guided_Camera_Motion_Understanding_in_Vid.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Camera motion is a fundamental geometric signal that shapes visual perception and cinematic style, yet current video-capable vision-language models (VideoLLMs) rarely represent it explicitly and often fail on fine-grained motion primitives. We address this gap with a framework of $\textbf{benchmarki...
+
+#### [Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences](http://arxiv.org/abs/2603.13100v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-16/Evaluating_VLMs_Spatial_Reasoning_Over_Robot_Motio.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Understanding user instructions and object spatial relations in surrounding environments is crucial for intelligent robot systems to assist humans in various tasks. The natural language and spatial reasoning capabilities of Vision-Language Models (VLMs) have the potential to enhance the generalizati...
+
+#### [Topo-R1: Detecting Topological Anomalies via Vision-Language Models](http://arxiv.org/abs/2603.13054v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-16/Topo-R1_Detecting_Topological_Anomalies_via_Vision.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Topological correctness is crucial for tubular structures such as blood vessels, nerve fibers, and road networks. Existing topology-preserving methods rely on domain-specific ground truth, which is costly and rarely transfers across domains. When deployed to a new domain without annotations, a key q...
+
+#### [ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models](http://arxiv.org/abs/2603.13033v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-16/ESPIRE_A_Diagnostic_Benchmark_for_Embodied_Spatial.pdf)
+- **领域**: cs.CV
+- **核心摘要**: A recent trend in vision-language models (VLMs) has been to enhance their spatial cognition for embodied domains. Despite progress, existing evaluations have been limited both in paradigm and in coverage, hindering rapid, iterative model development. To address these limitations, we propose ESPIRE, ...
+
+#### [A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks](http://arxiv.org/abs/2603.12998v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-16/A_Closed-Form_Solution_for_Debiasing_Vision-Langua.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While Vision-Language Models (VLMs) have achieved remarkable performance across diverse downstream tasks, recent studies have shown that they can inherit social biases from the training data and further propagate them into downstream applications. To address this issue, various debiasing approaches ...
+
+#### [Test-Time Attention Purification for Backdoored Large Vision Language Models](http://arxiv.org/abs/2603.12989v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-16/Test-Time_Attention_Purification_for_Backdoored_La.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite the strong multimodal performance, large vision-language models (LVLMs) are vulnerable during fine-tuning to backdoor attacks, where adversaries insert trigger-embedded samples into the training data to implant behaviors that can be maliciously activated at test time. Existing defenses typic...
+
+#### [RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics](http://arxiv.org/abs/2603.12939v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-16/RoboStream_Weaving_Spatio-Temporal_Reasoning_with_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Enabling reliable long-horizon robotic manipulation is a crucial step toward open-world embodied intelligence. However, VLM-based planners treat each step as an isolated observation-to-action mapping, forcing them to reinfer scene geometry from raw pixels at every decision point while remaining unaw...
+
