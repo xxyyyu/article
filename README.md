@@ -978,3 +978,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Enabling reliable long-horizon robotic manipulation is a crucial step toward open-world embodied intelligence. However, VLM-based planners treat each step as an isolated observation-to-action mapping, forcing them to reinfer scene geometry from raw pixels at every decision point while remaining unaw...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-18
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation](http://arxiv.org/abs/2603.16861v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-18/MolmoB0T_Large-Scale_Simulation_Enables_Zero-Shot_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: A prevailing view in robot learning is that simulation alone is not enough; effective sim-to-real transfer is widely believed to require at least some real-world data collection or task-specific fine-tuning to bridge the gap between simulated and physical environments. We challenge that assumption. ...
+
+#### [DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models](http://arxiv.org/abs/2603.16860v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-18/DreamPlan_Efficient_Reinforcement_Fine-Tuning_of_V.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Robotic manipulation requires sophisticated commonsense reasoning, a capability naturally possessed by large-scale Vision-Language Models (VLMs). While VLMs show promise as zero-shot planners, their lack of grounded physical understanding often leads to compounding errors and low success rates when ...
+
+#### [IOSVLM: A 3D Vision-Language Model for Unified Dental Diagnosis from Intraoral Scans](http://arxiv.org/abs/2603.16781v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-18/IOSVLM_A_3D_Vision-Language_Model_for_Unified_Dent.pdf)
+- **领域**: cs.CV
+- **核心摘要**: 3D intraoral scans (IOS) are increasingly adopted in routine dentistry due to abundant geometric evidence, and unified multi-disease diagnosis is desirable for clinical documentation and communication. While recent works introduce dental vision-language models (VLMs) to enable unified diagnosis and ...
+
+#### [Retrieving Counterfactuals Improves Visual In-Context Learning](http://arxiv.org/abs/2603.16737v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-18/Retrieving_Counterfactuals_Improves_Visual_In-Cont.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have achieved impressive performance across a wide range of multimodal reasoning tasks, but they often struggle to disentangle fine-grained visual attributes and reason about underlying causal relationships. In-context learning (ICL) offers a promising avenue for VLMs t...
+
+#### [The Cost of Reasoning: Chain-of-Thought Induces Overconfidence in Vision-Language Models](http://arxiv.org/abs/2603.16728v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-18/The_Cost_of_Reasoning_Chain-of-Thought_Induces_Ove.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Vision-language models (VLMs) are increasingly deployed in high-stakes settings where reliable uncertainty quantification (UQ) is as important as predictive accuracy. Extended reasoning via chain-of-thought (CoT) prompting or reasoning-trained models has become ubiquitous in modern VLM pipelines, ye...
+
+#### [Kestrel: Grounding Self-Refinement for LVLM Hallucination Mitigation](http://arxiv.org/abs/2603.16664v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-18/Kestrel_Grounding_Self-Refinement_for_LVLM_Halluci.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) have become increasingly strong but remain prone to hallucinations in multimodal tasks, which significantly narrows their deployment. As training these LVLMs to avoid hallucinations becomes prohibitively expensive for larger models, training-free methods offer a ...
+
+#### [HeBA: Heterogeneous Bottleneck Adapters for Robust Vision-Language Models](http://arxiv.org/abs/2603.16653v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-18/HeBA_Heterogeneous_Bottleneck_Adapters_for_Robust_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Adapting large-scale Vision-Language Models (VLMs) like CLIP to downstream tasks often suffers from a "one-size-fits-all" architectural approach, where visual and textual tokens are processed uniformly by wide, generic adapters. We argue that this homogeneity ignores the distinct structural nature o...
+
+#### [FlowComposer: Composable Flows for Compositional Zero-Shot Learning](http://arxiv.org/abs/2603.16641v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-18/FlowComposer_Composable_Flows_for_Compositional_Ze.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Compositional zero-shot learning (CZSL) aims to recognize unseen attribute-object compositions by recombining primitives learned from seen pairs. Recent CZSL methods built on vision-language models (VLMs) typically adopt parameter-efficient fine-tuning (PEFT). They apply visual disentanglers for dec...
+
+#### [Rationale Matters: Learning Transferable Rubrics via Proxy-Guided Critique for VLMReward Models](http://arxiv.org/abs/2603.16600v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-18/Rationale_Matters_Learning_Transferable_Rubrics_vi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Generative reward models (GRMs) for vision-language models (VLMs) often evaluate outputs via a three-stage pipeline: rubric generation, criterion-based scoring, and a final verdict. However, the intermediate rubric is rarely optimized directly. Prior work typically either treats rubrics as incidenta...
+
+#### [V-DyKnow: A Dynamic Benchmark for Time-Sensitive Knowledge in Vision Language Models](http://arxiv.org/abs/2603.16581v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-18/V-DyKnow_A_Dynamic_Benchmark_for_Time-Sensitive_Kn.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-Language Models (VLMs) are trained on data snapshots of documents, including images and texts. Their training data and evaluation benchmarks are typically static, implicitly treating factual knowledge as time-invariant. However, real-world facts are intrinsically time-sensitive and subject to...
+
