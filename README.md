@@ -1033,3 +1033,58 @@
 - **领域**: cs.AI
 - **核心摘要**: Vision-Language Models (VLMs) are trained on data snapshots of documents, including images and texts. Their training data and evaluation benchmarks are typically static, implicitly treating factual knowledge as time-invariant. However, real-world facts are intrinsically time-sensitive and subject to...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-19
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](http://arxiv.org/abs/2603.18004v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-19/Unified_Spatio-Temporal_Token_Scoring_for_Efficien.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typically prune tokens either (1) within the vision transformer (ViT) exclusively for unimodal perceptio...
+
+#### [Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models](http://arxiv.org/abs/2603.18002v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-19/Loc3R-VLM_Language-based_Localization_and_3D_Reaso.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multimodal Large Language Models (MLLMs) have made impressive progress in connecting vision and language, but they still struggle with spatial understanding and viewpoint-aware reasoning. Recent efforts aim to augment the input representations with geometric cues rather than explicitly teaching mode...
+
+#### [ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models](http://arxiv.org/abs/2603.17850v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-19/ProbeFlow_Training-Free_Adaptive_Flow_Matching_for.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Recent Vision-Language-Action (VLA) models equipped with Flow Matching (FM) action heads achieve state-of-the-art performance in complex robot manipulation. However, the multi-step iterative ODE solving required by FM introduces inference latency that precludes responsive physical control. While cur...
+
+#### [Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients](http://arxiv.org/abs/2603.17809v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-19/Fine-Grained_Post-Training_Quantization_for_Large_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision Language Models (LVLMs) have achieved remarkable success in a range of downstream tasks that require multimodal interaction, but their capabilities come with substantial computational and memory overhead, which hinders practical deployment. Among numerous acceleration techniques, post-t...
+
+#### [Evidence Packing for Cross-Domain Image Deepfake Detection with LVLMs](http://arxiv.org/abs/2603.17761v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-19/Evidence_Packing_for_Cross-Domain_Image_Deepfake_D.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Image Deepfake Detection (IDD) separates manipulated images from authentic ones by spotting artifacts of synthesis or tampering. Although large vision-language models (LVLMs) offer strong image understanding, adapting them to IDD often demands costly fine-tuning and generalizes poorly to diverse, ev...
+
+#### [SARE: Sample-wise Adaptive Reasoning for Training-free Fine-grained Visual Recognition](http://arxiv.org/abs/2603.17729v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-19/SARE_Sample-wise_Adaptive_Reasoning_for_Training-f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in Large Vision-Language Models (LVLMs) have enabled training-free Fine-Grained Visual Recognition (FGVR). However, effectively exploiting LVLMs for FGVR remains challenging due to the inherent visual ambiguity of subordinate-level categories. Existing methods predominantly adopt eit...
+
+#### [From Virtual Environments to Real-World Trials: Emerging Trends in Autonomous Driving](http://arxiv.org/abs/2603.17714v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-19/From_Virtual_Environments_to_Real-World_Trials_Eme.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Autonomous driving technologies have achieved significant advances in recent years, yet their real-world deployment remains constrained by data scarcity, safety requirements, and the need for generalization across diverse environments. In response, synthetic data and virtual environments have emerge...
+
+#### [Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos](http://arxiv.org/abs/2603.17693v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-19/Learning_Transferable_Temporal_Primitives_for_Vide.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The transition from image to video understanding requires vision-language models (VLMs) to shift from recognizing static patterns to reasoning over temporal dynamics such as motion trajectories, speed changes, and state transitions. Yet current post-training methods fall short due to two critical li...
+
+#### [WeatherReasonSeg: A Benchmark for Weather-Aware Reasoning Segmentation in Visual Language Models](http://arxiv.org/abs/2603.17680v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-19/WeatherReasonSeg_A_Benchmark_for_Weather-Aware_Rea.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing vision-language models (VLMs) have demonstrated impressive performance in reasoning-based segmentation. However, current benchmarks are primarily constructed from high-quality images captured under idealized conditions. This raises a critical question: when visual cues are severely degraded...
+
+#### [AgentVLN: Towards Agentic Vision-and-Language Navigation](http://arxiv.org/abs/2603.17670v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-19/AgentVLN_Towards_Agentic_Vision-and-Language_Navig.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-and-Language Navigation (VLN) requires an embodied agent to ground complex natural-language instructions into long-horizon navigation in unseen environments. While Vision-Language Models (VLMs) offer strong 2D semantic understanding, current VLN systems remain constrained by limited spatial p...
+
