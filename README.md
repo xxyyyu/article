@@ -1088,3 +1088,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Vision-and-Language Navigation (VLN) requires an embodied agent to ground complex natural-language instructions into long-horizon navigation in unseen environments. While Vision-Language Models (VLMs) offer strong 2D semantic understanding, current VLN systems remain constrained by limited spatial p...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-20
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders](http://arxiv.org/abs/2603.19209v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-20/Do_VLMs_Need_Vision_Transformers_Evaluating_State_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders are the standard visual backbone, we ask whether state space model (SSM) vision backbones can be a st...
+
+#### [Tinted Frames: Question Framing Blinds Vision-Language Models](http://arxiv.org/abs/2603.19203v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-20/Tinted_Frames_Question_Framing_Blinds_Vision-Langu.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have been shown to be blind, often underutilizing their visual inputs even on tasks that require visual reasoning. In this work, we demonstrate that VLMs are selectively blind. They modulate the amount of attention applied to visual inputs based on linguistic framing ev...
+
+#### [Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation](http://arxiv.org/abs/2603.19166v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-20/Meanings_and_Measurements_Multi-Agent_Probabilisti.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Robots collaborating with humans must convert natural language goals into actionable, physically grounded decisions. For example, executing a command such as "go two meters to the right of the fridge" requires grounding semantic references, spatial relations, and metric constraints within a 3D scene...
+
+#### [GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning](http://arxiv.org/abs/2603.19137v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-20/GSMem_3D_Gaussian_Splatting_as_Persistent_Spatial_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Effective embodied exploration requires agents to accumulate and retain spatial knowledge over time. However, existing scene representations, such as discrete scene graphs or static view-based snapshots, lack \textit{post-hoc re-observability}. If an initial observation misses a target, the resultin...
+
+#### [TAU-R1: Visual Language Model for Traffic Anomaly Understanding](http://arxiv.org/abs/2603.19098v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-20/TAU-R1_Visual_Language_Model_for_Traffic_Anomaly_U.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Traffic Anomaly Understanding (TAU) is important for traffic safety in Intelligent Transportation Systems. Recent vision-language models (VLMs) have shown strong capabilities in video understanding. However, progress on TAU remains limited due to the lack of benchmarks and task-specific methodologie...
+
+#### [SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues](http://arxiv.org/abs/2603.19092v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-20/SAVeS_Steering_Safety_Judgments_in_Vision-Language.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are increasingly deployed in real-world and embodied settings where safety decisions depend on visual context. However, it remains unclear which visual evidence drives these judgments. We study whether multimodal safety behavior in VLMs can be steered by simple semantic...
+
+#### [SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation](http://arxiv.org/abs/2603.19053v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-20/SwiftTailor_Efficient_3D_Garment_Generation_with_G.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Realistic and efficient 3D garment generation remains a longstanding challenge in computer vision and digital fashion. Existing methods typically rely on large vision- language models to produce serialized representations of 2D sewing patterns, which are then transformed into simulation-ready 3D mes...
+
+#### [TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation](http://arxiv.org/abs/2603.19039v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-20/TerraScope_Pixel-Grounded_Visual_Reasoning_for_Ear.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have shown promise in earth observation (EO), yet they struggle with tasks that require grounding complex spatial reasoning in precise pixel-level visual representations. To address this problem, we introduce TerraScope, a unified VLM that delivers pixel-grounded geospa...
+
+#### [SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models](http://arxiv.org/abs/2603.19028v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-20/SEM_Sparse_Embedding_Modulation_for_Post-Hoc_Debia.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Models that bridge vision and language, such as CLIP, are key components of multimodal AI, yet their large-scale, uncurated training data introduce severe social and spurious biases. Existing post-hoc debiasing methods often operate directly in the dense CLIP embedding space, where bias and task-rel...
+
+#### [MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction](http://arxiv.org/abs/2603.18988v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-20/MERGE_Guided_Vision-Language_Models_for_Multi-Acto.pdf)
+- **领域**: cs.RO
+- **核心摘要**: We introduce MERGE, a system for situational grounding of actors, objects, and events in dynamic human-robot group interactions. Effective collaboration in such settings requires consistent situational awareness, built on persistent representations of people and objects and an episodic abstraction o...
+
