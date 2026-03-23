@@ -1198,3 +1198,58 @@
 - **领域**: cs.RO
 - **核心摘要**: We introduce MERGE, a system for situational grounding of actors, objects, and events in dynamic human-robot group interactions. Effective collaboration in such settings requires consistent situational awareness, built on persistent representations of people and objects and an episodic abstraction o...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-23
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Adaptive Greedy Frame Selection for Long Video Understanding](http://arxiv.org/abs/2603.20180v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-23/Adaptive_Greedy_Frame_Selection_for_Long_Video_Und.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision--language models (VLMs) are increasingly applied to long-video question answering, yet inference is often bottlenecked by the number of input frames and resulting visual tokens. Naive sparse sampling can miss decisive moments, while purely relevance-driven selection frequently collapses...
+
+#### [The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](http://arxiv.org/abs/2603.20164v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-23/The_Robots_Inner_Critic_Self-Refinement_of_Social_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Conventional robot social behavior generation has been limited in flexibility and autonomy, relying on predefined motions or human feedback. This study proposes CRISP (Critique-and-Replan for Interactive Social Presence), an autonomous framework where a robot critiques and replans its own actions by...
+
+#### [Evaluating Test-Time Adaptation For Facial Expression Recognition Under Natural Cross-Dataset Distribution Shifts](http://arxiv.org/abs/2603.19994v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-23/Evaluating_Test-Time_Adaptation_For_Facial_Express.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Deep learning models often struggle under natural distribution shifts, a common challenge in real-world deployments. Test-Time Adaptation (TTA) addresses this by adapting models during inference without labeled source data. We present the first evaluation of TTA methods for FER under natural domain ...
+
+#### [HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](http://arxiv.org/abs/2603.19957v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-23/HiPath_Hierarchical_Vision-Language_Alignment_for_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Pathology reports are structured, multi-granular documents encoding diagnostic conclusions, histological grades, and ancillary test results across one or more anatomical sites; yet existing pathology vision-language models (VLMs) reduce this output to a flat label or free-form text. We present HiPat...
+
+#### [IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment](http://arxiv.org/abs/2603.19862v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-23/IsoCLIP_Decomposing_CLIP_Projectors_for_Efficient_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models like CLIP are extensively used for inter-modal tasks which involve both visual and text modalities. However, when the individual modality encoders are applied to inherently intra-modal tasks like image-to-image retrieval, their performance suffers from the intra-modal misalign...
+
+#### [Beyond detection: cooperative multi-agent reasoning for rapid onboard EO crisis response](http://arxiv.org/abs/2603.19858v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-23/Beyond_detection_cooperative_multi-agent_reasoning.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Rapid identification of hazardous events is essential for next-generation Earth Observation (EO) missions supporting disaster response. However, current monitoring pipelines remain largely ground-centric, introducing latency due to downlink limitations, multi-source data fusion constraints, and the ...
+
+#### [From Plausibility to Verifiability: Risk-Controlled Generative OCR for Vision-Language Models](http://arxiv.org/abs/2603.19790v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-23/From_Plausibility_to_Verifiability_Risk-Controlled.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Modern vision-language models (VLMs) can act as generative OCR engines, yet open-ended decoding can expose rare but consequential failures. We identify a core deployment misalignment in generative OCR. Autoregressive decoding favors semantic plausibility, whereas OCR requires outputs that are visual...
+
+#### [WorldAgents: Can Foundation Image Models be Agents for 3D World Models?](http://arxiv.org/abs/2603.19708v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-23/WorldAgents_Can_Foundation_Image_Models_be_Agents_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Given the remarkable ability of 2D foundation image models to generate high-fidelity outputs, we investigate a fundamental question: do 2D foundation image models inherently possess 3D world model capabilities? To answer this, we systematically evaluate multiple state-of-the-art image generation mod...
+
+#### [Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification](http://arxiv.org/abs/2603.19678v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-23/Vision-Language_Attribute_Disentanglement_and_Rein.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Lifelong person re-identification (LReID) aims to learn from varying domains to obtain a unified person retrieval model. Existing LReID approaches typically focus on learning from scratch or a visual classification-pretrained model, while the Vision-Language Model (VLM) has shown generalizable knowl...
+
+#### [ATHENA: Adaptive Test-Time Steering for Improving Count Fidelity in Diffusion Models](http://arxiv.org/abs/2603.19676v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-23/ATHENA_Adaptive_Test-Time_Steering_for_Improving_C.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Text-to-image diffusion models achieve high visual fidelity but surprisingly exhibit systematic failures in numerical control when prompts specify explicit object counts. To address this limitation, we introduce ATHENA, a model-agnostic, test-time adaptive steering framework that improves object cou...
+
