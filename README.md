@@ -1253,3 +1253,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Text-to-image diffusion models achieve high visual fidelity but surprisingly exhibit systematic failures in numerical control when prompts specify explicit object counts. To address this limitation, we introduce ATHENA, a model-agnostic, test-time adaptive steering framework that improves object cou...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-03-26
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Vision-Language Models vs Human: Perceptual Image Quality Assessment](http://arxiv.org/abs/2603.24578v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-26/Vision-Language_Models_vs_Human_Perceptual_Image_Q.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Psychophysical experiments remain the most reliable approach for perceptual image quality assessment (IQA), yet their cost and limited scalability encourage automated approaches. We investigate whether Vision Language Models (VLMs) can approximate human perceptual judgments across three image qualit...
+
+#### [VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](http://arxiv.org/abs/2603.24575v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-26/VFIG_Vectorizing_Complex_Figures_in_SVG_with_Visio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Scalable Vector Graphics (SVG) are an essential format for technical illustration and digital design, offering precise resolution independence and flexible semantic editability. In practice, however, original vector source files are frequently lost or inaccessible, leaving only "flat" rasterized ver...
+
+#### [LensWalk: Agentic Video Understanding by Planning How You See in Videos](http://arxiv.org/abs/2603.24558v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-26/LensWalk_Agentic_Video_Understanding_by_Planning_H.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The dense, temporal nature of video presents a profound challenge for automated analysis. Despite the use of powerful Vision-Language Models, prevailing methods for video understanding are limited by the inherent disconnect between reasoning and perception: they rely on static, pre-processed informa...
+
+#### [Cross-Modal Prototype Alignment and Mixing for Training-Free Few-Shot Classification](http://arxiv.org/abs/2603.24528v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-26/Cross-Modal_Prototype_Alignment_and_Mixing_for_Tra.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) like CLIP are trained with the objective of aligning text and image pairs. To improve CLIP-based few-shot image classification, recent works have observed that, along with text embeddings, image embeddings from the training set are an important source of information. In...
+
+#### [Unleashing Vision-Language Semantics for Deepfake Video Detection](http://arxiv.org/abs/2603.24454v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-26/Unleashing_Vision-Language_Semantics_for_Deepfake_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent Deepfake Video Detection (DFD) studies have demonstrated that pre-trained Vision-Language Models (VLMs) such as CLIP exhibit strong generalization capabilities in detecting artifacts across different identities. However, existing approaches focus on leveraging visual features only, overlookin...
+
+#### [ViHOI: Human-Object Interaction Synthesis with Visual Priors](http://arxiv.org/abs/2603.24383v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-26/ViHOI_Human-Object_Interaction_Synthesis_with_Visu.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Generating realistic and physically plausible 3D Human-Object Interactions (HOI) remains a key challenge in motion generation. One primary reason is that describing these physical constraints with words alone is difficult. To address this limitation, we propose a new paradigm: extracting rich intera...
+
+#### [GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization](http://arxiv.org/abs/2603.24376v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-26/GeoRouter_Dynamic_Paradigm_Routing_for_Worldwide_I.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Worldwide image geolocalization aims to predict precise GPS coordinates for images captured anywhere on Earth, which is challenging due to the large visual and geographic diversity. Recent methods mainly follow two paradigms: retrieval-based approaches that match queries against a reference database...
+
+#### [PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks](http://arxiv.org/abs/2603.24373v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-26/PP-OCRv5_A_Specialized_5M-Parameter_Model_Rivaling.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The advent of "OCR 2.0" and large-scale vision-language models (VLMs) has set new benchmarks in text recognition. However, these unified architectures often come with significant computational demands, challenges in precise text localization within complex layouts, and a propensity for textual hallu...
+
+#### [Boosting Document Parsing Efficiency and Performance with Coarse-to-Fine Visual Processing](http://arxiv.org/abs/2603.24326v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-26/Boosting_Document_Parsing_Efficiency_and_Performan.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Document parsing is a fine-grained task where image resolution significantly impacts performance. While advanced research leveraging vision-language models benefits from high-resolution input to boost model performance, this often leads to a quadratic increase in the number of vision tokens and sign...
+
+#### [Language-Assisted Image Clustering Guided by Discriminative Relational Signals and Adaptive Semantic Centers](http://arxiv.org/abs/2603.24275v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-03-26/Language-Assisted_Image_Clustering_Guided_by_Discr.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Language-Assisted Image Clustering (LAIC) augments the input images with additional texts with the help of vision-language models (VLMs) to promote clustering performance. Despite recent progress, existing LAIC methods often overlook two issues: (i) textual features constructed for each image are hi...
+
