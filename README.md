@@ -1363,3 +1363,58 @@
 - **领域**: cs.AI
 - **核心摘要**: Compressed vision-language models (VLMs) are widely used to reduce memory and compute costs, making them a suitable choice for real-world deployment. However, compressing these models raises concerns about whether internal computations and safety behaviors are preserved. In this work, we use causal ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-01
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Scaling Video Pretraining for Surgical Foundation Models](http://arxiv.org/abs/2603.29966v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-01/Scaling_Video_Pretraining_for_Surgical_Foundation_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Surgical video understanding is essential for computer-assisted interventions, yet existing surgical foundation models remain constrained by limited data scale, procedural diversity, and inconsistent evaluation, often lacking a reproducible training pipeline. We propose SurgRec, a scalable and repro...
+
+#### [DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA](http://arxiv.org/abs/2603.29844v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-01/DIAL_Decoupling_Intent_and_Action_via_Latent_World.pdf)
+- **领域**: cs.RO
+- **核心摘要**: The development of Vision-Language-Action (VLA) models has been significantly accelerated by pre-trained Vision-Language Models (VLMs). However, most existing end-to-end VLAs treat the VLM primarily as a multimodal encoder, directly mapping vision-language features to low-level actions. This paradig...
+
+#### [SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes](http://arxiv.org/abs/2603.29798v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-01/SceneTeract_Agentic_Functional_Affordances_and_VLM.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Embodied AI depends on interactive 3D environments that support meaningful activities for diverse users, yet assessing their functional affordances remains a core challenge. We introduce SceneTeract, a framework that verifies 3D scene functionality under agent-specific constraints. Our core contribu...
+
+#### [From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety](http://arxiv.org/abs/2603.29777v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-01/From_Skeletons_to_Semantics_Design_and_Deployment_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Public spaces such as transport hubs, city centres, and event venues require timely and reliable detection of potentially violent behaviour to support public safety. While automated video analysis has made significant progress, practical deployment remains constrained by latency, privacy, and resour...
+
+#### [TSHA: A Benchmark for Visual Language Models in Trustworthy Safety Hazard Assessment Scenarios](http://arxiv.org/abs/2603.29759v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-01/TSHA_A_Benchmark_for_Visual_Language_Models_in_Tru.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in vision-language models (VLMs) have accelerated their application to indoor safety hazards assessment. However, existing benchmarks suffer from three fundamental limitations: (1) heavy reliance on synthetic datasets constructed via simulation software, creating a significant domain...
+
+#### [A Comprehensive Information-Decomposition Analysis of Large Vision-Language Models](http://arxiv.org/abs/2603.29676v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-01/A_Comprehensive_Information-Decomposition_Analysis.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Large vision-language models (LVLMs) achieve impressive performance, yet their internal decision-making processes remain opaque, making it difficult to determine if the success stems from true multimodal fusion or from reliance on unimodal priors. To address this attribution gap, we introduce a nove...
+
+#### [Storing Less, Finding More: How Novelty Filtering Improves Cross-Modal Retrieval on Edge Cameras](http://arxiv.org/abs/2603.29631v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-01/Storing_Less_Finding_More_How_Novelty_Filtering_Im.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Always-on edge cameras generate continuous video streams where redundant frames degrade cross-modal retrieval by crowding correct results out of top-k search. This paper presents a streaming retrieval architecture: an on-device epsilon-net filter retains only semantically novel frames, building a de...
+
+#### [Calibrated Confidence Expression for Radiology Report Generation](http://arxiv.org/abs/2603.29492v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-01/Calibrated_Confidence_Expression_for_Radiology_Rep.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Safe deployment of Large Vision-Language Models (LVLMs) in radiology report generation requires not only accurate predictions but also clinically interpretable indicators of when outputs should be thoroughly reviewed, enabling selective radiologist verification and reducing the risk of hallucinated ...
+
+#### [SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering](http://arxiv.org/abs/2603.29437v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-01/SeGPruner_Semantic-Geometric_Visual_Token_Pruner_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have been widely adopted for 3D question answering (3D QA). In typical pipelines, visual tokens extracted from multiple viewpoints are concatenated with language tokens and jointly processed by a large language model (LLM) for inference. However, aggregating multi-view ...
+
+#### [Seeing the Evidence, Missing the Answer: Tool-Guided Vision-Language Models on Visual Illusions](http://arxiv.org/abs/2603.29428v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-01/Seeing_the_Evidence_Missing_the_Answer_Tool-Guided.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) exhibit a systematic bias when confronted with classic optical illusions: they overwhelmingly predict the illusion as "real" regardless of whether the image has been counterfactually modified. We present a tool-guided inference framework for the DataCV 2026 Challenge (T...
+
