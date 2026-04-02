@@ -1418,3 +1418,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Vision-language models (VLMs) exhibit a systematic bias when confronted with classic optical illusions: they overwhelmingly predict the illusion as "real" regardless of whether the image has been counterfactually modified. We present a tool-guided inference framework for the DataCV 2026 Challenge (T...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-02
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems](http://arxiv.org/abs/2604.01179v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-02/A_ROS_2_Wrapper_for_Florence-2_Multi-Mode_Local_Vi.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Foundation vision-language models are becoming increasingly relevant to robotics because they can provide richer semantic perception than narrow task-specific pipelines. However, their practical adoption in robot software stacks still depends on reproducible middleware integrations rather than on mo...
+
+#### [Lightweight Prompt-Guided CLIP Adaptation for Monocular Depth Estimation](http://arxiv.org/abs/2604.01118v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-02/Lightweight_Prompt-Guided_CLIP_Adaptation_for_Mono.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Leveraging the rich semantic features of vision-language models (VLMs) like CLIP for monocular depth estimation tasks is a promising direction, yet often requires extensive fine-tuning or lacks geometric precision. We present a parameter-efficient framework, named MoA-DepthCLIP, that adapts pretrain...
+
+#### [PDA: Text-Augmented Defense Framework for Robust Vision-Language Models against Adversarial Image Attacks](http://arxiv.org/abs/2604.01010v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-02/PDA_Text-Augmented_Defense_Framework_for_Robust_Vi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are vulnerable to adversarial image perturbations. Existing works based on adversarial training against task-specific adversarial examples are computationally expensive and often fail to generalize to unseen attack types. To address these limitations, we introduce Parap...
+
+#### [ACT Now: Preempting LVLM Hallucinations via Adaptive Context Integration](http://arxiv.org/abs/2604.00983v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-02/ACT_Now_Preempting_LVLM_Hallucinations_via_Adaptiv.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) frequently suffer from severe hallucination issues. Existing mitigation strategies predominantly rely on isolated, single-step states to enhance visual focus or suppress strong linguistic priors. However, these static approaches neglect dynamic context changes ac...
+
+#### [Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment](http://arxiv.org/abs/2604.00913v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-02/Benchmarking_and_Mechanistic_Analysis_of_Vision-La.pdf)
+- **领域**: cs.CV
+- **核心摘要**: 2D assembly diagrams are often abstract and hard to follow, creating a need for intelligent assistants that can monitor progress, detect errors, and provide step-by-step guidance. In mixed reality settings, such systems must recognize completed and ongoing steps from the camera feed and align them w...
+
+#### [ProCap: Projection-Aware Captioning for Spatial Augmented Reality](http://arxiv.org/abs/2604.00912v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-02/ProCap_Projection-Aware_Captioning_for_Spatial_Aug.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Spatial augmented reality (SAR) directly projects digital content onto physical scenes using projectors, creating immersive experience without head-mounted displays. However, for SAR to support intelligent interaction, such as reasoning about the scene or answering user queries, it must semantically...
+
+#### [JAMMEval: A Refined Collection of Japanese Benchmarks for Reliable VLM Evaluation](http://arxiv.org/abs/2604.00909v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-02/JAMMEval_A_Refined_Collection_of_Japanese_Benchmar.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reliable evaluation is essential for the development of vision-language models (VLMs). However, Japanese VQA benchmarks have undergone far less iterative refinement than their English counterparts. As a result, many existing benchmarks contain issues such as ambiguous questions, incorrect answers, a...
+
+#### [PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding](http://arxiv.org/abs/2604.00886v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-02/PixelPrune_Pixel-Level_Adaptive_Visual_Token_Reduc.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Document understanding and GUI interaction are among the highest-value applications of Vision-Language Models (VLMs), yet they impose exceptionally heavy computational burden: fine-grained text and small UI elements demand high-resolution inputs that produce tens of thousands of visual tokens. We ob...
+
+#### [A 4D Representation for Training-Free Agentic Reasoning from Monocular Laparoscopic Video](http://arxiv.org/abs/2604.00867v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-02/A_4D_Representation_for_Training-Free_Agentic_Reas.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Spatiotemporal reasoning is a fundamental capability for artificial intelligence (AI) in soft tissue surgery, paving the way for intelligent assistive systems and autonomous robotics. While 2D vision-language models show increasing promise at understanding surgical video, the spatial complexity of s...
+
+#### [LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation](http://arxiv.org/abs/2604.00829v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-02/LinguDistill_Recovering_Linguistic_Ability_in_Visi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Adapting pretrained language models (LMs) into vision-language models (VLMs) can degrade their native linguistic capability due to representation shift and cross-modal interference introduced during multimodal adaptation. Such loss is difficult to recover, even with targeted task-specific fine-tunin...
+
