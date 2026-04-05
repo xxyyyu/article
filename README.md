@@ -1528,3 +1528,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Medical Visual Grounding (MVG) aims to identify diagnostically relevant phrases from free-text radiology reports and localize their corresponding regions in medical images, providing interpretable visual evidence to support clinical decision-making. Although recent Vision-Language Models (VLMs) exhi...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-05
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Steerable Visual Representations](http://arxiv.org/abs/2604.02327v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-05/Steerable_Visual_Representations.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. However, such representations tend to focus on the most salient visual cues in the image, with no way ...
+
+#### [VOID: Video Object and Interaction Deletion](http://arxiv.org/abs/2604.02296v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-05/VOID_Video_Object_and_Interaction_Deletion.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing video object removal methods excel at inpainting content "behind" the object and correcting appearance-level artifacts such as shadows and reflections. However, when the removed object has more significant interactions, such as collisions with other objects, current models fail to correct t...
+
+#### [SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation](http://arxiv.org/abs/2604.02252v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-05/SPAR_Single-Pass_Any-Resolution_ViT_for_Open-vocab.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Foundational Vision Transformers (ViTs) have limited effectiveness in tasks requiring fine-grained spatial understanding, due to their fixed pre-training resolution and inherently coarse patch-level representations. These challenges are especially pronounced in dense prediction scenarios, such as op...
+
+#### [UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving](http://arxiv.org/abs/2604.02190v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-05/UniDriveVLA_Unifying_Understanding_Perception_and_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language-Action (VLA) models have recently emerged in autonomous driving, with the promise of leveraging rich world knowledge to improve the cognitive capabilities of driving systems. However, adapting such models for driving tasks currently faces a critical dilemma between spatial perception...
+
+#### [Mining Instance-Centric Vision-Language Contexts for Human-Object Interaction Detection](http://arxiv.org/abs/2604.02071v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-05/Mining_Instance-Centric_Vision-Language_Contexts_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Human-Object Interaction (HOI) detection aims to localize human-object pairs and classify their interactions from a single image, a task that demands strong visual understanding and nuanced contextual reasoning. Recent approaches have leveraged Vision-Language Models (VLMs) to introduce semantic pri...
+
+#### [Jagle: Building a Large-Scale Japanese Multimodal Post-Training Dataset for Vision-Language Models](http://arxiv.org/abs/2604.02048v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-05/Jagle_Building_a_Large-Scale_Japanese_Multimodal_P.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Developing vision-language models (VLMs) that generalize across diverse tasks requires large-scale training datasets with diverse content. In English, such datasets are typically constructed by aggregating and curating numerous existing visual question answering (VQA) resources. However, this strate...
+
+#### [Are VLMs Lost Between Sky and Space? LinkS$^2$Bench for UAV-Satellite Dynamic Cross-View Spatial Intelligence](http://arxiv.org/abs/2604.02020v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-05/Are_VLMs_Lost_Between_Sky_and_Space_LinkS2Bench_fo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Synergistic spatial intelligence between UAVs and satellites is indispensable for emergency response and security operations, as it uniquely integrates macro-scale global coverage with dynamic, real-time local perception. However, the capacity of Vision-Language Models (VLMs) to master this complex ...
+
+#### [Test-Time Adaptation for Height Completion via Self-Supervised ViT Features and Monocular Foundation Models](http://arxiv.org/abs/2604.02009v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-05/Test-Time_Adaptation_for_Height_Completion_via_Sel.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Accurate digital surface models (DSMs) are essential for many geospatial applications, including urban monitoring, environmental analyses, infrastructure management, and change detection. However, large-scale DSMs frequently contain incomplete or outdated regions due to acquisition limitations, reco...
+
+#### [Curia-2: Scaling Self-Supervised Learning for Radiology Foundation Models](http://arxiv.org/abs/2604.01987v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-05/Curia-2_Scaling_Self-Supervised_Learning_for_Radio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The rapid growth of medical imaging has fueled the development of Foundation Models (FMs) to reduce the growing, unsustainable workload on radiologists. While recent FMs have shown the power of large-scale pre-training to CT and MRI analysis, there remains significant room to optimize how these mode...
+
+#### [Enhancing Medical Visual Grounding via Knowledge-guided Spatial Prompts](http://arxiv.org/abs/2604.01915v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-05/Enhancing_Medical_Visual_Grounding_via_Knowledge-g.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical Visual Grounding (MVG) aims to identify diagnostically relevant phrases from free-text radiology reports and localize their corresponding regions in medical images, providing interpretable visual evidence to support clinical decision-making. Although recent Vision-Language Models (VLMs) exhi...
+
