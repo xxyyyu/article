@@ -1583,3 +1583,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Medical Visual Grounding (MVG) aims to identify diagnostically relevant phrases from free-text radiology reports and localize their corresponding regions in medical images, providing interpretable visual evidence to support clinical decision-making. Although recent Vision-Language Models (VLMs) exhi...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-06
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](http://arxiv.org/abs/2604.03231v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-06/CoME-VL_Scaling_Complementary_Multi-Encoder_Vision.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent vision-language models (VLMs) typically rely on a single vision encoder trained with contrastive image-text objectives, such as CLIP-style pretraining. While contrastive encoders are effective for cross-modal alignment and retrieval, self-supervised visual encoders often capture richer dense ...
+
+#### [The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling](http://arxiv.org/abs/2604.03191v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-06/The_Compression_Gap_Why_Discrete_Tokenization_Limi.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Scaling Vision-Language-Action (VLA) models by upgrading the vision encoder is expected to improve downstream manipulation performance--as it does in vision-language modeling. We show that this expectation fails when actions are represented as discrete tokens, and explain why through an information-...
+
+#### [EffiMiniVLM: A Compact Dual-Encoder Regression Framework](http://arxiv.org/abs/2604.03172v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-06/EffiMiniVLM_A_Compact_Dual-Encoder_Regression_Fram.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Predicting product quality from multimodal item information is critical in cold-start scenarios, where user interaction history is unavailable and predictions must rely on images and textual metadata. However, existing vision-language models typically depend on large architectures and/or extensive e...
+
+#### [Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models](http://arxiv.org/abs/2604.03157v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-06/Chart-RL_Policy_Optimization_Reinforcement_Learnin.pdf)
+- **领域**: cs.AI
+- **核心摘要**: The recent advancements in Vision Language Models (VLMs) have demonstrated progress toward true intelligence requiring robust reasoning capabilities. Beyond pattern recognition, linguistic reasoning must integrate with visual comprehension, particularly for Chart Question Answering (CQA) tasks invol...
+
+#### [FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation](http://arxiv.org/abs/2604.03139v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-06/FSUNav_A_Cerebrum-Cerebellum_Architecture_for_Fast.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Current vision-language navigation methods face substantial bottlenecks regarding heterogeneous robot compatibility, real-time performance, and navigation safety. Furthermore, they struggle to support open-vocabulary semantic generalization and multimodal task inputs. To address these challenges, th...
+
+#### [Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models](http://arxiv.org/abs/2604.03117v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-06/Revealing_Physical-World_Semantic_Vulnerabilities_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Infrared vision-language models (IR-VLMs) have emerged as a promising paradigm for multimodal perception in low-visibility environments, yet their robustness to adversarial attacks remains largely unexplored. Existing adversarial patch methods are mainly designed for RGB-based models in closed-set s...
+
+#### [QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection](http://arxiv.org/abs/2604.03040v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-06/QVAD_A_Question-Centric_Agentic_Framework_for_Effi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Video Anomaly Detection (VAD) is a fundamental challenge in computer vision, particularly due to the open-set nature of anomalies. While recent training-free approaches utilizing Vision-Language Models (VLMs) have shown promise, they typically rely on massive, resource-intensive foundation models to...
+
+#### [Collaborative Multi-Mode Pruning for Vision-Language Models](http://arxiv.org/abs/2604.02956v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-06/Collaborative_Multi-Mode_Pruning_for_Vision-Langua.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have advanced rapidly within the unified Transformer architecture, yet their deployment on resource-constrained devices remains challenging due to high computational complexity. While pruning has emerged as an effective technique for compressing VLMs, existing approache...
+
+#### [Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models](http://arxiv.org/abs/2604.02893v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-06/Toward_an_Artificial_General_Teacher_Procedural_Ge.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We study visual explanation in geometry education as a Referring Image Segmentation (RIS) problem: given a diagram and a natural language description, the task is to produce a pixel-level mask for the referred geometric element. However, existing RIS models trained on natural image benchmarks such a...
+
+#### [InstructTable: Improving Table Structure Recognition Through Instructions](http://arxiv.org/abs/2604.02880v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-06/InstructTable_Improving_Table_Structure_Recognitio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Table structure recognition (TSR) holds widespread practical importance by parsing tabular images into structured representations, yet encounters significant challenges when processing complex layouts involving merged or empty cells. Traditional visual-centric models rely exclusively on visual infor...
+
