@@ -1638,3 +1638,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Table structure recognition (TSR) holds widespread practical importance by parsing tabular images into structured representations, yet encounters significant challenges when processing complex layouts involving merged or empty cells. Traditional visual-centric models rely exclusively on visual infor...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-07
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Rethinking Model Efficiency: Multi-Agent Inference with Large Models](http://arxiv.org/abs/2604.04929v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-07/Rethinking_Model_Efficiency_Multi-Agent_Inference_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Most vision-language models (VLMs) apply a large language model (LLM) as the decoder, where the response tokens are generated sequentially through autoregression. Therefore, the number of output tokens can be the bottleneck of the end-to-end latency. However, different models may require vastly diff...
+
+#### [Vero: An Open RL Recipe for General Visual Reasoning](http://arxiv.org/abs/2604.04917v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-07/Vero_An_Open_RL_Recipe_for_General_Visual_Reasonin.pdf)
+- **领域**: cs.CV
+- **核心摘要**: What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasoning is within reach, but the recipe behind them remains unclear, locked behind proprietary reinforceme...
+
+#### [ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality](http://arxiv.org/abs/2604.04905v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-07/ClickAIXR_On-Device_Multimodal_Vision-Language_Int.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We present ClickAIXR, a novel on-device framework for multimodal vision-language interaction with objects in extended reality (XR). Unlike prior systems that rely on cloud-based AI (e.g., ChatGPT) or gaze-based selection (e.g., GazePointAR), ClickAIXR integrates an on-device vision-language model (V...
+
+#### [Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations](http://arxiv.org/abs/2604.04863v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-07/Beyond_the_Global_Scores_Fine-Grained_Token_Ground.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) achieve strong performance on visual reasoning tasks but remain highly susceptible to hallucination. Existing detection methods predominantly rely on coarse, whole-image measures of how an object token relates to the input image. This global strategy is limited: ...
+
+#### [The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models](http://arxiv.org/abs/2604.04857v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-07/The_Blind_Spot_of_Adaptation_Quantifying_and_Mitig.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The integration of Vision-Language Models (VLMs) into autonomous driving promises to solve long-tail scenarios, but this paradigm faces the critical and unaddressed challenge of catastrophic forgetting. The very fine-tuning process used to adapt these models to driving-specific data simultaneously e...
+
+#### [Less Detail, Better Answers: Degradation-Driven Prompting for VQA](http://arxiv.org/abs/2604.04838v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-07/Less_Detail_Better_Answers_Degradation-Driven_Prom.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advancements in Vision-Language Models (VLMs) have significantly pushed the boundaries of Visual Question Answering (VQA).However,high-resolution details can sometimes become noise that leads to hallucinations or reasoning errors. In this paper,we propose Degradation-Driven Prompting (DDP), a...
+
+#### [Discovering Failure Modes in Vision-Language Models using RL](http://arxiv.org/abs/2604.04733v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-07/Discovering_Failure_Modes_in_Vision-Language_Model.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language Models (VLMs), despite achieving strong performance on multimodal benchmarks, often misinterpret straightforward visual concepts that humans identify effortlessly, such as counting, spatial reasoning, and viewpoint understanding. Previous studies manually identified these weaknesses ...
+
+#### [ROSClaw: A Hierarchical Semantic-Physical Framework for Heterogeneous Multi-Agent Collaboration](http://arxiv.org/abs/2604.04664v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-07/ROSClaw_A_Hierarchical_Semantic-Physical_Framework.pdf)
+- **领域**: cs.RO
+- **核心摘要**: The integration of large language models (LLMs) with embodied agents has improved high-level reasoning capabilities; however, a critical gap remains between semantic understanding and physical execution. While vision-language-action (VLA) and vision-language-navigation (VLN) systems enable robots to...
+
+#### [InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation](http://arxiv.org/abs/2604.04632v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-07/InCTRLv2_Generalist_Residual_Models_for_Few-Shot_A.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While recent anomaly detection (AD) methods have made substantial progress in recognizing abnormal patterns within specific domains, most of them are specialist models that are trained on large training samples from a specific target dataset, struggling to generalize to unseen datasets. To address t...
+
+#### [Beyond Semantics: Uncovering the Physics of Fakes via Universal Physical Descriptors for Cross-Modal Synthetic Detection](http://arxiv.org/abs/2604.04608v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-07/Beyond_Semantics_Uncovering_the_Physics_of_Fakes_v.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The rapid advancement of AI generated content (AIGC) has blurred the boundaries between real and synthetic images, exposing the limitations of existing deepfake detectors that often overfit to specific generative models. This adaptability crisis calls for a fundamental reexamination of the intrinsic...
+
