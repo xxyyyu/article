@@ -1693,3 +1693,58 @@
 - **领域**: cs.CV
 - **核心摘要**: The rapid advancement of AI generated content (AIGC) has blurred the boundaries between real and synthetic images, exposing the limitations of existing deepfake detectors that often overfit to specific generative models. This adaptability crisis calls for a fundamental reexamination of the intrinsic...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-08
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models](http://arxiv.org/abs/2604.06165v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-08/HaloProbe_Bayesian_Detection_and_Mitigation_of_Obj.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models can produce object hallucinations in image descriptions, highlighting the need for effective detection and mitigation strategies. Prior work commonly relies on the model's attention weights on visual tokens as a detection signal. We reveal that coarse-grained attention-b...
+
+#### [Gym-Anything: Turn any Software into an Agent Environment](http://arxiv.org/abs/2604.06126v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-08/Gym-Anything_Turn_any_Software_into_an_Agent_Envir.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Computer-use agents hold the promise of assisting in a wide range of digital economic activities. However, current research has largely focused on short-horizon tasks over a limited set of software with limited economic value, such as basic e-commerce and OS-configuration tasks. A key reason is that...
+
+#### [Lightweight Multimodal Adaptation of Vision Language Models for Species Recognition and Habitat Context Interpretation in Drone Thermal Imagery](http://arxiv.org/abs/2604.06124v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-08/Lightweight_Multimodal_Adaptation_of_Vision_Langua.pdf)
+- **领域**: cs.CV
+- **核心摘要**: This study proposes a lightweight multimodal adaptation framework to bridge the representation gap between RGB-pretrained VLMs and thermal infrared imagery, and demonstrates its practical utility using a real drone-collected dataset. A thermal dataset was developed from drone-collected imagery and w...
+
+#### [CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics](http://arxiv.org/abs/2604.06036v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-08/CoStream_Codec-Guided_Resource-Efficient_System_fo.pdf)
+- **领域**: cs.DC
+- **核心摘要**: Video streaming analytics is a crucial workload for vision-language model serving, but the high cost of multimodal inference limits scalability. Prior systems reduce inference cost by exploiting temporal and spatial redundancy in video streams, but they target either the vision transformer (ViT) or ...
+
+#### [Is CLIP Cross-Eyed? Revealing and Mitigating Center Bias in the CLIP Family](http://arxiv.org/abs/2604.05971v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-08/Is_CLIP_Cross-Eyed_Revealing_and_Mitigating_Center.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent research has shown that contrastive vision-language models such as CLIP often lack fine-grained understanding of visual content. While a growing body of work has sought to address this limitation, we identify a distinct failure mode in the CLIP family, which we term center bias, that persists...
+
+#### ["I See What You Did There": Can Large Vision-Language Models Understand Multimodal Puns?](http://arxiv.org/abs/2604.05930v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-08/I_See_What_You_Did_There_Can_Large_Vision-Language.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Puns are a common form of rhetorical wordplay that exploits polysemy and phonetic similarity to create humor. In multimodal puns, visual and textual elements synergize to ground the literal sense and evoke the figurative meaning simultaneously. Although Vision-Language Models (VLMs) are widely used ...
+
+#### [AICA-Bench: Holistically Examining the Capabilities of VLMs in Affective Image Content Analysis](http://arxiv.org/abs/2604.05900v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-08/AICA-Bench_Holistically_Examining_the_Capabilities.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have demonstrated strong capabilities in perception, yet holistic Affective Image Content Analysis (AICA), which integrates perception, reasoning, and generation into a unified framework, remains underexplored. To address this gap, we introduce AICA-Bench, a comprehensi...
+
+#### [Reading Between the Pixels: An Inscriptive Jailbreak Attack on Text-to-Image Models](http://arxiv.org/abs/2604.05853v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-08/Reading_Between_the_Pixels_An_Inscriptive_Jailbrea.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Modern text-to-image (T2I) models can now render legible, paragraph-length text, enabling a fundamentally new class of misuse. We identify and formalize the inscriptive jailbreak, where an adversary coerces a T2I system into generating images containing harmful textual payloads (e.g., fraudulent doc...
+
+#### [Vision-Guided Iterative Refinement for Frontend Code Generation](http://arxiv.org/abs/2604.05839v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-08/Vision-Guided_Iterative_Refinement_for_Frontend_Co.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Code generation with large language models often relies on multi-stage human-in-the-loop refinement, which is effective but very costly - particularly in domains such as frontend web development where the solution quality depends on rendered visual output. We present a fully automated critic-in-the-...
+
+#### [WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](http://arxiv.org/abs/2604.05818v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-08/WikiSeeker_Rethinking_the_Role_of_Vision-Language_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multi-modal Retrieval-Augmented Generation (RAG) has emerged as a highly effective paradigm for Knowledge-Based Visual Question Answering (KB-VQA). Despite recent advancements, prevailing methods still primarily depend on images as the retrieval key, and often overlook or misplace the role of Vision...
+
