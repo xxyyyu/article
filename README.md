@@ -1748,3 +1748,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Multi-modal Retrieval-Augmented Generation (RAG) has emerged as a highly effective paradigm for Knowledge-Based Visual Question Answering (KB-VQA). Despite recent advancements, prevailing methods still primarily depend on images as the retrieval key, and often overlook or misplace the role of Vision...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-09
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images](http://arxiv.org/abs/2604.07338v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-09/Appear2Meaning_A_Cross-Cultural_Benchmark_for_Stru.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in vision-language models (VLMs) have improved image captioning for cultural heritage. However, inferring structured cultural metadata (e.g., creator, origin, period) from visual input remains underexplored. We introduce a multi-category, cross-cultural benchmark for this task and ev...
+
+#### [Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering](http://arxiv.org/abs/2604.07146v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-09/Learning_to_Search_A_Decision-Based_Agent_for_Know.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Knowledge-based visual question answering (KB-VQA) requires vision-language models to understand images and use external knowledge, especially for rare entities and long-tail facts. Most existing retrieval-augmented generation (RAG) methods adopt a fixed pipeline that sequentially retrieves informat...
+
+#### [A Utility-preserving De-identification Pipeline for Cross-hospital Radiology Data Sharing](http://arxiv.org/abs/2604.07128v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-09/A_Utility-preserving_De-identification_Pipeline_fo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large-scale radiology data are critical for developing robust medical AI systems. However, sharing such data across hospitals remains heavily constrained by privacy concerns. Existing de-identification research in radiology mainly focus on removing identifiable information to enable compliant data r...
+
+#### [KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis](http://arxiv.org/abs/2604.07034v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-09/KITE_Keyframe-Indexed_Tokenized_Evidence_for_VLM-B.pdf)
+- **领域**: cs.RO
+- **核心摘要**: We present KITE, a training-free, keyframe-anchored, layout-grounded front-end that converts long robot-execution videos into compact, interpretable tokenized evidence for vision-language models (VLMs). KITE distills each trajectory into a small set of motion-salient keyframes with open-vocabulary d...
+
+#### [XR-CareerAssist: An Immersive Platform for Personalised Career Guidance Leveraging Extended Reality and Multimodal AI](http://arxiv.org/abs/2604.06901v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-09/XR-CareerAssist_An_Immersive_Platform_for_Personal.pdf)
+- **领域**: cs.CE
+- **核心摘要**: Conventional career guidance platforms rely on static, text-driven interfaces that struggle to engage users or deliver personalised, evidence-based insights. Although Computer-Assisted Career Guidance Systems have evolved since the 1960s, they remain limited in interactivity and pay little attention...
+
+#### [Vision-Language Model-Guided Deep Unrolling Enables Personalized, Fast MRI](http://arxiv.org/abs/2604.06849v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-09/Vision-Language_Model-Guided_Deep_Unrolling_Enable.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Magnetic Resonance Imaging (MRI) is a cornerstone in medicine and healthcare but suffers from long acquisition times. Traditional accelerated MRI methods optimize for generic image quality, lacking adaptability for specific clinical tasks. To address this, we introduce PASS (Personalized, Anomaly-aw...
+
+#### [Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM](http://arxiv.org/abs/2604.06832v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-09/Fast-dVLM_Efficient_Block-Diffusion_VLM_via_Direct.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models (VLMs) predominantly rely on autoregressive decoding, which generates tokens one at a time and fundamentally limits inference throughput. This limitation is especially acute in physical AI scenarios such as robotics and autonomous driving, where VLMs are deployed on edge devic...
+
+#### [FlowExtract: Procedural Knowledge Extraction from Maintenance Flowcharts](http://arxiv.org/abs/2604.06770v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-09/FlowExtract_Procedural_Knowledge_Extraction_from_M.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Maintenance procedures in manufacturing facilities are often documented as flowcharts in static PDFs or scanned images. They encode procedural knowledge essential for asset lifecycle management, yet inaccessible to modern operator support systems. Vision-language models, the dominant paradigm for im...
+
+#### [How Well Do Vision-Language Models Understand Sequential Driving Scenes? A Sensitivity Study](http://arxiv.org/abs/2604.06750v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-09/How_Well_Do_Vision-Language_Models_Understand_Sequ.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) are increasingly proposed for autonomous driving tasks, yet their performance on sequential driving scenes remains poorly characterized, particularly regarding how input configurations affect their capabilities. We introduce VENUSS (VLM Evaluation oN Understanding Seque...
+
+#### [Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation](http://arxiv.org/abs/2604.06711v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-09/Specializing_Large_Models_for_Oracle_Bone_Script_I.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Deciphering ancient Chinese Oracle Bone Script (OBS) is a challenging task that offers insights into the beliefs, systems, and culture of the ancient era. Existing approaches treat decipherment as a closed-set image recognition problem, which fails to bridge the ``interpretation gap'': while individ...
+
