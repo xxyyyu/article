@@ -1858,3 +1858,58 @@
 - **领域**: cs.CV
 - **核心摘要**: High-quality training triplets (source-target image pairs with precise editing instructions) are a critical bottleneck for scaling instruction-guided image editing models. Vision-language models (VLMs) are widely used for automated instruction synthesis, but we identify three systematic failure mode...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-12
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [ParseBench: A Document Parsing Benchmark for AI Agents](http://arxiv.org/abs/2604.08538v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-12/ParseBench_A_Document_Parsing_Benchmark_for_AI_Age.pdf)
+- **领域**: cs.CV
+- **核心摘要**: AI agents are changing the requirements for document parsing. What matters is \emph{semantic correctness}: parsed output must preserve the structure and meaning needed for autonomous decisions, including correct table structure, precise chart data, semantically meaningful formatting, and visual grou...
+
+#### [What They Saw, Not Just Where They Looked: Semantic Scanpath Similarity via VLMs and NLP metric](http://arxiv.org/abs/2604.08494v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-12/What_They_Saw_Not_Just_Where_They_Looked_Semantic_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Scanpath similarity metrics are central to eye-movement research, yet existing methods predominantly evaluate spatial and temporal alignment while neglecting semantic equivalence between attended image regions. We present a semantic scanpath similarity framework that integrates vision-language model...
+
+#### [LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation](http://arxiv.org/abs/2604.08475v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-12/LAMP_Lift_Image-Editing_as_General_3D_Priors_for_O.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Human-like generalization in open-world remains a fundamental challenge for robotic manipulation. Existing learning-based methods, including reinforcement learning, imitation learning, and vision-language-action-models (VLAs), often struggle with novel tasks and unseen environments. Another promisin...
+
+#### [TTVS: Boosting Self-Exploring Reinforcement Learning via Test-time Variational Synthesis](http://arxiv.org/abs/2604.08468v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-12/TTVS_Boosting_Self-Exploring_Reinforcement_Learnin.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Despite significant advances in Large Reasoning Models (LRMs) driven by reinforcement learning with verifiable rewards (RLVR), this paradigm is fundamentally limited in specialized or novel domains where such supervision is prohibitively expensive or unavailable, posing a key challenge for test-time...
+
+#### [CrashSight: A Phase-Aware, Infrastructure-Centric Video Benchmark for Traffic Crash Scene Understanding and Reasoning](http://arxiv.org/abs/2604.08457v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-12/CrashSight_A_Phase-Aware_Infrastructure-Centric_Vi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Cooperative autonomous driving requires traffic scene understanding from both vehicle and infrastructure perspectives. While vision-language models (VLMs) show strong general reasoning capabilities, their performance in safety-critical traffic scenarios remains insufficiently evaluated due to the eg...
+
+#### [Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models](http://arxiv.org/abs/2604.08456v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-12/Entropy-Gradient_Grounding_Training-Free_Evidence_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite rapid progress, pretrained vision-language models still struggle when answers depend on tiny visual details or on combining clues spread across multiple regions, as in documents and compositional queries. We address this by framing grounding as test-time evidence retrieval: given a query, th...
+
+#### [Phantasia: Context-Adaptive Backdoors in Vision Language Models](http://arxiv.org/abs/2604.08395v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-12/Phantasia_Context-Adaptive_Backdoors_in_Vision_Lan.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in Vision-Language Models (VLMs) have greatly enhanced the integration of visual perception and linguistic reasoning, driving rapid progress in multimodal understanding. Despite these achievements, the security of VLMs, particularly their vulnerability to backdoor attacks, remains si...
+
+#### [PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models](http://arxiv.org/abs/2604.08340v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-12/PokeGym_A_Visually-Driven_Long-Horizon_Benchmark_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While Vision-Language Models (VLMs) have achieved remarkable progress in static visual understanding, their deployment in complex 3D embodied environments remains severely limited. Existing benchmarks suffer from four critical deficiencies: (1) passive perception tasks circumvent interactive dynamic...
+
+#### [Can Vision Language Models Judge Action Quality? An Empirical Evaluation](http://arxiv.org/abs/2604.08294v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-12/Can_Vision_Language_Models_Judge_Action_Quality_An.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Action Quality Assessment (AQA) has broad applications in physical therapy, sports coaching, and competitive judging. Although Vision Language Models (VLMs) hold considerable promise for AQA, their actual performance in this domain remains largely uncharacterised. We present a comprehensive evaluati...
+
+#### [EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization](http://arxiv.org/abs/2604.08213v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-12/EditCaption_Human-Aligned_Instruction_Synthesis_fo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: High-quality training triplets (source-target image pairs with precise editing instructions) are a critical bottleneck for scaling instruction-guided image editing models. Vision-language models (VLMs) are widely used for automated instruction synthesis, but we identify three systematic failure mode...
+
