@@ -1913,3 +1913,58 @@
 - **领域**: cs.CV
 - **核心摘要**: High-quality training triplets (source-target image pairs with precise editing instructions) are a critical bottleneck for scaling instruction-guided image editing models. Vision-language models (VLMs) are widely used for automated instruction synthesis, but we identify three systematic failure mode...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-13
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise](http://arxiv.org/abs/2604.09532v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-13/Seeing_is_Believing_Robust_Vision-Guided_Cross-Mod.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Prompt learning is a parameter-efficient approach for vision-language models, yet its robustness under label noise is less investigated. Visual content contains richer and more reliable semantic information, which remains more robust under label noise. However, the prompt itself is highly susceptibl...
+
+#### [VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images](http://arxiv.org/abs/2604.09531v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-13/VisionFoundry_Teaching_VLMs_Visual_Perception_with.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) still struggle with visual perception tasks such as spatial understanding and viewpoint recognition. One plausible contributing factor is that natural image datasets provide limited supervision for low-level visual skills. This motivates a practical question: can target...
+
+#### [VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning](http://arxiv.org/abs/2604.09529v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-13/VL-Calibration_Decoupled_Confidence_Calibration_fo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes domains. Existing verbalized confidence calibration methods, largely developed for text-only LLMs, typi...
+
+#### [VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning](http://arxiv.org/abs/2604.09508v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-13/VISOR_Agentic_Visual_Retrieval-Augmented_Generatio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual Retrieval-Augmented Generation (VRAG) empowers Vision-Language Models to retrieve and reason over visually rich documents. To tackle complex queries requiring multi-step reasoning, agentic VRAG systems interleave reasoning with iterative retrieval.. However, existing agentic VRAG faces two cr...
+
+#### [Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization](http://arxiv.org/abs/2604.09462v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-13/Adaptor_Advancing_Assistive_Teleoperation_with_Few.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Assistive teleoperation enhances efficiency via shared control, yet inter-operator variability, stemming from diverse habits and expertise, induces highly heterogeneous trajectory distributions that undermine intent recognition stability. We present Adaptor, a few-shot framework for robust cross-ope...
+
+#### [ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion](http://arxiv.org/abs/2604.09450v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-13/ECHO_Efficient_Chest_X-ray_Report_Generation_with_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Chest X-ray report generation (CXR-RG) has the potential to substantially alleviate radiologists' workload. However, conventional autoregressive vision--language models (VLMs) suffer from high inference latency due to sequential token decoding. Diffusion-based models offer a promising alternative th...
+
+#### [UIPress: Bringing Optical Token Compression to UI-to-Code Generation](http://arxiv.org/abs/2604.09442v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-13/UIPress_Bringing_Optical_Token_Compression_to_UI-t.pdf)
+- **领域**: cs.CL
+- **核心摘要**: UI-to-Code generation requires vision-language models (VLMs) to produce thousands of tokens of structured HTML/CSS from a single screenshot, making visual token efficiency critical. Existing compression methods either select tokens at inference time using task-agnostic heuristics, or zero out low-at...
+
+#### [Do Vision Language Models Need to Process Image Tokens?](http://arxiv.org/abs/2604.09425v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-13/Do_Vision_Language_Models_Need_to_Process_Image_To.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision Language Models (VLMs) have achieved remarkable success by integrating visual encoders with large language models (LLMs). While VLMs process dense image tokens across deep transformer stacks (incurring substantial computational overhead), it remains fundamentally unclear whether sustained ima...
+
+#### [Through Their Eyes: Fixation-aligned Tuning for Personalized User Emulation](http://arxiv.org/abs/2604.09368v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-13/Through_Their_Eyes_Fixation-aligned_Tuning_for_Per.pdf)
+- **领域**: cs.MM
+- **核心摘要**: Large language model (LLM) agents are increasingly deployed as scalable user simulators for recommender system evaluation. Yet existing simulators perceive recommendations through text or structured metadata rather than the visual interfaces real users browse-a critical gap, since attention over rec...
+
+#### [Arbitration Failure, Not Perceptual Blindness: How Vision-Language Models Resolve Visual-Linguistic Conflicts](http://arxiv.org/abs/2604.09364v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-13/Arbitration_Failure_Not_Perceptual_Blindness_How_V.pdf)
+- **领域**: cs.CV
+- **核心摘要**: When a Vision-Language Model (VLM) sees a blue banana and answers "yellow", is the problem of perception or arbitration? We explore the question in ten VLMs with various sizes and reveal an Encoding--Grounding Dissociation: models that fail to report what they see (and thus provide a wrong answer) s...
+
