@@ -1968,3 +1968,58 @@
 - **领域**: cs.CV
 - **核心摘要**: When a Vision-Language Model (VLM) sees a blue banana and answers "yellow", is the problem of perception or arbitration? We explore the question in ten VLMs with various sizes and reveal an Encoding--Grounding Dissociation: models that fail to report what they see (and thus provide a wrong answer) s...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-14
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games](http://arxiv.org/abs/2604.11741v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-14/Collaborative_Multi-Agent_Scripts_Generation_for_E.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-language models (VLMs) have shown impressive capabilities in perceptual tasks, yet they degrade in complex multi-hop reasoning under multiplayer game settings with imperfect and deceptive information. In this paper, we study a representative multiplayer task, Murder Mystery Games, which requi...
+
+#### [VLMaterial: Vision-Language Model-Based Camera-Radar Fusion for Physics-Grounded Material Identification](http://arxiv.org/abs/2604.11671v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-14/VLMaterial_Vision-Language_Model-Based_Camera-Rada.pdf)
+- **领域**: eess.SP
+- **核心摘要**: Accurate material recognition is a fundamental capability for intelligent perception systems to interact safely and effectively with the physical world. For instance, distinguishing visually similar objects like glass and plastic cups is critical for safety but challenging for vision-based methods d...
+
+#### [CArtBench: Evaluating Vision-Language Models on Chinese Art Understanding, Interpretation, and Authenticity](http://arxiv.org/abs/2604.11632v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-14/CArtBench_Evaluating_Vision-Language_Models_on_Chi.pdf)
+- **领域**: cs.CL
+- **核心摘要**: We introduce CARTBENCH, a museum-grounded benchmark for evaluating vision-language models (VLMs) on Chinese artworks beyond short-form recognition and QA. CARTBENCH comprises four subtasks: CURATORQA for evidence-grounded recognition and reasoning, CATALOGCAPTION for structured four-section expert-s...
+
+#### [Finetune Like You Pretrain: Boosting Zero-shot Adversarial Robustness in Vision-language Models](http://arxiv.org/abs/2604.11576v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-14/Finetune_Like_You_Pretrain_Boosting_Zero-shot_Adve.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite their impressive zero-shot abilities, vision-language models such as CLIP have been shown to be susceptible to adversarial attacks. To enhance its adversarial robustness, recent studies finetune the pretrained vision encoder of CLIP with adversarial examples on a proxy dataset such as ImageN...
+
+#### [CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space](http://arxiv.org/abs/2604.11539v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-14/CLAY_Conditional_Visual_Similarity_Modulation_in_V.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Human perception of visual similarity is inherently adaptive and subjective, depending on the users' interests and focus. However, most image retrieval systems fail to reflect this flexibility, relying on a fixed, monolithic metric that cannot incorporate multiple conditions simultaneously. To addre...
+
+#### [SVD-Prune: Training-Free Token Pruning For Efficient Vision-Language Models](http://arxiv.org/abs/2604.11530v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-14/SVD-Prune_Training-Free_Token_Pruning_For_Efficien.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLM) have revolutionized multimodal learning by jointly processing visual and textual information. Yet, they face significant challenges due to the high computational and memory demands of processing long sequences of vision tokens. Many existing methods rely on local heurist...
+
+#### [Revisiting Compositionality in Dual-Encoder Vision-Language Models: The Role of Inference](http://arxiv.org/abs/2604.11496v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-14/Revisiting_Compositionality_in_Dual-Encoder_Vision.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Dual-encoder Vision-Language Models (VLMs) such as CLIP are often characterized as bag-of-words systems due to their poor performance on compositional benchmarks. We argue that this limitation may stem less from deficient representations than from the standard inference protocol based on global cosi...
+
+#### [Anthropogenic Regional Adaptation in Multimodal Vision-Language Model](http://arxiv.org/abs/2604.11490v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-14/Anthropogenic_Regional_Adaptation_in_Multimodal_Vi.pdf)
+- **领域**: cs.AI
+- **核心摘要**: While the field of vision-language (VL) has achieved remarkable success in integrating visual and textual information across multiple languages and domains, there is still no dedicated framework for assessing human-centric alignment in vision-language systems. We offer two contributions to address t...
+
+#### [Scene Change Detection with Vision-Language Representation Learning](http://arxiv.org/abs/2604.11402v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-14/Scene_Change_Detection_with_Vision-Language_Repres.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Scene change detection (SCD) is crucial for urban monitoring and navigation but remains challenging in real-world environments due to lighting variations, seasonal shifts, viewpoint differences, and complex urban layouts. Existing methods rely primarily on low-level visual features, limiting their a...
+
+#### [What Do Vision-Language Models Encode for Personalized Image Aesthetics Assessment?](http://arxiv.org/abs/2604.11374v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-14/What_Do_Vision-Language_Models_Encode_for_Personal.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Personalized image aesthetics assessment (PIAA) is an important research problem with practical real-world applications. While methods based on vision-language models (VLMs) are promising candidates for PIAA, it remains unclear whether they internally encode rich, multi-level aesthetic attributes re...
+
