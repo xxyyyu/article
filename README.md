@@ -2023,3 +2023,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Personalized image aesthetics assessment (PIAA) is an important research problem with practical real-world applications. While methods based on vision-language models (VLMs) are promising candidates for PIAA, it remains unclear whether they internally encode rich, multi-level aesthetic attributes re...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-15
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis](http://arxiv.org/abs/2604.13035v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-15/SceneCritic_A_Symbolic_Evaluator_for_3D_Indoor_Sce.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Language Models (LLMs) and Vision-Language Models (VLMs) increasingly generate indoor scenes through intermediate structures such as layouts and scene graphs, yet evaluation still relies on LLM or VLM judges that score rendered views, making judgments sensitive to viewpoint, prompt phrasing, a...
+
+#### [Representation geometry shapes task performance in vision-language modeling for CT enterography](http://arxiv.org/abs/2604.13021v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-15/Representation_geometry_shapes_task_performance_in.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Computed tomography (CT) enterography is a primary imaging modality for assessing inflammatory bowel disease (IBD), yet the representational choices that best support automated analysis of this modality are unknown. We present the first study of vision-language transfer learning on abdominal CT ente...
+
+#### [GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts](http://arxiv.org/abs/2604.12978v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-15/GlotOCR_Bench_OCR_Models_Still_Struggle_Beyond_a_H.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Optical character recognition (OCR) has advanced rapidly with the rise of vision-language models, yet evaluation has remained concentrated on a small cluster of high- and mid-resource scripts. We introduce GlotOCR Bench, a comprehensive benchmark evaluating OCR generalization across 100+ Unicode scr...
+
+#### [Challenging Vision-Language Models with Physically Deployable Multimodal Semantic Lighting Attacks](http://arxiv.org/abs/2604.12833v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-15/Challenging_Vision-Language_Models_with_Physically.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have shown remarkable performance, yet their security remains insufficiently understood. Existing adversarial studies focus almost exclusively on the digital setting, leaving physical-world threats largely unexplored. As VLMs are increasingly deployed in real environmen...
+
+#### [VULCAN: Vision-Language-Model Enhanced Multi-Agent Cooperative Navigation for Indoor Fire-Disaster Response](http://arxiv.org/abs/2604.12831v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-15/VULCAN_Vision-Language-Model_Enhanced_Multi-Agent_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Indoor fire disasters pose severe challenges to autonomous search and rescue due to dense smoke, high temperatures, and dynamically evolving indoor environments. In such time-critical scenarios, multi-agent cooperative navigation is particularly useful, as it enables faster and broader exploration t...
+
+#### [Do VLMs Truly "Read" Candlesticks? A Multi-Scale Benchmark for Visual Stock Price Forecasting](http://arxiv.org/abs/2604.12659v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-15/Do_VLMs_Truly_Read_Candlesticks_A_Multi-Scale_Benc.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Vision-language models(VLMs) are increasingly applied to visual stock price forecasting, yet existing benchmarks inadequately evaluate their understanding of stock price in candlestick charts. First, prior studies fail to isolate VLMs' comprehension of visual inputs genuinely improves predictive per...
+
+#### [PromptEcho: Annotation-Free Reward from Vision-Language Models for Text-to-Image Reinforcement Learning](http://arxiv.org/abs/2604.12652v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-15/PromptEcho_Annotation-Free_Reward_from_Vision-Lang.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reinforcement learning (RL) can improve the prompt following capability of text-to-image (T2I) models, yet obtaining high-quality reward signals remains challenging: CLIP Score is too coarse-grained, while VLM-based reward models (e.g., RewardDance) require costly human-annotated preference data and...
+
+#### [Every Picture Tells a Dangerous Story: Memory-Augmented Multi-Agent Jailbreak Attacks on VLMs](http://arxiv.org/abs/2604.12616v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-15/Every_Picture_Tells_a_Dangerous_Story_Memory-Augme.pdf)
+- **领域**: cs.AI
+- **核心摘要**: The rapid evolution of Vision-Language Models (VLMs) has catalyzed unprecedented capabilities in artificial intelligence; however, this continuous modal expansion has inadvertently exposed a vastly broadened and unconstrained adversarial attack surface. Current multimodal jailbreak strategies primar...
+
+#### [Cross-Attentive Multiview Fusion of Vision-Language Embeddings](http://arxiv.org/abs/2604.12551v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-15/Cross-Attentive_Multiview_Fusion_of_Vision-Languag.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models have been key to the development of open-vocabulary 2D semantic segmentation. Lifting these models from 2D images to 3D scenes, however, remains a challenging problem. Existing approaches typically back-project and average 2D descriptors across views, or heuristically select a...
+
+#### [MODIX: A Training-Free Multimodal Information-Driven Positional Index Scaling for Vision-Language Models](http://arxiv.org/abs/2604.12537v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-15/MODIX_A_Training-Free_Multimodal_Information-Drive.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have achieved remarkable progress in multimodal understanding, yet their positional encoding mechanisms remain suboptimal. Existing approaches uniformly assign positional indices to all tokens, overlooking variations in information density within and across modalities, ...
+
