@@ -2078,3 +2078,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Vision-Language Models (VLMs) have achieved remarkable progress in multimodal understanding, yet their positional encoding mechanisms remain suboptimal. Existing approaches uniformly assign positional indices to all tokens, overlooking variations in information density within and across modalities, ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-16
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding](http://arxiv.org/abs/2604.14149v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-16/One_Token_per_Highly_Selective_Frame_Towards_Extre.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Long video understanding is inherently challenging for vision-language models (VLMs) because of the extensive number of frames. With each video frame typically expanding into tens or hundreds of tokens, the limited context length of large language models (LLMs) forces the VLMs to perceive the frames...
+
+#### [HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System](http://arxiv.org/abs/2604.14125v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-16/HiVLA_A_Visual-Grounded-Centric_Hierarchical_Embod.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While end-to-end Vision-Language-Action (VLA) models offer a promising paradigm for robotic manipulation, fine-tuning them on narrow control data often compromises the profound reasoning capabilities inherited from their base Vision-Language Models (VLMs). To resolve this fundamental trade-off, we p...
+
+#### [Training-Free Semantic Multi-Object Tracking with Vision-Language Models](http://arxiv.org/abs/2604.14074v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-16/Training-Free_Semantic_Multi-Object_Tracking_with_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Semantic Multi-Object Tracking (SMOT) extends multi-object tracking with semantic outputs such as video summaries, instance-level captions, and interaction labels, aiming to move from trajectories to human-interpretable descriptions of dynamic scenes. Existing SMOT systems are trained end-to-end, co...
+
+#### [Reward Design for Physical Reasoning in Vision-Language Models](http://arxiv.org/abs/2604.13993v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-16/Reward_Design_for_Physical_Reasoning_in_Vision-Lan.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Physical reasoning over visual inputs demands tight integration of visual perception, domain knowledge, and multi-step symbolic inference. Yet even state-of-the-art Vision Language Models (VLMs) fall far short of human performance on physics benchmarks. While post-training algorithms such as Supervi...
+
+#### [MApLe: Multi-instance Alignment of Diagnostic Reports and Large Medical Images](http://arxiv.org/abs/2604.13970v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-16/MApLe_Multi-instance_Alignment_of_Diagnostic_Repor.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In diagnostic reports, experts encode complex imaging data into clinically actionable information. They describe subtle pathological findings that are meaningful in their anatomical context. Reports follow relatively consistent structures, expressing diagnostic information with few words that are of...
+
+#### [GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis](http://arxiv.org/abs/2604.13888v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-16/GeoAgentBench_A_Dynamic_Execution_Benchmark_for_To.pdf)
+- **领域**: cs.AI
+- **核心摘要**: The integration of Large Language Models (LLMs) into Geographic Information Systems (GIS) marks a paradigm shift toward autonomous spatial analysis. However, evaluating these LLM-based agents remains challenging due to the complex, multi-step nature of geospatial workflows. Existing benchmarks prima...
+
+#### [Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation](http://arxiv.org/abs/2604.13803v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-16/Gaslight_Gatekeep_V1-V3_Early_Visual_Cortex_Alignm.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models are increasingly deployed in high-stakes settings, yet their susceptibility to sycophantic manipulation remains poorly understood, particularly in relation to how these models represent visual information internally. Whether models whose visual representations more closely mir...
+
+#### [Failure Identification in Imitation Learning Via Statistical and Semantic Filtering](http://arxiv.org/abs/2604.13788v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-16/Failure_Identification_in_Imitation_Learning_Via_S.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Imitation learning (IL) policies in robotics deliver strong performance in controlled settings but remain brittle in real-world deployments: rare events such as hardware faults, defective parts, unexpected human actions, or any state that lies outside the training distribution can lead to failed exe...
+
+#### [Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap](http://arxiv.org/abs/2604.13654v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-16/Vision-and-Language_Navigation_for_UAVs_Progress_C.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-and-Language Navigation for Unmanned Aerial Vehicles (UAV-VLN) represents a pivotal challenge in embodied artificial intelligence, focused on enabling UAVs to interpret high-level human commands and execute long-horizon tasks in complex 3D environments. This paper provides a comprehensive and...
+
+#### [SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance](http://arxiv.org/abs/2604.13581v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-16/SocialMirror_Reconstructing_3D_Human_Interaction_B.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Accurately reconstructing human behavior in close-interaction scenarios is crucial for enabling realistic virtual interactions in augmented reality, precise motion analysis in sports, and natural collaborative behavior in human-robot tasks. Reliable reconstruction in these contexts significantly enh...
+
