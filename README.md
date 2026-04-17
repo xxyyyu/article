@@ -2133,3 +2133,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Accurately reconstructing human behavior in close-interaction scenarios is crucial for enabling realistic virtual interactions in augmented reality, precise motion analysis in sports, and natural collaborative behavior in human-robot tasks. Reliable reconstruction in these contexts significantly enh...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-17
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Why Do Vision Language Models Struggle To Recognize Human Emotions?](http://arxiv.org/abs/2604.15280v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-17/Why_Do_Vision_Language_Models_Struggle_To_Recogniz.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Understanding emotions is a fundamental ability for intelligent systems to be able to interact with humans. Vision-language models (VLMs) have made tremendous progress in the last few years for many visual tasks, potentially offering a promising solution for understanding emotions. However, it is su...
+
+#### [RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography](http://arxiv.org/abs/2604.15231v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-17/RadAgent_A_tool-using_AI_agent_for_stepwise_interp.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-language models (VLM) have markedly advanced AI-driven interpretation and reporting of complex medical imaging, such as computed tomography (CT). Yet, existing methods largely relegate clinicians to passive observers of final outputs, offering no interpretable reasoning trace for them to insp...
+
+#### [UrbanClipAtlas: A Visual Analytics Framework for Event and Scene Retrieval in Urban Videos](http://arxiv.org/abs/2604.15225v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-17/UrbanClipAtlas_A_Visual_Analytics_Framework_for_Ev.pdf)
+- **领域**: cs.HC
+- **核心摘要**: Extracting actionable insights from long-duration urban videos is often labor-intensive: analysts must manually sift through raw footage to pinpoint target events or uncover broader behavioral trends. In this work, we present URBANCLIPATLAS, a visual analytics system for exploring long urban videos ...
+
+#### [VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models](http://arxiv.org/abs/2604.15188v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-17/VisPCO_Visual_Token_Pruning_Configuration_Optimiza.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual token pruning methods effectively mitigate the quadratic computational growth caused by processing high-resolution images and video frames in vision-language models (VLMs). However, existing approaches rely on predefined pruning configurations without determining whether they achieve computat...
+
+#### [OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](http://arxiv.org/abs/2604.15093v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-17/OpenMobile_Building_Open_Mobile_Agents_with_Task_a.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Mobile agents powered by vision-language models have demonstrated impressive capabilities in automating mobile tasks, with recent leading models achieving a marked performance leap, e.g., nearly 70% success on AndroidWorld. However, these systems keep their training data closed and remain opaque abo...
+
+#### [Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID](http://arxiv.org/abs/2604.15090v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-17/Beyond_Visual_Cues_Semantic-Driven_Token_Filtering.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Any-Time Person Re-identification (AT-ReID) necessitates the robust retrieval of target individuals under arbitrary conditions, encompassing both modality shifts (daytime and nighttime) and extensive clothing-change scenarios, ranging from short-term to long-term intervals. However, existing methods...
+
+#### [UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards](http://arxiv.org/abs/2604.14967v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-17/UniDoc-RL_Coarse-to-Fine_Visual_RAG_with_Hierarchi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Retrieval-Augmented Generation (RAG) extends Large Vision-Language Models (LVLMs) with external visual knowledge. However, existing visual RAG systems typically rely on generic retrieval signals that overlook the fine-grained visual semantics essential for complex reasoning. To address this limitati...
+
+#### [Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models](http://arxiv.org/abs/2604.14920v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-17/Dual-Axis_Generative_Reward_Model_Toward_Semantic_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Achieving seamless, human-like interaction remains a key challenge for full-duplex spoken dialogue models (SDMs). Reinforcement learning (RL) has substantially enhanced text- and vision-language models, while well-designed reward signals are crucial for the performance of RL. We consider RL a promis...
+
+#### [ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints](http://arxiv.org/abs/2604.14902v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-17/ADAPT_Benchmarking_Commonsense_Planning_under_Unsp.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Intelligent embodied agents should not simply follow instructions, as real-world environments often involve unexpected conditions and exceptions. However, existing methods usually focus on directly executing instructions, without considering whether the target objects can actually be manipulated, me...
+
+#### [Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models](http://arxiv.org/abs/2604.14888v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-17/Reasoning_Dynamics_and_the_Limits_of_Monitoring_Mo.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Recent advances in vision language models (VLMs) offer reasoning capabilities, yet how these unfold and integrate visual and textual information remains unclear. We analyze reasoning dynamics in 18 VLMs covering instruction-tuned and reasoning-trained models from two different model families. We tra...
+
