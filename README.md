@@ -2298,3 +2298,58 @@
 - **领域**: cs.CL
 - **核心摘要**: Recent advances in vision language models (VLMs) offer reasoning capabilities, yet how these unfold and integrate visual and textual information remains unclear. We analyze reasoning dynamics in 18 VLMs covering instruction-tuned and reasoning-trained models from two different model families. We tra...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-20
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects](http://arxiv.org/abs/2604.16272v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-20/VEFX-Bench_A_Holistic_Benchmark_for_Generic_Video_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: As AI-assisted video creation becomes increasingly practical, instruction-guided video editing has become essential for refining generated or captured footage to meet professional requirements. Yet the field still lacks both a large-scale human-annotated dataset with complete editing examples and a ...
+
+#### [Information Router for Mitigating Modality Dominance in Vision-Language Models](http://arxiv.org/abs/2604.16264v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-20/Information_Router_for_Mitigating_Modality_Dominan.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision Language models (VLMs) have demonstrated strong performance across a wide range of benchmarks, yet they often suffer from modality dominance, where predictions rely disproportionately on a single modality. Prior approaches primarily address this issue by steering model's attention allocation,...
+
+#### [Do Vision-Language Models Truly Perform Vision Reasoning? A Rigorous Study of the Modality Gap](http://arxiv.org/abs/2604.16256v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-20/Do_Vision-Language_Models_Truly_Perform_Vision_Rea.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reasoning in vision-language models (VLMs) has recently attracted significant attention due to its broad applicability across diverse downstream tasks. However, it remains unclear whether the superior performance of VLMs stems from genuine vision-grounded reasoning or relies predominantly on the rea...
+
+#### [Where Do Vision-Language Models Fail? World Scale Analysis for Image Geolocalization](http://arxiv.org/abs/2604.16248v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-20/Where_Do_Vision-Language_Models_Fail_World_Scale_A.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Image geolocalization has traditionally been addressed through retrieval-based place recognition or geometry-based visual localization pipelines. Recent advances in Vision-Language Models (VLMs) have demonstrated strong zero-shot reasoning capabilities across multimodal tasks, yet their performance ...
+
+#### [MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation](http://arxiv.org/abs/2604.16175v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-20/MARCH_Multi-Agent_Radiology_Clinical_Hierarchy_for.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Automated 3D radiology report generation often suffers from clinical hallucinations and a lack of the iterative verification found in human practice. While recent Vision-Language Models (VLMs) have advanced the field, they typically operate as monolithic "black-box" systems without the collaborative...
+
+#### [DenTab: A Dataset for Table Recognition and Visual QA on Real-World Dental Estimates](http://arxiv.org/abs/2604.16099v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-20/DenTab_A_Dataset_for_Table_Recognition_and_Visual_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Tables condense key transactional and administrative information into compact layouts, but practical extraction requires more than text recognition: systems must also recover structure (rows, columns, merged cells, headers) and interpret roles such as line items, subtotals, and totals under common c...
+
+#### [AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning](http://arxiv.org/abs/2604.16067v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-20/AEGIS_Anchor-Enforced_Gradient_Isolation_for_Knowl.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Adapting pre-trained vision-language models (VLMs) for robotic control requires injecting high-magnitude continuous gradients from a flow-matching action expert into a backbone trained exclusively with cross-entropy. This cross-modal gradient asymmetry - the spectral dimensionality mismatch between ...
+
+#### [AstroVLM: Expert Multi-agent Collaborative Reasoning for Astronomical Imaging Quality Diagnosis](http://arxiv.org/abs/2604.16024v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-20/AstroVLM_Expert_Multi-agent_Collaborative_Reasonin.pdf)
+- **领域**: cs.MA
+- **核心摘要**: Vision Language Models (VLMs) have been applied to several specific domains and have shown strong problem-solving capabilities. However, astronomical imaging, a quite complex problem involving multidisciplinary knowledge and several subtasks, has not been adequately studied. Due to the complexity of...
+
+#### [SENSE: Stereo OpEN Vocabulary SEmantic Segmentation](http://arxiv.org/abs/2604.15946v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-20/SENSE_Stereo_OpEN_Vocabulary_SEmantic_Segmentation.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Open-vocabulary semantic segmentation enables models to segment objects or image regions beyond fixed class sets, offering flexibility in dynamic environments. However, existing methods often rely on single-view images and struggle with spatial precision, especially under occlusions and near object ...
+
+#### [Aligning What Vision-Language Models See and Perceive with Adaptive Information Flow](http://arxiv.org/abs/2604.15809v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-20/Aligning_What_Vision-Language_Models_See_and_Perce.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have demonstrated strong capability in a wide range of tasks such as visual recognition, document parsing, and visual grounding. Nevertheless, recent work shows that while VLMs often manage to capture the correct image region corresponding to the question, they do not n...
+
