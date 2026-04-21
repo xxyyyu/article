@@ -2353,3 +2353,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Vision-Language Models (VLMs) have demonstrated strong capability in a wide range of tasks such as visual recognition, document parsing, and visual grounding. Nevertheless, recent work shows that while VLMs often manage to capture the correct image region corresponding to the question, they do not n...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-21
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [S2H-DPO: Hardness-Aware Preference Optimization for Vision-Language Models](http://arxiv.org/abs/2604.18512v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-21/S2H-DPO_Hardness-Aware_Preference_Optimization_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have demonstrated remarkable progress in single-image understanding, yet effective reasoning across multiple images remains challenging. We identify a critical capability gap in existing multi-image alignment approaches: current methods focus primarily on localized reas...
+
+#### [XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](http://arxiv.org/abs/2604.18484v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-21/XEmbodied_A_Foundation_Model_with_Enhanced_Geometr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language-Action (VLA) models drive next-generation autonomous systems, but training them requires scalable, high-quality annotations from complex environments. Current cloud pipelines rely on generic vision-language models (VLMs) that lack geometric reasoning and domain semantics due to their...
+
+#### [ESsEN: Training Compact Discriminative Vision-Language Transformers in a Low-Resource Setting](http://arxiv.org/abs/2604.18452v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-21/ESsEN_Training_Compact_Discriminative_Vision-Langu.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language modeling is rapidly increasing in popularity with an ever expanding list of available models. In most cases, these vision-language models have parameters in the tens of billions, which is necessary for some needs, but in many cases smaller models are necessary (e.g., on edge devices ...
+
+#### [ProtoCLIP: Prototype-Aligned Latent Refinement for Robust Zero-Shot Chest X-Ray Classification](http://arxiv.org/abs/2604.18444v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-21/ProtoCLIP_Prototype-Aligned_Latent_Refinement_for_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Zero-shot vision-language models (VLMs) have shown promise for chest radiograph classification, but their performance is often limited by confounding label co-occurrence, long-tail class imbalance, and transfer instability under domain shift. We propose ProtoCLIP, a refinement strategy for CLIP-styl...
+
+#### [Revisiting Change VQA in Remote Sensing with Structured and Native Multimodal Qwen Models](http://arxiv.org/abs/2604.18429v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-21/Revisiting_Change_VQA_in_Remote_Sensing_with_Struc.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Change visual question answering (Change VQA) addresses the problem of answering natural-language questions about semantic changes between bi-temporal remote sensing (RS) images. Although vision-language models (VLMs) have recently been studied for temporal RS image understanding, Change VQA remains...
+
+#### [Multilingual Training and Evaluation Resources for Vision-Language Models](http://arxiv.org/abs/2604.18347v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-21/Multilingual_Training_and_Evaluation_Resources_for.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision Language Models (VLMs) achieved rapid progress in the recent years. However, despite their growth, VLMs development is heavily grounded on English, leading to two main limitations: (i) the lack of multilingual and multimodal datasets for training, and (ii) the scarcity of comprehensive evalua...
+
+#### [Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models](http://arxiv.org/abs/2604.18107v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-21/Test-Time_Perturbation_Learning_with_Delayed_Feedb.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language-Action models (VLAs) achieve remarkable performance in sequential decision-making but remain fragile to subtle environmental shifts, such as small changes in object pose. We attribute this brittleness to trajectory overfitting, where VLAs over-attend to the spurious correlation betwe...
+
+#### [Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting](http://arxiv.org/abs/2604.18075v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-21/Enhancing_Continual_Learning_of_Vision-Language_Mo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We investigate recently introduced domain-class incremental learning scenarios for vision-language models (VLMs). Recent works address this challenge using parameter-efficient methods, such as prefix-tuning or adapters, which facilitate model adaptation to downstream tasks by incorporating task-spec...
+
+#### [Mitigating Multimodal Hallucination via Phase-wise Self-reward](http://arxiv.org/abs/2604.17982v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-21/Mitigating_Multimodal_Hallucination_via_Phase-wise.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) still struggle with vision hallucination, where generated responses are inconsistent with the visual input. Existing methods either rely on large-scale annotated data for fine-tuning, which incurs massive computational overhead, or employ static post-hoc strategi...
+
+#### [From Heads to Neurons: Causal Attribution and Steering in Multi-Task Vision-Language Models](http://arxiv.org/abs/2604.17941v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-21/From_Heads_to_Neurons_Causal_Attribution_and_Steer.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent work has increasingly explored neuron-level interpretation in vision-language models (VLMs) to identify neurons critical to final predictions. However, existing neuron analyses generally focus on single tasks, limiting the comparability of neuron importance across tasks. Moreover, ranking str...
+
