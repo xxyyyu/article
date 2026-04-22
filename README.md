@@ -2408,3 +2408,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Recent work has increasingly explored neuron-level interpretation in vision-language models (VLMs) to identify neurons critical to final predictions. However, existing neuron analyses generally focus on single tasks, limiting the comparability of neuron importance across tasks. Moreover, ranking str...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-22
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement](http://arxiv.org/abs/2604.19673v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-22/InHabit_Leveraging_Image_Foundation_Models_for_Sca.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Training embodied agents to understand 3D scenes as humans do requires large-scale data of people meaningfully interacting with diverse environments, yet such data is scarce. Real-world motion capture is costly and limited to controlled settings, while existing synthetic datasets rely on simple geom...
+
+#### [A Gesture-Based Visual Learning Model for Acoustophoretic Interactions using a Swarm of AcoustoBots](http://arxiv.org/abs/2604.19643v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-22/A_Gesture-Based_Visual_Learning_Model_for_Acoustop.pdf)
+- **领域**: cs.RO
+- **核心摘要**: AcoustoBots are mobile acoustophoretic robots capable of delivering mid-air haptics, directional audio, and acoustic levitation, but existing implementations rely on scripted commands and lack an intuitive interface for real-time human control. This work presents a gesture-based visual learning fram...
+
+#### [CreatiParser: Generative Image Parsing of Raster Graphic Designs into Editable Layers](http://arxiv.org/abs/2604.19632v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-22/CreatiParser_Generative_Image_Parsing_of_Raster_Gr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Graphic design images consist of multiple editable layers, such as text, background, and decorative elements, while most generative models produce rasterized outputs without explicit layer structures, limiting downstream editing. Existing graphic design parsing methods typically rely on multi-stage ...
+
+#### [Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic](http://arxiv.org/abs/2604.19567v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-22/Multi-modal_Reasoning_with_LLMs_for_Visual_Semanti.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Reinforcement learning (RL) as post-training is crucial for enhancing the reasoning ability of large language models (LLMs) in coding and math. However, their capacity for visual semantic arithmetic, inferring relationships from images, remains underexplored. The classic text analogy "king"-"man"+"w...
+
+#### [FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization](http://arxiv.org/abs/2604.19541v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-22/FOCAL_Filtered_On-device_Continuous_Activity_Loggi.pdf)
+- **领域**: cs.MA
+- **核心摘要**: Desktop interaction streams provide a continuous, privacy-sensitive record of interleaved user tasks. Transforming these streams into task-organized personal logs on-device faces two main challenges: exhaustive Vision-Language Model (VLM) processing strains local resources, and global stream process...
+
+#### [GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation](http://arxiv.org/abs/2604.19522v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-22/GenerativeMPC_VLM-RAG-guided_Whole-Body_MPC_with_V.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Bimanual mobile manipulation requires a seamless integration between high-level semantic reasoning and safe, compliant physical interaction - a challenge that end-to-end models approach opaquely and classical controllers lack the context to address. This paper presents GenerativeMPC, a hierarchical ...
+
+#### [Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies](http://arxiv.org/abs/2604.19509v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-22/Assessing_VLM-Driven_Semantic-Affordance_Inference.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language models (VLMs) have demonstrated remarkable capabilities in understanding human-object interactions, but their application to robotic systems with non-humanoid morphologies remains largely unexplored. This work investigates whether VLMs can effectively infer affordances for robots wit...
+
+#### [Direction-Dependent Path Loss Modeling in Olive Orchards for Precision Agriculture](http://arxiv.org/abs/2604.19427v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-22/Direction-Dependent_Path_Loss_Modeling_in_Olive_Or.pdf)
+- **领域**: cs.NI
+- **核心摘要**: Wireless links deployed in orchards often exhibit significant variability in the strength of the received signal that is not adequately captured by classical distance-based propagation models. In row-structured olive groves, signal attenuation differs markedly between along-row and cross-row propaga...
+
+#### [VCE: A zero-cost hallucination mitigation method of LVLMs via visual contrastive editing](http://arxiv.org/abs/2604.19412v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-22/VCE_A_zero-cost_hallucination_mitigation_method_of.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) frequently suffer from Object Hallucination (OH), wherein they generate descriptions containing objects that are not actually present in the input image. This phenomenon is particularly problematic in real-world applications such as medical imaging and autonomous...
+
+#### [Lost in Translation: Do LVLM Judges Generalize Across Languages?](http://arxiv.org/abs/2604.19405v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-22/Lost_in_Translation_Do_LVLM_Judges_Generalize_Acro.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Automatic evaluators such as reward models play a central role in the alignment and evaluation of large vision-language models (LVLMs). Despite their growing importance, these evaluators are almost exclusively assessed on English-centric benchmarks, leaving open the question of how well these evalua...
+
