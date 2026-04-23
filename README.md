@@ -2463,3 +2463,58 @@
 - **领域**: cs.CL
 - **核心摘要**: Automatic evaluators such as reward models play a central role in the alignment and evaluation of large vision-language models (LVLMs). Despite their growing importance, these evaluators are almost exclusively assessed on English-centric benchmarks, leaving open the question of how well these evalua...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-23
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](http://arxiv.org/abs/2604.20834v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-23/PokeVLA_Empowering_Pocket-Sized_Vision-Language-Ac.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Recent advances in Vision-Language-Action (VLA) models have opened new avenues for robot manipulation, yet existing methods exhibit limited efficiency and a lack of high-level knowledge and spatial awareness. To address these challenges, we propose PokeVLA, a lightweight yet powerful foundation mode...
+
+#### [OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model](http://arxiv.org/abs/2604.20806v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-23/OMIBench_Benchmarking_Olympiad-Level_Multi-Image_R.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) have made substantial advances in reasoning tasks at the Olympiad level. Nevertheless, current Olympiad-level multimodal reasoning benchmarks for these models often emphasize single-image analysis and fail to exploit contextual information across multiple images....
+
+#### [R-CoV: Region-Aware Chain-of-Verification for Alleviating Object Hallucinations in LVLMs](http://arxiv.org/abs/2604.20696v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-23/R-CoV_Region-Aware_Chain-of-Verification_for_Allev.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) have demonstrated impressive performance in various multimodal understanding and reasoning tasks. However, they still struggle with object hallucinations, i.e., the claim of nonexistent objects in the visual input. To address this challenge, we propose Region-awa...
+
+#### [The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm](http://arxiv.org/abs/2604.20665v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-23/The_Expense_of_Seeing_Attaining_Trustworthy_Multim.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The rapid proliferation of Vision-Language Models (VLMs) is widely celebrated as the dawn of unified multimodal knowledge discovery but its foundation operates on a dangerous, unquestioned axiom: that current VLMs faithfully synthesise multimodal data. We argue they do not. Instead, a profound crisi...
+
+#### [Evian: Towards Explainable Visual Instruction-tuning Data Auditing](http://arxiv.org/abs/2604.20544v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-23/Evian_Towards_Explainable_Visual_Instruction-tunin.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The efficacy of Large Vision-Language Models (LVLMs) is critically dependent on the quality of their training data, requiring a precise balance between visual fidelity and instruction-following capability. Existing datasets, however, are plagued by inconsistent quality, and current data filtering me...
+
+#### [Fast-then-Fine: A Two-Stage Framework with Multi-Granular Representation for Cross-Modal Retrieval in Remote Sensing](http://arxiv.org/abs/2604.20429v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-23/Fast-then-Fine_A_Two-Stage_Framework_with_Multi-Gr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Remote sensing (RS) image-text retrieval plays a critical role in understanding massive RS imagery. However, the dense multi-object distribution and complex backgrounds in RS imagery make it difficult to simultaneously achieve fine-grained cross-modal alignment and efficient retrieval. Existing meth...
+
+#### [Mitigating Hallucinations in Large Vision-Language Models without Performance Degradation](http://arxiv.org/abs/2604.20366v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-23/Mitigating_Hallucinations_in_Large_Vision-Language.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) exhibit powerful generative capabilities but frequently produce hallucinations that compromise output reliability. Fine-tuning on annotated data devoid of hallucinations offers the most direct solution, while its high computational cost motivates recent represent...
+
+#### [Object Referring-Guided Scanpath Prediction with Perception-Enhanced Vision-Language Models](http://arxiv.org/abs/2604.20361v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-23/Object_Referring-Guided_Scanpath_Prediction_with_P.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Object Referring-guided Scanpath Prediction (ORSP) aims to predict the human attention scanpath when they search for a specific target object in a visual scene according to a linguistic description describing the object. Multimodal information fusion is a key point of ORSP. Therefore, we propose a n...
+
+#### [From Scene to Object: Text-Guided Dual-Gaze Prediction](http://arxiv.org/abs/2604.20191v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-23/From_Scene_to_Object_Text-Guided_Dual-Gaze_Predict.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Interpretable driver attention prediction is crucial for human-like autonomous driving. However, existing datasets provide only scene-level global gaze rather than fine-grained object-level annotations, inherently failing to support text-grounded cognitive modeling. Consequently, while Vision-Langua...
+
+#### [EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training](http://arxiv.org/abs/2604.20012v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-23/EmbodiedMidtrain_Bridging_the_Gap_between_Vision-L.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language-Action Models (VLAs) inherit their visual and linguistic capabilities from Vision-Language Models (VLMs), yet most VLAs are built from off-the-shelf VLMs that are not adapted to the embodied domain, limiting their downstream performance. In this work, we propose EmbodiedMidtrain to b...
+
