@@ -2518,3 +2518,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Vision-Language-Action Models (VLAs) inherit their visual and linguistic capabilities from Vision-Language Models (VLMs), yet most VLAs are built from off-the-shelf VLMs that are not adapted to the embodied domain, limiting their downstream performance. In this work, we propose EmbodiedMidtrain to b...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-24
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](http://arxiv.org/abs/2604.21911v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-24/When_Prompts_Override_Vision_Prompt-Induced_Halluc.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior work has attributed hallucinations in LVLMs to factors such as limitations of the vision backbone or ...
+
+#### [From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media](http://arxiv.org/abs/2604.21786v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-24/From_Codebooks_to_VLMs_Evaluating_Automated_Visual.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Social media platforms have become primary arenas for climate communication, generating millions of images and posts that - if systematically analysed - can reveal which communication strategies mobilise public concern and which fall flat. We aim to facilitate such research by analysing how computer...
+
+#### [Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation](http://arxiv.org/abs/2604.21772v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-24/Back_to_Source_Open-Set_Continual_Test-Time_Adapta.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-Time Adaptation (TTA) aims to mitigate distributional shifts between training and test domains during inference time. However, existing TTA methods fall short in the realistic scenario where models face both continually changing domains and the simultaneous emergence of unknown semantic classes...
+
+#### [High-speed hyperspectral 3D ghost imaging LiDAR](http://arxiv.org/abs/2604.21742v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-24/High-speed_hyperspectral_3D_ghost_imaging_LiDAR.pdf)
+- **领域**: physics.optics
+- **核心摘要**: Light detection and ranging (LiDAR) is widely used in autonomous systems and industrial metrology; however, the simultaneous acquisition of three-dimensional (3D) structure and broadband spectral information remains challenging, as conventional hyperspectral LiDAR relies on wavelength-scanning or sp...
+
+#### [Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection](http://arxiv.org/abs/2604.21728v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-24/Ramen_Robust_Test-Time_Adaptation_of_Vision-Langua.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Pretrained vision-language models such as CLIP exhibit strong zero-shot generalization but remain sensitive to distribution shifts. Test-time adaptation adapts models during inference without access to source data or target labels, offering a practical way to handle such shifts. However, existing me...
+
+#### [Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models](http://arxiv.org/abs/2604.21523v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-24/Seeing_Isnt_Believing_Uncovering_Blind_Spots_in_Ev.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (VLMs) are increasingly used to evaluate outputs of other models, for image-to-text (I2T) tasks such as visual question answering, and text-to-image (T2I) generation tasks. Despite this growing reliance, the reliability of these Evaluator VLMs remains under explored. In ...
+
+#### [VG-CoT: Towards Trustworthy Visual Reasoning via Grounded Chain-of-Thought](http://arxiv.org/abs/2604.21396v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-24/VG-CoT_Towards_Trustworthy_Visual_Reasoning_via_Gr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The advancement of Large Vision-Language Models (LVLMs) requires precise local region-based reasoning that faithfully grounds the model's logic in actual visual evidence. However, existing datasets face limitations in scalability due to extensive manual annotation and lack of explicit alignment betw...
+
+#### [A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration](http://arxiv.org/abs/2604.21363v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-24/A_Deployable_Embodied_Vision-Language_Navigation_S.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Bridging the gap between embodied intelligence and embedded deployment remains a key challenge in intelligent robotic systems, where perception, reasoning, and planning must operate under strict constraints on computation, memory, energy, and real-time execution. In vision-language navigation (VLN),...
+
+#### [Prototype-Based Test-Time Adaptation of Vision-Language Models](http://arxiv.org/abs/2604.21360v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-24/Prototype-Based_Test-Time_Adaptation_of_Vision-Lan.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-time adaptation (TTA) has emerged as a promising paradigm for vision-language models (VLMs) to bridge the distribution gap between pre-training and test data. Recent works have focused on backpropagation-free TTA methods that rely on cache-based designs, but these introduce two key limitations....
+
+#### [Symbolic Grounding Reveals Representational Bottlenecks in Abstract Visual Reasoning](http://arxiv.org/abs/2604.21346v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-24/Symbolic_Grounding_Reveals_Representational_Bottle.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision--language models (VLMs) often fail on abstract visual reasoning benchmarks such as Bongard problems, raising the question of whether the main bottleneck lies in reasoning or representation. We study this on Bongard-LOGO, a synthetic benchmark of abstract concept learning with ground-truth gen...
+
