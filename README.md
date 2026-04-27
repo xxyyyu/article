@@ -2683,3 +2683,58 @@
 - **领域**: cs.AI
 - **核心摘要**: Vision--language models (VLMs) often fail on abstract visual reasoning benchmarks such as Bongard problems, raising the question of whether the main bottleneck lies in reasoning or representation. We study this on Bongard-LOGO, a synthetic benchmark of abstract concept learning with ground-truth gen...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-27
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Contrastive Semantic Projection: Faithful Neuron Labeling with Contrastive Examples](http://arxiv.org/abs/2604.22477v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-27/Contrastive_Semantic_Projection_Faithful_Neuron_La.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Neuron labeling assigns textual descriptions to internal units of deep networks. Existing approaches typically rely on highly activating examples, often yielding broad or misleading labels by focusing on dominant but incidental visual factors. Prior work such as FALCON introduced contrastive example...
+
+#### [DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning](http://arxiv.org/abs/2604.22281v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-27/DocPruneEfficient_Document_Question_Answering_via_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in vision-language models have demonstrated remarkable performance across diverse multi-modal tasks, including document question answering that leverages structured visual cues from text, tables, and figures. However, unlike natural images, document images contain large backgrounds a...
+
+#### [CAGE-SGG: Counterfactual Active Graph Evidence for Open-Vocabulary Scene Graph Generation](http://arxiv.org/abs/2604.22274v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-27/CAGE-SGG_Counterfactual_Active_Graph_Evidence_for_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Open-vocabulary scene graph generation (SGG) aims to describe visual scenes with flexible and fine-grained relation phrases beyond a fixed predicate vocabulary. While recent vision-language models greatly expand the semantic coverage of SGG, they also introduce a critical reliability issue: predicte...
+
+#### [CharTide: Data-Centric Chart-to-Code Generation via Tri-Perspective Tuning and Inquiry-Driven Evolution](http://arxiv.org/abs/2604.22192v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-27/CharTide_Data-Centric_Chart-to-Code_Generation_via.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Chart-to-code generation demands strict visual precision and syntactic correctness from Vision-Language Models (VLMs). However, existing approaches are fundamentally constrained by data-centric limitations: despite the availability of growing chart-to-code datasets, simply scaling homogeneous chart-...
+
+#### [Sum-of-Checks: Structured Reasoning for Surgical Safety with Large Vision-Language Models](http://arxiv.org/abs/2604.22156v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-27/Sum-of-Checks_Structured_Reasoning_for_Surgical_Sa.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Purpose: Accurate assessment of the Critical View of Safety (CVS) during laparoscopic cholecystectomy is essential to prevent bile duct injury, a complication associated with significant morbidity and mortality. While large vision-language models (LVLMs) offer flexible reasoning, their predictions r...
+
+#### [Incentivizing Neuro-symbolic Language-based Reasoning in VLMs via Reinforcement Learning](http://arxiv.org/abs/2604.22062v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-27/Incentivizing_Neuro-symbolic_Language-based_Reason.pdf)
+- **领域**: cs.CL
+- **核心摘要**: There are 7,407 languages in the world. But, what about the languages that are not there in the world? Are humans so narrow minded that we don't care about the languages aliens communicate in? Aliens are humans too! In the 2016 movie Arrival, Amy Adams plays a linguist, Dr. Louise Banks who, by lear...
+
+#### [Source-Modality Monitoring in Vision-Language Models](http://arxiv.org/abs/2604.22038v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-27/Source-Modality_Monitoring_in_Vision-Language_Mode.pdf)
+- **领域**: cs.CL
+- **核心摘要**: We define and investigate source-modality monitoring -- the ability of multimodal models to track and communicate the input source from which pieces of information originate. We consider source-modality monitoring as an instance of the more general binding problem, and evaluate the extent to which m...
+
+#### [When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs](http://arxiv.org/abs/2604.21911v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-27/When_Prompts_Override_Vision_Prompt-Induced_Halluc.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite impressive progress in capabilities of large vision-language models (LVLMs), these systems remain vulnerable to hallucinations, i.e., outputs that are not grounded in the visual input. Prior work has attributed hallucinations in LVLMs to factors such as limitations of the vision backbone or ...
+
+#### [From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media](http://arxiv.org/abs/2604.21786v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-27/From_Codebooks_to_VLMs_Evaluating_Automated_Visual.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Social media platforms have become primary arenas for climate communication, generating millions of images and posts that - if systematically analysed - can reveal which communication strategies mobilise public concern and which fall flat. We aim to facilitate such research by analysing how computer...
+
+#### [Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation](http://arxiv.org/abs/2604.21772v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-27/Back_to_Source_Open-Set_Continual_Test-Time_Adapta.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-Time Adaptation (TTA) aims to mitigate distributional shifts between training and test domains during inference time. However, existing TTA methods fall short in the realistic scenario where models face both continually changing domains and the simultaneous emergence of unknown semantic classes...
+
