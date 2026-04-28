@@ -2738,3 +2738,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Test-Time Adaptation (TTA) aims to mitigate distributional shifts between training and test domains during inference time. However, existing TTA methods fall short in the realistic scenario where models face both continually changing domains and the simultaneous emergence of unknown semantic classes...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-28
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](http://arxiv.org/abs/2604.24764v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-28/World-R1_Reinforcing_3D_Constraints_for_Text-to-Vi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent video foundation models demonstrate impressive visual synthesis but frequently suffer from geometric inconsistencies. While existing methods attempt to inject 3D priors via architectural modifications, they often incur high computational costs and limit scalability. We propose World-R1, a fra...
+
+#### [Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift](http://arxiv.org/abs/2604.24602v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-28/Majorization-Guided_Test-Time_Adaptation_for_Visio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models transfer well in zero-shot settings, but at deployment the visual and textual branches often shift asymmetrically. Under this condition, entropy-based test-time adaptation can sharpen the fused posterior while increasing error, because an unreliable modality may still dominate...
+
+#### [A systematic evaluation of vision-language models for observational astronomical reasoning tasks](http://arxiv.org/abs/2604.24589v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-28/A_systematic_evaluation_of_vision-language_models_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-language models (VLMs) are increasingly proposed as general-purpose tools for scientific data interpretation, yet their reliability on real astronomical observations across diverse modalities remains untested. We present AstroVLBench, a comprehensive benchmark comprising over 4,100 expert-ver...
+
+#### [Improving Vision-language Models with Perception-centric Process Reward Models](http://arxiv.org/abs/2604.24583v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-28/Improving_Vision-language_Models_with_Perception-c.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advancements in reinforcement learning with verifiable rewards (RLVR) have significantly improved the complex reasoning ability of vision-language models (VLMs). However, its outcome-level supervision is too coarse to diagnose and correct errors within the reasoning chain. To this end, we pro...
+
+#### [Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data](http://arxiv.org/abs/2604.24479v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-28/Zero-to-CAD_Agentic_Synthesis_of_Interpretable_CAD.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Computer-Aided Design (CAD) models are defined by their construction history: a parametric recipe that encodes design intent. However, existing large-scale 3D datasets predominantly consist of boundary representations (B-Reps) or meshes, stripping away this critical procedural information. To addres...
+
+#### [PhysNote: Self-Knowledge Notes for Evolvable Physical Reasoning in Vision-Language Model](http://arxiv.org/abs/2604.24443v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-28/PhysNote_Self-Knowledge_Notes_for_Evolvable_Physic.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-Language Models (VLMs) have demonstrated strong performance on textbook-style physics problems, yet they frequently fail when confronted with dynamic real-world scenarios that require temporal consistency and causal reasoning across frames. We identify two fundamental challenges underlying th...
+
+#### [AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark](http://arxiv.org/abs/2604.24441v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-28/AutoGUI-v2_A_Comprehensive_Multi-Modal_GUI_Functio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Autonomous agents capable of navigating Graphical User Interfaces (GUIs) hold the potential to revolutionize digital productivity. However, achieving true digital autonomy extends beyond reactive element matching; it necessitates a predictive mental model of interface dynamics and the ability to for...
+
+#### [Global Context or Local Detail? Adaptive Visual Grounding for Hallucination Mitigation](http://arxiv.org/abs/2604.24396v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-28/Global_Context_or_Local_Detail_Adaptive_Visual_Gro.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) are frequently undermined by object hallucination--generating content that contradicts visual reality--due to an over-reliance on linguistic priors. We introduce Positive-and-Negative Decoding (PND), a training-free inference framework that intervenes directly in the de...
+
+#### [Aligning with Your Own Voice: Self-Corrected Preference Learning for Hallucination Mitigation in LVLMs](http://arxiv.org/abs/2604.24395v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-28/Aligning_with_Your_Own_Voice_Self-Corrected_Prefer.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Large Vision-Language Models (LVLMs) frequently suffer from hallucinations. Existing preference learning-based approaches largely rely on proprietary models to construct preference datasets. We identify that this reliance introduces a distributional mismatch between the proprietary and target models...
+
+#### [Structural Pruning of Large Vision Language Models: A Comprehensive Study on Pruning Dynamics, Recovery, and Data Efficiency](http://arxiv.org/abs/2604.24380v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-28/Structural_Pruning_of_Large_Vision_Language_Models.pdf)
+- **领域**: cs.CL
+- **核心摘要**: While Large Vision Language Models (LVLMs) demonstrate impressive capabilities, their substantial computational and memory requirements pose deployment challenges on resource-constrained edge devices. Current parameter reduction techniques primarily involve training LVLMs from small language models,...
+
