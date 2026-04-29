@@ -2793,3 +2793,58 @@
 - **领域**: cs.CL
 - **核心摘要**: While Large Vision Language Models (LVLMs) demonstrate impressive capabilities, their substantial computational and memory requirements pose deployment challenges on resource-constrained edge devices. Current parameter reduction techniques primarily involve training LVLMs from small language models,...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-29
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding](http://arxiv.org/abs/2604.25884v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-29/QCalEval_Benchmarking_Vision-Language_Models_for_Q.pdf)
+- **领域**: quant-ph
+- **核心摘要**: Quantum computing calibration depends on interpreting experimental data, and calibration plots provide the most universal human-readable representation for this task, yet no systematic evaluation exists of how well vision-language models (VLMs) interpret them. We introduce QCalEval, the first VLM be...
+
+#### [Instruction-Evidence Contrastive Dual-Stream Decoding for Grounded Vision-Language Reasoning](http://arxiv.org/abs/2604.25809v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-29/Instruction-Evidence_Contrastive_Dual-Stream_Decod.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) exhibit strong performance in instruction following and open-ended vision-language reasoning, yet they frequently generate fluent outputs that are weakly grounded in visual evidence. Prior works have shown that instruction prompting further worsens this issue by amplify...
+
+#### [Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models](http://arxiv.org/abs/2604.25642v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-29/Prefill-Time_Intervention_for_Mitigating_Hallucina.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) have achieved remarkable progress in visual-textual understanding, yet their reliability is critically undermined by hallucinations, i.e., the generation of factually incorrect or inconsistent responses. While recent studies using steering vectors demonstrated pr...
+
+#### [SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents](http://arxiv.org/abs/2604.25562v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-29/SnapGuard_Lightweight_Prompt_Injection_Detection_f.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Web agents have emerged as an effective paradigm for automating interactions with complex web environments, yet remain vulnerable to prompt injection attacks that embed malicious instructions into webpage content to induce unintended actions. This threat is further amplified for screenshot-based web...
+
+#### [PI-TTA: Physics-Informed Source-Free Test-Time Adaptation for Robust Human Activity Recognition on Mobile Devices](http://arxiv.org/abs/2604.25435v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-29/PI-TTA_Physics-Informed_Source-Free_Test-Time_Adap.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Source-free test-time adaptation (TTA) is appealing for mobile and wearable sensing because it enables on-device personalization from unlabeled test streams without centralizing private data. However, sensor-based human activity recognition (HAR) poses challenges that are less pronounced in standard...
+
+#### [HuM-Eval: A Coarse-to-Fine Framework for Human-Centric Video Evaluation](http://arxiv.org/abs/2604.25361v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-29/HuM-Eval_A_Coarse-to-Fine_Framework_for_Human-Cent.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Video generation models have developed rapidly in recent years, where generating natural human motion plays a pivotal role. However, accurately evaluating the quality of generated human motion video remains a significant challenge. Existing evaluation metrics primarily focus on global scene statisti...
+
+#### [VLM Judges Can Rank but Cannot Score: Task-Dependent Uncertainty in Multimodal Evaluation](http://arxiv.org/abs/2604.25235v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-29/VLM_Judges_Can_Rank_but_Cannot_Score_Task-Dependen.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Vision-language models (VLMs) are increasingly used as automated judges for multimodal systems, yet their scores provide no indication of reliability. We study this problem through conformal prediction, a distribution-free framework that converts a judge's point score into a calibrated prediction in...
+
+#### [DRAGON: A Benchmark for Evidence-Grounded Visual Reasoning over Diagrams](http://arxiv.org/abs/2604.25231v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-29/DRAGON_A_Benchmark_for_Evidence-Grounded_Visual_Re.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Diagram question answering (DQA) requires models to interpret structured visual representations such as charts, maps, infographics, circuit schematics, and scientific diagrams. Recent vision-language models (VLMs) often achieve high answer accuracy on these tasks, yet correct answers do not guarante...
+
+#### [One Perturbation, Two Failure Modes: Probing VLM Safety via Embedding-Guided Typographic Perturbations](http://arxiv.org/abs/2604.25102v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-29/One_Perturbation_Two_Failure_Modes_Probing_VLM_Saf.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Typographic prompt injection exploits vision language models' (VLMs) ability to read text rendered in images, posing a growing threat as VLMs power autonomous agents. Prior work typically focus on maximizing attack success rate (ASR) but does not explain \emph{why} certain renderings bypass safety a...
+
+#### [Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases](http://arxiv.org/abs/2604.24972v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-29/Dynamic_Decision_Learning_Test-Time_Evolution_for_.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Clinical abnormality grounding for rare diseases is often hindered by data scarcity, making supervised fine-tuning impractical and single-pass inference highly unstable. We propose Dynamic Decision Learning (DDL), a framework that enables frozen large vision-language models (LVLMs) to refine their d...
+
