@@ -2848,3 +2848,58 @@
 - **领域**: cs.CL
 - **核心摘要**: Clinical abnormality grounding for rare diseases is often hindered by data scarcity, making supervised fine-tuning impractical and single-pass inference highly unstable. We propose Dynamic Decision Learning (DDL), a framework that enables frozen large vision-language models (LVLMs) to refine their d...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-04-30
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning](http://arxiv.org/abs/2604.26934v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-30/World2VLM_Distilling_World_Model_Imagination_into_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have shown strong performance on static visual understanding, yet they still struggle with dynamic spatial reasoning that requires imagining how scenes evolve under egocentric motion. Recent efforts address this limitation either by scaling spatial supervision with synt...
+
+#### [SEAL: Semantic-aware Single-image Sticker Personalization with a Large-scale Sticker-tag Dataset](http://arxiv.org/abs/2604.26883v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-30/SEAL_Semantic-aware_Single-image_Sticker_Personali.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Synthesizing a target concept from a single reference image is challenging in diffusion-based personalized text-to-image generation, particularly for sticker personalization where prompts often require explicit attribute edits. With only one reference, test-time fine-tuning (TTF) methods tend to ove...
+
+#### [Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance](http://arxiv.org/abs/2604.26839v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-30/Walk_With_Me_Long-Horizon_Social_Navigation_for_Hu.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Assisting humans in open-world outdoor environments requires robots to translate high-level natural-language intentions into safe, long-horizon, and socially compliant navigation behavior. Existing map-based methods rely on costly pre-built HD maps, while learning-based policies are mostly limited t...
+
+#### [SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection](http://arxiv.org/abs/2604.26633v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-30/SynSur_An_end-to-end_generative_pipeline_for_synth.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The bottleneck in learning-based industrial defect detection is often limited not by model capacity, but by the scarcity of labeled defect data: defects are rare, annotations are expensive, and collecting balanced training sets is slow. We present an end-to-end pipeline for synthetic defect generati...
+
+#### [Lyapunov-Guided Self-Alignment: Test-Time Adaptation for Offline Safe Reinforcement Learning](http://arxiv.org/abs/2604.26516v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-30/Lyapunov-Guided_Self-Alignment_Test-Time_Adaptatio.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Offline reinforcement learning (RL) agents often fail when deployed, as the gap between training datasets and real environments leads to unsafe behavior. To address this, we present SAS (Self-Alignment for Safety), a transformer-based framework that enables test-time adaptation in offline safe RL wi...
+
+#### [Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models](http://arxiv.org/abs/2604.26508v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-30/Progressive_Semantic_Communication_for_Efficient_E.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Deploying Vision-Language Models (VLMs) on edge devices remains challenging due to their substantial computational and memory demands, which exceed the capabilities of resource-constrained embedded platforms. Conversely, fully offloading inference to the cloud is often impractical in bandwidth-limit...
+
+#### [A Multistage Extraction Pipeline for Long Scanned Financial Documents: An Empirical Study in Industrial KYC Workflows](http://arxiv.org/abs/2604.26462v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-30/A_Multistage_Extraction_Pipeline_for_Long_Scanned_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Structured information extraction from long, multilingual scanned financial documents is a core requirement in industrial KYC and compliance workflows. These documents are typically non machine readable, noisy, and visually heterogeneous. They usually span dozens of pages while containing only spars...
+
+#### [Delineating Knowledge Boundaries for Honest Large Vision-Language Models](http://arxiv.org/abs/2604.26419v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-30/Delineating_Knowledge_Boundaries_for_Honest_Large_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (VLMs) have achieved remarkable multimodal performance yet remain prone to factual hallucinations, particularly in long-tail or specialized domains. Moreover, current models exhibit a weak capacity to refuse queries that exceed their parametric knowledge. In this paper, ...
+
+#### [Topology-Aware Representation Alignment for Semi-Supervised Vision-Language Learning](http://arxiv.org/abs/2604.26370v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-30/Topology-Aware_Representation_Alignment_for_Semi-S.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models have shown strong performance, but they often generalize poorly to specialized domains. While semi-supervised vision-language learning mitigates this limitation by leveraging a small set of labeled image-text pairs together with abundant unlabeled images, existing methods rema...
+
+#### [UIGaze: How Closely Can VLMs Approximate Human Visual Attention on User Interfaces?](http://arxiv.org/abs/2604.26352v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-04-30/UIGaze_How_Closely_Can_VLMs_Approximate_Human_Visu.pdf)
+- **领域**: cs.HC
+- **核心摘要**: Vision Language Models (VLMs) have demonstrated strong capabilities in understanding visual content, yet their ability to predict where humans look on user interfaces remains unexplored. We present UIGaze, a study investigating how closely VLMs can approximate human visual attention on user interfac...
+
