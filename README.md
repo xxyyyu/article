@@ -2903,3 +2903,58 @@
 - **领域**: cs.HC
 - **核心摘要**: Vision Language Models (VLMs) have demonstrated strong capabilities in understanding visual content, yet their ability to predict where humans look on user interfaces remains unexplored. We present UIGaze, a study investigating how closely VLMs can approximate human visual attention on user interfac...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-03
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [PhyCo: Learning Controllable Physical Priors for Generative Motion](http://arxiv.org/abs/2604.28169v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-03/PhyCo_Learning_Controllable_Physical_Priors_for_Ge.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Modern video diffusion models excel at appearance synthesis but still struggle with physical consistency: objects drift, collisions lack realistic rebound, and material responses seldom match their underlying properties. We present PhyCo, a framework that introduces continuous, interpretable, and ph...
+
+#### [FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction](http://arxiv.org/abs/2604.28115v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-03/FreeOcc_Training-Free_Embodied_Open-Vocabulary_Occ.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Existing learning-based occupancy prediction methods rely on large-scale 3D annotations and generalize poorly across environments. We present FreeOcc, a training-free framework for open-vocabulary occupancy prediction from monocular or RGB-D sequences. Unlike prior approaches that require voxel-leve...
+
+#### [Early Detection of Water Stress by Plant Electrophysiology: Machine Learning for Irrigation Management](http://arxiv.org/abs/2604.28038v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-03/Early_Detection_of_Water_Stress_by_Plant_Electroph.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Purpose: Fast detection of plant stress is key to plant phenotyping, precision agriculture, and automated crop management. In particular, efficient irrigation management requires early identification of water stress to optimize resource use while maintaining crop performance. Direct physiological se...
+
+#### [TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions](http://arxiv.org/abs/2604.27975v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-03/TransVLM_A_Vision-Language_Framework_and_Benchmark.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Traditional Shot Boundary Detection (SBD) inherently struggles with complex transitions by formulating the task around isolated cut points, frequently yielding corrupted video shots. We address this fundamental limitation by formalizing the Shot Transition Detection (STD) task. Rather than searching...
+
+#### [FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting](http://arxiv.org/abs/2604.27974v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-03/FineState-Bench_Benchmarking_State-Conditioned_Gro.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite the rapid progress of large vision-language models (LVLMs), fine-grained, state-conditioned GUI interaction remains challenging. Current evaluations offer limited coverage, imprecise target-state definitions, and an overreliance on final-task success, obscuring where and why agents fail. To ...
+
+#### [The Effects of Visual Priming on Cooperative Behavior in Vision-Language Models](http://arxiv.org/abs/2604.27953v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-03/The_Effects_of_Visual_Priming_on_Cooperative_Behav.pdf)
+- **领域**: cs.AI
+- **核心摘要**: As Vision-Language Models (VLMs) become increasingly integrated into decision-making systems, it is essential to understand how visual inputs influence their behavior. This paper investigates the effects of visual priming on VLMs' cooperative behavior using the Iterated Prisoner's Dilemma (IPD) as a...
+
+#### [Dynamic Cluster Data Sampling for Efficient and Long-Tail-Aware Vision-Language Pre-training](http://arxiv.org/abs/2604.27932v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-03/Dynamic_Cluster_Data_Sampling_for_Efficient_and_Lo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The computational cost of training a vision-language model (VLM) can be reduced by sampling the training data. Previous work on efficient VLM pre-training has pointed to the importance of semantic data balance, adjusting the distribution of topics in the data to improve VLM accuracy. However, existi...
+
+#### [Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](http://arxiv.org/abs/2604.27724v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-03/Iterative_Multimodal_Retrieval-Augmented_Generatio.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Medical retrieval-augmented generation (RAG) systems typically operate on text chunks extracted from biomedical literature, discarding the rich visual content (tables, figures, structured layouts) of original document pages. We propose MED-VRAG, an iterative multimodal RAG framework that retrieves a...
+
+#### [Auditing Frontier Vision-Language Models for Trustworthy Medical VQA: Grounding Failures, Format Collapse, and Domain Adaptation](http://arxiv.org/abs/2604.27720v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-03/Auditing_Frontier_Vision-Language_Models_for_Trust.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Deploying vision-language models (VLMs) in clinical settings demands auditable behavior under realistic failure conditions, yet the failure landscape of frontier VLMs on specialized medical inputs is poorly characterized. We audit five recent frontier and grounding-aware VLMs (Gemini~2.5~Pro, GPT-5,...
+
+#### [Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining](http://arxiv.org/abs/2604.27715v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-03/Improving_Calibration_in_Test-Time_Prompt_Tuning_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-time prompt tuning (TPT) has emerged as a promising technique for enhancing the adaptability of vision-language models by optimizing textual prompts using unlabeled test data. However, prior studies have observed that TPT often produces poorly calibrated models, raising concerns about the relia...
+
