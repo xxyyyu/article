@@ -2958,3 +2958,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Test-time prompt tuning (TPT) has emerged as a promising technique for enhancing the adaptability of vision-language models by optimizing textual prompts using unlabeled test data. However, prior studies have observed that TPT often produces poorly calibrated models, raising concerns about the relia...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-04
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs](http://arxiv.org/abs/2605.00814v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-04/Persistent_Visual_Memory_Sustaining_Perception_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a "Visual Signal Dilution" phenomenon, where the accumulation of textual history expands the attention partition function, causing visual attention to decay inversely with gene...
+
+#### [Make Your LVLM KV Cache More Lightweight](http://arxiv.org/abs/2605.00789v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-04/Make_Your_LVLM_KV_Cache_More_Lightweight.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Key-Value (KV) cache has become a de facto component of modern Large Vision-Language Models (LVLMs) for inference. While it enhances decoding efficiency in Large Language Models (LLMs), its direct adoption in LVLMs introduces substantial GPU memory overhead due to the large number of vision tokens p...
+
+#### [STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack](http://arxiv.org/abs/2605.00699v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-04/STARE_Step-wise_Temporal_Alignment_and_Red-teaming.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Red-teaming Vision-Language Models is essential for identifying vulnerabilities where adversarial image-text inputs trigger toxic outputs. Existing approaches treat image generation as a black box, returning only terminal toxicity scores and leaving open the question of when and how toxic semantics ...
+
+#### [Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision-Language Models](http://arxiv.org/abs/2605.00591v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-04/Intrinsic_Gradient_Suppression_for_Label-Noise_Pro.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Contrastive vision-language models like CLIP exhibit remarkable zero-shot generalization. However, prompt tuning remains highly sensitive to label noise, as mislabeled samples generate disproportionately large gradients that can overwhelm pre-trained priors. We argue that because CLIP already provid...
+
+#### [Jailbreaking Vision-Language Models Through the Visual Modality](http://arxiv.org/abs/2605.00583v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-04/Jailbreaking_Vision-Language_Models_Through_the_Vi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The visual modality of vision-language models (VLMs) is an underexplored attack surface for bypassing safety alignment. We introduce four jailbreak attacks exploiting the vision component: (1) encoding harmful instructions as visual symbol sequences with a decoding legend, (2) replacing harmful obje...
+
+#### [Leveraging Vision-Language Models as Weak Annotators in Active Learning](http://arxiv.org/abs/2605.00480v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-04/Leveraging_Vision-Language_Models_as_Weak_Annotato.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Active learning aims to reduce annotation cost by selectively querying informative samples for supervision under a limited labeling budget. In this work, we investigate how vision-language models (VLMs) can be leveraged to further reduce the reliance on costly human annotation within the active lear...
+
+#### [Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation](http://arxiv.org/abs/2605.00438v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-04/Thinking_in_Text_and_Images_Interleaved_Vision--La.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Long-horizon robotic manipulation requires plans that are both logically coherent and geometrically grounded. Existing Vision-Language-Action policies usually hide planning in latent states or expose only one modality: text-only chain-of-thought encodes causal order but misses spatial constraints, w...
+
+#### [RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference](http://arxiv.org/abs/2605.00392v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-04/RTPrune_Reading-Twice_Inspired_Token_Pruning_for_E.pdf)
+- **领域**: cs.CV
+- **核心摘要**: DeepSeek-OCR leverages visual-text compression to reduce long-text processing costs and accelerate inference, yet visual tokens remain prone to redundant textual and structural information. Moreover, current token pruning methods for conventional vision-language models (VLMs) fail to preserve textua...
+
+#### [Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning](http://arxiv.org/abs/2605.00347v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-04/Odysseus_Scaling_VLMs_to_100_Turn_Decision-Making_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Given the rapidly growing capabilities of vision-language models (VLMs), extending them to interactive decision-making tasks such as video games has emerged as a promising frontier. However, existing approaches either rely on large-scale supervised fine-tuning (SFT) on human trajectories or apply re...
+
+#### [Prompt-Induced Score Variance in Zero-Shot Binary Vision-Language Safety Classification](http://arxiv.org/abs/2605.00326v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-04/Prompt-Induced_Score_Variance_in_Zero-Shot_Binary_.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Single-prompt first-token probabilities from zero-shot vision-language model (VLM) safety classifiers are treated as decision scores, but we show they are unreliable under semantically equivalent prompt reformulation: even when the binary label is constrained to a fixed output position, equivalent p...
+
