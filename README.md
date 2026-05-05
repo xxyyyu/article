@@ -3013,3 +3013,58 @@
 - **领域**: cs.CL
 - **核心摘要**: Single-prompt first-token probabilities from zero-shot vision-language model (VLM) safety classifiers are treated as decision scores, but we show they are unreliable under semantically equivalent prompt reformulation: even when the binary label is constrained to a fixed output position, equivalent p...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-05
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion](http://arxiv.org/abs/2605.02892v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-05/AlbumFill_Album-Guided_Reasoning_and_Retrieval_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Personalized image completion aims to restore occluded regions in personal photos while preserving identity and appearance. Existing methods either rely on generic inpainting models that often fail to maintain identity consistency, or assume that suitable reference images are explicitly provided. In...
+
+#### [VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition](http://arxiv.org/abs/2605.02834v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-05/VideoNet_A_Large-Scale_Dataset_for_Domain-Specific.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Videos are unique in their ability to capture actions which transcend multiple frames. Accordingly, for many years action recognition was the quintessential task for video understanding. Unfortunately, due to a lack of sufficiently diverse and challenging data, modern vision-language models (VLMs) a...
+
+#### [Perceptual Flow Network for Visually Grounded Reasoning](http://arxiv.org/abs/2605.02730v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-05/Perceptual_Flow_Network_for_Visually_Grounded_Reas.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite the success of Large-Vision Language Models (LVLMs), general optimization objectives (e.g., standard MLE) fail to constrain visual trajectories, leading to language bias and hallucination. To mitigate this, current methods introduce geometric priors from visual experts as additional supervis...
+
+#### [PubMed-Ophtha: An open resource for training ophthalmology vision-language models on scientific literature](http://arxiv.org/abs/2605.02720v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-05/PubMed-Ophtha_An_open_resource_for_training_ophtha.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models hold considerable promise for ophthalmology, but their development depends on large-scale, high-quality image-text datasets that remain scarce. We present PubMed-Ophtha, a hierarchical dataset of 102,023 ophthalmological image-caption pairs extracted from 15,842 open-access ar...
+
+#### [AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding](http://arxiv.org/abs/2605.02630v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-05/AutoFocus_Uncertainty-Aware_Active_Visual_Search_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have enabled autonomous GUI agents that translate natural language instructions into executable screen coordinates. However, grounding performance degrades in high-resolution interfaces, where dense layouts and small interactive elements expose a resolution gap between ...
+
+#### [Rethinking the Need for Source Models: Source-Free Domain Adaptation from Scratch Guided by a Vision-Language Model](http://arxiv.org/abs/2605.02604v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-05/Rethinking_the_Need_for_Source_Models_Source-Free_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Source-Free Domain Adaptation (SFDA) adapts source models to target domains without accessing source data, addressing privacy and transmission issues. However, existing methods still initialize from a source pre-trained model and thus are not truly source-free. Recent works have introduced Vision-La...
+
+#### [CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation](http://arxiv.org/abs/2605.02600v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-05/CoRAL_Contact-Rich_Adaptive_LLM-based_Control_for_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: While Large Language Models (LLMs) and Vision-Language Models (VLMs) demonstrate remarkable capabilities in high-level reasoning and semantic understanding, applying them directly to contact-rich manipulation remains a challenge due to their lack of explicit physical grounding and inability to perfo...
+
+#### [A Semantic Autonomy Framework for VLM-Integrated Indoor Mobile Robots: Hybrid Deterministic Reasoning and Cross-Robot Adaptive Memory](http://arxiv.org/abs/2605.02525v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-05/A_Semantic_Autonomy_Framework_for_VLM-Integrated_I.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Autonomous indoor mobile robots can navigate reliably to metric coordinates using established frameworks such as ROS 2 Navigation 2, yet they lack the ability to interpret natural language instructions that express intent rather than positions. Vision-Language Models offer the semantic reasoning req...
+
+#### [Enhancing Multimodal In-Context Learning via Inductive-Deductive Reasoning](http://arxiv.org/abs/2605.02378v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-05/Enhancing_Multimodal_In-Context_Learning_via_Induc.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In-context learning (ICL) allows large models to adapt to tasks using a few examples, yet its extension to vision-language models (VLMs) remains fragile. Our analysis reveals that the fundamental limitation lies in an inductive gap, models often produce correct answers from flawed reasoning, while s...
+
+#### [CoVSpec: Efficient Device-Edge Co-Inference for Vision-Language Models via Speculative Decoding](http://arxiv.org/abs/2605.02218v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-05/CoVSpec_Efficient_Device-Edge_Co-Inference_for_Vis.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-language models (VLMs) have demonstrated strong capabilities in multimodal perception and reasoning. However, deploying large VLMs on mobile devices remains challenging due to their substantial computational and memory demands. A practical alternative is device-edge co-inference, where a ligh...
+
