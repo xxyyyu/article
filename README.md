@@ -3068,3 +3068,58 @@
 - **领域**: cs.AI
 - **核心摘要**: Vision-language models (VLMs) have demonstrated strong capabilities in multimodal perception and reasoning. However, deploying large VLMs on mobile devices remains challenging due to their substantial computational and memory demands. A practical alternative is device-edge co-inference, where a ligh...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-06
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning](http://arxiv.org/abs/2605.03927v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-06/StateVLM_A_State-Aware_Vision-Language_Model_for_R.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have shown remarkable performance in various robotic tasks, as they can perceive visual information and understand natural language instructions. However, when applied to robotics, VLMs remain subject to a fundamental limitation inherent in large language models (LLMs):...
+
+#### [Quantifying the human visual exposome with vision language models](http://arxiv.org/abs/2605.03863v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-06/Quantifying_the_human_visual_exposome_with_vision_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: The visual environment is a fundamental yet unquantified determinant of mental health. While the concept of the environmental exposome is well established, current methods rely on coarse geospatial proxies or biased self reports, failing to capture the first person visual context of daily life. We a...
+
+#### [ReLeaf: Benchmarking Leaf Segmentation across Domains and Species](http://arxiv.org/abs/2605.03784v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-06/ReLeaf_Benchmarking_Leaf_Segmentation_across_Domai.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Rising global food demand and growing climate pressure increase the need for sustainable, precise agricultural practices. Automated, individualized plant treatment relies on fine-grained visual analysis, yet leaf-level segmentation remains underexplored despite its value for assessing crop health, g...
+
+#### [Before Forgetting, Learn to Remember: Revisiting Foundational Learning Failures in LVLM Unlearning Benchmarks](http://arxiv.org/abs/2605.03759v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-06/Before_Forgetting_Learn_to_Remember_Revisiting_Fou.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While Large Vision-Language Models (LVLMs) offer powerful capabilities, they pose privacy risks by unintentionally memorizing sensitive personal information. Current unlearning benchmarks attempt to mitigate this using fictitious identities but overlook a critical stage 1 failure: models fail to eff...
+
+#### [The Detector Teaches Itself: Lightweight Self-Supervised Adaptation for Open-Vocabulary Object Detection](http://arxiv.org/abs/2605.03642v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-06/The_Detector_Teaches_Itself_Lightweight_Self-Super.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Open-vocabulary object detection aims to recognize objects from an open set of categories, which leverages vision-language models (VLMs) pre-trained on large-scale image-text data. The cooperative paradigm combines an object detector with a VLM to achieve zero-shot recognition of novel objects. Howe...
+
+#### [Erase Persona, Forget Lore: Benchmarking Multimodal Copyright Unlearning in Large Vision Language Models](http://arxiv.org/abs/2605.03547v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-06/Erase_Persona_Forget_Lore_Benchmarking_Multimodal_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs), trained on web-scale data, risk memorizing and regenerating copyrighted visual content such as characters and logos, creating significant challenges. Machine unlearning offers a path to mitigate these risks by removing specific content post-training, but evaluat...
+
+#### [MHPR: Multidimensional Human Perception and Reasoning Benchmark for Large Vision-Languate Models](http://arxiv.org/abs/2605.03485v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-06/MHPR_Multidimensional_Human_Perception_and_Reasoni.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multidimensional human understanding is essential for real-world applications such as film analysis and virtual digital humans, yet current LVLM benchmarks largely focus on single-task settings and lack fine-grained, human-centric evaluation. In this work, we introduce MHPR, a comprehensive benchmar...
+
+#### [Replacing Parameters with Preferences: Federated Alignment of Heterogeneous Vision-Language Models](http://arxiv.org/abs/2605.03426v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-06/Replacing_Parameters_with_Preferences_Federated_Al.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-Language Models (VLMs) have broad potential in privacy-sensitive domains such as healthcare and finance, yet strict data-sharing constraints render centralized training infeasible. Federated Learning mitigates this issue by enabling decentralized training, but practical deployments face chall...
+
+#### [GRPO-TTA: Test-Time Visual Tuning for Vision-Language Models via GRPO-Driven Reinforcement Learning](http://arxiv.org/abs/2605.03403v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-06/GRPO-TTA_Test-Time_Visual_Tuning_for_Vision-Langua.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Group Relative Policy Optimization (GRPO) has recently shown strong performance in post-training large language models and vision-language models. It raises a question of whether the GRPO also significantly promotes the test-time adaptation (TTA) of vision language models. In this paper, we propose ...
+
+#### [VLMaxxing through FrameMogging Training-Free Anti-Recomputation for Video Vision-Language Models](http://arxiv.org/abs/2605.03351v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-06/VLMaxxing_through_FrameMogging_Training-Free_Anti-.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Video vision-language models (VLMs) keep paying for visual state the stream already told us was stable. The factory wall did not move, but most VLM pipelines still hand the model dense RGB frames or a fresh prefix again. We study that waste as training-free anti-recomputation: reuse state when valid...
+
