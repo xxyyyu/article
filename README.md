@@ -3123,3 +3123,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Video vision-language models (VLMs) keep paying for visual state the stream already told us was stable. The factory wall did not move, but most VLM pipelines still hand the model dense RGB frames or a fresh prefix again. We study that waste as training-free anti-recomputation: reuse state when valid...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-07
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Wasserstein-Aligned Localisation for VLM-Based Distributional OOD Detection in Medical Imaging](http://arxiv.org/abs/2605.05161v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-07/Wasserstein-Aligned_Localisation_for_VLM-Based_Dis.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Zero-shot anomaly localisation via vision-language models (VLMs) offers a compelling approach for rare pathology detection, yet its performance is fundamentally limited by the absence of healthy anatomical context. We reformulate zero-shot localisation as a comparative inference problem in which ano...
+
+#### [Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation](http://arxiv.org/abs/2605.05054v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-07/Direct_Product_Flow_Matching_Decoupling_Radial_and.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent flow matching (FM) methods improve the few-shot adaptation of vision-language models, by modeling cross-modal alignment as a continuous multi-step flow. In this paper, we argue that existing FM methods are inherently constrained by incompatible geometric priors on pre-trained cross-modal feat...
+
+#### [When Relations Break: Analyzing Relation Hallucination in Vision-Language Model Under Rotation and Noise](http://arxiv.org/abs/2605.05045v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-07/When_Relations_Break_Analyzing_Relation_Hallucinat.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) achieve strong multimodal performance but remain prone to relation hallucination, which requires accurate reasoning over inter-object interactions. We study the impact of visual perturbations, specifically rotation and noise, and show that even mild distortions signific...
+
+#### [Prompt-Anchored Vision-Text Distillation for Lifelong Person Re-identification](http://arxiv.org/abs/2605.05027v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-07/Prompt-Anchored_Vision-Text_Distillation_for_Lifel.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Lifelong person re-identification (LReID) aims to train a generalizable model with sequentially collected data. However, such models often suffer from semantic drift, limited adaptability, and catastrophic forgetting as new domains emerge. Existing exemplar-free approaches largely rely on visual-onl...
+
+#### [FairEnc: A Fair Vision-Language Model with Fair Vision and Text Encoders for Glaucoma Detection](http://arxiv.org/abs/2605.04882v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-07/FairEnc_A_Fair_Vision-Language_Model_with_Fair_Vis.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Automated glaucoma detection is critical for preventing irreversible vision loss and reducing the burden on healthcare systems. However, ensuring fairness across diverse patient populations remains a significant challenge. In this paper, we propose FairEnc, a fair pretraining method for vision-langu...
+
+#### [Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing](http://arxiv.org/abs/2605.04733v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-07/Reward-Decomposed_Reinforcement_Learning_for_Immer.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Text-based role-playing models can imitate character styles, yet they often fail to reflect a scene's atmosphere and evolving tension, both essential for immersive applications such as Virtual Reality (VR) games and interactive narratives. We study video-grounded role-playing dialogue and introduce ...
+
+#### [RF-Analyzer: Can Vision-Language Models Learn RF Understanding from Synthetic Data?](http://arxiv.org/abs/2605.04676v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-07/RF-Analyzer_Can_Vision-Language_Models_Learn_RF_Un.pdf)
+- **领域**: eess.SP
+- **核心摘要**: Understanding the wireless spectrum is a fundamen- tal requirement for intelligent communication systems, however, interpreting spectrograms requires extracting multiple physical attributes and reasoning about signal structure, which is a capability that is not achieved by traditional ML approaches....
+
+#### [CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering](http://arxiv.org/abs/2605.04641v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-07/CAST_Mitigating_Object_Hallucination_in_Large_Visi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Although Large Vision-Language Models (LVLMs) have demonstrated remarkable performance on downstream tasks, they frequently produce contents that deviate from visual information, leading to object hallucination. To tackle this, recent works mostly depend on expensive manual annotations and training ...
+
+#### [Temporal Structure Matters for Efficient Test-Time Adaptation in Wearable Human Activity Recognition](http://arxiv.org/abs/2605.04617v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-07/Temporal_Structure_Matters_for_Efficient_Test-Time.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Wearable human activity recognition (WHAR) models often suffer from performance degradation under real-world cross-user distribution shifts. Test-time adaptation (TTA) mitigates this degradation by adapting models online using unlabeled test streams, yet existing methods largely inherit assumptions ...
+
+#### [Advancing Aesthetic Image Generation via Composition Transfer](http://arxiv.org/abs/2605.04609v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-07/Advancing_Aesthetic_Image_Generation_via_Compositi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Composition is a cornerstone of visual aesthetics, influencing the appeal of an image. While its principles operate independently of specific content, in practice, composition is often coupled with semantics. As a result, existing methods often enhance composition either through implicit learning or...
+
