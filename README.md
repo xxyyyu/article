@@ -3178,3 +3178,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Composition is a cornerstone of visual aesthetics, influencing the appeal of an image. While its principles operate independently of specific content, in practice, composition is often coupled with semantics. As a result, existing methods often enhance composition either through implicit learning or...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-09
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs](http://arxiv.org/abs/2605.06477v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-09/GeoStack_A_Framework_for_Quasi-Abelian_Knowledge_C.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We address the challenge of knowledge composition in Vision-Language Models (VLMs), where accumulating expertise across multiple domains or tasks typically leads to catastrophic forgetting. We introduce GeoStack (Geometric Stacking), a modular framework that allows independently trained domain exper...
+
+#### [The frame-level leakage trap: rethinking evaluation protocols for intrinsic image decomposition, with source-separable uncertainty as a case study](http://arxiv.org/abs/2605.06359v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-09/The_frame-level_leakage_trap_rethinking_evaluation.pdf)
+- **领域**: eess.SP
+- **核心摘要**: Evaluation protocols for learned intrinsic image decomposition on MPI Sintel have been inconsistent. Several prior works split the dataset by frames, which allows spatially similar frames of the same scene to appear in both train and test partitions. We quantify this leakage effect for the first tim...
+
+#### [A Regime Theory of Controller Class Selection for LLM Action Decisions](http://arxiv.org/abs/2605.06339v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-09/A_Regime_Theory_of_Controller_Class_Selection_for_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Deployed language and vision-language models must decide, on each input, whether to answer directly, retrieve evidence, defer to a stronger model, or abstain. Contrary to the common monotonicity intuition, greater per-input expressivity is not uniformly beneficial in finite samples: under identical ...
+
+#### [Event-Causal RAG: A Retrieval-Augmented Generation Framework for Long Video Reasoning in Complex Scenarios](http://arxiv.org/abs/2605.06185v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-09/Event-Causal_RAG_A_Retrieval-Augmented_Generation_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Recent large vision-language models have achieved strong performance on short- and medium-length video understanding, yet they remain inadequate for ultra-long or even infinite video reasoning, where models must preserve coherent memory over extended durations and infer causal dependencies across te...
+
+#### [Retina-RAG: Retrieval-Augmented Vision-Language Modeling for Joint Retinal Diagnosis and Clinical Report Generation](http://arxiv.org/abs/2605.06173v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-09/Retina-RAG_Retrieval-Augmented_Vision-Language_Mod.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Diabetic Retinopathy (DR) is a leading cause of preventable blindness among working-age adults worldwide, yet most automated screening systems are limited to image-level classification and lack clinically structured reporting. We propose Retina-RAG, a low-cost modular framework that jointly performs...
+
+#### [Uncovering Entity Identity Confusion in Multimodal Knowledge Editing](http://arxiv.org/abs/2605.06096v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-09/Uncovering_Entity_Identity_Confusion_in_Multimodal.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Multimodal knowledge editing (MKE) aims to correct the internal knowledge of large vision-language models after deployment, yet the behavioral patterns of post-edit models remain underexplored. In this paper, we identify a systemic failure mode in edited models, termed Entity Identity Confusion (EIC...
+
+#### [Towards Self-Explainable Document Visual Question Answering with Chain-of-Explanation Predictions](http://arxiv.org/abs/2605.06058v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-09/Towards_Self-Explainable_Document_Visual_Question_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Document Visual Question Answering (DocVQA) requires vision-language models to reason not only about what information in a document is relevant to a question, but also where the answer is grounded on the page. Existing DocVQA models entangle question-relevant evidence and answer localization and ope...
+
+#### [Fusion in Your Way: Aligning Image Fusion with Heterogeneous Demands via Direct Preference Optimization](http://arxiv.org/abs/2605.06049v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-09/Fusion_in_Your_Way_Aligning_Image_Fusion_with_Hete.pdf)
+- **领域**: cs.CV
+- **核心摘要**: As a key technique in multi-modal processing, infrared and visible image fusion (IVIF) plays a crucial role in integrating complementary spectral information for visual enhancement and downstream vision tasks. Despite remarkable progress, existing methods struggle to flexibly accommodate heterogeneo...
+
+#### [PlotPick: AI-powered batch extraction of numerical data from scientific figures](http://arxiv.org/abs/2605.06021v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-09/PlotPick_AI-powered_batch_extraction_of_numerical_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Systematic reviews and meta-analyses frequently require numerical data that authors report only as figures, yet manual digitisation is slow and does not scale. We present PlotPick, an open-source tool that uses vision-language models (VLMs) to batch-extract structured tabular data from scientific fi...
+
+#### [4DThinker: Thinking with 4D Imagery for Dynamic Spatial Understanding](http://arxiv.org/abs/2605.05997v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-09/4DThinker_Thinking_with_4D_Imagery_for_Dynamic_Spa.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Dynamic spatial reasoning from monocular video is essential for bridging visual intelligence and the physical world, yet remains challenging for vision-language models (VLMs). Prior approaches either verbalize spatial-temporal reasoning entirely as text, which is inherently verbose and imprecise for...
+
