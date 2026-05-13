@@ -3233,3 +3233,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Dynamic spatial reasoning from monocular video is essential for bridging visual intelligence and the physical world, yet remains challenging for vision-language models (VLMs). Prior approaches either verbalize spatial-temporal reasoning entirely as text, which is inherently verbose and imprecise for...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-13
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](http://arxiv.org/abs/2605.12500v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-13/SenseNova-U1_Unifying_Multimodal_Understanding_and.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent large vision-language models (VLMs) remain fundamentally constrained by a persistent dichotomy: understanding and generation are treated as distinct problems, leading to fragmented architectures, cascaded pipelines, and misaligned representation spaces. We argue that this divide is not merely...
+
+#### [GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization](http://arxiv.org/abs/2605.12369v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-13/GuidedVLA_Specifying_Task-Relevant_Factors_via_Plu.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language-Action (VLA) models aim for general robot learning by aligning action as a modality within powerful Vision-Language Models (VLMs). Existing VLAs rely on end-to-end supervision to implicitly enable the action decoding process to learn task-relevant features. However, without explicit ...
+
+#### [Reinforcing VLAs in Task-Agnostic World Models](http://arxiv.org/abs/2605.12334v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-13/Reinforcing_VLAs_in_Task-Agnostic_World_Models.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Post-training Vision-Language-Action (VLA) models via reinforcement learning (RL) in learned world models has emerged as an effective strategy to adapt to new tasks without costly real-world interactions. However, while using imagined trajectories reduces the sample complexity of policy training, ex...
+
+#### [Towards Automated Air Traffic Safety Assessment Around Non-Towered Airports Using Large Language Models](http://arxiv.org/abs/2605.12332v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-13/Towards_Automated_Air_Traffic_Safety_Assessment_Ar.pdf)
+- **领域**: cs.AI
+- **核心摘要**: We investigate frameworks for post-flight safety analysis at non-towered airports using large language models (LLMs). Non-towered airports rely on the Common Traffic Advisory Frequency (CTAF) for air traffic coordination and experience frequent near mid-air collisions due to the pilot self-announcem...
+
+#### [Large-Small Model Collaboration for Farmland Semantic Change Detection](http://arxiv.org/abs/2605.12282v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-13/Large-Small_Model_Collaboration_for_Farmland_Seman.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Farmland Semantic Change Detection (SCD) is essential for cultivated land protection, yet existing benchmarks and models remain insufficient for fine-grained farmland conversion monitoring. Current datasets often lack dedicated "from-to" annotations, while visual change detection models are easily d...
+
+#### [Beyond Text Prompts: Visual-to-Visual Generation as A Unified Paradigm](http://arxiv.org/abs/2605.12271v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-13/Beyond_Text_Prompts_Visual-to-Visual_Generation_as.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Humans often specify and create through visual artifacts: typography sheets, sketches, reference images, and annotated scenes. Yet modern visual generators still ask users to serialize this intent into text, a bottleneck that compresses signals like spatial structure, exact appearance, and glyph sha...
+
+#### [UHR-Micro: Diagnosing and Mitigating the Resolution Illusion in Earth Observation VLMs](http://arxiv.org/abs/2605.12237v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-13/UHR-Micro_Diagnosing_and_Mitigating_the_Resolution.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) increasingly operate on ultra-high-resolution (UHR) Earth observation imagery, yet they remain vulnerable to a severe scale mismatch between large-scale scene context and micro-scale targets. We refer to this empirical gap as a "resolution illusion": higher input resolu...
+
+#### [MolDeTox: Evaluating Language Model's Stepwise Fragment Editing for Molecular Detoxification](http://arxiv.org/abs/2605.12181v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-13/MolDeTox_Evaluating_Language_Models_Stepwise_Fragm.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Large Language Models (LLMs) and Vision Language Models (VLMs) have recently shown promising capabilities in various scientific domain. In particular, these advances have opened new opportunities in drug discovery, where the ability to understand and modify molecular structures is critical for optim...
+
+#### [Self-Consistent Latent Reasoning: Long Latent Sequence Reasoning for Vision-Language Model](http://arxiv.org/abs/2605.12163v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-13/Self-Consistent_Latent_Reasoning_Long_Latent_Seque.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In language reasoning, longer chains of thought consistently yield better performance, which naturally suggests that visual latent reasoning may likewise benefit from longer latent sequences. However, we discover a counterintuitive phenomenon: the performance of existing latent visual reasoning meth...
+
+#### [Multimodal Abstractive Summarization of Instructional Videos with Vision-Language Models](http://arxiv.org/abs/2605.11959v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-13/Multimodal_Abstractive_Summarization_of_Instructio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multimodal video summarization requires visual features that align semantically with language generation. Traditional approaches rely on CNN features trained for object classification, which represent visual concepts as discrete categories not aligned with natural language. We propose ClipSum, a fra...
+
