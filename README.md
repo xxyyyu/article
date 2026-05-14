@@ -3288,3 +3288,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Multimodal video summarization requires visual features that align semantically with language generation. Traditional approaches rely on CNN features trained for object classification, which represent visual concepts as discrete categories not aligned with natural language. We propose ClipSum, a fra...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-14
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning](http://arxiv.org/abs/2605.13835v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-14/Unlocking_Patch-Level_Features_for_CLIP-Based_Clas.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Class-Incremental Learning (CIL) enables models to continuously integrate new knowledge while mitigating catastrophic forgetting. Driven by the remarkable generalization of CLIP, leveraging pre-trained vision-language models has become a dominant paradigm in CIL. However, current work primarily focu...
+
+#### [Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context](http://arxiv.org/abs/2605.13831v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-14/Training_Long-Context_Vision-Language_Models_Effec.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Long-context modeling is becoming a core capability of modern large vision-language models (LVLMs), enabling sustained context management across long-document understanding, video analysis, and multi-turn tool use in agentic workflows. Yet practical training recipes remain insufficiently explored, p...
+
+#### [RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data](http://arxiv.org/abs/2605.13775v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-14/RoboEvolve_Co-Evolving_Planner-Simulator_for_Robot.pdf)
+- **领域**: cs.RO
+- **核心摘要**: The scalability of robotic manipulation is fundamentally bottlenecked by the scarcity of task-aligned physical interaction data. While vision-language models (VLMs) and video generation models (VGMs) hold promise for autonomous data synthesis, they suffer from semantic-spatial misalignment and physi...
+
+#### [SceneGraphVLM: Dynamic Scene Graph Generation from Video with Vision-Language Models](http://arxiv.org/abs/2605.13667v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-14/SceneGraphVLM_Dynamic_Scene_Graph_Generation_from_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Scene graph generation provides a compact structured representation for visual perception, but accurate and fast graph prediction from images and videos remains challenging. Recent VLM-based methods can generate scene graphs end-to-end as structured text, yet often produce long outputs with irreleva...
+
+#### [ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections](http://arxiv.org/abs/2605.13631v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-14/ProjGuard_Safety_Monitoring_for_Computer-Use_Agent.pdf)
+- **领域**: stat.CO
+- **核心摘要**: Computer-use agents are increasingly capable of operating on real operating systems, but this capability has also increased the risks posed by prompt injection, indirect instructions, and visual attacks. Existing defenses typically rely on analyzing the prompt or each potentially malicious input wit...
+
+#### [GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models](http://arxiv.org/abs/2605.13375v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-14/GRIP-VLM_Group-Relative_Importance_Pruning_for_Eff.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In Vision-Language Models (VLMs), processing a massive number of visual tokens incurs prohibitive computational overhead. While recent training-aware pruning methods attempt to selectively discard redundant tokens, they largely rely on continuous-gradient relaxations. However, visual token pruning i...
+
+#### [Query-Conditioned Test-Time Self-Training for Large Language Models](http://arxiv.org/abs/2605.13369v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-14/Query-Conditioned_Test-Time_Self-Training_for_Larg.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Large language models (LLMs) are typically deployed with fixed parameters, and their performance is often improved by allocating more computation at inference time. While such test-time scaling can be effective, it cannot correct model misconceptions or adapt the model to the specific structure of a...
+
+#### [GeoFlowVLM: Geometry-Aware Joint Uncertainty for Frozen Vision-Language Embedding](http://arxiv.org/abs/2605.13352v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-14/GeoFlowVLM_Geometry-Aware_Joint_Uncertainty_for_Fr.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Standard dual-encoder vision-language models that map images and text to deterministic points on a shared unit hypersphere through $\ell_2$ normalization typically expose neither \emph{aleatoric} uncertainty (cross-modal ambiguity) nor \emph{epistemic} uncertainty (lack of training-distribution supp...
+
+#### [KamonBench: A Grammar-Based Dataset for Evaluating Compositional Factor Recovery in Vision-Language Models](http://arxiv.org/abs/2605.13322v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-14/KamonBench_A_Grammar-Based_Dataset_for_Evaluating_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Kamon (family crests) are an important part of Japanese culture and a natural test case for compositional visual recognition: each crest combines a small number of symbolic choices, but the space of possible descriptions is sparse. We introduce KamonBench, a grammar-based image-to-structure benchmar...
+
+#### [HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation](http://arxiv.org/abs/2605.13321v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-14/HCSG_Human-Centric_Semantic-Geometric_Reasoning_fo.pdf)
+- **领域**: cs.RO
+- **核心摘要**: VLN has achieved remarkable progress by scaling data and model capacity. However, the assumption of a static environment breaks down in real-world indoor scenarios, where robots inevitably encounter dynamic pedestrians. Existing human-aware approaches typically treat humans merely as moving obstacle...
+
