@@ -3343,3 +3343,58 @@
 - **领域**: cs.RO
 - **核心摘要**: VLN has achieved remarkable progress by scaling data and model capacity. However, the assumption of a static environment breaks down in real-world indoor scenarios, where robots inevitably encounter dynamic pedestrians. Existing human-aware approaches typically treat humans merely as moving obstacle...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-17
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [FutureSim: Replaying World Events to Evaluate Adaptive Agents](http://arxiv.org/abs/2605.15188v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-17/FutureSim_Replaying_World_Events_to_Evaluate_Adapt.pdf)
+- **领域**: cs.LG
+- **核心摘要**: AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently measure this capability for realistic use-cases, we propose building grounded simulations that replay real-world events in the order they occurred. We ...
+
+#### [Does Synthetic Layered Design Data Benefit Layered Design Decomposition?](http://arxiv.org/abs/2605.15167v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-17/Does_Synthetic_Layered_Design_Data_Benefit_Layered.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in image generation have made it easy to produce high-quality images. However, these outputs are inherently flattened, entangling foreground elements, background, and text within a fixed canvas. As a result, flexible post-generation editing remains challenging, revealing a clear last...
+
+#### [On the Cultural Anachronism and Temporal Reasoning in Vision Language Models](http://arxiv.org/abs/2605.15071v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-17/On_the_Cultural_Anachronism_and_Temporal_Reasoning.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) are increasingly applied to cultural heritage materials, from digital archives to educational platforms. This work identifies a fundamental issue in how these models interpret historical artifacts. We define this phenomenon as cultural anachronism, the tendency to misin...
+
+#### [LATERN: Test-Time Context-Aware Explainable Video Anomaly Detection](http://arxiv.org/abs/2605.15054v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-17/LATERN_Test-Time_Context-Aware_Explainable_Video_A.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have recently emerged as a promising paradigm for video anomaly detection (VAD) due to their strong visual reasoning ability and natural language-based explainability. In this paper, we aim to address a key limitation of such pipelines, which perform segment-level infer...
+
+#### [MHSA: A Lightweight Framework for Mitigating Hallucinations via Steered Attention in LVLMs](http://arxiv.org/abs/2605.14966v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-17/MHSA_A_Lightweight_Framework_for_Mitigating_Halluc.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) have achieved remarkable performance across diverse multimodal tasks, yet they continue to suffer from hallucinations, generating content that is inconsistent with the visual input. Prior work DHCP (Detecting Hallucinations by Cross-modal Attention Pattern) has e...
+
+#### [Chain-of-Procedure: Hierarchical Visual-Language Reasoning for Procedural QA](http://arxiv.org/abs/2605.14928v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-17/Chain-of-Procedure_Hierarchical_Visual-Language_Re.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Recent advances in vision-language models (VLMs) have achieved impressive results on standard image-text tasks, yet their potential for visual procedure question answering (VP-QA) remains largely unexplored. VP-QA presents unique challenges where users query next-step actions by uploading images for...
+
+#### [SteerSeg: Attention Steering for Reasoning Video Segmentation](http://arxiv.org/abs/2605.14908v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-17/SteerSeg_Attention_Steering_for_Reasoning_Video_Se.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Video reasoning segmentation requires localizing objects across video frames from natural language expressions, often involving spatial reasoning and implicit references. Recent approaches leverage frozen large vision-language models (LVLMs) by extracting attention maps and using them as spatial pri...
+
+#### [MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models](http://arxiv.org/abs/2605.14906v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-17/MemLens_Benchmarking_Multimodal_Long-Term_Memory_i.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Memory is essential for large vision-language models (LVLMs) to handle long, multimodal interactions, with two method directions providing this capability: long-context LVLMs and memory-augmented agents. However, no existing benchmark conducts a systematic comparison of the two on questions that gen...
+
+#### [Your CLIP has 164 dimensions of noise: Exploring the embeddings covariance eigenspectrum of contrastively pretrained vision-language transformers](http://arxiv.org/abs/2605.14893v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-17/Your_CLIP_has_164_dimensions_of_noise_Exploring_th.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Contrastively pre-trained Vision-Language Models (VLMs) serve as powerful feature extractors. Yet, their shared latent spaces are prone to structural anomalies and act as repositories for non-semantic, multi-modal noise. To address this phenomenon, we employ spectral decomposition of covariance matr...
+
+#### [Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study](http://arxiv.org/abs/2605.14845v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-17/Exploring_Vision-Language_Models_for_Online_Signat.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advancements in Vision-Language Models (VLMs) have demonstrated strong capabilities in general visual reasoning, yet their applicability to rigorous biometric tasks remains unexplored. This work presents an exploratory study evaluating the zero-shot performance of state-of-the-art VLMs (GPT-5...
+
