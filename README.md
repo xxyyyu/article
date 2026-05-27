@@ -3398,3 +3398,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Recent advancements in Vision-Language Models (VLMs) have demonstrated strong capabilities in general visual reasoning, yet their applicability to rigorous biometric tasks remains unexplored. This work presents an exploratory study evaluating the zero-shot performance of state-of-the-art VLMs (GPT-5...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-27
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](http://arxiv.org/abs/2605.27365v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-27/LocateAnything_Fast_and_High-Quality_Vision-Langua.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded largely independently. This token-by-token decoding mismatches the coupled structure of box geometry ...
+
+#### [EdgeFlow: Edge-Map Augmented VLM-Based Flowchart Processing for Industrial Requirements Engineering](http://arxiv.org/abs/2605.27332v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-27/EdgeFlow_Edge-Map_Augmented_VLM-Based_Flowchart_Pr.pdf)
+- **领域**: cs.SE
+- **核心摘要**: Flowcharts are widely used in industrial requirements, but usually remain embedded as static images. Vision Language Models (VLMs) show promise in the conversion of these flowcharts into machine-readable models for RE activities, yet, when directly applied to flowchart conversion, they often fail on...
+
+#### [Real Images, Worse Judgments: Evaluating Vision-Language Models on Concreteness and Imagery](http://arxiv.org/abs/2605.27315v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-27/Real_Images_Worse_Judgments_Evaluating_Vision-Lang.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Visual inputs are often assumed to improve language understanding in multimodal models. We examine this assumption by asking whether vision-language models (VLMs) can distinguish useful visual evidence from incidental image context in lexical judgments. We use human concreteness and imagery ratings ...
+
+#### [Chartographer: Counterfactual Chart Generation for Evaluating Vision-Language Models](http://arxiv.org/abs/2605.27311v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-27/Chartographer_Counterfactual_Chart_Generation_for_.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Chart question-answering (QA) benchmarks aim to pose questions that require visual reasoning to correctly answer, but models can often reach solutions through shortcuts or prior familiarity with a chart based on their own background knowledge. To strictly evaluate visual reasoning, we propose counte...
+
+#### [How and What to Imagine? Visual Thinking in Unified Multimodal Models for Cross-View Spatial Reasoning](http://arxiv.org/abs/2605.27310v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-27/How_and_What_to_Imagine_Visual_Thinking_in_Unified.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Cross-view spatial reasoning remains a weak spot for vision-language models (VLMs): they often reason in language and lose the fine-grained geometry needed for the task. Thinking with images aims to address this by generating an intermediate thinking image, but recent work shows that models often ig...
+
+#### [Self-Ensembling Vision-Language Models for Chart Data Extraction](http://arxiv.org/abs/2605.27298v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-27/Self-Ensembling_Vision-Language_Models_for_Chart_D.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Charts effectively convey quantitative information, but the underlying data are often locked in image form, hindering reuse and analysis. Manually digitizing charts is time-consuming and error-prone, motivating automatic chart-to-table extraction. Recent approaches use specialized vision-language mo...
+
+#### [Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models](http://arxiv.org/abs/2605.27243v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-27/Can_Retrieval_Heads_See_Images_Multimodal_Retrieva.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models increasingly rely on long-context modeling to reason over documents, hour-level videos, and long-horizon agent trajectories, requiring them to locate relevant evidence across interleaved text and images. Prior work has studied this behavior using retrieval heads in large...
+
+#### [EpiCurveBench: Evaluating VLMs on Epidemic Curve Digitization](http://arxiv.org/abs/2605.27195v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-27/EpiCurveBench_Evaluating_VLMs_on_Epidemic_Curve_Di.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Chart-to-data extraction with vision-language models (VLMs) is increasingly evaluated on benchmarks that show diminishing headroom (frontier VLMs exceed 89% on ChartQA) and with metrics that treat extracted points as unordered key-value pairs, ignoring the temporal structure of time series and penal...
+
+#### [Leveraging Visual Signals for Robust Token-Level Uncertainty in Vision-Language Generation](http://arxiv.org/abs/2605.27136v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-27/Leveraging_Visual_Signals_for_Robust_Token-Level_U.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Uncertainty quantification (UQ) remains a critical challenge in Large Vision Language Models (LVLMs) for reliable predictions and real-world deployment. However, most existing methods are adapted from the LLM literature and primarily focus on the language modality, leaving the contribution of visual...
+
+#### [Scaling, Benchmarking, and Reasoning of Vision-Language Agents for Mobile GUI Navigation](http://arxiv.org/abs/2605.27134v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-27/Scaling_Benchmarking_and_Reasoning_of_Vision-Langu.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-Language Models (VLMs) have shown rapid progress in mobile GUI navigation. This paper presents a systematic study of data scaling, benchmarking, and reasoning for VLM-based agents in this domain. To facilitate rigorous evaluation, we introduce HyperTrack, a large-scale dataset with over 16000...
+
