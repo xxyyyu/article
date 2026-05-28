@@ -3453,3 +3453,58 @@
 - **领域**: cs.AI
 - **核心摘要**: Vision-Language Models (VLMs) have shown rapid progress in mobile GUI navigation. This paper presents a systematic study of data scaling, benchmarking, and reasoning for VLM-based agents in this domain. To facilitate rigorous evaluation, we introduce HyperTrack, a large-scale dataset with over 16000...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-28
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [From Pixels to Words -- Towards Native One-Vision Models at Scale](http://arxiv.org/abs/2605.28820v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-28/From_Pixels_to_Words_--_Towards_Native_One-Vision_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Current vision-language models (VLMs) typically stitch together separate image encoders and language decoders via multi-stage alignment, a modular framework that inevitably fragments pixel-level signals across frames and scatters early pixel-word interactions. In parallel, native VLMs, despite impre...
+
+#### [VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading](http://arxiv.org/abs/2605.28818v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-28/VLMs_May_Not_Globally_Enhance_Human_Alignment_over.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Large language models (LLMs) have become increasingly useful computational models of human language processing, but it remains unclear whether vision-language learning makes text representations more human-like during natural reading. Here, we address this question by comparing tightly matched LLM a...
+
+#### [The Abstraction Gap in Vision-Language Causal Reasoning](http://arxiv.org/abs/2605.28779v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-28/The_Abstraction_Gap_in_Vision-Language_Causal_Reas.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models (VLMs) generate fluent causal explanations, but current evaluations cannot distinguish linguistic plausibility from faithful causal reasoning. We introduce a dual-probe methodology that isolates these properties. The Text-Only Probe measures linguistic quality. The Chain-Text ...
+
+#### [Agent Explorative Policy Optimization for Multimodal Agentic Reasoning](http://arxiv.org/abs/2605.28774v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-28/Agent_Explorative_Policy_Optimization_for_Multimod.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models with extended reasoning succeed on complex problems, but many real-world problems require external tools that internal reasoning alone often cannot resolve. Agentic reasoning therefore interleaves two behaviors with a structural asymmetry: thinking (the self-contained default)...
+
+#### [Self-Prophetic Decoding to Unlock Visual Search in LVLMs](http://arxiv.org/abs/2605.28741v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-28/Self-Prophetic_Decoding_to_Unlock_Visual_Search_in.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) are rapidly evolving toward true multimodal reasoning, with visual search representing a concrete instantiation of the thinking-with-images paradigm. However, LVLM visual search faces two key challenges: incompatibility among intrinsic capabilities after post-tra...
+
+#### [JECA^2: Judgment-Explanation Consistent Adversarial Attack against Forensic Vision-Language Models](http://arxiv.org/abs/2605.28609v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-28/JECA2_Judgment-Explanation_Consistent_Adversarial_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Forensic vision-language models (VLMs) have recently been developed to detect image tampering and provide natural-language explanations. However, their robustness against adversarial manipulation remains underexplored. Existing adversarial attacks typically aim to flip the model's binary judgment, w...
+
+#### [GEM: Generative Supervision Helps Embodied Intelligence](http://arxiv.org/abs/2605.28548v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-28/GEM_Generative_Supervision_Helps_Embodied_Intellig.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Embodied Vision-Language Models (VLMs) have demonstrated impressive performance and generalization in robotics, particularly within Vision-Language-Action frameworks. However, a significant gap remains between the high-level semantic focus of standard text-guided pre-training paradigms and the low-l...
+
+#### [DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving](http://arxiv.org/abs/2605.28544v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-28/DriveWAM_Video_Generative_Priors_Enable_Scalable_W.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Pretrained foundation models have become an important basis for end-to-end autonomous driving. In contrast to vision-language models pretrained primarily on static image-text pairs, video generative models capture temporal dynamics and motion priors that are naturally suited for driving. We present ...
+
+#### [FedMPT: Federated Multi-label Prompt Tuning of Vision-Language Models](http://arxiv.org/abs/2605.28347v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-28/FedMPT_Federated_Multi-label_Prompt_Tuning_of_Visi.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Multi-Label Recognition (MLR) based on Vision-Language Models (VLMs) aims to leverage their pre-trained knowledge to better adapt complex recognition scenarios, thereby enhancing model robustness. However, for realistic decentralized applications requiring federated learning, adapting VLMs to each c...
+
+#### [When Discourse Pressures Conflict: Information Structure in Vision-Language Model Outputs](http://arxiv.org/abs/2605.28346v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-28/When_Discourse_Pressures_Conflict_Information_Stru.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models (VLMs) are increasingly evaluated for whether they identify the right visual content, but little is known about whether they express such content in a discourse-appropriate form. We address this research gap using information structure (IS), testing whether VLMs distinguish di...
+
