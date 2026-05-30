@@ -3508,3 +3508,58 @@
 - **领域**: cs.CL
 - **核心摘要**: Vision-language models (VLMs) are increasingly evaluated for whether they identify the right visual content, but little is known about whether they express such content in a discourse-appropriate form. We address this research gap using information structure (IS), testing whether VLMs distinguish di...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-05-30
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection](http://arxiv.org/abs/2605.30344v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-30/Tiny_but_Trusted_Efficient_Vision-Language_Reasoni.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Recent advances in Vision-Language Models (VLMs) have achieved impressive performance across many tasks, yet prior studies report unsatisfactory performance when applying large language or multimodal models to finding abnormal patterns in sequential data. Public anomaly detection benchmarks typicall...
+
+#### [GPIC: A Giant Permissive Image Corpus for Visual Generation](http://arxiv.org/abs/2605.30341v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-30/GPIC_A_Giant_Permissive_Image_Corpus_for_Visual_Ge.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Studying scalable methods for visual generative modeling requires large, accessible, and stable datasets. We introduce GPIC, a Giant Permissive Image Corpus of approximately 28 trillion pixels. GPIC comprises diverse internet images captioned by a state-of-the-art vision-language model, including 10...
+
+#### [Grounded 3D-Aware Spatial Vision-Language Modeling](http://arxiv.org/abs/2605.30307v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-30/Grounded_3D-Aware_Spatial_Vision-Language_Modeling.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We present GR3D, a spatial vision language model equipped with three complementary grounding capabilities--explicit 2D grounding, implicit 2D grounding, and monocular 3D grounding--within a single framework. GR3D introduces an implicit grounding mechanism that identifies entity mentions during gener...
+
+#### [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](http://arxiv.org/abs/2605.30280v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-30/Qwen-VLA_Unifying_Vision-Language-Action_Modeling_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Embodied intelligence is often studied through specialized models for individual tasks such as manipulation or navigation, resulting in fragmented capabilities and limited generalization across tasks, environments, and robot embodiments. In this work, we study whether heterogeneous embodied decision...
+
+#### [LoMo: Local Modality Substitution for Deeper Vision-Language Fusion](http://arxiv.org/abs/2605.30265v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-30/LoMo_Local_Modality_Substitution_for_Deeper_Vision.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have achieved substantial progress across a wide range of understanding and reasoning tasks, driven by large-scale image-text training aimed at multimodal fusion. Ideally, replacing a textual question with its rendered-image counterpart should leave model performance es...
+
+#### [Stable-Layers: Fine-Tuning Image Layer Decomposition Models with VLM-Scored Reinforcement Learning](http://arxiv.org/abs/2605.30257v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-30/Stable-Layers_Fine-Tuning_Image_Layer_Decompositio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We present Stable-Layers, a reinforcement learning framework that eliminates the need for paired supervision by fine-tuning a pretrained layer decomposition model using only feedback from a vision-language model (VLM). Starting from Qwen-Image-Layered, we apply Flow-GRPO with LoRA adaptation, sampli...
+
+#### [Beyond 3D VQAs: Injecting 3D Spatial Priors into Vision-Language Models for Enhanced Geometric Reasoning](http://arxiv.org/abs/2605.30231v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-30/Beyond_3D_VQAs_Injecting_3D_Spatial_Priors_into_Vi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) often struggle with robust 3D spatial reasoning. Prevailing methods that rely on fine-tuning with 3D visual question-answering (VQA) datasets may overfit dataset-specific biases, while integrating specialized 3D visual encoders is often inflexible and cumbersome. In thi...
+
+#### [Unveiling the Visual Counting Bottleneck in Vision-Language Models](http://arxiv.org/abs/2605.30170v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-30/Unveiling_the_Visual_Counting_Bottleneck_in_Vision.pdf)
+- **领域**: cs.MM
+- **核心摘要**: While Large Vision-Language Models (VLMs) excel at interpolation, they suffer catastrophic failures in systematic generalization, most notably in visual counting. In this work, we investigate this extrapolation bottleneck by deconstructing visual counting into three cognitive stages: visual individu...
+
+#### [Why Far Looks Up: Probing Spatial Representation in Vision-Language Models](http://arxiv.org/abs/2605.30161v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-30/Why_Far_Looks_Up_Probing_Spatial_Representation_in.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) achieve strong performance on spatial reasoning benchmarks, yet it remains unclear whether this reflects structured 3D understanding or reliance on statistical shortcuts in natural images. We introduce a representation-level analysis framework that constructs minimal co...
+
+#### [AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection](http://arxiv.org/abs/2605.30140v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-05-30/AnomalyAgent_Training-Free_Agentic_Models_for_Zero.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Benefiting from generalizability of vision-language models (VLMs) such as CLIP, many zero-/few-shot anomaly detection (AD) approaches have achieved impressive detection performance across various datasets. Nevertheless, they require substantial training on large auxiliary datasets to adapt VLMs to a...
+
