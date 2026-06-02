@@ -3618,3 +3618,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Benefiting from generalizability of vision-language models (VLMs) such as CLIP, many zero-/few-shot anomaly detection (AD) approaches have achieved impressive detection performance across various datasets. Nevertheless, they require substantial training on large auxiliary datasets to adapt VLMs to a...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-02
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models](http://arxiv.org/abs/2606.02580v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-02/Thinking_in_Blender_Staged_Executable_Inverse_Grap.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Inverse graphics is a longstanding and highly underconstrained problem that seeks to reconstruct images as editable 3D scenes which can be rendered, relit, and manipulated. In this work, we investigate whether pretrained vision-language models (VLMs) can perform executable inverse graphics directly ...
+
+#### [VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization](http://arxiv.org/abs/2606.02564v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-02/VLMs_are_Good_Teachers_for_Video_Reasoning_via_Ada.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The recent "Reasoning with Video" paradigm utilizes Video Generation Models (VGMs) to generate temporally coherent visual trajectories to complete reasoning tasks. Although state-of-the-art VGMs excel at visual quality, they often struggle to understand and follow task-specific rules, leading to log...
+
+#### [MASER: Modality-Adaptive Specialist Routing for Embodied 3D Spatial Intelligence](http://arxiv.org/abs/2606.02463v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-02/MASER_Modality-Adaptive_Specialist_Routing_for_Emb.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In 3D environments, Embodied Agents answer spatially relevant questions through reasoning from a mixture of modalities including natural language, RGB images, point clouds, depth maps and camera poses. Existing Vision-Language models (VLMs) are fine-tuned over a single modality. This completely igno...
+
+#### [Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models](http://arxiv.org/abs/2606.02459v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-02/Active_Exploring_like_a_Pigeon_Reinforcing_Spatial.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Enabling Vision-Language Models (VLMs) to perform spatial reasoning remains challenging. Existing approaches treat VLMs as passive observers, which is difficult for real-world applications. Moreover, reinforcement learning methods rely on sparse rewards, limiting their effectiveness for complex reas...
+
+#### [Bridging the Sim-to-Real Gap in Semiconductor Visual Program Synthesis via Input Binarization](http://arxiv.org/abs/2606.02434v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-02/Bridging_the_Sim-to-Real_Gap_in_Semiconductor_Visu.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Precise parametric control over circuit geometry is essential for semiconductor inspection, yet obtaining sufficient real training data remains costly. Although generative models such as diffusion models and Generative Adversarial Networks (GANs) can augment training data, they cannot guarantee the ...
+
+#### [PRIMA: Boosting Animal Mesh Recovery with Biological Priors and Test-Time Adaptation](http://arxiv.org/abs/2606.02366v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-02/PRIMA_Boosting_Animal_Mesh_Recovery_with_Biologica.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We present PRIMA (*PRI*ors for *M*esh *A*daptation), a framework for robust 3D quadruped mesh recovery under severe species and pose imbalance. Existing animal reconstruction methods often regress toward mean shapes and poses due to limited 3D supervision and long-tailed species distributions, resul...
+
+#### [Entropy Minimization without Model Collapse: Mitigating Prediction Bias in Medical Imaging](http://arxiv.org/abs/2606.02339v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-02/Entropy_Minimization_without_Model_Collapse_Mitiga.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Entropy minimization (EM) is the dominant objective for test-time adaptation, yet its failure mode, model collapse, remains poorly understood. In this work, we show that distribution shifts can cause feature clusters corresponding to distinct classes in the model's representation space to merge, whi...
+
+#### [Training-Free Composed Video Retrieval via Visual Representation-Guided Video-LLM Reasoning](http://arxiv.org/abs/2606.02321v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-02/Training-Free_Composed_Video_Retrieval_via_Visual_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in large vision-language models have expanded video retrieval from simple text-based search to more flexible scenarios, where users may specify the desired result through both visual examples and textual instructions. In the CVPR 2026 Reason-Aware Composed Video Retrieval Challenge, ...
+
+#### [Cross-modal linkage risk in clinical vision-language models](http://arxiv.org/abs/2606.02276v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-02/Cross-modal_linkage_risk_in_clinical_vision-langua.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) trained on paired chest radiographs and radiology reports learn a shared embedding space that can preserve instance-level image-report correspondence. This poses a privacy risk in settings where radiographs and reports are deliberately kept separate after acquisition, s...
+
+#### [Dexterity-BEV: Aligning 3D World and Actions for Generalizable Robot Policies Learning](http://arxiv.org/abs/2606.02274v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-02/Dexterity-BEV_Aligning_3D_World_and_Actions_for_Ge.pdf)
+- **领域**: cs.RO
+- **核心摘要**: End-to-end manipulation policies, combined with web-scale pretrained Vision-Language Models (VLMs), show the promise for generalizable and dexterous robotic manipulation. However, they inherit two key limitations from 2D foundation models: 1) the reliance on 2D RGB inputs that ignores the intrinsica...
+
