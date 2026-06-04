@@ -3673,3 +3673,58 @@
 - **领域**: cs.RO
 - **核心摘要**: End-to-end manipulation policies, combined with web-scale pretrained Vision-Language Models (VLMs), show the promise for generalizable and dexterous robotic manipulation. However, they inherit two key limitations from 2D foundation models: 1) the reliance on 2D RGB inputs that ignores the intrinsica...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-04
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Food-R1: A Unified Multi-Task Food Vision-Language Model with Reinforcement Learning](http://arxiv.org/abs/2606.04986v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-04/Food-R1_A_Unified_Multi-Task_Food_Vision-Language_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent studies have explored Vision-Language Models (VLMs) for food analysis. However, most existing methods rely primarily on supervised fine-tuning (SFT), which often limits reasoning and generalization capabilities. Moreover, high-quality large-scale nutritional annotations remain scarce. To addr...
+
+#### [Geometry-Aware Distillation for Prompt Tuning Biomedical Vision-Language Models](http://arxiv.org/abs/2606.04922v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-04/Geometry-Aware_Distillation_for_Prompt_Tuning_Biom.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Current prompt-based and adapter-based tuning of vision-language models (VLMs) is attractive for medical imaging, where clinical data sensitivity favors frozen backbones and annotations are limited. However, these methods typically optimize only the ground-truth class, treating all other classes as ...
+
+#### [NextMotionQA: Benchmarking and Judging Human Motion Understanding with Vision-Language Models](http://arxiv.org/abs/2606.04773v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-04/NextMotionQA_Benchmarking_and_Judging_Human_Motion.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reliable evaluation of human motion understanding is fundamental to advancing embodied AI, robotics, and animation. However, existing benchmarks suffer from coarse semantic granularity, undifferentiated difficulty, limited annotation quality, and pervasive answer ambiguity, leaving them unable to di...
+
+#### [Query-based Cross-Modal Projector Bolstering Mamba Multimodal LLM](http://arxiv.org/abs/2606.04719v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-04/Query-based_Cross-Modal_Projector_Bolstering_Mamba.pdf)
+- **领域**: cs.CL
+- **核心摘要**: The Transformer's quadratic complexity with input length imposes an unsustainable computational load on large language models (LLMs). In contrast, the Selective Scan Structured State-Space Model, or Mamba, addresses this computational challenge effectively. This paper explores a query-based cross-mo...
+
+#### [Beyond Symmetric Alignment: Spectral Diagnostics of Modality Imbalance in Vision-Language Models in the Medical Domain](http://arxiv.org/abs/2606.04613v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-04/Beyond_Symmetric_Alignment_Spectral_Diagnostics_of.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) struggle when applied to medical image-text data, yet the tools available to diagnose this failure remain limited. Existing representation alignment metrics are symmetric, collapsing both modalities into a single score and hiding which modality drives cross-modal degrad...
+
+#### [Selectivity Estimation for Semantic Filters on Image Data](http://arxiv.org/abs/2606.04610v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-04/Selectivity_Estimation_for_Semantic_Filters_on_Ima.pdf)
+- **领域**: cs.DB
+- **核心摘要**: Semantic data systems integrate Large Language Models (LLMs) and Vision-Language Models (VLMs) directly into database query execution, enabling expressive queries on multi-modal data. However, optimizing these queries requires accurate selectivity estimates to determine the most efficient operator e...
+
+#### [Impostor: An Agent-Curated Benchmark for Realistic AIGC Manipulation Localization](http://arxiv.org/abs/2606.04545v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-04/Impostor_An_Agent-Curated_Benchmark_for_Realistic_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in generative image editing have improved the realism and controllability of localized image manipulation, raising new challenges for image manipulation detection and localization (IMDL). However, existing IMDL benchmarks still have limitations in visual realism, manipulation diversi...
+
+#### [Stateful Visual Encoders for Vision-Language Models](http://arxiv.org/abs/2606.04433v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-04/Stateful_Visual_Encoders_for_Vision-Language_Model.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are increasingly used in multi-image, multi-turn agentic settings where decisions depend on visual changes. However, in existing open-weight VLMs, visual comparisons happen only inside the language model, while the visual encoder itself remains stateless: each image is ...
+
+#### [Video2LoRA: Parametric Video Internalization for Vision-Language Models](http://arxiv.org/abs/2606.04351v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-04/Video2LoRA_Parametric_Video_Internalization_for_Vi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Processing video in vision-language models is expensive: each frame occupies hundreds of tokens, and inference cost scales with every frame and every repeated query. We introduce Video2LoRA, a method for parametric video internalization. A perceiver hypernetwork reads the intermediate representation...
+
+#### [UniCanvas: A Diffusion-base Unified Model for Text-in-Image Joint Generation](http://arxiv.org/abs/2606.04264v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-04/UniCanvas_A_Diffusion-base_Unified_Model_for_Text-.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent years have seen remarkable progress in unified vision-language models handling both multimodal understanding and generation within a single architecture. While autoregressive VLMs can reason across modalities, they fail to generate high-quality images. In contrast, diffusion models produce ph...
+
