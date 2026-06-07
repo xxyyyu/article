@@ -3783,3 +3783,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Large Vision-Language Models have achieved significant reasoning performance in various tasks.However, there are few studies on text-to-3D indoor scene generation with LVLMs. The main challenge is that prevailing LVLM-based methods employ chain-of-thought sequential decision mechanisms that cannot r...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-07
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators](http://arxiv.org/abs/2606.06476v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-07/Thinking_with_Imagination_Agentic_Visual_Spatial_R.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While Vision-Language Models (VLMs) have shown strong visual reasoning capabilities, their spatial reasoning abilities remain largely constrained to the observed images and text-oriented chain-of-thought. They often struggle to infer unobserved layouts, maintain cross-view consistency, and reason fr...
+
+#### [EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models](http://arxiv.org/abs/2606.06379v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-07/EasyLens_A_Training-Free_Plug-and-Play_Subtle-Lesi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical vision-language models (VLMs) have shown increasing potential for clinical image interpretation, including lesion detection and report generation. However, their practical utility remains limited by insufficient sensitivity to subtle lesions, whose visual evidence is often sparse, low-contra...
+
+#### [Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models](http://arxiv.org/abs/2606.06186v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-07/Adversarial_Attacks_Already_Tell_the_Answer_Direct.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs), such as CLIP, have shown strong zero-shot generalization but remain highly vulnerable to adversarial perturbations, posing serious risks in real-world applications. Test-time defenses for VLMs have recently emerged as a promising and efficient approach to defend agains...
+
+#### [AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding](http://arxiv.org/abs/2606.06155v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-07/AffordanceVLA_A_Vision-Language-Action_Model_Empow.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language-Action (VLA) models leverage the rich world knowledge of pretrained vision-language models (VLMs) to enable instruction-following robotic manipulation. However, the structural mismatch between VLM semantic spaces and embodied control policies often hinders the learning of precise per...
+
+#### [RedEdit: Agentic Red-Teaming of Image Safety Classifiers via MCTS-Guided Photo-Editing](http://arxiv.org/abs/2606.06140v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-07/RedEdit_Agentic_Red-Teaming_of_Image_Safety_Classi.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Image safety classifiers serve as a critical component of contemporary content moderation systems on the internet. However, their resilience against user-style malicious image editing remains underexplored. Such behaviors are highly prevalent in daily scenarios but difficult to fully reproduce. To e...
+
+#### [Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback](http://arxiv.org/abs/2606.06113v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-07/Where_What_Why_and_Importance_Structured_Defect_Gr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite generating increasingly photorealistic images, text-to-image (T2I) models still exhibit localized, subtle, and structurally complex failures. Diagnosing these failures requires instance-level feedback that answers where a defect occurs, what type it is, why it is defective, and its importanc...
+
+#### [HyperVis: Continuous Latent Visual Relational Graphs on the Lorentz Hyperboloid for Compositional Reasoning](http://arxiv.org/abs/2606.06100v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-07/HyperVis_Continuous_Latent_Visual_Relational_Graph.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) struggle with compositional reasoning that requires understanding inter-object relationships. A natural remedy is to inject explicit scene graph triplets $\langle s, p, o \rangle$ from an off-the-shelf scene graph generator (SGG), but we show this backfires: discrete te...
+
+#### [Learning Visual Spatial Planning from Symbolic State via Modality-Gap-Aware Self-Distillation](http://arxiv.org/abs/2606.06076v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-07/Learning_Visual_Spatial_Planning_from_Symbolic_Sta.pdf)
+- **领域**: cs.AI
+- **核心摘要**: While vision-language models excel at general multimodal understanding, they still struggle with visual spatial planning. We attribute this to a perception-reasoning modality gap: visual planning requires models to infer latent state structures from pixels and then reason over the recovered structur...
+
+#### [A Conversational Framework for Human-Robot Collaborative Manipulation with Distributed Generative AI models](http://arxiv.org/abs/2606.06061v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-07/A_Conversational_Framework_for_Human-Robot_Collabo.pdf)
+- **领域**: cs.RO
+- **核心摘要**: This paper presents a distributed conversational framework for human-robot collaborative manipulation that integrates local language and vision-language models (VLMs) with a Robot Operating System 2 (ROS 2)-based execution stack. Language understanding, visual grounding, orchestration, and motion ex...
+
+#### [Global-Local Monte Carlo Tree Search in Vision-Language Models for Text-to-3D Indoor Scene Generation](http://arxiv.org/abs/2606.06002v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-07/Global-Local_Monte_Carlo_Tree_Search_in_Vision-Lan.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models have achieved significant reasoning performance in various tasks.However, there are few studies on text-to-3D indoor scene generation with LVLMs. The main challenge is that prevailing LVLM-based methods employ chain-of-thought sequential decision mechanisms that cannot r...
+
