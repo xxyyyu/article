@@ -3838,3 +3838,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Large Vision-Language Models have achieved significant reasoning performance in various tasks.However, there are few studies on text-to-3D indoor scene generation with LVLMs. The main challenge is that prevailing LVLM-based methods employ chain-of-thought sequential decision mechanisms that cannot r...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-08
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism](http://arxiv.org/abs/2606.07512v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-08/MemDreamer_Decoupling_Perception_and_Reasoning_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduce MemDreamer to decouple perception and reasoning, shifting long-video understanding into an agentic...
+
+#### [TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment](http://arxiv.org/abs/2606.07451v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-08/TEVI_Text-Conditioned_Editing_of_Visual_Representa.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models such as CLIP are highly useful for diverse tasks due to their shared image-text embedding space. Despite this, the image and text embeddings are often poorly aligned, affecting downstream performance. Recent work has shown that this can be attributed to an information imbalanc...
+
+#### [Defending Jailbreak Attacks on Large Language Models via Manifold Trajectory Kinetics](http://arxiv.org/abs/2606.07335v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-08/Defending_Jailbreak_Attacks_on_Large_Language_Mode.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Jailbreak prompts can bypass alignment guardrails in large language models (LLMs) and elicit unsafe outputs, making reliable deployment-time detection critical. Prior detection approaches largely rely on a fixed metric space, e.g., raw inputs, gradients, or hidden features, in which benign and jailb...
+
+#### [Textual Supervision Enhances Geospatial Representations in Vision-Language Models](http://arxiv.org/abs/2606.07172v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-08/Textual_Supervision_Enhances_Geospatial_Representa.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Geospatial understanding is a critical yet underexplored dimension in the development of machine learning systems for tasks such as image geolocation and spatial reasoning. In this work, we analyze the geospatial representations acquired by three model families: vision-only architectures (e.g., ViT)...
+
+#### [TraRA: Trajectory-level Recognition Aggregation for Video Text Spotting in Urban Surveillance](http://arxiv.org/abs/2606.07161v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-08/TraRA_Trajectory-level_Recognition_Aggregation_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Video Text Spotting (VTS) is essential for urban surveillance and intelligent transportation systems, enabling automated reading of street signs, vehicle markings, and scene text in video streams. However, reliable recognition remains challenging due to dynamic video factors common in surveillance s...
+
+#### [GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection](http://arxiv.org/abs/2606.07102v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-08/GP-Adapter_Gaussian_Process_CLIP-Adapter_for_Few-S.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We propose GP-Adapter, a training-free framework that augments CLIP (Contrastive Language-Image Pre-training) with Gaussian Process (GP) uncertainty modeling for few-shot classification and out-of-distribution (OOD) detection. While CLIP achieves strong zero-shot recognition, it yields deterministic...
+
+#### [Teaching the Way, Not the Answer: Privileged Tutoring Distillation for Multimodal Policy Optimization](http://arxiv.org/abs/2606.07000v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-08/Teaching_the_Way_Not_the_Answer_Privileged_Tutorin.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Recent post-training methods, particularly Reinforcement Learning with Verifiable Rewards (RLVR), have significantly enhanced the reasoning ability of Large Vision-Language Models (LVLMs). However, the sparse nature of verifiable rewards provides little token-level supervision for failed rollouts, o...
+
+#### [SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models](http://arxiv.org/abs/2606.06943v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-08/SS-TPT_Stability_and_Suitability-Guided_Test-Time_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) such as CLIP achieve strong zero-shot recognition but remain highly fragile under adversarial perturbations. Recent test-time adaptation defenses improve robustness by leveraging many augmented views, but this leads to impractical slowdown and a clear robustness-through...
+
+#### [When CLIP Sees More, It Fights Back Harder: Multi-View Guided Adaptive Counterattacks for Test-Time Adversarial Robustness](http://arxiv.org/abs/2606.06938v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-08/When_CLIP_Sees_More_It_Fights_Back_Harder_Multi-Vi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models such as CLIP have achieved remarkable zero-shot recognition capabilities, yet their robustness against adversarial perturbations remains limited. Test-time counterattack (TTC) was recently proposed to improve CLIP's robustness by perturbing an input image to steer it away from...
+
+#### [EASE-TTT: Evidence-Aligned Selective Test-Time Training for Long-Context Question Answering](http://arxiv.org/abs/2606.06906v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-08/EASE-TTT_Evidence-Aligned_Selective_Test-Time_Trai.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Long-context question answering (QA) remains challenging for smaller language models even when answer-bearing evidence is already present in the input. Existing within-context retrieval methods localize and expose candidate evidence chunks for the question, but they stop at input-level evidence expo...
+
