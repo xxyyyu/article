@@ -3893,3 +3893,58 @@
 - **领域**: cs.CL
 - **核心摘要**: Long-context question answering (QA) remains challenging for smaller language models even when answer-bearing evidence is already present in the input. Existing within-context retrieval methods localize and expose candidate evidence chunks for the question, but they stop at input-level evidence expo...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-09
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](http://arxiv.org/abs/2606.09826v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-09/OmniGameArena_A_Unified_UE5_Benchmark_for_VLM_Game.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, focus on single-agent Solo play, and lack unified protocols for evaluating heterogeneous agent class...
+
+#### [Your Model Already Knows: Attention-Guided Safety Filter for Vision-Language-Action Models](http://arxiv.org/abs/2606.09749v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-09/Your_Model_Already_Knows_Attention-Guided_Safety_F.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language-Action (VLA) models have demonstrated impressive end-to-end performance across a variety of robotic manipulation tasks. However, these policies offer no guarantees against collisions with task-irrelevant objects in the scene. Existing safety filters sidestep this problem by querying ...
+
+#### [ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies](http://arxiv.org/abs/2606.09630v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-09/ReCoVLA_VLM-Guided_Reward_Compilation_for_Failure_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language-action (VLA) policies provide strong priors for language-conditioned manipulation, but remain brittle in off-nominal states requiring targeted recovery. We propose ReCoVLA -- a failure-conditioned residual recovery framework that keeps a pretrained VLA policy frozen, uses an external...
+
+#### [Popcorn: A Configurable Benchmark for Visual Evidence in Multimodal Movie Recommendation](http://arxiv.org/abs/2606.09595v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-09/Popcorn_A_Configurable_Benchmark_for_Visual_Eviden.pdf)
+- **领域**: cs.IR
+- **核心摘要**: Movies are long-form audiovisual works, yet recommender benchmarks often rely on trailers, thumbnails, or metadata. These sources differ in semantics and scalability: full movies preserve consumption-level evidence, trailers concentrate promotional highlights, and thumbnails provide sparse but catal...
+
+#### [TABVERSE: Benchmarking Cross-Format Table Understanding in LLMs and VLMs](http://arxiv.org/abs/2606.09578v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-09/TABVERSE_Benchmarking_Cross-Format_Table_Understan.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Large Language Models (LLMs) and Vision-Language Models (VLMs) are increasingly evaluated on table reasoning tasks, but the role of table representation remains under-explored. In practice, the same table content may appear in different structural formats, such as HTML, Markdown, and LaTeX, or as re...
+
+#### [LangRetrieval: Language-Guided Self-Evolving Satellite-to-Radar Retrieval via CSI-Driven Reward](http://arxiv.org/abs/2606.09486v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-09/LangRetrieval_Language-Guided_Self-Evolving_Satell.pdf)
+- **领域**: cs.MM
+- **核心摘要**: Satellite-to-radar (S2R) retrieval estimates ground radar precipitation from geostationary satellite observations, providing a critical solution for precipitation monitoring in radar-sparse regions. However, S2R retrieval is intrinsically ill-posed: similar cloud-top radiances can correspond to dist...
+
+#### [MUDIDI: A Two-Stage Framework for Multilingual Dictionary Digitization with Language Models](http://arxiv.org/abs/2606.09435v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-09/MUDIDI_A_Two-Stage_Framework_for_Multilingual_Dict.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Multilingual dictionaries are among the most valuable documentary resources for low-resource and endangered languages, yet many remain available only as scans. For many decades, their digitization and conversion into a machine-readable format was nearly impossible due to language-specific scripts, c...
+
+#### [Guide Me Out: A Framework to Benchmark VLM Operators Communication in Crisis Scenarios](http://arxiv.org/abs/2606.09428v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-09/Guide_Me_Out_A_Framework_to_Benchmark_VLM_Operator.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Effective crisis response requires spatially grounded communication that bridges linguistic guidance of civilians with the physical environment, accounting for structural bottlenecks, evolving threats, and agent-specific contexts. Yet, current NLP research in crisis communication remains mainly limi...
+
+#### [CapRL++: Unified Reinforcement Learning with Verifiable Rewards for Dense Image and Video Captioning](http://arxiv.org/abs/2606.09393v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-09/CapRL_Unified_Reinforcement_Learning_with_Verifiab.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Image and video captioning are fundamental tasks that bridge the visual and linguistic domains, playing a critical role in pre-training Large Vision-Language Models (LVLMs). Current state-of-the-art captioning models are typically trained with Supervised Fine-Tuning (SFT), a paradigm that relies on ...
+
+#### [Zero-Shot Semantic Re-Identification for Autonomous Driving: A VLM Baseline Study](http://arxiv.org/abs/2606.09362v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-09/Zero-Shot_Semantic_Re-Identification_for_Autonomou.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Re-Identification (ReID) in autonomous driving is typically formulated as a visual matching problem, where observations of vehicles, pedestrians, and cyclists are associated across time, frames, or camera views using learned appearance embeddings, often complemented by motion, geometric, or multimod...
+
