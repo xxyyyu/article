@@ -3948,3 +3948,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Re-Identification (ReID) in autonomous driving is typically formulated as a visual matching problem, where observations of vehicles, pedestrians, and cyclists are associated across time, frames, or camera views using learned appearance embeddings, often complemented by motion, geometric, or multimod...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-10
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [JOIN: Anchor-Grasp-Conditioned Joining via Opposition, Inference, and Navigation for Bimanual Assistive Manipulation](http://arxiv.org/abs/2606.11151v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-10/JOIN_Anchor-Grasp-Conditioned_Joining_via_Oppositi.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Assistive mobility and manipulation platforms have received increasing attention as a means of restoring independence to individuals with disabilities. While effective for many basic activities of daily living (ADLs), a significant percentage of everyday tasks such as opening a jar, pouring a liquid...
+
+#### [FADA: Accessible fetal ultrasound interpretation and annotation with a selectively distilled unified vision-language model](http://arxiv.org/abs/2606.11106v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-10/FADA_Accessible_fetal_ultrasound_interpretation_an.pdf)
+- **领域**: cs.CV
+- **核心摘要**: A global shortage of trained sonographers limits prenatal ultrasound screening in low- and middle-income countries, where over half of pregnant women receive no skilled sonography. Current deep learning approaches address detection, segmentation, or classification in isolation, each demanding a sepa...
+
+#### [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](http://arxiv.org/abs/2606.11074v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-10/Modeling_Complex_Behaviors_Multi-Personality_Compo.pdf)
+- **领域**: cs.CL
+- **核心摘要**: With the widespread deployment of Multimodal Large Language Models (MLLMs) in social interaction, understanding and controlling their behavior under complex personality conditions is essential. This paper introduces explicit personality conditioning and establishes a systematic evaluation framework ...
+
+#### [What Fits (Into Few Tokens) Doesn't Overfit: Compression and Generalization in ML Research Agents](http://arxiv.org/abs/2606.11045v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-10/What_Fits_Into_Few_Tokens_Doesnt_Overfit_Compressi.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Reusing a held-out benchmark adaptively should, in principle, invite overfitting. Yet benchmark-driven machine learning (ML) has produced surprisingly little overfitting in practice. An attractive hypothesis is that successful ML strategies are highly compressible. We study this in the setting of LL...
+
+#### [Multi-UAV Active Sensing with Information Gain-based Planning and Belief Fusion](http://arxiv.org/abs/2606.10986v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-10/Multi-UAV_Active_Sensing_with_Information_Gain-bas.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Unmanned aerial vehicles (UAVs) are increasingly used for active sensing and information gathering in spatially distributed environments. Their performance, however, is constrained by limited flight time, sensing uncertainty, and the trade-off between spatial coverage and observation accuracy. This ...
+
+#### [Architect-Ant: Editable Automatic Furnishing of Architectural Floor Plans](http://arxiv.org/abs/2606.10953v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-10/Architect-Ant_Editable_Automatic_Furnishing_of_Arc.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Furnished floor plans are fundamental to real estate visualization, interior design, and architectural workflows. However, progress in automatic furniture arrangement has been limited by the lack of real, professionally designed floor-plan datasets with object-level furniture annotations. To address...
+
+#### [Task Robustness via Re-Labelling Vision-Action Robot Data](http://arxiv.org/abs/2606.10918v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-10/Task_Robustness_via_Re-Labelling_Vision-Action_Rob.pdf)
+- **领域**: cs.RO
+- **核心摘要**: The recent trend in scaling models for robot learning has resulted in impressive policies that can perform various manipulation tasks and generalize to novel scenarios. However, these policies continue to struggle with following instructions, likely due to the limited linguistic and action sequence ...
+
+#### [Do VLMs Reason Like Engineers? A Benchmark and a Stage-wise Evaluation](http://arxiv.org/abs/2606.10833v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-10/Do_VLMs_Reason_Like_Engineers_A_Benchmark_and_a_St.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-Language Models (VLMs) demonstrate strong performance on general multimodal reasoning benchmarks, yet their ability to perform engineering reasoning remains largely unexplored. Unlike general visual question answering, engineering problem solving requires interpreting technical diagrams, sele...
+
+#### [MemVenom: Triggered Poisoning of Multimodal Memories in Web Agents](http://arxiv.org/abs/2606.10742v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-10/MemVenom_Triggered_Poisoning_of_Multimodal_Memorie.pdf)
+- **领域**: cs.CR
+- **核心摘要**: External memory has become a core component of modern web agents, enabling long-horizon reasoning through the retrieval of past experiences. However, this paradigm introduces a critical vulnerability: malicious content injected into memory can be persistently recalled and repeatedly influence agent ...
+
+#### [AgenticNav: Zero-Shot Vision-and-Language Navigation as a Tool-Calling Harness](http://arxiv.org/abs/2606.10577v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-10/AgenticNav_Zero-Shot_Vision-and-Language_Navigatio.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Zero-shot vision-and-language navigation in continuous environments (VLN-CE) has recently become feasible with large vision-language models (VLMs). However, existing methods typically rely on learned waypoint predictors to propose navigable actions. This severely limits the model's action space and ...
+
