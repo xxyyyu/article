@@ -4003,3 +4003,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Zero-shot vision-and-language navigation in continuous environments (VLN-CE) has recently become feasible with large vision-language models (VLMs). However, existing methods typically rely on learned waypoint predictors to propose navigable actions. This severely limits the model's action space and ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-11
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](http://arxiv.org/abs/2606.12412v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-11/Reroute_Dont_Remove_Recoverable_Visual_Token_Routi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token reduction methods largely follow a rank-and-remove paradigm: they score visual tokens, keep a compact ...
+
+#### [DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?](http://arxiv.org/abs/2606.12402v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-11/DIRECT_When_and_Where_Should_You_Allocate_Test-Tim.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time compute to improve capability. However, we observe that doing so increases latency, token usage, and FLOPs while yielding uneven, often diminishing gains...
+
+#### [APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies](http://arxiv.org/abs/2606.12366v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-11/APT_Action_Expert_Pretraining_Improves_Instruction.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language-Action (VLA) models that couple pretrained Vision-Language Models (VLMs) with continuous action experts have achieved strong manipulation performance, yet generalization to out-of-distribution (OOD) language instructions remains poor. A known challenge is the structural imbalance in ...
+
+#### [Bridging Day and Night: Unsupervised Cross-Domain Re-Identification with Synergistic Prompt and Prototype Learning](http://arxiv.org/abs/2606.12258v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-11/Bridging_Day_and_Night_Unsupervised_Cross-Domain_R.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Cross-domain day-night re-identification (ReID) is fundamentally challenged by the substantial visual appearance discrepancies between daytime and nighttime scenes. Existing fully supervised methods rely heavily on labor-intensive annotations, which are costly and exhibit limited generalization acro...
+
+#### [OpenMedReason: Scientific Reasoning Supervision for Medical Vision-Language Models](http://arxiv.org/abs/2606.12169v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-11/OpenMedReason_Scientific_Reasoning_Supervision_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: High-stakes clinical use of large vision-language models (LVLMs) requires reasoning that is grounded in visual evidence and clinical knowledge, not just correct final answers. We introduce OpenMedReason, a large-scale, open multimodal medical reasoning corpus comprising approximately 450K image-ques...
+
+#### [MSUE: Multi-Modal Soccer Understanding Expert](http://arxiv.org/abs/2606.12106v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-11/MSUE_Multi-Modal_Soccer_Understanding_Expert.pdf)
+- **领域**: cs.CV
+- **核心摘要**: This paper presents our solution to the 2026 SoccerNet VQA Challenge. We first develop a cost-effective data synthesis pipeline driven by a Vision-Language Model (VLM), which systematically restructures raw domain data into diverse VQA samples, including concise answers and long-form responses. Seco...
+
+#### [World Model Self-Distillation: Training World Models to Solve General Tasks](http://arxiv.org/abs/2606.12072v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-11/World_Model_Self-Distillation_Training_World_Model.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Pretrained video generators are promising visual world models that exhibit emergent task-solving abilities; however, their reliance on detailed textual descriptions limits their direct use for planning and decision-making. Existing approaches either outsource this reasoning to language or vision-lan...
+
+#### [Metadata-Aware Multi-Prompt Reasoning for Zero-Shot Accident Understanding](http://arxiv.org/abs/2606.12047v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-11/Metadata-Aware_Multi-Prompt_Reasoning_for_Zero-Sho.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In this paper, we address the problem of zero-shot understanding of accidents from surveillance videos by identifying when an impact event occurs, what type of impact it is, and where in the frame it occurs using natural language. We propose a three-stage pipeline that decomposes the accident unders...
+
+#### [MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning](http://arxiv.org/abs/2606.12018v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-11/MODF-SIR_A_Multi-agent_Omni-modal_Distilled_Framew.pdf)
+- **领域**: cs.AI
+- **核心摘要**: We propose a multi-agent collaborative framework built upon a lightweight Multimodal Large Language Model (MLLM), specifically designed for social intelligence reasoning. A key feature of our approach is that both the training and inference phases are augmented via knowledge distillation. Within thi...
+
+#### [Feature extraction for plant growth estimation](http://arxiv.org/abs/2606.11966v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-11/Feature_extraction_for_plant_growth_estimation.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Precision agriculture requires the estimation of plant growth stages in real-time. When the plant growth stage is known, the wastage of resources in cultivation, such as nutrients and water, is reduced as only the required resources need to be supplied. Plants at different growth stages, however, ha...
+
