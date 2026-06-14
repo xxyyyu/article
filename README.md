@@ -4168,3 +4168,58 @@
 - **领域**: cs.AI
 - **核心摘要**: We present OpenMedQ, a medical vision-language model pretrained on the broadest fully-open medical mix to date: 14 datasets totaling ~3.35M pretraining samples spanning pathology, radiology, microscopy, and text-only clinical QA. OpenMedQ reaches state-of-the-art BLEU-1 on PathVQA (75.9), beating Me...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-14
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Improving Robotic Generalist Policies via Flow Reversal Steering](http://arxiv.org/abs/2606.13675v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-14/Improving_Robotic_Generalist_Policies_via_Flow_Rev.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Generalist policies can learn a wide range of skills from diverse robot datasets. In order to solve or improve on challenging news tasks, we need a way to infer and invoke the appropriate actions from the policy's rich behavioral prior, especially when directly commanding the policy fails. We focus ...
+
+#### [SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](http://arxiv.org/abs/2606.13673v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-14/SpatialClaw_Rethinking_Action_Interface_for_Agenti.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attempt to address this by augmenting VLMs with specialist perception modules, yet their effectiveness is ...
+
+#### [Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation](http://arxiv.org/abs/2606.13657v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-14/Dense_Supervision_Sparse_Updates_On_the_Sparsity_a.pdf)
+- **领域**: cs.LG
+- **核心摘要**: On-policy distillation (\textsc{OPD}) has recently become a prominent post-training recipe as it combines two desirable ingredients: on-policy student trajectories and dense teacher supervision, yet how this hybrid changes a model's parameters remains unclear. Across several language and vision-lang...
+
+#### [From Traditional Automation to Embodied Wireless Intelligence: Vision-Language-Action Empowered Physics-Aware Communication Networks](http://arxiv.org/abs/2606.13458v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-14/From_Traditional_Automation_to_Embodied_Wireless_I.pdf)
+- **领域**: cs.NI
+- **核心摘要**: Wireless network automation has progressed from rule-based self-organising networks (SON) to data-driven optimisation, yet existing systems remain fundamentally disembodied, optimising performance indicators without perceiving the physical environment that governs radio propagation. We propose the e...
+
+#### [Cross-Modal Masked Compositional Concept Modeling for Enhancing Visio-Linguistic Compositionality](http://arxiv.org/abs/2606.13288v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-14/Cross-Modal_Masked_Compositional_Concept_Modeling_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Contrastively trained vision-language models like CLIP, have made remarkable progress in learning joint image-text representations, but still face challenges in compositional understanding. They often exhibit a "bag-of-words" behavior--struggling to capture the object relations, attribute-object bin...
+
+#### [Iterative Visual Thinking: Teaching Vision-Language Models Spatial Self-Correction through Visual Feedback](http://arxiv.org/abs/2606.13156v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-14/Iterative_Visual_Thinking_Teaching_Vision-Language.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) achieve strong singleshot spatial grounding, yet lack any mechanism to observe and correct their own predictions. We find that naively prompting a VLM to iterate over rendered visualizations of its predictions causes catastrophic failure: Acc@0.5 on referring expression...
+
+#### [PP-OCRv6: From 1.5M to 34.5M Parameters, Surpassing Billion-Scale VLMs on OCR Tasks](http://arxiv.org/abs/2606.13108v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-14/PP-OCRv6_From_15M_to_345M_Parameters_Surpassing_Bi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have achieved impressive results on general vision-language tasks, yet they suffer from hallucination, imprecise localization, and prohibitive computational cost when applied to dedicated OCR scenarios. This paper presents PP-OCRv6, a lightweight OCR system that combine...
+
+#### [RoboProcessBench: Benchmarking Process-Aware Understanding in Vision-Language Robotic Manipulation](http://arxiv.org/abs/2606.13040v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-14/RoboProcessBench_Benchmarking_Process-Aware_Unders.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language models (VLMs) are increasingly explored as visual critics, reward generators, and failure detectors in robotic manipulation. These roles implicitly require models to judge not only final task success, but also how a manipulation execution is physically and temporally progressing. How...
+
+#### [DeepJEB++: Foundation Model-Driven Large-Scale 3D Engineering Dataset via 2D Latent Space Augmentation](http://arxiv.org/abs/2606.12994v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-14/DeepJEB_Foundation_Model-Driven_Large-Scale_3D_Eng.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Data-driven engineering design is constrained by the lack of large-scale 3D datasets that pair geometry with physics-based performance labels. In particular, existing 3D data augmentation techniques have limitations in preserving subtle and diverse geometric variations, and it remains difficult to a...
+
+#### [OpenMedQ: Broad Open Pretraining for Medical Vision-Language Models](http://arxiv.org/abs/2606.12953v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-14/OpenMedQ_Broad_Open_Pretraining_for_Medical_Vision.pdf)
+- **领域**: cs.AI
+- **核心摘要**: We present OpenMedQ, a medical vision-language model pretrained on the broadest fully-open medical mix to date: 14 datasets totaling ~3.35M pretraining samples spanning pathology, radiology, microscopy, and text-only clinical QA. OpenMedQ reaches state-of-the-art BLEU-1 on PathVQA (75.9), beating Me...
+
