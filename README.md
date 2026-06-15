@@ -4223,3 +4223,58 @@
 - **领域**: cs.AI
 - **核心摘要**: We present OpenMedQ, a medical vision-language model pretrained on the broadest fully-open medical mix to date: 14 datasets totaling ~3.35M pretraining samples spanning pathology, radiology, microscopy, and text-only clinical QA. OpenMedQ reaches state-of-the-art BLEU-1 on PathVQA (75.9), beating Me...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-15
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Gaze Heads: How VLMs Look at What They Describe](http://arxiv.org/abs/2606.14703v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-15/Gaze_Heads_How_VLMs_Look_at_What_They_Describe.pdf)
+- **领域**: cs.CV
+- **核心摘要**: How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its language-model backbone, which we call gaze heads, whose attention tracks the image region the model...
+
+#### [Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control](http://arxiv.org/abs/2606.14699v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-15/Instruct-Particulate_Scaling_Feed-Forward_3D_Objec.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reconstructing articulated 3D objects is important for animation, gaming, and robotic simulations. Recent neural networks can estimate the articulated structure of 3D objects, but their generalization remains limited by the scarcity of annotated data for this task. To address this gap, we introduce ...
+
+#### [CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment](http://arxiv.org/abs/2606.14691v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-15/CORA_Analyzing_and_bridging_thinking-answer_gap_in.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Reinforcement learning with verifiable rewards (RLVR) has successfully elicited the reasoning capabilities of large language models, motivating its extension to multimodal scenarios. Existing methods primarily focus on improving the visual coverage of reasoning traces and mitigating visual hallucina...
+
+#### [Dense Coordinate-List Fine-Tuning Induces a Controllable Interference Surface in Vision-Language Models](http://arxiv.org/abs/2606.14507v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-15/Dense_Coordinate-List_Fine-Tuning_Induces_a_Contro.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Fine-tuning vision-language models to emit dense coordinate lists improves visual grounding but also changes how models serialize, repeat, and terminate structured outputs. We study this behavior as a generation and control surface. In Gemma 4 12B, high-capacity q/k/v/o LoRA raises class-aware F1@0....
+
+#### [CausalMotion: Structured Physical Reasoning as Keyframe and Trajectory Guidance for Training-Free Video Generation](http://arxiv.org/abs/2606.14317v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-15/CausalMotion_Structured_Physical_Reasoning_as_Keyf.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in diffusion-based video generation have significantly improved visual quality and short-term temporal coherence. However, existing methods still struggle to produce videos with physically consistent and causally plausible dynamics, especially in scenarios involving long-horizon inte...
+
+#### [What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective](http://arxiv.org/abs/2606.14299v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-15/What_Drives_Test-Time_Adaptation_for_CLIP_A_Contro.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) such as CLIP have become a standard backbone for open-vocabulary recognition, yet their zero-shot predictions remain vulnerable to distribution shifts encountered at deployment. Test-Time Adaptation (TTA) has recently been extended to CLIP as a lightweight solution, lea...
+
+#### [One Layer's Trash is Another Layer's Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs](http://arxiv.org/abs/2606.14277v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-15/One_Layers_Trash_is_Another_Layers_Treasure_Adapti.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) have achieved remarkable success across diverse multimodal tasks, yet their practical deployment remains constrained by the computational burden arising from lengthy visual tokens. While visual token pruning has emerged as a promising solution, existing methods s...
+
+#### [Self-Evolving Visual Questioner](http://arxiv.org/abs/2606.13929v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-15/Self-Evolving_Visual_Questioner.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are typically trained as passive answerers, while their ability to actively ask diverse, non-trivial, visual-centric and grounded questions remains underexplored. Existing visual questioners' performance is bottlenecked by the availability of high-quality training data ...
+
+#### [Guided Diffusion with Distilled Vision-Language Reliability for Aerial Navigation](http://arxiv.org/abs/2606.13883v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-15/Guided_Diffusion_with_Distilled_Vision-Language_Re.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Autonomous UAV navigation is conventionally solved by pipelines that separate perception, mapping, and planning into distinct stages, which propagates errors, accumulates latency, and requires environment-specific retuning. End-to-end generative models remove these interfaces by mapping raw observat...
+
+#### [AnyGoal: Vision-Language Guided Multi-Agent Exploration for Training-Free Lifelong Navigation](http://arxiv.org/abs/2606.13878v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-15/AnyGoal_Vision-Language_Guided_Multi-Agent_Explora.pdf)
+- **领域**: cs.RO
+- **核心摘要**: End-to-end navigation policies trained on large simulation corpora degrade sharply when transferred to out-of-distribution scenes, categories, or goal modalities. Modular pipelines such as Modular GOAT are bottlenecked by closed-set object detection recall, while 3D snapshot-memory systems (e.g. 3D-...
+
