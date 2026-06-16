@@ -4278,3 +4278,58 @@
 - **领域**: cs.RO
 - **核心摘要**: End-to-end navigation policies trained on large simulation corpora degrade sharply when transferred to out-of-distribution scenes, categories, or goal modalities. Modular pipelines such as Modular GOAT are bottlenecked by closed-set object detection recall, while 3D snapshot-memory systems (e.g. 3D-...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-16
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models](http://arxiv.org/abs/2606.17020v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-16/FusionRS_A_Large-Scale_RGB-Infrared_Remote_Sensing.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Remote sensing vision-language models have advanced Earth observation understanding, but most existing work remains centered on RGB imagery, leaving the complementary information in infrared data underexplored. Infrared images provide distinctive cues, including thermal intensity structures, object ...
+
+#### [Binary Tracking for Spatial QA and Navigation with Open Vision-Language Models](http://arxiv.org/abs/2606.16902v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-16/Binary_Tracking_for_Spatial_QA_and_Navigation_with.pdf)
+- **领域**: cs.RO
+- **核心摘要**: This work addresses spatial question answering for service robots traversing long egocentric routes. Given a query such as "where can I find a dry cleaner on the way back home?", the system returns a metric coordinate that downstream navigation components can act on. Prior Spatial Question Answering...
+
+#### [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](http://arxiv.org/abs/2606.16898v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-16/Semantic_Flip_Synthetic_OOD_Generation_for_Robust_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Detecting unanswerable user queries remains essential for the reliable deployment of real-world embodied agents. However, modern vision-language models (VLMs) often generate overly confident answers even when the available visual memory cannot support the query. Such overconfidence poses various tas...
+
+#### [LLM-based Visual Code Completion for Aerospace Geometric Design](http://arxiv.org/abs/2606.16806v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-16/LLM-based_Visual_Code_Completion_for_Aerospace_Geo.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Recent advances in both Large Language Models (LLMs) and Vision Language Models (VLMs) have seen a step change in their ability to perform visual code completion, but the aerospace industry, which prioritizes safety and explainabilty over rapid LLM adoption, currently has no publicly announced LLM-b...
+
+#### [LabOSBench: Benchmarking Computer Use Agents for Scientific Instrument Control](http://arxiv.org/abs/2606.16802v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-16/LabOSBench_Benchmarking_Computer_Use_Agents_for_Sc.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Current computer-use benchmarks primarily focus on software operation tasks in virtualized systems, whereas scientific instrumentation scenarios require coordinated control over complex interfaces, and feedback-driven parameter adjustment. However, directly evaluating agents on physical high-precisi...
+
+#### [Decoupling Semantics from Distortions: Multi-Scale Two-Stream Vision-Language Alignment for AI-Generated Image Quality Assessment](http://arxiv.org/abs/2606.16799v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-16/Decoupling_Semantics_from_Distortions_Multi-Scale_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing vision-language model (VLM)-based AI-generated image quality assessment (AIGIQA) methods suffer from a fundamental semantic-distortion dimensional conflict: monolithic representations optimized for semantic discrimination inherently entangle compositional understanding with low-level percep...
+
+#### [Geometric structure-preserving parametric finite element approximations for the constrained Helfrich flow](http://arxiv.org/abs/2606.16697v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-16/Geometric_structure-preserving_parametric_finite_e.pdf)
+- **领域**: math.NA
+- **核心摘要**: We propose a structure-preserving parametric finite element method for the constrained Helfrich flow of closed curves and surfaces. The proposed method is based on a two-stage velocity-splitting strategy. In the first stage, the normal velocity is computed from a curvature evolution equation, with t...
+
+#### [Look Again Before You Abstain:Budgeted Conformal Evidence Acquisition for Reliable Vision-Language Model](http://arxiv.org/abs/2606.16667v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-16/Look_Again_Before_You_AbstainBudgeted_Conformal_Ev.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) hallucinate: they assert visual details that the image does not support. A principled remedy is selective prediction with a distribution-free guarantee-verify each claim and abstain when the claim is not grounded, so that the hallucination rate among asserted cla...
+
+#### [Vision-Language Models as Zero-Annotation Oracles in Histopathology](http://arxiv.org/abs/2606.16658v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-16/Vision-Language_Models_as_Zero-Annotation_Oracles_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Foreground segmentation is the critical first step of every computational pathology pipeline, yet existing methods rely on hand-tuned heuristics or supervised models that overfit to narrow stain and scanner distributions, failing silently on specialised stains such as Jones silver or Elastica van Gi...
+
+#### [Uncertainty Is Not a Safety Net for Clinical VQA, but Can It Anticipate Model Failure?](http://arxiv.org/abs/2606.16583v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-16/Uncertainty_Is_Not_a_Safety_Net_for_Clinical_VQA_b.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Safe deployment of clinical vision-language models (VLMs) requires reliable uncertainty estimation (UE): a signal indicating when predictions should be trusted or escalated to a clinician. We test whether current UE methods actually deliver this signal. Benchmarking 8 methods across 12 VLMs on clini...
+
