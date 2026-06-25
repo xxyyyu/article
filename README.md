@@ -4333,3 +4333,58 @@
 - **领域**: cs.CL
 - **核心摘要**: Safe deployment of clinical vision-language models (VLMs) requires reliable uncertainty estimation (UE): a signal indicating when predictions should be trusted or escalated to a clinician. We test whether current UE methods actually deliver this signal. Benchmarking 8 methods across 12 VLMs on clini...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-25
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Learning Action Priors for Cross-embodiment Robot Manipulation](http://arxiv.org/abs/2606.26095v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-25/Learning_Action_Priors_for_Cross-embodiment_Robot_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scra...
+
+#### [How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations](http://arxiv.org/abs/2606.26041v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-25/How_Robust_is_OCR-Reasoning_Evaluating_OCR-Reasoni.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have achieved strong performance on OCR-based benchmarks and increasingly focused on text-rich understanding, but their robustness under controlled visual degradation remains insufficiently understood. This gap is critical for OCR reasoning, where visual corruption can ...
+
+#### [Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data](http://arxiv.org/abs/2606.25894v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-25/Enhancing_Brain_MRI_Anomaly_Detection_and_Reasonin.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical vision-language models typically generate diagnoses through single-pass inference without indicating which image regions support their conclusions. This lack of spatial grounding limits clinical utility: outputs cannot be audited, and models may hallucinate findings on normal scans. We prese...
+
+#### [Edges Before Embeddings: A Confidence-Aware Blur Gate for Vision-Language Pipelines](http://arxiv.org/abs/2606.25838v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-25/Edges_Before_Embeddings_A_Confidence-Aware_Blur_Ga.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Production vision pipelines silently degrade on blurry input, wasting compute on downstream OCR, retrieval, and vision-language model (VLM) calls that cannot recover a usable output. We present MagikaDocumentFromPixel, a lightweight, CPU-friendly image quality gate that classifies a single image as ...
+
+#### [Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets](http://arxiv.org/abs/2606.25760v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-25/Uncertainty_Quantification_for_Computer-Use_Agents.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Computer-use agents turn vision-language model (VLM) predictions into executable GUI clicks, so reliable uncertainty estimates are essential for rejection, calibration, miss-severity ranking, and spatial safety regions. Yet evidence on post-hoc uncertainty quantification (UQ) for these agents is fra...
+
+#### [Dual Distribution Estimation for Zero-shot Noisy Test-Time Adaptation with VLMs](http://arxiv.org/abs/2606.25758v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-25/Dual_Distribution_Estimation_for_Zero-shot_Noisy_T.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While test-time adaptation (TTA) empowers vision-language models to adapt without costly retraining, it remains highly vulnerable to out-of-distribution (OOD) outliers prevalent in real-world applications. This discrepancy motivates Noisy TTA (NTTA), an online task to filter noisy OOD samples on the...
+
+#### [Falcon: Functional Assembly and Language for Compositional Reasoning in X-ray](http://arxiv.org/abs/2606.25701v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-25/Falcon_Functional_Assembly_and_Language_for_Compos.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Conventional vision-language models are largely object-centric, focusing on detecting and describing individual entities. In safety-critical X-ray baggage screening, however, threat often emerges not from a single object but from the functional compatibility of spatially dispersed components, such a...
+
+#### [Steering Vision-Language Models with Joint Sparse Autoencoders](http://arxiv.org/abs/2606.25657v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-25/Steering_Vision-Language_Models_with_Joint_Sparse_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Sparse Autoencoders (SAEs) have shown promise for analyzing language models, but applying them to vision-language models (VLMs) often yields representations that are difficult to use as controllable cross-modal steering directions. We introduce the Joint Sparse Autoencoder (JSAE), which uses an expl...
+
+#### [Event-Adaptive Motion Planning with Distilled Vision-Language Model in Safety-Critical Situations](http://arxiv.org/abs/2606.25629v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-25/Event-Adaptive_Motion_Planning_with_Distilled_Visi.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Robot navigation in safety-critical scenarios faces significant challenges from unforeseen semantic events, where collisions arise primarily from the unpredictable behaviors of dynamic agents rather than unseen objects. While large vision-language models (VLMs) offer remarkable capabilities in commo...
+
+#### [Beyond Visual Forensics: Auditing Multimodal Robustness for Synthetic Medical Image Detection](http://arxiv.org/abs/2606.25375v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-25/Beyond_Visual_Forensics_Auditing_Multimodal_Robust.pdf)
+- **领域**: cs.CV
+- **核心摘要**: With the rapid adoption of generative AI, synthetic medical images pose growing risks, including diagnostic deception and insurance fraud. Although prior work has explored vision-language model (VLM)-based synthetic image detection, these evaluations typically consider images in isolation. In clinic...
+
