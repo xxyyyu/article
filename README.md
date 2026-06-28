@@ -4443,3 +4443,58 @@
 - **领域**: stat.ML
 - **核心摘要**: This paper presents a probabilistic framework for online test-time adaptation problems. In them, a model is trained on labeled data but must adapt to unlabeled data at test time under the assumption that training and test distributions potentially differ, that is, there might have been a distributio...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-28
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Bridging Performance and Generalization in Reinforcement Learning for Agile Flight](http://arxiv.org/abs/2606.27348v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-28/Bridging_Performance_and_Generalization_in_Reinfor.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Autonomous drone racing is a fundamentally challenging regime for autonomous aerial robots, requiring time-optimal control while operating under persistent actuation saturation. While reinforcement learning (RL) has achieved human-level performance in this domain, current methods fail to generalize;...
+
+#### [HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models](http://arxiv.org/abs/2606.27187v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-28/HarmVideoBench_Benchmarking_Harmful_Video_Understa.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) have recently shown immense potential in automated content moderation, sparking growing interest in developing harmful-video benchmarks. However, we identify two primary limitations in existing works: 1) The multi-layered characteristics of harmful videos are ove...
+
+#### [Automating Potential-based Reward Shaping with Vision Language Model Guidance](http://arxiv.org/abs/2606.27180v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-28/Automating_Potential-based_Reward_Shaping_with_Vis.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Sparse rewards are inherently challenging for reinforcement learning agents as they lack intermediate feedback to guide exploration and to correctly attribute the sparse success rewards to relevant parts of the trajectory. Naive reward shaping can induce reward hacking, yielding policies that exploi...
+
+#### [GAVEL: Grounded Caption Error Verification and Localization](http://arxiv.org/abs/2606.26923v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-28/GAVEL_Grounded_Caption_Error_Verification_and_Loca.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models (VLMs) often produce hallucinated or inconsistent outputs, where text and images are not properly aligned. Addressing this issue requires not only detecting misalignment but also explaining the discrepancy and localizing its visual evidence. We introduce GAVEL (Grounded Captio...
+
+#### [Risk-Aware Selective Multimodal Driver Monitoring with Driver-State World Modeling](http://arxiv.org/abs/2606.26922v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-28/Risk-Aware_Selective_Multimodal_Driver_Monitoring_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Continuous driver monitoring in automated vehicles requires low-latency inference while avoiding unsafe decisions under uncertain driver states. Large vision-language models provide broad multimodal priors, but their latency and limited reliability in this setting make them unsuitable as always-on i...
+
+#### [Learning Adversarial Augmentation Policies for Robust Garlic Seedling Detection](http://arxiv.org/abs/2606.26828v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-28/Learning_Adversarial_Augmentation_Policies_for_Rob.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Accurate seedling detection during early growth stages is essential for timely replanting and effective crop management in precision agriculture. However, existing studies are mostly evaluated under relatively stable imaging conditions, such as UAV imagery or greenhouse environments, leaving robust ...
+
+#### [HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization](http://arxiv.org/abs/2606.26614v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-28/HiLSVA_Design_and_Evaluation_of_a_Human-in-the-Loo.pdf)
+- **领域**: cs.HC
+- **核心摘要**: Large language model (LLM) agents enable natural language interaction for scientific visualization (SciVis). Still, prior systems have essentially prioritized autonomy over human analytical control, thereby limiting transparency and human oversight. We present HiLSVA, a human-in-the-loop agentic sys...
+
+#### [Adversarial Diffusion Across Modalities: A Fusion Survey of Attacks, Defenses, and Evaluation for Text, Vision, and Vision-Language Models](http://arxiv.org/abs/2606.26566v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-28/Adversarial_Diffusion_Across_Modalities_A_Fusion_S.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Adversarial evaluation of AI systems has matured along four largely disconnected tracks: diffusion-based attacks on text and large language models (LLMs), diffusion-based attacks on image classifiers, jailbreak pipelines against vision-language models, and diffusion-based input purification defenses...
+
+#### [VoiceTTA: Enhancing Zero-Shot Text-to-Speech via Reinforcement Learning-Based Test-Time Adaptation](http://arxiv.org/abs/2606.26534v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-28/VoiceTTA_Enhancing_Zero-Shot_Text-to-Speech_via_Re.pdf)
+- **领域**: cs.SD
+- **核心摘要**: Recently, zero-shot text-to-speech (TTS) has enabled high-fidelity and expressive speech synthesis, but it often fails to imitate unseen speaking styles from uncommon scenarios (e.g., crosstalk, dialects). Moreover, fine-tuning pretrained models requires large, high-quality datasets, limiting rapid ...
+
+#### [A probabilistic framework for online test-time adaptation](http://arxiv.org/abs/2606.26457v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-28/A_probabilistic_framework_for_online_test-time_ada.pdf)
+- **领域**: stat.ML
+- **核心摘要**: This paper presents a probabilistic framework for online test-time adaptation problems. In them, a model is trained on labeled data but must adapt to unlabeled data at test time under the assumption that training and test distributions potentially differ, that is, there might have been a distributio...
+
