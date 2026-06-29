@@ -4498,3 +4498,58 @@
 - **领域**: stat.ML
 - **核心摘要**: This paper presents a probabilistic framework for online test-time adaptation problems. In them, a model is trained on labeled data but must adapt to unlabeled data at test time under the assumption that training and test distributions potentially differ, that is, there might have been a distributio...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-29
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models](http://arxiv.org/abs/2606.28273v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-29/Vision-Default_Prior-Override_Causal_Mechanisms_of.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models must reconcile visual evidence with memorized world knowledge when the two conflict. How they resolve this conflict shapes the reliability of multimodal systems, yet prior work characterizes it behaviorally without a component-level causal account. We combine activation patchi...
+
+#### [Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation](http://arxiv.org/abs/2606.28268v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-29/Learning_Topology-Aware_Representations_via_Test-T.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-time adaptation (TTA) has emerged as a promising paradigm for mitigating distribution shifts in deep models. However, existing TTA approaches for anomaly segmentation remain limited by their reliance on pixel-level heuristics, such as confidence thresholding or entropy minimisation, which fail ...
+
+#### [RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning](http://arxiv.org/abs/2606.28266v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-29/RSICCLLM_A_Multimodal_Large_Language_Model_for_Rem.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Remote Sensing Image Change Captioning (RSICC) aims to describe changes between bi-temporal remote sensing images and holds significant research and application value. However, most existing methods rely on conventional deep learning architectures, and the limited model capacity constrains performan...
+
+#### [EchoSonar-R: A Multi-View Reasoning-Enabled Model for Disease Classification and Report Generation in Echocardiography](http://arxiv.org/abs/2606.28164v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-29/EchoSonar-R_A_Multi-View_Reasoning-Enabled_Model_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Echocardiography is the most widely used non-invasive cardiac imaging modality, providing essential information for cardiovascular diagnosis. Interpreting an echocardiogram requires synthesizing complementary evidence across multiple heart views to identify abnormalities and produce structured clini...
+
+#### [MixTTA: Low-Rank Cross-Channel Mixing for Reliable Test-Time Adaptation](http://arxiv.org/abs/2606.28142v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-29/MixTTA_Low-Rank_Cross-Channel_Mixing_for_Reliable_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Test-Time Adaptation (TTA) methods commonly update the affine parameters of normalization layers to adapt deployed models under distribution shifts. However, per-channel affine parameters perform axis-aligned scaling and shifting, making them geometrically incapable of correcting cross-channel struc...
+
+#### [ReScene: Structured Indoor Scene Reconstruction from Multi-View Captures](http://arxiv.org/abs/2606.28060v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-29/ReScene_Structured_Indoor_Scene_Reconstruction_fro.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Constructing simulation-ready 3D scenes from multi-view captures is a key bottleneck for Embodied Artificial Intelligence, as downstream tasks require object-level structure, explicit inter-object relations, and physical plausibility. Existing approaches either rely on specialized capture hardware, ...
+
+#### [Phase Matters: Characterizing Heterogeneous Vision-Language Inference on a Mobile SoC](http://arxiv.org/abs/2606.27906v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-29/Phase_Matters_Characterizing_Heterogeneous_Vision-.pdf)
+- **领域**: cs.AR
+- **核心摘要**: Recent phone-class mobile SoCs expose practical NPU execution paths for on-device vision-language model (VLM) inference, but developers still lack phase-level guidance for mapping VLM pipelines across heterogeneous backends. We present a hardware-in-the-loop characterization of VLM inference on the ...
+
+#### [SpatialUAV: Benchmarking Spatial Intelligence for Low-Altitude UAV Perception, Collaboration, and Motion](http://arxiv.org/abs/2606.27876v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-29/SpatialUAV_Benchmarking_Spatial_Intelligence_for_L.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Spatial intelligence is essential for low-altitude unmanned aerial vehicle (UAV) perception, collaboration, and navigation. However, existing UAV benchmarks often emphasize image-level recognition, single-view understanding, or narrow answer formats, leaving 3D spatial inference, multi-view collabor...
+
+#### [LocalNav: Distilling Frontier VLMs and Embodied RL for On-Device Object Goal Navigation](http://arxiv.org/abs/2606.27871v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-29/LocalNav_Distilling_Frontier_VLMs_and_Embodied_RL_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision Language Models (VLMs) have emerged in the robotic domain as a powerful tool that enables environmental perception with language context, serving as a catalyst for open-vocabulary tasks like ObjectNav. Yet, their computational footprint typically confines them to cloud execution, hindering lo...
+
+#### [MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving](http://arxiv.org/abs/2606.27660v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-29/MVPruner_Dynamic_Token_Pruning_for_Accelerating_Mu.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) improve generalization and interpretability in autonomous driving but suffer from efficiency issues due to long visual token sequences, particularly in standard multi-view settings. Existing token pruning methods employ fixed pruning rate allocation and static importanc...
+
