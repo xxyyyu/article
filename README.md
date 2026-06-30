@@ -4553,3 +4553,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Vision-Language Models (VLMs) improve generalization and interpretability in autonomous driving but suffer from efficiency issues due to long visual token sequences, particularly in standard multi-view settings. Existing token pruning methods employ fixed pruning rate allocation and static importanc...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-06-30
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [GROW$^2$: Grounding Which and Where for Robot Tool Use](http://arxiv.org/abs/2606.30632v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-30/GROW2_Grounding_Which_and_Where_for_Robot_Tool_Use.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\textit{open-world affordance grounding}$: select an open-category object to act as a tool and...
+
+#### [DOPD: Dual On-policy Distillation](http://arxiv.org/abs/2606.30626v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-30/DOPD_Dual_On-policy_Distillation.pdf)
+- **领域**: cs.AI
+- **核心摘要**: On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performance frontier of distillation, an intuitive direction is to infuse privileged informat...
+
+#### [Training Vision-Language-Action Models with Dense Embodied Chain-of-Thought Supervision](http://arxiv.org/abs/2606.30552v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-30/Training_Vision-Language-Action_Models_with_Dense_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Cross-embodiment transfer in vision-language-action (VLA) models remains challenging because low-level state and action spaces differ fundamentally across robot platforms. We observe that the high-level cognitive process underlying manipulation, including scene perception, object identification, tas...
+
+#### [On the Faithfulness of Post-Hoc Concept Bottleneck Models](http://arxiv.org/abs/2606.30498v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-30/On_the_Faithfulness_of_Post-Hoc_Concept_Bottleneck.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Human decision-making interprets the world through high-level concepts, such as recognizing a bird by its belly color. To bridge the gap between opaque deep learning representations and human understanding, Post-Hoc Concept Bottleneck Models (post-hoc CBMs) project latent features onto interpretable...
+
+#### [Behavior Prompting Policy: Demonstrations as Prompts for Manipulation](http://arxiv.org/abs/2606.30457v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-30/Behavior_Prompting_Policy_Demonstrations_as_Prompt.pdf)
+- **领域**: cs.RO
+- **核心摘要**: We study behavior prompting, a paradigm that enables robots to perform new tasks at inference time given a single human demonstration, which we call a behavior prompt. To enable this capability, we present contributions in algorithm, data, and evaluation. For algorithm, we introduce Behavior Prompti...
+
+#### [SADL: What to Ignore? A Benchmark for Subject-Aware Distractor Localization](http://arxiv.org/abs/2606.30393v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-30/SADL_What_to_Ignore_A_Benchmark_for_Subject-Aware_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Photographs frequently contain \emph{visual distractors} besides foregrounds and backgrounds of the intended subject, competing for attention and weakening composition. While modern editing tools streamline object removal, identifying which objects to remove remains a mostly manual process. Existing...
+
+#### [FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation](http://arxiv.org/abs/2606.30367v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-30/FutureNav_Unified_World-Action_Modeling_for_Vision.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-and-language navigation (VLN) in continuous environments requires an agent to ground instructions in egocentric observations while maintaining spatial understanding across long action sequences. Recent navigation foundation models have shown strong progress by scaling vision-language models, ...
+
+#### [ManimAgent: Self-Evolving Multimodal Agents for Visual Education](http://arxiv.org/abs/2606.30296v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-30/ManimAgent_Self-Evolving_Multimodal_Agents_for_Vis.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Multi-round reflection lets agents built on large language models recover from failures within a single task, but each task remains an isolated episode: lessons learned across many reflection rounds on one task are discarded before the next begins. We study this gap on a code-generation task: from a...
+
+#### [VisReflect: Latent Visual Reflection for Fine-Grained Perception in Long Visual Context](http://arxiv.org/abs/2606.30288v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-30/VisReflect_Latent_Visual_Reflection_for_Fine-Grain.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision Language Models (LVLMs) have achieved remarkable success on vision-language tasks, yet fine-grained perception over high-resolution images and long-context videos remains challenging. As the number of visual tokens increases, the visual attention sink phenomenon becomes increasingly sev...
+
+#### [From Accuracy to Visual Dependence: Auditing and Filtering Modality Collapse in Traffic VideoQA](http://arxiv.org/abs/2606.30220v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-06-30/From_Accuracy_to_Visual_Dependence_Auditing_and_Fi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: High benchmark accuracy does not guarantee genuine use of visual evidence. We study this problem in traffic accident Video Question Answering (VideoQA), where correct answers should depend on scene-specific visual evidence but may instead be inferred from textual shortcuts. Through an audit of four ...
+
