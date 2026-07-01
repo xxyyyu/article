@@ -4608,3 +4608,58 @@
 - **领域**: cs.CV
 - **核心摘要**: High benchmark accuracy does not guarantee genuine use of visual evidence. We study this problem in traffic accident Video Question Answering (VideoQA), where correct answers should depend on scene-specific visual evidence but may instead be inferred from textual shortcuts. Through an audit of four ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-01
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [AdaJEPA: An Adaptive Latent World Model](http://arxiv.org/abs/2606.32026v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-01/AdaJEPA_An_Adaptive_Latent_World_Model.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Latent world models enable planning from high-dimensional observations by predicting future states in a compact latent space. However, these models are typically kept frozen at test time: when their predictions become inaccurate, planning can fail, especially under test-time distribution shift. To a...
+
+#### [TreeAgent: A Generalizable Multi-Agent Framework for Automated Bias Labeling in Forestry via Compiled Expert Rules and Vision-Language Models](http://arxiv.org/abs/2606.31976v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-01/TreeAgent_A_Generalizable_Multi-Agent_Framework_fo.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Human-labeled data are widely used as reference annotations in ML, despite known variability across annotators in many expert-driven domains. In addition, expert annotation is slow, inconsistent, and remains a major bottleneck for scaling tasks like tree height bias classification in forestry remote...
+
+#### [InstanceControl: Controllable Complex Image Generation without Instance Labeling](http://arxiv.org/abs/2606.31924v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-01/InstanceControl_Controllable_Complex_Image_Generat.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Controllable image generation methods, such as ControlNet, have demonstrated a remarkable capacity to introduce visual conditions(e.g., depth maps) to guide image generation. However, these methods often struggle with complex multi-instance scenes, frequently leading to attribute confusion among ins...
+
+#### [CoDex: Learning Compositional Dexterous Functional Manipulation without Demonstrations](http://arxiv.org/abs/2606.31909v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-01/CoDex_Learning_Compositional_Dexterous_Functional_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: In this work, we study Compositional Dexterous Functional Object Manipulation (CD-FOM): tasks such as aiming and actuating a spray bottle on a plant or a glue gun on wood, which require both actuating an object's internal mechanism and controlling its pose to apply the object's function to the envir...
+
+#### [Improving path-tracking performance of an articulated tractor-trailer system using a non-linear kinematic model](http://arxiv.org/abs/2606.31889v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-01/Improving_path-tracking_performance_of_an_articula.pdf)
+- **领域**: cs.RO
+- **核心摘要**: This paper presents a novel non-linear mathematical model of an articulated tractor-trailer system that can be used, in combination with receding horizon techniques, to improve the performance of path tracking tasks of articulated systems. Due to its dual steering mechanisms, this type of vehicle ca...
+
+#### [Seeing Is Not Sharing: Some Vision-Language Models Overestimate Common Ground in Asymmetric Dialogue](http://arxiv.org/abs/2606.31719v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-01/Seeing_Is_Not_Sharing_Some_Vision-Language_Models_.pdf)
+- **领域**: cs.CL
+- **核心摘要**: In collaborative dialogue, shared perception does not guarantee shared interpretation. Mutual understanding must be established through interaction. We investigate whether vision-language models (VLMs) can distinguish what could be shared from what has been shared between dialogue participants throu...
+
+#### [Near-Optimal Nitrogen Recommendations for Precision Agriculture via Sequential Screening and Hierarchical Refinement](http://arxiv.org/abs/2606.31661v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-01/Near-Optimal_Nitrogen_Recommendations_for_Precisio.pdf)
+- **领域**: stat.ME
+- **核心摘要**: Nitrogen fertilizer management plays a central role in balancing agricultural productivity and environmental sustainability, yet identifying optimal application strategies remains difficult because treatment responses vary substantially across locations and many fertilizer choices are statistically ...
+
+#### [Technical Report of RoboSpatial Challenge at CVPR 2026: Selective Reasoning Activation and Reference-Frame Disambiguation for Embodied Spatial Reasoning](http://arxiv.org/abs/2606.31645v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-01/Technical_Report_of_RoboSpatial_Challenge_at_CVPR_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models achieve strong general perception but often struggle with the spatial reasoning required for embodied tasks. We present RoboSpatialBrain, our submission to the RoboSpatial Challenge at the Embodied Reasoning in Action Workshop, CVPR 2026, built on RoboBrain2.5-8B-NV. RoboSpati...
+
+#### [Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](http://arxiv.org/abs/2606.31599v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-01/Token-Sparse_Medical_Multimodal_Reasoning_via_Dual.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) combining reinforcement learning (RL) ignite remarkable progress in multimodal reasoning, yet still struggle with medical images, which typically exhibit extremely sparse visual evidence to inform clinical decision-making. We recognize that pruning visual tokens outside...
+
+#### [Localized Conformal Prediction for Image Classification with Vision-Language Models](http://arxiv.org/abs/2606.31577v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-01/Localized_Conformal_Prediction_for_Image_Classific.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Conformal predictions have attracted significant attention in the field of uncertainty quantification, mainly because of their strong marginal coverage guarantees. Full conditional guarantee is not an attainable goal, a well known fact in conformal predictions literature. As a result, several approa...
+
