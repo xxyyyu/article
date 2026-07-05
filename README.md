@@ -4718,3 +4718,58 @@
 - **领域**: cs.LG
 - **核心摘要**: Performance evaluation in AI systems commonly assumes that random dataset splits produce independent and identically distributed (i.i.d.) subsets. We show that this assumption often breaks down in spatiotemporally correlated domains such as aerial surveillance, precision agriculture, and medical ima...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-05
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Seek to Segment: Active Perception for Panoramic Referring Segmentation](http://arxiv.org/abs/2607.02497v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-05/Seek_to_Segment_Active_Perception_for_Panoramic_Re.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing referring segmentation models passively process static images captured from fixed perspectives, limiting their applicability in Embodied AI, where agents must perform active perception in the continuous 360$^\circ$ environments. To bridge this gap, we introduce a novel task: Active Panorami...
+
+#### [Towards Robustness against Typographic Attack with Training-free Concept Localization](http://arxiv.org/abs/2607.02494v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-05/Towards_Robustness_against_Typographic_Attack_with.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Models trained via Contrastive Language-Image Pretraining (CLIP) serve as the foundational vision encoders for most modern Large Vision Language Models (LVLMs). Despite their widespread adoption, CLIP models exhibit a critical yet underexplored failure mode: irrelevant text appearing within images c...
+
+#### [Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning](http://arxiv.org/abs/2607.02490v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-05/Visually_Grounded_Self-Reflection_for_Vision-Langu.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Large vision-language models can reason over multimodal inputs by generating textual chains of thought (CoT). A key capability exhibited in CoT reasoning is self-reflection: revisiting earlier decisions and correcting previous errors. However, existing LVLMs often fail to properly attend to visual i...
+
+#### [Show Me Examples: Inferring Visual Concepts from Image Sets](http://arxiv.org/abs/2607.02402v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-05/Show_Me_Examples_Inferring_Visual_Concepts_from_Im.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) can follow complex textual instructions, yet they struggle to reason from purely visual context. In particular, current models fail to infer shared concepts from sets of example images and apply them to new inputs. We introduce Visual Concept Inference from Sets (VICIS)...
+
+#### [Search-based Testing of Vision Language Models for In-Car Scene Understanding](http://arxiv.org/abs/2607.02300v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-05/Search-based_Testing_of_Vision_Language_Models_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In the automotive domain, in-car scene understanding (ISU) enables the detection of safety-critical events, such as driver distraction, and supports drivers or passengers by analyzing the in-car scene and adapting the environment (e.g., ambient lighting). The industry is increasingly exploring visio...
+
+#### [AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models](http://arxiv.org/abs/2607.02269v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-05/AnyGroundBench_A_Specialized-Domain_Benchmark_for_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have demonstrated immense promise in Spatio-Temporal Video Grounding (STVG). However, current evaluation protocols are largely confined to zero-shot assessments on general, daily-life benchmarks. This creates a critical disconnect from real-world applications in special...
+
+#### [Efficient PEFT Methods with Adaptive Checkpointing for Vision Models and VLMs on Resource Constrained Consumer-GPUs](http://arxiv.org/abs/2607.02158v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-05/Efficient_PEFT_Methods_with_Adaptive_Checkpointing.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Modern pretrained vision models achieve strong accuracy but demand substantial GPU memory for fine-tuning, making edge deployment impractical. This paper compares five parameter-efficient fine-tuning (PEFT) methods (Full FT, LoRA, AdaLoRA, QLoRA, BitFit) on Transformers- (ViT-Small, TinyViT) and Mam...
+
+#### [LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension](http://arxiv.org/abs/2607.02096v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-05/LongEgoRefer_A_Benchmark_for_Long-Form_Egocentric_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Egocentric videos capture rich and diverse human-object interactions and have emerged as a fundamental resource for understanding human activities related to objects. In this context, Video Referring Expression Comprehension (Video REC), the task of localizing the temporal and spatial extent of a re...
+
+#### [DeepGaze3.5-VL: Modeling Scanpaths via Autoregressive Token Prediction](http://arxiv.org/abs/2607.02083v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-05/DeepGaze35-VL_Modeling_Scanpaths_via_Autoregressiv.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Understanding human visual attention on a scene over time has applications in domains such as interface design and inferring cognitive states. Modeling visual scanpaths has historically relied on specialized architectures with hand-crafted priors. While these architectures can model fixation sequenc...
+
+#### [Beyond the Performance Illusion: Structure-Aware Stratified Partitioning and Curriculum Distributionally Robust Optimization for Spatially Correlated Domains](http://arxiv.org/abs/2607.02055v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-05/Beyond_the_Performance_Illusion_Structure-Aware_St.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Performance evaluation in AI systems commonly assumes that random dataset splits produce independent and identically distributed (i.i.d.) subsets. We show that this assumption often breaks down in spatiotemporally correlated domains such as aerial surveillance, precision agriculture, and medical ima...
+
