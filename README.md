@@ -4773,3 +4773,58 @@
 - **领域**: cs.LG
 - **核心摘要**: Performance evaluation in AI systems commonly assumes that random dataset splits produce independent and identically distributed (i.i.d.) subsets. We show that this assumption often breaks down in spatiotemporally correlated domains such as aerial surveillance, precision agriculture, and medical ima...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-07
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Beyond Isolated Objects: Relationship-aware Open Vocabulary Scene Understanding via 3D Scene Graph Analysis](http://arxiv.org/abs/2607.05348v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-07/Beyond_Isolated_Objects_Relationship-aware_Open_Vo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Open-vocabulary 3D scene understanding aims to segment 3D scenes beyond predefined categories by transferring semantic knowledge from vision-language models. Existing methods have advanced this task by lifting language-aligned 2D features into 3D, yet they often rely on context-independent semantic ...
+
+#### [Evaluating and Understanding Model Editing for Medical Vision Language Models](http://arxiv.org/abs/2607.05310v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-07/Evaluating_and_Understanding_Model_Editing_for_Med.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Model editing promises a fast, targeted way to correct post-deployment mistakes in medical vision-language models (VLMs) without costly retraining. However, existing multimodal model editing benchmarks focus on general-purpose tasks and do not reflect realistic clinical domain requirements and varia...
+
+#### [Is the Geometry Doing the Work? An Operating-Point Audit of Hierarchy in Hyperbolic Vision-Language Models](http://arxiv.org/abs/2607.05268v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-07/Is_the_Geometry_Doing_the_Work_An_Operating-Point_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Whether a hyperbolic representation model uses its geometry cannot be read off its curvature parameter: what matters is the dimensionless operating point $\sqrt{c}ρ$ and whether the radial and cone machinery is active there. We develop a battery of necessary-condition diagnostics and audit three pub...
+
+#### [SteelBench: Evaluating Vision-Language Models in Real-World Industrial Environments](http://arxiv.org/abs/2607.05264v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-07/SteelBench_Evaluating_Vision-Language_Models_in_Re.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing video benchmarks evaluate action recognition on consumer videos, egocentric recordings, or simulated industrial environments. They do not test vision-language models under the visual and procedural conditions of real industrial CCTV, where workers appear as distant figures amid dust, steam,...
+
+#### [Repurposing CLIP to Localize at Pixel Level](http://arxiv.org/abs/2607.05253v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-07/Repurposing_CLIP_to_Localize_at_Pixel_Level.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large-scale Vision-Language Models like CLIP have demonstrated impressive open-set localization capabilities at the image level. However, adapting this capability to pixel-level dense prediction poses challenges due to global feature biases. In this paper, we introduce CLIPix, a simple yet effective...
+
+#### [A Multimodal Reasoning Typology for Grounding Chart-Image Coherence in Science Communication](http://arxiv.org/abs/2607.05222v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-07/A_Multimodal_Reasoning_Typology_for_Grounding_Char.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Charts and images appear together throughout scientific publications, yet most computational work does not characterize their coherence. We argue that a chart, its accompanying image, and the caption that links them form a multimodal unit, and that the inferential work required to read it varies sys...
+
+#### [VLM-CASE: Vision-Language Model Enabled Context-Adaptive Safety Envelopes for Anticipatory Safe Autonomous Driving](http://arxiv.org/abs/2607.05180v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-07/VLM-CASE_Vision-Language_Model_Enabled_Context-Ada.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Adverse driving conditions, such as bad weather, remain a principal barrier to autonomous driving because they degrade two things at once: what the vehicle can perceive and what it can physically do. Human drivers cope by anticipation, reasoning about the scene and re-budgeting speed, following dist...
+
+#### [HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better](http://arxiv.org/abs/2607.04884v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-07/HunyuanOCR-15_Making_Lightweight_OCR_VLMs_Faster_a.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We present HunyuanOCR-1.5, a lightweight end-to-end OCR-specialized vision-language model. HunyuanOCR unifies document parsing, text spotting, information extraction, text-image translation, and multi-image document understanding within a single end-to-end VLM. Building upon the lightweight architec...
+
+#### [DeGenseGS: Geometrically and Semantically Decoupled Surgical Scene Understanding in 4D Gaussian Splatting](http://arxiv.org/abs/2607.04761v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-07/DeGenseGS_Geometrically_and_Semantically_Decoupled.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Real-time, text-promptable 4D reconstruction is indispensable for autonomous surgical interaction. Severe misalignment between semantic meaning and physical anatomy still persists, largely because existing solutions integrate Vision-Language Models into deformable fields via a rigid coupling scheme ...
+
+#### [Continual Model Merging with Test-Time Adaptation for Whole-Slide Image Analysis](http://arxiv.org/abs/2607.04755v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-07/Continual_Model_Merging_with_Test-Time_Adaptation_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Model merging offers a practical alternative to conventional continual learning by integrating independently fine-tuned models without retaining previous training data. Recent state-of-the-art model merging methods employ test-time adaptation (TTA-guided merging) to address distribution shifts by ad...
+
