@@ -4828,3 +4828,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Model merging offers a practical alternative to conventional continual learning by integrating independently fine-tuned models without retaining previous training data. Recent state-of-the-art model merging methods employ test-time adaptation (TTA-guided merging) to address distribution shifts by ad...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-09
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Creativity from Friction: Human-AI Interaction for Exploratory Structural Design](http://arxiv.org/abs/2607.07521v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-09/Creativity_from_Friction_Human-AI_Interaction_for_.pdf)
+- **领域**: cs.HC
+- **核心摘要**: AI agents that generate final answers based on user input often do not meet the needs of creative fields. Fields such as structural design and architecture need interactive systems that help users externalise and develop ideas, explore alternatives, and refine partial solutions. The final product of...
+
+#### [HIVE: Understanding Post-Hallucination Reasoning in Vision Language Models](http://arxiv.org/abs/2607.07507v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-09/HIVE_Understanding_Post-Hallucination_Reasoning_in.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Hallucinations in vision language models (VLMs) are commonly treated as semantic errors, yet they often arise from partial or ambiguous visual evidence. Prior work mainly focuses on detecting or suppressing hallucinations at generation time, leaving the subsequent reasoning stage largely unexplored....
+
+#### [Multi-Agent Robotic Control with Onboard Vision-Language Models](http://arxiv.org/abs/2607.07403v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-09/Multi-Agent_Robotic_Control_with_Onboard_Vision-La.pdf)
+- **领域**: cs.MA
+- **核心摘要**: Vision Language Models (VLMs) and Vision Language Action (VLA) models have shown promise in robotic control. Yet, they face significant challenges regarding explainability, generalization, and compute requirements. This paper presents a Multi-Agent System (MAS) architecture that addresses these limi...
+
+#### [Heterogeneity-Adaptive Diffusion Schrodinger Bridge for PET-Guided Whole-Body MRI Translation](http://arxiv.org/abs/2607.07401v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-09/Heterogeneity-Adaptive_Diffusion_Schrodinger_Bridg.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While whole-body multimodal medical imaging scanners have been increasingly recognized for more effective medical applications, the excessive long acquisition time in PET-MR scanning is a major obstacle in more efficient clinical practice. Deep learning-based MRI translation provides a potential sol...
+
+#### [When Prompts Ignore Structure: Graph-Based Attribute Reasoning for Calibrated VLMs](http://arxiv.org/abs/2607.07395v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-09/When_Prompts_Ignore_Structure_Graph-Based_Attribut.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reliable confidence estimation remains a key limitation of test-time adaptation in vision-language models (VLMs), where prompt tuning improves zero-shot accuracy but often degrades calibration due to entropy-driven overconfidence. Prior approaches mitigate this using LLM-derived class attributes and...
+
+#### [Generalist Vision-Language Models for Fast Radio Burst detection: a zero-shot benchmark against a specialized detector](http://arxiv.org/abs/2607.07382v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-09/Generalist_Vision-Language_Models_for_Fast_Radio_B.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Fast Radio Bursts (FRBs) are millisecond-duration radio transients whose automated detection increasingly relies on highly specialized deep learning models. These detectors achieve exceptional performance, but they require large task-specific training datasets and cannot be redefined without retrain...
+
+#### [On Adversarial Vulnerability of Vision-Language Models through the Lens of Intermediate Spectral Subspaces](http://arxiv.org/abs/2607.07375v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-09/On_Adversarial_Vulnerability_of_Vision-Language_Mo.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Adversarial vulnerability in deep neural networks (DNNs) has been studied from the perspectives of decision-boundary geometry, feature robustness, input-output Jacobians, and the instability of inverse problems. Here, we focus on the spectral structure of intermediate linear transformations that pro...
+
+#### [BUS: Brain-Inspired Unsupervised Self-Reflection for Advanced Multimodal Reasoning](http://arxiv.org/abs/2607.07361v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-09/BUS_Brain-Inspired_Unsupervised_Self-Reflection_fo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Current Vision-Language Models (VLMs) often struggle to handle complex visual tasks that require consistent and fine-grained reasoning. Recent methods aim to train models to facilitate self-reflective reasoning, i.e., reviewing and improving the generated reasoning. However, they require large volum...
+
+#### [InfraQR: Edge-Placed QR-Inspired Structured Patch Attacks on Infrared Vision-Language Models](http://arxiv.org/abs/2607.07288v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-09/InfraQR_Edge-Placed_QR-Inspired_Structured_Patch_A.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Infrared vision-language models are increasingly used for perception under low-light and adverse visual conditions, yet their robustness to localized structured perturbations remains underexplored. Existing infrared adversarial studies mainly focus on object detectors, leaving the security of infrar...
+
+#### [Evaluation of Multilingual Ability to Use Spatial Deictic Expressions in Vision-Language Models](http://arxiv.org/abs/2607.07251v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-09/Evaluation_of_Multilingual_Ability_to_Use_Spatial_.pdf)
+- **领域**: cs.CL
+- **核心摘要**: One of the expected abilities of vision-language models (VLMs) is spatial reasoning ability based on a given text and image. To evaluate the spatial reasoning abilities of VLMs, we focus on the use of spatial deictic expressions, which are defined as spatial expressions whose referent is determined ...
+
