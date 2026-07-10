@@ -4883,3 +4883,60 @@
 - **领域**: cs.CL
 - **核心摘要**: One of the expected abilities of vision-language models (VLMs) is spatial reasoning ability based on a given text and image. To evaluate the spatial reasoning abilities of VLMs, we focus on the use of spatial deictic expressions, which are defined as spatial expressions whose referent is determined ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-10
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding](http://arxiv.org/abs/2607.08745v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-10/AUTOPILOT_VQA_Benchmarking_Vision-Language_Models_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Recent advances in Vision-Language Models, Large Language Models, and Multimodal Large Language Models have improved autonomous driving tasks such as scene understanding, decision making, trajectory prediction, and visual question answering. However, evaluating whether these models can reliably reas...
+
+#### [When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities](http://arxiv.org/abs/2607.08605v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-10/When_Structured_Sparse_Autoencoders_Learn_Consiste.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Sparse autoencoders (SAEs) have emerged as a promising technique for mechanistic interpretability by learning a set of sparse latent features in large models, each of which encodes a distinct concept. However, in vision-language models (VLMs), vanilla SAEs struggle to learn modality-consistent conce...
+
+#### [VEGAS: Human-Aligned Video Caption Evaluation via Gaze](http://arxiv.org/abs/2607.08489v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-10/VEGAS_Human-Aligned_Video_Caption_Evaluation_via_G.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models excel at video captioning, yet typically generate descriptions that fail to capture individual viewers' attention. We propose VEGAS (Video caption Evaluation via GAze Score), a training-free metric that leverages test-time gaze to sample personalized, attention-aligned text. I...
+
+#### [OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice](http://arxiv.org/abs/2607.08423v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-10/OmniFood-Bench_Evaluating_VLMs_for_Nutrient_Reason.pdf)
+- **领域**: cs.AI
+- **核心摘要**: The rapid integration of Large Vision-Language Models (VLMs) into critical infrastructure promises to revolutionize
+  personalized healthcare and dietary management. However, in the domain of food systems, autonomous agents face a
+  unique and persistent challenge: the "Systemic Information Asymmetr...
+
+#### [Attribute Retrieving for Open-Vocabulary Endoscopic Compositional Referring Segmentation](http://arxiv.org/abs/2607.08397v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-10/Attribute_Retrieving_for_Open-Vocabulary_Endoscopi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Referring Image Segmentation (RIS) aims to segment image regions specified by natural language, enabling fine-grained and controllable visual understanding. Extending RIS to endoscopic imagery, however, presents unique challenges, including scarce high-quality annotations and complex, domain-specifi...
+
+#### [FSD-VLN: Fast-Slow Dual-System Modeling for Aerial Long-Horizon Vision-Language Navigation](http://arxiv.org/abs/2607.08359v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-10/FSD-VLN_Fast-Slow_Dual-System_Modeling_for_Aerial_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language Navigation (VLN) enables UAV autonomous navigation in unknown environments by mapping language instructions to real-time visual inputs. Compared with GPS-dependent or pre-programmed navigation, VLN supports intuitive human-machine interaction and stronger environmental adaptability, ...
+
+#### [Continual Test-Time Adaptation in Computer Vision: Methods, Benchmarks, and Future Directions](http://arxiv.org/abs/2607.08164v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-10/Continual_Test-Time_Adaptation_in_Computer_Vision_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Deep neural nets achieve remarkable performance when training and test data share the same distribution, but this assumption frequently breaks in real-world deployment, where data undergoes continual distributional shifts. Continual Test-Time Adaptation (CTTA) addresses this challenge by adapting pr...
+
+#### [TTHE: Test-Time Harness Evolution](http://arxiv.org/abs/2607.08124v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-10/TTHE_Test-Time_Harness_Evolution.pdf)
+- **领域**: cs.SE
+- **核心摘要**: The behavior of an LLM agent is determined not only by the underlying model, but also by its harness: the executable program that constructs context, invokes tools, verifies intermediate results, and recovers from failures. Existing approaches optimize such harnesses before deployment, searching tra...
+
+#### [Rethinking Small VLM Quantization: From Component-Wise Analysis to Hardware-Aware Edge Deployment](http://arxiv.org/abs/2607.08029v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-10/Rethinking_Small_VLM_Quantization_From_Component-W.pdf)
+- **领域**: cs.LG
+- **核心摘要**: The emergence of vision language models with fewer than 3 billion parameters has accelerated the implementation of on-device multimodal intelligence. However, a detailed understanding of component-wise quantization remains a bottleneck for optimal deployment. This paper presents a systematic evaluat...
+
+#### [Creativity from Friction: Human-AI Interaction for Exploratory Structural Design](http://arxiv.org/abs/2607.07521v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-10/Creativity_from_Friction_Human-AI_Interaction_for_.pdf)
+- **领域**: cs.HC
+- **核心摘要**: AI agents that generate final answers based on user input often do not meet the needs of creative fields. Fields such as structural design and architecture need interactive systems that help users externalise and develop ideas, explore alternatives, and refine partial solutions. The final product of...
+
