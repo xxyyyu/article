@@ -5054,3 +5054,58 @@
 - **领域**: cs.HC
 - **核心摘要**: AI agents that generate final answers based on user input often do not meet the needs of creative fields. Fields such as structural design and architecture need interactive systems that help users externalise and develop ideas, explore alternatives, and refine partial solutions. The final product of...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-13
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models](http://arxiv.org/abs/2607.09654v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-13/Evolution_of_Accuracy_and_Visual-Cognitive_Errors_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactions or behaviors, only a handful of non-curated human descriptions as a benchmark, and have not focus...
+
+#### [TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models](http://arxiv.org/abs/2607.09562v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-13/TCLA_Training-Free_Class-wise_Logit_Adaptation_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical Vision-Language Models (VLMs) exhibit strong zero-shot performance, yet their effectiveness still declines on out-of-distribution (OOD) data due to domain shifts and class bias inherited from large-scale pretraining. Existing few-shot adaptation methods typically introduce additional trainab...
+
+#### [The Count Is There, but Misaligned: Understanding and Correcting Counting Failures in VLMs](http://arxiv.org/abs/2607.09544v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-13/The_Count_Is_There_but_Misaligned_Understanding_an.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite strong performance on many multimodal tasks, vision-language models (VLMs) still struggle with basic object counting. We investigate whether this reflects missing internal knowledge or a gap between internal representations and verbalized outputs. Training simple probes on activations from f...
+
+#### [Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference](http://arxiv.org/abs/2607.09520v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-13/Seeing_is_Free_Speaking_is_Not_Uncovering_the_True.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) are the perceptual backbone of embodied AI, but their energy footprint on edge hardware remains poorly understood. Existing efficiency efforts focus predominantly on reducing visual tokens, implicitly treating visual processing as the dominant energy cost. We overturn t...
+
+#### [Robustifying Vision-Language Models via Test-Time Prompt Adaptation](http://arxiv.org/abs/2607.09450v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-13/Robustifying_Vision-Language_Models_via_Test-Time_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Pre-trained Vision-Language Models (VLMs) such as CLIP achieve strong zero-shot generalization, but their performance degrades sharply under adversarial perturbations. Existing test-time adaptation methods typically rely on sample-level confidence heuristics, overlooking the intrinsic distributional...
+
+#### [Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification](http://arxiv.org/abs/2607.09443v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-13/Parameter-Efficient_Vision-Language_Adaptation_wit.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Long-term animal re-identification (ReID) must remain robust to gradual morphological evolution and seasonal appearance shifts. Although recent vision-language models provide strong pretrained visual representations, adapting them to longitudinal ecological settings remains challenging, particularly...
+
+#### [Test-Time Scaling for Small VLMs on Multilingual Visual MCQ](http://arxiv.org/abs/2607.09438v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-13/Test-Time_Scaling_for_Small_VLMs_on_Multilingual_V.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Test-time scaling (TTS) reliably improves reasoning in large language models, but whether it transfers to small open vision-language models remains unclear. We examine this on EXAMS-V, a multilingual visual multiple-choice benchmark, comparing self-consistency, describe-then-reason with PRM-guided b...
+
+#### [AnythingReality: Robust Online Gaussian Splatting SLAM for Open-Vocabulary VR Scene Exploration](http://arxiv.org/abs/2607.09260v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-13/AnythingReality_Robust_Online_Gaussian_Splatting_S.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We present a novel integrated architecture for robust online 3D Gaussian splatting, real-time VR exploration, and speech-driven Vision-Language-Model interaction. Unlike methods assuming clean depth or external poses, our system combines ORB-SLAM3-based pose estimation with online Gaussian reconstru...
+
+#### [Integrating Large Language Models and Graph Convolutional Networks for Semi-Supervised Image Classification](http://arxiv.org/abs/2607.09104v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-13/Integrating_Large_Language_Models_and_Graph_Convol.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While the growing availability of image data has driven significant advances, labeling datasets remains costly and time-consuming. Therefore, semi-supervised approaches such as Graph Convolutional Networks (GCNs), which learn from both labeled and unlabeled data, have emerged as a promising solution...
+
+#### [Learning More from Less: Reinforcement Learning from Hindsight](http://arxiv.org/abs/2607.09042v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-13/Learning_More_from_Less_Reinforcement_Learning_fro.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Reinforcement learning (RL) is increasingly used to post-train vision-language-action (VLA) models, but every update consumes robot rollouts that are slow and costly to collect, making sample efficiency a central concern. Manipulation tasks typically provide only sparse rewards, so a weak policy fai...
+
