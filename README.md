@@ -5109,3 +5109,58 @@
 - **领域**: cs.LG
 - **核心摘要**: Reinforcement learning (RL) is increasingly used to post-train vision-language-action (VLA) models, but every update consumes robot rollouts that are slow and costly to collect, making sample efficiency a central concern. Manipulation tasks typically provide only sparse rewards, so a weak policy fai...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-16
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning](http://arxiv.org/abs/2607.13931v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-16/SIVA-RL_Sensitivity-Invariance_Visual_Alignment_fo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reinforcement learning with verifiable rewards (RLVR) drives multimodal reasoning, but answer-level correctness does not guarantee that a vision-language model grounds its predictions in visual evidence. Existing visual-intervention methods contrast policy behavior on original and modified images, y...
+
+#### [S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving](http://arxiv.org/abs/2607.13926v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-16/S-squared-VLA_Decoupling_Semantic_and_Spatial_Stre.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language Models (VLMs) have demonstrated remarkable potential for high-level reasoning in autonomous driving, yet they fundamentally struggle to generate precise, low-level control actions. This limitation is rooted in a semantic-physical gap caused by the inherent mismatch between discrete l...
+
+#### [Fine-grained CLIP fine-tuning with self-annotated region alignment](http://arxiv.org/abs/2607.13661v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-16/Fine-grained_CLIP_fine-tuning_with_self-annotated_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Contrastive Language-Image Pre-training (CLIP) has been shown to have limitations in its fine-grained dense feature representation, due to its pre-training focusing on matching the whole image to a text description. Considering the large data and computational burden in pre-training a vision-languag...
+
+#### [Semantic Anchoring for Robotic Action Representations](http://arxiv.org/abs/2607.13597v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-16/Semantic_Anchoring_for_Robotic_Action_Representati.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language-Action (VLA) models inherit rich semantic representations from pretrained Vision-Language Models, yet fine-tuning on limited robot demonstrations degrades this structure and undermines generalization. A fundamental question therefore arises: what constitutes a good action representat...
+
+#### [GHR-VLM: Making Zero-Shot Transit Video Analytics Realizable with Grounded Hybrid Reasoning](http://arxiv.org/abs/2607.13569v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-16/GHR-VLM_Making_Zero-Shot_Transit_Video_Analytics_R.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Transit video understanding can provide valuable fine-grained data that conventional passenger counters and fare systems cannot capture. However, supervised video models require task-specific annotations, while applying vision-language models (VLMs) directly to long onboard videos is unreliable and ...
+
+#### [ThinkBLOX: 3D Indoor Scene Generation with Progressive Reasoning](http://arxiv.org/abs/2607.13539v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-16/ThinkBLOX_3D_Indoor_Scene_Generation_with_Progress.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While traditional graphics methods often synthesize 3D indoor scenes autoregressively or hierarchically, recent vision-language model (VLM)-based generators predominantly adopt a one-shot paradigm where the full layout is planned at once. This one-shot approach often requires global re-optimization ...
+
+#### [Attention-Free and Lightweight Token Reduction for Efficient Vision-Language Models](http://arxiv.org/abs/2607.13500v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-16/Attention-Free_and_Lightweight_Token_Reduction_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have achieved strong performance in multimodal understanding, yet remain challenging to deploy on resource-constrained edge devices due to the substantial computational overhead of processing numerous visual tokens. Token reduction is a promising direction for accelerat...
+
+#### [Joint On-and-Off Policy Learning for Vision-and-Language Navigation](http://arxiv.org/abs/2607.13461v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-16/Joint_On-and-Off_Policy_Learning_for_Vision-and-La.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-and-Language Navigation (VLN) necessitates an embodied agent to navigate in the physical world by adhering to natural language instructions. Recent advancements in Vision-Language Models (VLM) have propelled the development of VLM-based VLN methods with two predominant paradigms: (1) imitatio...
+
+#### [Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment](http://arxiv.org/abs/2607.13429v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-16/Generalizable_VLA_Finetuning_via_Representation_An.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Finetuning a pretrained vision-language model (VLM) on robot demonstrations via behavior cloning (BC) has become the standard recipe for vision-language-action (VLA) policies. However, BC finetuning progressively overwrites the pretrained representations that support visual and semantic generalizati...
+
+#### [Self-Improving is Often Sudden: Enlightenment-style Finetuning for Large-Scale Models](http://arxiv.org/abs/2607.13395v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-16/Self-Improving_is_Often_Sudden_Enlightenment-style.pdf)
+- **领域**: cs.LG
+- **核心摘要**: The pursuit of autonomously self-improving models has attracted growing interest in the era of large-scale foundation models. Drawing inspiration from the concept of "enlightenment" or "aha moment" in human brain, we hypothesize that large models exhibit an analogous enlightenment phenomenon-a laten...
+
