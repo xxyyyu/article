@@ -5329,3 +5329,58 @@
 - **领域**: cs.RO
 - **核心摘要**: In goal-directed embodied navigation, where an agent must locate a specified target in an unseen environment, 3D scene understanding and navigation reasoning must work in concert. Current approaches transmit 3D scene information to vision-language models (VLMs) through text, suggesting a representat...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-20
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Vision-Language Assistant for Emotional Reactions to Risky Driving](http://arxiv.org/abs/2607.16181v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-20/Vision-Language_Assistant_for_Emotional_Reactions_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: This study introduces a vision-language pipeline that detects risky driving behaviors and generates emotionally expressive responses to support driver awareness and comfort. Although vision-language models have advanced perception and reasoning in autonomous driving, existing systems rarely consider...
+
+#### [Attention-Guided Saliency Maps for Interpreting Visualization Literacy in VLMs](http://arxiv.org/abs/2607.16105v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-20/Attention-Guided_Saliency_Maps_for_Interpreting_Vi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Understanding how vision-language models (VLMs) interpret data visualizations remains an open problem, and is increasingly important as these models are used for analytical tasks where reliable reasoning is essential. We introduce a lightweight, diagnostic saliency map method tailored for text gener...
+
+#### [How Do VLMs Fail? Vision-Operation Misalignment in Compositional VQA](http://arxiv.org/abs/2607.16094v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-20/How_Do_VLMs_Fail_Vision-Operation_Misalignment_in_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Compositional visual question answering requires Vision-Language Models (VLMs) to execute multiple reasoning operations like object selection, spatial relation resolution, and attribute verification. Despite strong aggregate performance, the mechanistic basis of VLM failures on this task remains und...
+
+#### [More with Less: a Large Scale Remote Sensing VLM with a Simple Recipe](http://arxiv.org/abs/2607.15942v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-20/More_with_Less_a_Large_Scale_Remote_Sensing_VLM_wi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Remote sensing vision-language models are increasingly expected to support open-ended reasoning over Earth Observation data and a variety of tasks. Most recent progress in this area has been driven by remote-sensing-specific architectural designs, often introducing new encoders, alignment modules, o...
+
+#### [Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction](http://arxiv.org/abs/2607.15851v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-20/Von_Mises-Fisher_Mixture_Model_with_Dynamic_Shrink.pdf)
+- **领域**: cs.CV
+- **核心摘要**: A range of methods aim to enhance the performance of vision-language models (VLMs) at test time. Among them, transduction has emerged as a promising paradigm due to its strong compatibility and efficiency. However, realistic evaluations often involve highly imbalanced class distributions, which caus...
+
+#### [SkillNav: Score-Level Skill Intervention for Zero-Shot Object Goal Navigation](http://arxiv.org/abs/2607.15758v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-20/SkillNav_Score-Level_Skill_Intervention_for_Zero-S.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language Model (VLM) agents have advanced zero-shot object-goal navigation, yet single-frame reasoning leaves them without the cross-step behavioral awareness an embodied navigator requires, producing recurring failures such as dead-end stalls, in-room loops, and circuitous approaches to dete...
+
+#### [Model Merging for Medical LVLMs: A Benchmark and a Winner-Take-All Approach](http://arxiv.org/abs/2607.15661v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-20/Model_Merging_for_Medical_LVLMs_A_Benchmark_and_a_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) can be adapted to specialized medical imaging tasks via parameter-efficient fine-tuning approaches such as low-rank adaptation (LoRA), leading to a growing ecosystem of expert models tailored to specific imaging modalities and clinical scenarios. However, deployi...
+
+#### [IMBench: A Benchmark for Intuitive Robotic Manipulation](http://arxiv.org/abs/2607.15641v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-20/IMBench_A_Benchmark_for_Intuitive_Robotic_Manipula.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Humans combine reasoning and motor control to solve complex manipulation tasks under diverse constraints. They build an understanding of the physical world that helps them convert reasoning into actions and quickly adapt to new scenes, tasks, and rules. We refer to this capability as intuitive manip...
+
+#### [Region-Grounded Vision-Language Learning for Detection-Guided Mammographic Lesion Classification](http://arxiv.org/abs/2607.15615v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-20/Region-Grounded_Vision-Language_Learning_for_Detec.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models trained with contrastive objectives have shown promise in medical image analysis. However, conventional global image-text alignment is ill-suited for mammography, where diagnostically relevant lesions are spatially localized and occupy only a small fraction of the image. Subtl...
+
+#### [Ask Twice, Look Twice: Prompt Echoing Resolves the Question-First Paradox in Vision-Language Models](http://arxiv.org/abs/2607.15565v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-20/Ask_Twice_Look_Twice_Prompt_Echoing_Resolves_the_Q.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Where should the question go in a vision-language model (VLM) prompt: before the image or after it? Intuition says before: knowing what is asked should tell the model where to look. Yet across visual question answering benchmarks, question-first prompting consistently underperforms the image-first o...
+
