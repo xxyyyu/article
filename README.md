@@ -5384,3 +5384,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Where should the question go in a vision-language model (VLM) prompt: before the image or after it? Intuition says before: knowing what is asked should tell the model where to look. Yet across visual question answering benchmarks, question-first prompting consistently underperforms the image-first o...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-21
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric](http://arxiv.org/abs/2607.18237v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-21/The_Many_Senses_of_Visual_Similarity_A_Text-Prompt.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this g...
+
+#### [Patch Policy: Efficient Embodied Control via Dense Visual Representations](http://arxiv.org/abs/2607.18236v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-21/Patch_Policy_Efficient_Embodied_Control_via_Dense_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial deta...
+
+#### [Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs](http://arxiv.org/abs/2607.18230v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-21/Simple_Domain_Generalization_for_Strong_Pixel-Leve.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level im...
+
+#### [SEE: Structure-aware Exploring \& Exploiting for Long-horizon GUI Agent Trajectory Synthesis](http://arxiv.org/abs/2607.18046v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-21/SEE_Structure-aware_Exploring__Exploiting_for_Long.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Graphical User Interface (GUI) agents powered by vision-language models hold promise for automating real-world mobile tasks. However, progress is limited by the lack of high-coverage, long-horizon interaction trajectories collected from element-rich and rapidly evolving apps. Existing pipelines ofte...
+
+#### [Anticipate Before Acting: Future-State-Conditioned Vision-Language Navigation](http://arxiv.org/abs/2607.18042v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-21/Anticipate_Before_Acting_Future-State-Conditioned_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: End-to-end vision-language navigation (VLN) with causal vision-language models can map instructions and egocentric observations directly to actions, but standard behavior cloning supervises only the next action and does not explicitly train the policy state to be predictive of future visual outcomes...
+
+#### [ST-Veto: Spatio-Temporal Token Veto for Diffusion MLLMs via Taylor Prediction and Visual Grounding](http://arxiv.org/abs/2607.17884v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-21/ST-Veto_Spatio-Temporal_Token_Veto_for_Diffusion_M.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision Language Models (VLMs) achieve strong reasoning with Chain-of-Thought (CoT) prompting but incur high sequential-generation cost, error accumulation, and limited self-correction. Diffusion Multimodal Large Language Models (dMLLMs) unmask tokens in an order-agnostic process, improving efficienc...
+
+#### [PRiSM: Prototype Regularization for Few-Shot VLMs](http://arxiv.org/abs/2607.17820v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-21/PRiSM_Prototype_Regularization_for_Few-Shot_VLMs.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Training-free few-shot adaptation methods have gained significant attention recently in the context of Vision-language Models (VLMs). Yet, current benchmarks rely on strong assumptions about the statistics of the adaptation data, e.g., class balance. We question these simplifying assumptions and int...
+
+#### [Measuring Monosemanticity in Sparse Autoencoders via Latent Activation Coherence](http://arxiv.org/abs/2607.17770v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-21/Measuring_Monosemanticity_in_Sparse_Autoencoders_v.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Within Explainable Artificial Intelligence, mechanistic interpretability uses Sparse Autoencoders (SAEs) to extract more interpretable features from neural representations. However, assessing their monosemanticity, and thus explanation quality, remains challenging. Existing metrics require external ...
+
+#### [VLN-AVP: Zero-Shot Vision-Language Navigation with Hybrid Long-Short-Term Memory for Autonomous Valet Parking](http://arxiv.org/abs/2607.17767v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-21/VLN-AVP_Zero-Shot_Vision-Language_Navigation_with_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Existing methods in Autonomous Valet Parking (AVP) typically rely on pre-built maps, which severely restricts their scalability to unseen environments and open-vocabulary targets. Inspired by the application of Vision-Language Models (VLMs) in Vision-Language Navigation (VLN) tasks, we propose VLN-A...
+
+#### [Learning to Detect Cross-Modal Negation: An Analysis of Latent Representations and an Attention-Based Solution](http://arxiv.org/abs/2607.17712v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-21/Learning_to_Detect_Cross-Modal_Negation_An_Analysi.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Detecting high-level semantic concepts like negation across modalities remains a challenge for current multimodal systems. We analyze this as a fundamental representation learning problem, providing the first evidence that negation does not form a linearly or non-linearly separable class in the late...
+
