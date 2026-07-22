@@ -5439,3 +5439,58 @@
 - **领域**: cs.AI
 - **核心摘要**: Detecting high-level semantic concepts like negation across modalities remains a challenge for current multimodal systems. We analyze this as a fundamental representation learning problem, providing the first evidence that negation does not form a linearly or non-linearly separable class in the late...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-22
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation](http://arxiv.org/abs/2607.19288v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-22/No_Training_Better_Flights_Test-Time_Scaled_VLMs_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-time scaling offers a promising method to improve the inference performance of Vision-Language Models (VLMs) without additional training. Existing approaches to vision-language navigation (VLN) for Unmanned Aerial Vehicle (UAV) typically relies on a single inference pass, which can falter in co...
+
+#### [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](http://arxiv.org/abs/2607.19261v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-22/PathAgentBench_Benchmarking_Evidence-Seeking_Visio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Whole-slide image (WSI) diagnosis requires identifying diagnostically relevant regions, examining them across magnifications, and integrating multi-scale evidence. However, most existing pathology benchmarks evaluate models on pre-cropped patches or pre-extracted slide features, leaving their abilit...
+
+#### [Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency](http://arxiv.org/abs/2607.19194v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-22/Cognitive_Dual-Process_Planning_for_Autonomous_Dri.pdf)
+- **领域**: cs.RO
+- **核心摘要**: High-level planning for autonomous driving is a knowledge-intensive engineering decision task that requires accurate scene understanding, timely inference, and internally consistent action selection. Vision-language models (VLMs) can make intermediate reasoning explicit, but their use in deployed pl...
+
+#### [One Model, Many Graphs: Learning over Attributed Graphs across Heterogeneous Modalities with Vision-Language Models](http://arxiv.org/abs/2607.19128v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-22/One_Model_Many_Graphs_Learning_over_Attributed_Gra.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Vision-language models (VLMs) provide a unified representation space for textual and visual information, yet their potential as general-purpose backbones for graph-structured data remains largely unexplored. In practice, attributed graphs exhibit substantial modality heterogeneity: some graphs conta...
+
+#### [GATE-3D: Geometry-Aware Test-time Adaptive Reranking for Open-Set 3D Shape Retrieval](http://arxiv.org/abs/2607.19111v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-22/GATE-3D_Geometry-Aware_Test-time_Adaptive_Rerankin.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large pretrained vision models have substantially improved appearance-based 3D shape retrieval, but they still confuse shapes that look similar while differing in geometry. Although geometry-aware features can reduce these errors, naive fusion of geometry and appearance may hurt retrieval when the t...
+
+#### [Context-structured Video Anomaly Detection with Large Vision-Language Models](http://arxiv.org/abs/2607.19077v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-22/Context-structured_Video_Anomaly_Detection_with_La.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Training video anomaly detectors is challenging due to the difficulty and cost of annotating diverse and rare abnormal events. Although recent large vision-language models enable training-free inference, existing approaches mostly rely on holistic inference over sampled video and may miss context-sp...
+
+#### [Mitigating Modality and Language-Style Gaps for Zero-Shot Video Moment Retrieval](http://arxiv.org/abs/2607.19027v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-22/Mitigating_Modality_and_Language-Style_Gaps_for_Ze.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Zero-shot video moment retrieval aims to overcome the limitations of traditional approaches that require large-scale datasets annotated with text and its relevant temporal spans. Despite advances in pre-trained vision-language models and multimodal large language models, existing ZMR methods still h...
+
+#### [Benchmarking Deep Learning Approaches for AEC Engineering Drawing Layout Detection and Information Extraction](http://arxiv.org/abs/2607.18997v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-22/Benchmarking_Deep_Learning_Approaches_for_AEC_Engi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Information Extraction (IE) from Architecture, Engineering, and Construction (AEC) drawings remains hindered by manual inefficiency, while Layout Detection, a vital 'middleware' organizing graphical and textual hierarchies, is underexplored. General document layout models, optimized for text-centric...
+
+#### [DobicVLM: Aligning Chest X-Ray Report Generation with Clinically-Grounded Programmatic Rewards via Group Relative Policy Optimization](http://arxiv.org/abs/2607.18988v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-22/DobicVLM_Aligning_Chest_X-Ray_Report_Generation_wi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical imaging is a cornerstone of diagnostics, yet automated chest X-ray report generation struggles with structural adherence, anatomical completeness, and semantic faithfulness. We introduce DobicVLM, a vision-language model combining supervised fine-tuning on MedGemma-4B with Group Relative Pol...
+
+#### [Dual Adversarial Fine-tuning for Enhancing Robustness of Large Vision Language Model](http://arxiv.org/abs/2607.18958v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-22/Dual_Adversarial_Fine-tuning_for_Enhancing_Robustn.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While Large Vision-Language Models (LVLMs), represented by LLaVA and GPT-4V, have demonstrated remarkable capabilities, their visual inputs remain vulnerable to adversarial attacks, posing significant security risks. Existing defense methods predominantly target single-task scenarios (e.g., zero-sho...
+
