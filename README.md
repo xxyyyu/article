@@ -5494,3 +5494,58 @@
 - **领域**: cs.CV
 - **核心摘要**: While Large Vision-Language Models (LVLMs), represented by LLaVA and GPT-4V, have demonstrated remarkable capabilities, their visual inputs remain vulnerable to adversarial attacks, posing significant security risks. Existing defense methods predominantly target single-task scenarios (e.g., zero-sho...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-23
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Test-Time Training for Modality Order Consistency in Vision-Language Models](http://arxiv.org/abs/2607.20351v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-23/Test-Time_Training_for_Modality_Order_Consistency_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We find that vision-language models are sensitive to a specific semantically irrelevant change: the order in which the image and question are presented. Across three models and three benchmarks, image first prompting consistently outperforms question-first prompting, revealing a repeatable modality ...
+
+#### [SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments](http://arxiv.org/abs/2607.20207v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-23/SeededGrasp_Language-Guided_Grasping_in_Complex_Sc.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp directly with l...
+
+#### [ENTRAP-VL: A Taxonomic Probe for Dual Contextual Entrainment in Vision-Language Models](http://arxiv.org/abs/2607.20092v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-23/ENTRAP-VL_A_Taxonomic_Probe_for_Dual_Contextual_En.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Contextual entrainment is the tendency of a model to let auxiliary context in its input pull its output, independently of whether that context is relevant, true, or even meaningful. Recently, it has been identified and given a mechanistic account in unimodal language models. Whether and how it manif...
+
+#### [Forecasting the Number of Harvest-ready Fruits of Sweet Peppers Using Multimodal Time-Series Data](http://arxiv.org/abs/2607.19975v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-23/Forecasting_the_Number_of_Harvest-ready_Fruits_of_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Accurate yield forecasting at the individual-plant level is critical for precision agriculture and supply-chain planning, yet public datasets capturing both visual growth dynamics and per-plant measurement labels are scarce. In this paper, we introduce a novel, annotated image time-series dataset of...
+
+#### [LAVIFT: Latent-Action-Guided Vision Fine-Tuning for Surgical Interaction Recognition](http://arxiv.org/abs/2607.19889v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-23/LAVIFT_Latent-Action-Guided_Vision_Fine-Tuning_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Understanding instrument-tissue interactions is essential for context-aware surgical AI and autonomous robotic surgery. Pretrained vision-language models (VLMs) and vision encoders offer an alternative to conventional interaction classifiers by transferring broad visual and semantic knowledge. Howev...
+
+#### [SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation](http://arxiv.org/abs/2607.19850v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-23/SOPD-SocialNav_Selective_On-Policy_Distillation_fo.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language models have shown strong potential for social robot navigation by leveraging rich semantic understanding of complex environments and human behaviors. However, large scale VLMs are difficult to deploy on resource-constrained robotic platforms, while lightweight VLMs often lack suffici...
+
+#### [Using Hierarchical Controlled Vocabularies to Understand CLIP Retrieval Failures in Historical Photo Collections](http://arxiv.org/abs/2607.19836v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-23/Using_Hierarchical_Controlled_Vocabularies_to_Unde.pdf)
+- **领域**: cs.IR
+- **核心摘要**: GLAM institutions (Galleries, Libraries, Archives, and Museums) organise image access using controlled vocabularies such as the Art and Architecture Thesaurus (AAT). For content-based image retrieval in these settings, vision-language models like CLIP are increasingly used, but their performance var...
+
+#### [Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning](http://arxiv.org/abs/2607.19790v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-23/Trace_A_Taxonomy-Guided_Environment_for_Multidomai.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reinforcement learning with verifiable rewards (RLVR) has substantially improved language-model reasoning, yet its extension to vision-language models remains constrained by the lack of training data that are simultaneously broad, exactly verifiable, and reproducible. We introduce Trace, a taxonomy-...
+
+#### [GhostPrompt: Cross-Image Adversarial Prompt for Vision-Language Models](http://arxiv.org/abs/2607.19683v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-23/GhostPrompt_Cross-Image_Adversarial_Prompt_for_Vis.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Vision-Language Models (VLMs) are known to be vulnerable to adversarial attacks, where subtle perturbations to images or texts induce erroneous outputs. However, most text-based attacks are adapted from language-model-centric methods, in which the visual input is fixed during optimization, resulting...
+
+#### [Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models](http://arxiv.org/abs/2607.19604v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-23/Scaling_Laws_for_Hypernetwork-Based_Knowledge_Inje.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Injecting factual knowledge into large language models (LLMs) reliably and at scale remains an open challenge. Hypernetworks provide a promising solution to large-scale knowledge injection. Although hypernetworks are typically applied for test-time adaptation, we explore their use in train-time know...
+
