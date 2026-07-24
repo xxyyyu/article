@@ -5549,3 +5549,58 @@
 - **领域**: cs.CL
 - **核心摘要**: Injecting factual knowledge into large language models (LLMs) reliably and at scale remains an open challenge. Hypernetworks provide a promising solution to large-scale knowledge injection. Although hypernetworks are typically applied for test-time adaptation, we explore their use in train-time know...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-24
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [3D-Aware VLMs with Implicit and Explicit Geometries](http://arxiv.org/abs/2607.21595v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-24/3D-Aware_VLMs_with_Implicit_and_Explicit_Geometrie.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial aware...
+
+#### [MIRROR: Learning from the Other View for Multi-Modal Reasoning](http://arxiv.org/abs/2607.21552v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-24/MIRROR_Learning_from_the_Other_View_for_Multi-Moda.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Unlike large language models (LLMs) that exhibit strong reasoning capabilities, vision-language models (VLMs) struggle with visual reasoning, even on geometry problems that admit equivalent text, diagram, and combined diagram+text views. We show that these views often elicit different behaviors: a m...
+
+#### [Towards Privacy-Preserving Federated Prompt Tuning under Data Heterogeneity: A Subspace-Decomposed Expert Approach](http://arxiv.org/abs/2607.21417v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-24/Towards_Privacy-Preserving_Federated_Prompt_Tuning.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Federated prompt tuning (FPT) enables collaborative adaptation of vision--language models (VLMs) using lightweight prompts. Existing methods often address heterogeneity and privacy through a split-prompt design under local differential privacy (DP), combining a shared prompt for global transfer with...
+
+#### [When Are Reasoning-Based Guardrails Not Efficient? ResponseGuard: A Fast Vision-Language Guard for Real-Time Moderation](http://arxiv.org/abs/2607.21401v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-24/When_Are_Reasoning-Based_Guardrails_Not_Efficient_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: A vision-language AI assistant returns its answer as a stream of generated tokens. Therefore, a safety guard that watches that answer has to keep up with the stream and stop a harmful reply before a user reads it. Recent vision-language guardrails instead generate a chain of thought before they issu...
+
+#### [CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA](http://arxiv.org/abs/2607.21155v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-24/CRAG-MM-Diagnostics_Enabling_Stage-Wise_Analysis_o.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Knowledge-Intensive Visual Question Answering (KI-VQA) benchmarks evaluate Vision-Language Models (VLMs) as multimodal knowledge assistants by requiring external information beyond a provided image to answer questions. KI-VQA involves multiple sub-problems -referring expression understanding, visual...
+
+#### [Do Pathology Vision-Language Models Truly See Pathology?](http://arxiv.org/abs/2607.21065v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-24/Do_Pathology_Vision-Language_Models_Truly_See_Path.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Pathology vision-language models (VLMs) have recently progressed rapidly and are commonly evaluated by answer accuracy on pathology VQA benchmarks. However, we dig into current evaluations and identify three overlooked issues: 1) Visual evidence is not always necessary. For instance, Gemini-3-Pro ac...
+
+#### [GeoThreat: Transferable Targeted Adversarial Attacks on Large Vision-Language Models for Remote Sensing Image Interpretation](http://arxiv.org/abs/2607.21036v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-24/GeoThreat_Transferable_Targeted_Adversarial_Attack.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Adversarial attacks against large vision-language models (LVLMs) serve as an effective means of assessing their robustness in cross-modal semantic understanding. Existing studies mainly focus on corrupting visual inputs to induce predefined erroneous responses in general vision-language tasks, where...
+
+#### [ZONDA: Zero-shot Object Navigation with Dynamic Avoidance in Multi-floor Environments](http://arxiv.org/abs/2607.21025v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-24/ZONDA_Zero-shot_Object_Navigation_with_Dynamic_Avo.pdf)
+- **领域**: cs.RO
+- **核心摘要**: In Object Goal Navigation task, existing methods are typically restricted to static and single-floor environments, ignoring cross-floor topologies and dynamic pedestrian, which limits their real-world deployment. To address these limitations, we propose ZONDA, a zero-shot object navigation with dyna...
+
+#### [ProCap: Prominence-guided Object Rectification for Faithful and Comprehensive Video Captioning](http://arxiv.org/abs/2607.21022v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-24/ProCap_Prominence-guided_Object_Rectification_for_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Improving video captioning quality typically demands retraining large vision-language models, an expensive and often impractical requirement. Existing training-free alternatives instead ground captions in detected objects to curb hallucination, but apply only a single, fixed correction pass without ...
+
+#### [Sparse Concept Channels in Frozen 3D CT Vision Encoders](http://arxiv.org/abs/2607.20993v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-24/Sparse_Concept_Channels_in_Frozen_3D_CT_Vision_Enc.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models are becoming increasingly dominant in 3D medical image interpretation, but we rarely know <i>which</i> internal units encode clinical findings or <i>where</i> that information lives in the representation. We first study this on a 3D chest vision-language model (Pillar-0)...
+
