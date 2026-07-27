@@ -5659,3 +5659,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Large vision-language models are becoming increasingly dominant in 3D medical image interpretation, but we rarely know <i>which</i> internal units encode clinical findings or <i>where</i> that information lives in the representation. We first study this on a 3D chest vision-language model (Pillar-0)...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-27
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [SceneActBench: Can Agents Act on the 3D Scenes They See?](http://arxiv.org/abs/2607.22393v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-27/SceneActBench_Can_Agents_Act_on_the_3D_Scenes_They.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving agent action on complete multi-object 3D scenes under evaluated. We present SceneActBench, a benchmark for...
+
+#### [LayoutLite: Token-Level Implicit Layout Analysis for Efficient Document OCR](http://arxiv.org/abs/2607.22200v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-27/LayoutLite_Token-Level_Implicit_Layout_Analysis_fo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: End-to-end OCR systems based on vision-language models have achieved strong performance in complex document OCR, but their efficiency is limited by the large number of visual tokens produced from document images. Many of these tokens correspond to blank margins or visually redundant regions, yet dir...
+
+#### [Scaling Native Multimodal Pre-Training From Scratch](http://arxiv.org/abs/2607.22043v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-27/Scaling_Native_Multimodal_Pre-Training_From_Scratc.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Although large language models (LLMs) exhibit remarkable reasoning capabilities, their reliance on text-only pre-training restricts the perception of the multimodal physical world. Native multimodal pre-training avoids this limitation by training models from scratch on multimodal inputs, thereby ach...
+
+#### [Small Vision-Language Models Know When They Are Wrong But Cannot Say So: A Two-Model Study of Stated versus Internal Confidence Under Realistic Image Degradation](http://arxiv.org/abs/2607.22034v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-27/Small_Vision-Language_Models_Know_When_They_Are_Wr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are increasingly deployed on consumer hardware where input images are degraded by compression, camera shake, and poor lighting. In such settings, a reliable uncertainty signal matters more than raw accuracy, because it determines when a system should defer rather than a...
+
+#### [EVL-MCoT: Enhanced Vision-Language Multi-CoT for Harmful Meme Detection](http://arxiv.org/abs/2607.22016v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-27/EVL-MCoT_Enhanced_Vision-Language_Multi-CoT_for_Ha.pdf)
+- **领域**: cs.CV
+- **核心摘要**: MEMEs are widely used on the internet and often carry strong elements of sarcasm or irony. Understanding their hidden meanings typically requires a joint interpretation of text and vision. Existing methods focus on the dual-stream vision-language model to extract the visual and text simultaneously, ...
+
+#### [TextSLIP: Text Self-Supervised CLIP for Medical Report Generation](http://arxiv.org/abs/2607.21970v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-27/TextSLIP_Text_Self-Supervised_CLIP_for_Medical_Rep.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Automating radiology report generation is important for improving reporting consistency and clinical workflows . While Contrastive Language--Image Pretraining (CLIP) has advanced medical vision language modeling, existing CLIP-style approaches may still provide insufficient fine-grained semantic sup...
+
+#### [Low-Altitude Channel Multipath Prediction via Panoramic Perception and Vision-Language Model](http://arxiv.org/abs/2607.21953v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-27/Low-Altitude_Channel_Multipath_Prediction_via_Pano.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Unmanned aerial vehicle (UAV) communication is expected to support a wide range of low-altitude applications in 6G mobile networks. However, traditional statistical channel models provide limited accuracy in specific environments, while deterministic methods such as ray tracing usually rely on accur...
+
+#### [Be Consistent! Enhancing Robust Visual Reasoning in LVLMs with Consistency Constraints](http://arxiv.org/abs/2607.21722v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-27/Be_Consistent_Enhancing_Robust_Visual_Reasoning_in.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While Large Vision-Language Models (LVLMs) exhibit strong perceptual capabilities, they remain vulnerable in visual reasoning tasks. Existing benchmarks largely focus on symbolic mathematical or scientific problems and simple vision-centric tasks, offering limited assessment of complex visual reason...
+
+#### [3D-Aware VLMs with Implicit and Explicit Geometries](http://arxiv.org/abs/2607.21595v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-27/3D-Aware_VLMs_with_Implicit_and_Explicit_Geometrie.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial aware...
+
+#### [MIRROR: Learning from the Other View for Multi-Modal Reasoning](http://arxiv.org/abs/2607.21552v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-27/MIRROR_Learning_from_the_Other_View_for_Multi-Moda.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Unlike large language models (LLMs) that exhibit strong reasoning capabilities, vision-language models (VLMs) struggle with visual reasoning, even on geometry problems that admit equivalent text, diagram, and combined diagram+text views. We show that these views often elicit different behaviors: a m...
+
