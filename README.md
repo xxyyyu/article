@@ -5714,3 +5714,58 @@
 - **领域**: cs.AI
 - **核心摘要**: Unlike large language models (LLMs) that exhibit strong reasoning capabilities, vision-language models (VLMs) struggle with visual reasoning, even on geometry problems that admit equivalent text, diagram, and combined diagram+text views. We show that these views often elicit different behaviors: a m...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-28
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](http://arxiv.org/abs/2607.24730v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-28/KANEx_Translating_Kolmogorov-Arnold_Networks_Inter.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanations. Howeve...
+
+#### [ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams](http://arxiv.org/abs/2607.24707v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-28/ERUnderstand_Evaluating_Vision-Language_Models_on_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Entity-Relationship Diagrams (ERDs) are central to conceptual database design, yet they are typically available only as rendered images rather than machine-readable schemas, limiting AI-assisted database engineering. We introduce ERUnderstand, the first large-scale benchmark for structured understan...
+
+#### [Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels](http://arxiv.org/abs/2607.24651v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-28/Evidence_Attribution_in_Visual_Document_Understand.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reliable visual document understanding requires a model to attribute each answer to the evidence regions that support it. Recent benchmarks and systems express this step through a coordinate interface: the model outputs the coordinates of bounding boxes that mark the evidence regions in the document...
+
+#### [Test-Time Adaptation via Dual Distillation for Videos Under Severe Distribution Shifts](http://arxiv.org/abs/2607.24611v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-28/Test-Time_Adaptation_via_Dual_Distillation_for_Vid.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Deep learning models have achieved state-of-the-art performance in several computer vision tasks. However, they experience severe performance degradation when applied to real-world scenarios due to unanticipated distribution shifts. Test-Time Adaptation (TTA) attempts to solve this problem by using ...
+
+#### [CADER: Confidence-Aware Dynamic Evidence Reasoning for Long-Video Understanding](http://arxiv.org/abs/2607.24582v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-28/CADER_Confidence-Aware_Dynamic_Evidence_Reasoning_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Long-video understanding increasingly relies on large vision-language models and tool-augmented reasoning, but most systems apply the same inference procedure to every example regardless of difficulty. This uniform strategy invokes unnecessary tool-assisted processing for easy questions and provides...
+
+#### [DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding](http://arxiv.org/abs/2607.24554v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-28/DeCoRAG_Cognitive_Decoupling_and_Semantic-Aware_Cr.pdf)
+- **领域**: cs.IR
+- **核心摘要**: Advancing multimodal retrieval-augmented generation (RAG) for complex document understanding presents a formidable dual dilemma of accuracy and efficiency, particularly in graph RAG. Processing structurally sparse yet visually dense layouts, such as extracting a tiny data marker from a financial cha...
+
+#### [DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes](http://arxiv.org/abs/2607.24516v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-28/DecoupleMix_Decoupled_Ratio_Search_and_Convex_Allo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While data curation for Vision Language Models (VLMs) is increasingly active, public practice for constructing pretraining mixtures remains largely heuristic: practitioners stack datasets that pass quality filters, set cross-domain ratios by intuition, and lack a principled, attributable criterion f...
+
+#### [Bigger or Cheaper? Scale and Quantization Effects on Uncertainty Signals in Vision-Language Models Under Image Degradation](http://arxiv.org/abs/2607.24440v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-28/Bigger_or_Cheaper_Scale_and_Quantization_Effects_o.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) deployed on consumer hardware must decide when to answer and when to defer, and that decision depends on having a confidence signal that tracks correctness. A practitioner with a fixed memory budget faces a choice between a small model at full precision, the same small ...
+
+#### [MAViE: A Multi-scale Adaptive Vision Encoder for Fine-grained Visual Perception and Efficient Multimodal Reasoning](http://arxiv.org/abs/2607.24424v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-28/MAViE_A_Multi-scale_Adaptive_Vision_Encoder_for_Fi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models commonly project all tokens produced by a pretrained vision encoder into a large language model. However, final-layer features can discard text, local attributes, and spatial relationships, while high-resolution inputs substantially increase context length and inference latenc...
+
+#### [Are Prompt Optimizers Blind? Cross-Modal Visual Feedback for Automatic Prompt Optimization](http://arxiv.org/abs/2607.24354v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-28/Are_Prompt_Optimizers_Blind_Cross-Modal_Visual_Fee.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Automatic prompt optimization (APO) has been widely adopted to adapt vision-language models (VLMs) to downstream tasks without weight updates, yielding promising results. However, on multimodal tasks, the effectiveness of APO is fundamentally bottlenecked by a blind feedback channel: the optimizer r...
+
