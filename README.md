@@ -5769,3 +5769,58 @@
 - **领域**: cs.AI
 - **核心摘要**: Automatic prompt optimization (APO) has been widely adopted to adapt vision-language models (VLMs) to downstream tasks without weight updates, yielding promising results. However, on multimodal tasks, the effectiveness of APO is fundamentally bottlenecked by a blind feedback channel: the optimizer r...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-29
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening](http://arxiv.org/abs/2607.26042v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-29/VetClaw_An_Edge-Cloud_Multimodal_Agentic_System_fo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We present VetClaw, an edge-cloud multimodal agentic system for early veterinary disease screening. VetClaw uses a camera module as an edge sensing device and sends captured images, together with optional symptom descriptions, to a server-hosted vision-language model for zero-shot disease classifica...
+
+#### [MODUS: Decoder-Only Any-to-Any Modeling of Diverse Modalities](http://arxiv.org/abs/2607.25948v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-29/MODUS_Decoder-Only_Any-to-Any_Modeling_of_Diverse_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Any-to-any models predict any modality from any combination of others within a single network, a formulation used in multimodal vision and vision-language models, and increasingly in scientific domains such as ecology and astronomy. Existing any-to-any models are typically trained from scratch using...
+
+#### [Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA](http://arxiv.org/abs/2607.25921v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-29/Evaluating_VLMs_for_Autonomous_Agent-Driven_Geomet.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In this work, we study the use of Vision-Language Models (VLMs) for anomaly detection in an agent-driven game Quality Assurance (QA) pipeline focusing on geometry clipping. In this evaluation, a custom exploration agent navigates a game level to collect visual observations, while the automatic annot...
+
+#### [A2TTA: Anchored-and-Agile Test-Time Adaptation for Evolving Traffic Sensor Networks](http://arxiv.org/abs/2607.25875v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-29/A2TTA_Anchored-and-Agile_Test-Time_Adaptation_for_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Traffic forecasting is important for efficient traffic management and route planning in smart cities. Existing traffic forecasting studies typically assume fixed sensor graphs, overlooking the continuous evolution of real-world traffic networks, e.g., ongoing road network construction and evolving h...
+
+#### [Fine-Grained Food Image Understanding via Target-Aware Data Alignment](http://arxiv.org/abs/2607.25794v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-29/Fine-Grained_Food_Image_Understanding_via_Target-A.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Fine-grained food visual--semantic understanding requires models to capture subtle distinctions across ingredients, cooking methods, doneness, color, texture, and plate composition. Although CLIP-style vision-language models provide a natural framework for this task, their effectiveness is limited w...
+
+#### [Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications](http://arxiv.org/abs/2607.25642v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-29/Instruction-based_Image_Editing_A_Survey_on_Data_M.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Instruction-based Image Editing (IIE) aims to transform a given image into a new one based on textual instructions. Advances in Large Language Models (LLMs) and Vision-Language Models (VLMs) have accelerated progress toward practical ``one-sentence image editing" systems. This survey presents a syst...
+
+#### [Forensic Reproducibility Audit of a Radiology Vision-Language Model Benchmark: From Intended Protocol to Released Artifact](http://arxiv.org/abs/2607.25589v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-29/Forensic_Reproducibility_Audit_of_a_Radiology_Visi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical-imaging AI benchmarks combine datasets, DICOM rendering, prompts, provider APIs, automated labels, statistical code, manuscripts, and repository releases. Agreement across these artifacts is usually assumed rather than tested. We performed a retrospective forensic reproducibility audit of a ...
+
+#### [Argus-Unified: Towards A Compact and Economical Unified Model for Image Understanding and Generation](http://arxiv.org/abs/2607.25527v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-29/Argus-Unified_Towards_A_Compact_and_Economical_Uni.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Unifying visual understanding and generation in one model holds immense promise, but remains challenging and expensive due to heavy compute and data demands and conflicts between the visual features needed for these two capabilities. To address these challenges, we present Argus-Unified, a compact, ...
+
+#### [Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering](http://arxiv.org/abs/2607.25479v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-29/Architectural_Backdoors_in_Vision-Language_Model_S.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Vision--Language Models (VLMs) are increasingly deployed through a model supply chain in which pretrained checkpoints, architecture definitions, text encoders, and exported computation graphs are distributed by third parties and reused across downstream services. This reuse model creates a security-...
+
+#### [Safety-Aware Cascaded Inference for Crop Damage Assessment with Controlled Error Trade-offs](http://arxiv.org/abs/2607.25468v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-29/Safety-Aware_Cascaded_Inference_for_Crop_Damage_As.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In picture-based agricultural insurance for smallholder farmers, missed damage detections carry substantially higher cost than false alarms: a farmer who sustained real losses receives no payout, while unnecessary expert review is operationally costly but reversible. Standard multi-class classifiers...
+
