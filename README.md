@@ -5824,3 +5824,58 @@
 - **领域**: cs.CV
 - **核心摘要**: In picture-based agricultural insurance for smallholder farmers, missed damage detections carry substantially higher cost than false alarms: a farmer who sustained real losses receives no payout, while unnecessary expert review is operationally costly but reversible. Standard multi-class classifiers...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-30
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes](http://arxiv.org/abs/2607.27188v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-30/Inverse_Learning_of_Latent_Risk-Neutral_Densities_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Accurate option prices do not imply accurate recovery of the latent risk-neutral density. We study this distinction with two complementary benchmarks. A controlled benchmark exposes simulator-truth densities for latent evaluation, while a chronological NIFTY benchmark tests only held-out market pric...
+
+#### [HumanCLAW: Can Vision-Language Models Act Through a Body?](http://arxiv.org/abs/2607.27180v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-30/HumanCLAW_Can_Vision-Language_Models_Act_Through_a.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Evaluating whether a vision-language model (VLM) can act through a physical body is challenging. The outcome of an action couples the VLM's decision with motor control. When a task fails, it is hard to tell whether the VLM made a bad choice or the motor controller simply failed to execute it, e.g., ...
+
+#### [Towards Grounded GI Endoscopy VQA via Multi-Task Learning on Small VLMs](http://arxiv.org/abs/2607.27122v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-30/Towards_Grounded_GI_Endoscopy_VQA_via_Multi-Task_L.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Gastrointestinal (GI) endoscopic image analysis has shifted from single-label classification toward visual question answering (VQA), where a model must answer free-form clinical questions about an image. While recent vision-language models (VLMs) achieve promising answer accuracy on this task, clini...
+
+#### [Prior Directions: Why GUI Grounding Gets Locked in the Past](http://arxiv.org/abs/2607.26913v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-30/Prior_Directions_Why_GUI_Grounding_Gets_Locked_in_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models often use descriptions of earlier visual states to make decisions about the current scene. When the scene changes, stale language can redirect an otherwise correct visual judgment toward an outdated answer. We study this failure as visual lock-in in a controlled grounding sett...
+
+#### [Hearsay: Vision-Language Medical Diagnoses Without an Image](http://arxiv.org/abs/2607.26886v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-30/Hearsay_Vision-Language_Medical_Diagnoses_Without_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: When asked to describe a medical image that was never attached, frontier vision-language models do not abstain: they confabulate a diagnosis. We show that this confabulation is not random. It is structured by who the patient is said to be. Across chest X-ray, brain MRI, and dermatology, Claude Opus-...
+
+#### [Dual Inversion for Text-to-Image Diffusion Models: From Both Prompt and Noise Perspectives](http://arxiv.org/abs/2607.26735v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-30/Dual_Inversion_for_Text-to-Image_Diffusion_Models_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Prompt inversion, as a typical reverse engineering technique, enables text-to-image (T2I) diffusion models to generate the desired target images without extensive prompt engineering. However, existing prompt inversion methods suffer from significant limitations: (1) gradient-based methods are unstab...
+
+#### [Level, Sharpness, and Corpus: Why Zero-Shot OOD Detector Rankings Do Not Transfer](http://arxiv.org/abs/2607.26582v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-30/Level_Sharpness_and_Corpus_Why_Zero-Shot_OOD_Detec.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Selecting a zero-shot out-of-distribution (OOD) detector for a new deployment is typically based on benchmark rankings, implicitly assuming that the highest-ranked detector will transfer across domains. We show that this assumption does not hold. Through a controlled portability audit across sevente...
+
+#### [ContactFlow: A video action conditioning that transfers across embodiments](http://arxiv.org/abs/2607.26579v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-30/ContactFlow_A_video_action_conditioning_that_trans.pdf)
+- **领域**: cs.RO
+- **核心摘要**: World models offer a promising route toward robot planning by enabling agents to imagine and verify the consequences of actions before execution. However, current video-based world models often struggle to capture the physical constraints that govern manipulation, particularly contact. Further, thei...
+
+#### [Recover, Decode, Reguard: Guard-Agnostic Defense Amplification againstEncoded VLM Jailbreaks](http://arxiv.org/abs/2607.26574v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-30/Recover_Decode_Reguard_Guard-Agnostic_Defense_Ampl.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Safety classifiers ("guards") are the dominant black-box defense for vision-language models, yet they judge an input's surface form, not its meaning: a harmful request re-encoded as set theory, formal logic, a rare language, code, or an image of text slips past a guard that would block it in plain l...
+
+#### [Speech2Grasp: Data-Efficient Transfer of Text-Conditioned Grasp Detection to Speech in Humanoid Robots](http://arxiv.org/abs/2607.26567v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-30/Speech2Grasp_Data-Efficient_Transfer_of_Text-Condi.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Humanoid robots increasingly require multi-modal understanding for natural interaction with humans. Despite the prominence of vision-language models, they generally assume textual rather than the more natural speech inputs. In this paper, we investigate whether a well-established text-conditioned mo...
+
