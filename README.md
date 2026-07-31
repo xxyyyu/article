@@ -5879,3 +5879,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Humanoid robots increasingly require multi-modal understanding for natural interaction with humans. Despite the prominence of vision-language models, they generally assume textual rather than the more natural speech inputs. In this paper, we investigate whether a well-established text-conditioned mo...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-07-31
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [ReToken: One Token to Improve Vision-Language Models for Visual Retrieval](http://arxiv.org/abs/2607.28627v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-31/ReToken_One_Token_to_Improve_Vision-Language_Model.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU memory constraints. We present ReToken, a single learnable embedding trained as an explicit retrieval t...
+
+#### [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](http://arxiv.org/abs/2607.28609v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-31/OSReward_Instituting_Standardized_Evaluation_for_C.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA evaluation, data curation, and reinforcement learning. Neither human-written verifie...
+
+#### [ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs](http://arxiv.org/abs/2607.28538v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-31/ScaFE_Data-Efficient_Scar_Classification_with_LLM-.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Classifying pathological scars from clinical photographs requires distinguishing keloids from hypertrophic scars despite limited expert-labeled data and substantial acquisition variation across hospitals. End-to-end image models remain data-dependent, whereas sending photographs to a hosted vision-l...
+
+#### [MarkushGlyph and OCSRGlyph: Improved Chemical Structure Recognition](http://arxiv.org/abs/2607.28532v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-31/MarkushGlyph_and_OCSRGlyph_Improved_Chemical_Struc.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Chemical structures appear in patents and the scientific literature as images. For programmatic usage, such as indexing in databases or constructing machine learning model training sets, they must be transformed into line notations. The two common forms of this task are translating an image of a sin...
+
+#### [A report-grounded vision-language foundation model for colonoscopy from 280000 routine reports](http://arxiv.org/abs/2607.28466v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-31/A_report-grounded_vision-language_foundation_model.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-language models remain underused in colonoscopy despite the rich expert descriptions recorded in routine reports. These reports document lesion appearance, size and location but summarise entire procedures rather than caption individual frames, leaving clinical findings only weakly linked to ...
+
+#### [Can Vision-Language Models Reason about AI Edits in Images?](http://arxiv.org/abs/2607.28464v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-31/Can_Vision-Language_Models_Reason_about_AI_Edits_i.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Detection and localization of AI-tampered images are critical for trustworthy AI, yet modern generative models have made such manipulations increasingly difficult to identify. While traditional binary classifiers can detect image tampering, they lack interpretability and generalization. Vision-Langu...
+
+#### [VisualRouter: Query-Grounded Visual Sampling for Long Video Understanding](http://arxiv.org/abs/2607.28463v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-31/VisualRouter_Query-Grounded_Visual_Sampling_for_Lo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) have achieved significant progress in video understanding, yet understanding long videos remains challenging due to the large number of visual tokens and limited context windows. Visual sampling provides a practical solution by selecting an informative subset of ...
+
+#### [ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA](http://arxiv.org/abs/2607.28442v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-31/ViewMind3D_Modular_View-Aware_Inference_for_Traini.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in large language models (LLMs) and vision-language models (VLMs) have enabled new possibilities for 3D question answering (3D-QA), a key capability for embodied AI and robotic perception. However, most existing methods rely on 3D-specific training or fine-tuning with costly annotati...
+
+#### [Beyond Visual Ambiguity: Guiding Robust Monocular Depth Estimation in Challenging Scenarios via Detailed Long Captions](http://arxiv.org/abs/2607.28285v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-31/Beyond_Visual_Ambiguity_Guiding_Robust_Monocular_D.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Monocular depth estimation (MDE) faces challenges with non-Lambertian surfaces and adverse weather conditions due to the visual ambiguities inherent in single-image limited information. Existing works address them in isolation via image inpainting or augmentation, yielding limited robustness gains. ...
+
+#### [Theia: Large-Scale Multimodal Captioning and Automated Validation of the Incidents1M Dataset for Data-Free Distillation](http://arxiv.org/abs/2607.28269v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-07-31/Theia_Large-Scale_Multimodal_Captioning_and_Automa.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The deployment of Vision-Language Models (VLMs) in critical domains like disaster management requires high-quality multimodal datasets, especially for transferring knowledge via Data-Free Knowledge Distillation (DFKD). However, existing datasets in this domain either entirely lack descriptive text, ...
+
