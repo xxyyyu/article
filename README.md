@@ -6044,3 +6044,58 @@
 - **领域**: cs.CV
 - **核心摘要**: The deployment of Vision-Language Models (VLMs) in critical domains like disaster management requires high-quality multimodal datasets, especially for transferring knowledge via Data-Free Knowledge Distillation (DFKD). However, existing datasets in this domain either entirely lack descriptive text, ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-03
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Sycophancy Undermines Epistemic Vigilance in Cooperative Vision-Language Tasks](http://arxiv.org/abs/2607.29585v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-03/Sycophancy_Undermines_Epistemic_Vigilance_in_Coope.pdf)
+- **领域**: cs.CL
+- **核心摘要**: To maintain common ground in cooperative conversation, humans iteratively update their beliefs as conversation participants share new information; participants who are epistemically vigilant detect when new information conflicts with prior beliefs and take steps to repair these conflicts. In order f...
+
+#### [MoRoute: Dynamic Routing for In-Context Multimodal Video Generation](http://arxiv.org/abs/2607.29545v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-03/MoRoute_Dynamic_Routing_for_In-Context_Multimodal_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multimodal video generation aims to generate and edit videos conditioned on arbitrary combinations of text, images, and videos within a single model, allowing diverse tasks to share complementary data and generative priors. Unifying these tasks requires multimodal understanding of diverse conditions...
+
+#### [QR-Structured Thermal Triggers for Targeted Semantic Attacks on Infrared Vision-Language Models](http://arxiv.org/abs/2607.29445v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-03/QR-Structured_Thermal_Triggers_for_Targeted_Semant.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Infrared vision-language models (IR-VLMs) extend thermal perception to open-vocabulary classification, image captioning, and visual question answering. However, their robustness to structured thermal perturbations and the stability of cross-modal semantic alignment remain insufficiently studied. We ...
+
+#### [Role-Break in Attention Heads: Understanding and Detecting Hallucinations in VLMs](http://arxiv.org/abs/2607.29412v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-03/Role-Break_in_Attention_Heads_Understanding_and_De.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite remarkable progress in vision-language generation, Vision-Language Models (VLMs) remain prone to hallucinations, producing content that is inconsistent with or unsupported by the input image. Existing works largely design detection or mitigation methods around one specific hallucination patt...
+
+#### [SAGP: Semantic Affordance-Guided Grasp Planning via Coarse-Zone VLM Reasoning](http://arxiv.org/abs/2607.29374v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-03/SAGP_Semantic_Affordance-Guided_Grasp_Planning_via.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Geometry-based grasp planners ensure physically valid grasps but ignore functional semantics, often generating grasps that are antipodal and collision-free yet practically inappropriate, for example, gripping a mug by its rim, a knife by the blade, or a bottle near its cap. These inconsistencies cau...
+
+#### [SatEdit: Mask-Conditioned Image Editing via VLM-Guided Segment Annotation](http://arxiv.org/abs/2607.29367v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-03/SatEdit_Mask-Conditioned_Image_Editing_via_VLM-Gui.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Satellite image editing requires spatially precise object-level control, but supervised editing datasets for overhead imagery are costly to build because object masks, semantic labels, and paired edits are rarely available at scale. We introduce SatEdit, a mask-conditioned satellite image editing fr...
+
+#### [When Model Priors Conflict with Visual Evidence: Mitigating Commonsense-Driven Hallucinations by Selective Prior Calibration](http://arxiv.org/abs/2607.29240v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-03/When_Model_Priors_Conflict_with_Visual_Evidence_Mi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In vision--language models, commonsense-driven hallucination (CDH) occurs when a model's commonsense prior overrides clear visual evidence of an atypical state. For example, a model may report that a visibly six-fingered hand has five fingers. We show that these errors are systematically directed: w...
+
+#### [Locally Consistent Transductive Information Maximization for Few-Shot Remote Sensing Scene Classification](http://arxiv.org/abs/2607.29192v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-03/Locally_Consistent_Transductive_Information_Maximi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Remote sensing scene classification is increasingly relying on foundation models pre-trained on large-scale Earth-observation data. Moreover, transductive inference, which exploits the collective statistical structure of the entire unlabeled query set, appears to naturally match remote sensing pipel...
+
+#### [SciFigPlag-Bench: A Benchmark for Provenance-Aware Scientific Figure Plagiarism Detection](http://arxiv.org/abs/2607.29124v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-03/SciFigPlag-Bench_A_Benchmark_for_Provenance-Aware_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Scientific figures often encode the visual evidence behind scientific findings, yet figure plagiarism remains underexplored as a benchmarked multimodal evaluation problem. We present SciFigPlag-Bench, a benchmark for provenance-aware reasoning over scientific figures in scholarly documents. Unlike g...
+
+#### [Outcome-Guided Distillation: A Teacher-Student Framework to Advance VLM Reasoning in Autonomous Driving](http://arxiv.org/abs/2607.29052v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-03/Outcome-Guided_Distillation_A_Teacher-Student_Fram.pdf)
+- **领域**: cs.RO
+- **核心摘要**: End-to-end (E2E) autonomous driving aims to learn a direct mapping from visual observations to control actions. However, these E2E models often act as black boxes and struggle with complex scenarios. To address this, recent works incorporate Vision-Language Models (VLMs) to provide explicit reasonin...
+
