@@ -6099,3 +6099,58 @@
 - **领域**: cs.RO
 - **核心摘要**: End-to-end (E2E) autonomous driving aims to learn a direct mapping from visual observations to control actions. However, these E2E models often act as black boxes and struggle with complex scenarios. To address this, recent works incorporate Vision-Language Models (VLMs) to provide explicit reasonin...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-04
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Grounding Agentic VLMs with Dedicated Segmentation for Fine-Grained Vehicle Damage Assessment](http://arxiv.org/abs/2608.02470v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-04/Grounding_Agentic_VLMs_with_Dedicated_Segmentation.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are increasingly deployed as reasoning agents in real-world visual assessment pipelines, yet their spatial grounding remains unreliable for fine-grained, visually ambiguous targets. We study this gap in the context of automated vehicle damage assessment, where fine-grai...
+
+#### [MoRAL: Sensor-Grounded BEV Reasoning for Compact VLMs toward Edge-Oriented Autonomous Driving](http://arxiv.org/abs/2608.02449v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-04/MoRAL_Sensor-Grounded_BEV_Reasoning_for_Compact_VL.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Deploying vision-language models (VLMs) for safety-critical spatial reasoning on resource-constrained autonomous driving platforms requires both compact model size and reliable metric grounding. We present MoRAL (Multimodal Reasoning for Autonomous Language Models), a two-stage fine-tuning pipeline ...
+
+#### [Advancing Relevance Measurement with Vision-Language Models for Web-Scale Search](http://arxiv.org/abs/2608.02446v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-04/Advancing_Relevance_Measurement_with_Vision-Langua.pdf)
+- **领域**: cs.IR
+- **核心摘要**: Relevance evaluation plays a crucial role in personalized search systems, serving as a guardrail alongside user engagement metrics to ensure that search results align with user queries and intent. While human annotation is the traditional method for relevance evaluation, its high cost and long turna...
+
+#### [HarMoE: Multi-Source Chest Radiograph Pretraining with Dataset-Disentangled Experts](http://arxiv.org/abs/2608.02252v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-04/HarMoE_Multi-Source_Chest_Radiograph_Pretraining_w.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent vision-language models for chest X-ray understanding are largely built on image-report alignment and therefore rely heavily on MIMIC-CXR as the dominant pretraining source. While effective at scale, this paradigm underexplores an important alternative source of supervision: a range of existin...
+
+#### [PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs](http://arxiv.org/abs/2608.02218v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-04/PosterMELD_Multi-Agent_Paper-to-Poster_Generation_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Scientific poster construction compresses a long multimodal paper into a readable, editable canvas. Existing systems hide request-level failures by scoring only completed outputs; direct image generation is not element-editable, while coding-agent workflows are costly. PosterMELD is a template-condi...
+
+#### [Local Margin Restoration for Test-Time Adaptation of Vision-Language Models](http://arxiv.org/abs/2608.02216v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-04/Local_Margin_Restoration_for_Test-Time_Adaptation_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) such as CLIP exhibit remarkable zero-shot capabilities, yet their performance frequently degrades sharply under unexpected test-time distribution shifts. While Test-Time Adaptation (TTA) offers a promising solution, continuously adapting VLMs over an unlabeled test stre...
+
+#### [Two Sides of the Same Coin: Co-Evolving Search for Cross-Task Attacks on Vision-Language Models](http://arxiv.org/abs/2608.02137v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-04/Two_Sides_of_the_Same_Coin_Co-Evolving_Search_for_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) exhibit strong generalization across multimodal tasks but remain vulnerable to adversarial perturbations. Existing attacks typically follow single-trajectory gradient optimization or task-specific objectives, limiting search-space exploration and cross-task transferabil...
+
+#### [Messages, Not Tokens: Grounded Coresets for Faithful VLM Compression](http://arxiv.org/abs/2608.02134v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-04/Messages_Not_Tokens_Grounded_Coresets_for_Faithful.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Modern vision language models (VLMs) turn high-resolution images into long sequences of visual tokens. Every token traverses the language decoder and persists in its prompt KV cache, inflating inference cost and motivating aggressive visual compression. Existing score-based methods assign each token...
+
+#### [HAFI-VLM: A Frequency Perspective for Diagnosing and Enhancing Visual Perception in Vision-Language Models](http://arxiv.org/abs/2608.02124v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-04/HAFI-VLM_A_Frequency_Perspective_for_Diagnosing_an.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) remain unreliable when predictions require fine-grained visual evidence. We identify a previously overlooked cause: spectral response rigidity. Despite substantial frequency variation across images and tasks, pretrained vision encoders exhibit persistent, encoder-specif...
+
+#### [CAVE: Competence-Aware Visual Boundary Evidence Alignment for Video Temporal Grounding](http://arxiv.org/abs/2608.02078v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-04/CAVE_Competence-Aware_Visual_Boundary_Evidence_Ali.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Large vision-language models (LVLMs) have achieved substantial performance gains in Video Temporal Grounding (VTG) through reinforcement learning (RL). However, existing methods primarily rely on outcome correctness rewards that evaluate only the final predicted intervals, leaving boundary-related v...
+
