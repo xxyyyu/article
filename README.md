@@ -6154,3 +6154,58 @@
 - **领域**: cs.CL
 - **核心摘要**: Large vision-language models (LVLMs) have achieved substantial performance gains in Video Temporal Grounding (VTG) through reinforcement learning (RL). However, existing methods primarily rely on outcome correctness rewards that evaluate only the final predicted intervals, leaving boundary-related v...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-05
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding](http://arxiv.org/abs/2608.03918v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-05/When_and_Where_to_Look_Adaptive_Visual_Evidence_Sc.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Efficient long-video understanding requires vision--language models (VLMs) to reason over a small number of frames selected as sparse visual evidence. Existing relevance-based methods rely on static one-shot selection with fixed frame budgets and candidate pools, while agent-based schedulers achieve...
+
+#### [UniEvo-RS: Omni-Prompt Unified Remote Sensing Segmentation with Representative Exemplar-Driven Prototype Evolution](http://arxiv.org/abs/2608.03911v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-05/UniEvo-RS_Omni-Prompt_Unified_Remote_Sensing_Segme.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Prompt-driven vision-language models (VLMs) hold immense promise for accelerating dense remote sensing (RS) annotation, but static models suffer from severe performance degradation when deployed on novel scenes, unseen categories, or visually confusing backgrounds. Moreover, existing unified paradig...
+
+#### [CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement](http://arxiv.org/abs/2608.03890v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-05/CARE-X_Towards_Clinically_Useful_Radiology_VLMs_wi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: A clinically useful chest X-ray system must go beyond fluent report generation: it should classify findings with tunable decision thresholds, localize them spatially, and derive the anatomical measurements upon which many diagnoses depend. Today's Vision-Language Models (VLMs) treat these as separat...
+
+#### [MuRA: Multi-Rank Adaptation for Efficient and Effective Test-Time Vision-Language Generalization](http://arxiv.org/abs/2608.03885v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-05/MuRA_Multi-Rank_Adaptation_for_Efficient_and_Effec.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models exhibit remarkable zero-shot capabilities but suffer significant performance degradation under distribution shifts. While test-time adaptation (TTA) via Low-Rank Adaptation offers a parameter-efficient solution, we identify a fundamental bottleneck in current methods: the reli...
+
+#### [BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models](http://arxiv.org/abs/2608.03884v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-05/BanglaWild_An_In-the-Wild_Bengali_Scene_Text_Recog.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In-the-wild Bengali scene text recognition is largely unmeasured: existing resources target handwritten documents or constrained sign-board parsing, report only aggregate edit-distance metrics, and evaluate either conventional OCR or VLMs, never both on the same in-the-wild data. To address this gap...
+
+#### [Enhancing VLM Reward Models Through Structure-Aware Fine-Tuning](http://arxiv.org/abs/2608.03875v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-05/Enhancing_VLM_Reward_Models_Through_Structure-Awar.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Designing effective reward functions remains a major bottleneck in Reinforcement Learning (RL). Recent work uses large foundation Vision-Language Models (VLMs) as reward models, computing text-observation similarity to bypass manual reward engineering. Although promising, these rewards are often noi...
+
+#### [UHP Detection: LVLMs have their Unique Hallucination Pattern in the Consistency Space](http://arxiv.org/abs/2608.03817v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-05/UHP_Detection_LVLMs_have_their_Unique_Hallucinatio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision--language models (LVLMs) demonstrate strong multimodal reasoning capabilities but remain prone to hallucination, where model predictions are not grounded in visual evidence. Existing black-box hallucination detection methods estimate uncertainty through a single consistency metric, impl...
+
+#### [Design and Evaluation of an AI-Enabled Cloud-Edge Architecture for Connected Precision Agriculture Farms](http://arxiv.org/abs/2608.03816v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-05/Design_and_Evaluation_of_an_AI-Enabled_Cloud-Edge_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Plant diseases cause significant yield losses worldwide, with tomato crops particularly susceptible to early blight, late blight, and leaf mold. Manual monitoring is practical only for small-scale farms and becomes unmanageable at larger scales. To tackle this limitation, an artificial intelligence ...
+
+#### [Does Forgetting Transfer Across Modalities? A Real-World Benchmark for Cross-Modal Knowledge Unlearning Evaluation](http://arxiv.org/abs/2608.03791v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-05/Does_Forgetting_Transfer_Across_Modalities_A_Real-.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-Language Models (VLMs), like Large Language Models (LLMs), may memorize sensitive, copyrighted, or harmful knowledge from their pretraining corpora. Removing such knowledge is essential for building trustworthy AI systems. However, existing studies primarily focus on forgetting within individ...
+
+#### [Attention is Case-Sensitive](http://arxiv.org/abs/2608.03711v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-05/Attention_is_Case-Sensitive.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In human visual perception, uppercase lettering serves as a natural salience cue that captures attention within lowercase text. In this paper, we present a systematic empirical characterization study revealing that Large Language Models (LLMs) exhibit an analogous property: letter casing modulates i...
+
