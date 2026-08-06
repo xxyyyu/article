@@ -6209,3 +6209,58 @@
 - **领域**: cs.CV
 - **核心摘要**: In human visual perception, uppercase lettering serves as a natural salience cue that captures attention within lowercase text. In this paper, we present a systematic empirical characterization study revealing that Large Language Models (LLMs) exhibit an analogous property: letter casing modulates i...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-06
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [OmniEdit-Bench: A Comprehensive Benchmark for Instruction-based Video Editing](http://arxiv.org/abs/2608.05049v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-06/OmniEdit-Bench_A_Comprehensive_Benchmark_for_Instr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Instruction-based video editing (IVE) is an emerging field with broad applications, yet evaluating editing models remains challenging. Existing benchmarks suffer from two major limitations: limited task coverage inherited from image editing, which overlooks video-specific dimensions, and inadequate ...
+
+#### [BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation](http://arxiv.org/abs/2608.05042v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-06/BridgeVLA_A_Data-Efficient_Generalizable_and_Memor.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Leveraging pre-trained vision-language models (VLMs) to construct vision-language-action (VLA) models has emerged as a promising paradigm for 3D robot manipulation. However, existing 3D VLA methods remain data-hungry, exhibit limited generalization under distribution shifts, and lack explicit memory...
+
+#### [Unleashing the Potential of Vision-Language Models for Generalizable AI-Generated Image Detection](http://arxiv.org/abs/2608.04935v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-06/Unleashing_the_Potential_of_Vision-Language_Models.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent work has shown that a simple linear probe on frozen representations from modern vision foundation models (VFMs) can achieve state-of-the-art AIGI detection performance, substantially outperforming specialized detectors in challenging in-the-wild scenarios. This finding has established DINOv3 ...
+
+#### [Evaluating the Diagnostic Robustness of Vision-Language Models Under Visual and Textual Perturbations](http://arxiv.org/abs/2608.04885v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-06/Evaluating_the_Diagnostic_Robustness_of_Vision-Lan.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Standard accuracy metrics for VLMs often mask significant reliability failures in sensitive domains. In this work, we utilize a histopathology-validated brain MRI dataset to systematically assess the diagnostic robustness of four VLM families under evidence-preserving perturbations. By reordering an...
+
+#### [On the Effectiveness of Adaptation Strategies for VLM-Based Federated Learning in Remote Sensing](http://arxiv.org/abs/2608.04791v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-06/On_the_Effectiveness_of_Adaptation_Strategies_for_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Federated learning (FL) enables collaborative training of deep learning models across decentralized image archives without requiring data centralization. This paradigm is particularly relevant in remote sensing (RS), where legal regulations, privacy concerns, and bandwidth constraints restrict data ...
+
+#### [Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models](http://arxiv.org/abs/2608.04765v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-06/Explicit_Language_Memory_for_Long-Horizon_Planning.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language-action (VLA) models provide a unified paradigm for connecting visual perception, language understanding, and robotic control. However, existing VLA models still face major challenges in long-horizon tasks: sparse expert demonstrations constrain cross-task compositional generalization...
+
+#### [Visual Anchoring in Diffusion: Multimodal Zero-Shot Skeleton Action Recognition](http://arxiv.org/abs/2608.04623v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-06/Visual_Anchoring_in_Diffusion_Multimodal_Zero-Shot.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Zero-shot Skeleton Action Recognition (ZSAR) remains ambiguous when unseen actions share similar skeleton joint dynamics but differ in objects or scene context. RGB provides these missing cues, yet existing multimodal methods typically maintain independent skeleton and RGB scoring branches and fuse ...
+
+#### [HiSC: Hierarchical Spatial Clustering Token Compression for Efficient 3D Scene Understanding](http://arxiv.org/abs/2608.04610v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-06/HiSC_Hierarchical_Spatial_Clustering_Token_Compres.pdf)
+- **领域**: cs.CV
+- **核心摘要**: 3D vision-language models (3D VLMs) enable spatial reasoning over multi-view scenes but suffer from substantial token redundancy due to duplicated observations and large uninformative regions, leading to high computational cost. Although visual token compression has shown promise in accelerating 2D ...
+
+#### [COSMO: Consensus-Driven Shift Modulation for Source-Free Domain Adaptation](http://arxiv.org/abs/2608.04604v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-06/COSMO_Consensus-Driven_Shift_Modulation_for_Source.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Source-free domain adaptation (SFDA) adapts a source-trained model to an unlabeled target domain without source data, a practical setting under privacy or storage constraints. Yet its self-generated supervision can reinforce source bias under substantial domain shifts. Pretrained vision-language mod...
+
+#### [PhysMind: From Video to Executable Worlds for Training-Free Physical Reasoning](http://arxiv.org/abs/2608.04575v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-06/PhysMind_From_Video_to_Executable_Worlds_for_Train.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reliable physical reasoning from video requires understanding how objects move, interact, and respond to interventions. Existing vision-language models (VLMs) often struggle to interpret these dynamics and reason reliably about future and counterfactual outcomes. We introduce PhysMind, a training-fr...
+
