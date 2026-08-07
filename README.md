@@ -6264,3 +6264,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Reliable physical reasoning from video requires understanding how objects move, interact, and respond to interventions. Existing vision-language models (VLMs) often struggle to interpret these dynamics and reason reliably about future and counterfactual outcomes. We introduce PhysMind, a training-fr...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-07
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation](http://arxiv.org/abs/2608.06374v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-07/DyPES-VLA_Learning_Shared_Dynamics_Priors_and_Embo.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existing methods have two main limitations. First, they underuse dynamics priors shared across diverse visu...
+
+#### [Visual Grounding in Zero-Shot Vision-Language Control](http://arxiv.org/abs/2608.06154v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-07/Visual_Grounding_in_Zero-Shot_Vision-Language_Cont.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language models (VLMs) are increasingly used as zero-shot controllers, but successful trajectories do not necessarily show that decisions are grounded in visual input: simulator dynamics and conservative action priors can produce favourable scores without meaningful perception. We investigate...
+
+#### [Domain-Grounded Candidate Selection for Agentic Image Editing: A Shadow Removal Case](http://arxiv.org/abs/2608.06075v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-07/Domain-Grounded_Candidate_Selection_for_Agentic_Im.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Commercial vision-language models are reshaping computer vision, with visual priors broad enough to rival task-specific systems. This raises a natural question: do they reduce the need for classic, physics-informed low-level vision? We study this through shadow removal, a problem shaped by scene geo...
+
+#### [The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents](http://arxiv.org/abs/2608.06065v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-07/The_Next_Screenshot_Knows_Gated_Hindsight_Distilla.pdf)
+- **领域**: cs.CV
+- **核心摘要**: GUI agents are commonly trained offline from successful interaction trajectories. Standard training decomposes each trajectory into prefix-action pairs: the agent predicts an action from the current screen and interaction history, while the subsequent observation is discarded. This removes the ratio...
+
+#### [Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval](http://arxiv.org/abs/2608.06060v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-07/Learning_from_Failures_Retrieval-Centric_CoT_via_H.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Unified multimodal retrieval aims to identify candidates that satisfy complex user intent expressed through heterogeneous inputs. Although Large Vision-Language Model (LVLM)-based retrievers are efficient and scalable, directly encoding raw multimodal inputs often misses fine-grained discriminative ...
+
+#### [Beyond Flat Policies: Hierarchical Post-Training for Embodied Agents in Robotic Manipulation](http://arxiv.org/abs/2608.05999v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-07/Beyond_Flat_Policies_Hierarchical_Post-Training_fo.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language-action (VLA) models have demonstrated remarkable capabilities in robotic manipulation by leveraging pretrained vision-language models. However, existing post-training methods predominantly optimize VLA models as flat policies, making it difficult to explicitly model task progression ...
+
+#### [Training a Conditioned Video Game Agent on a VLM Annotated Dataset](http://arxiv.org/abs/2608.05954v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-07/Training_a_Conditioned_Video_Game_Agent_on_a_VLM_A.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Reinforcement Learning (RL) is a powerful but far from easy-to-use technique for policy learning. In the specific case of video games, access to the game engine is required to get rewards for training (e.g. to collect rewards from the environment). Furthermore, the proper identification and weightin...
+
+#### [VLMs for Videogame Data Annotation](http://arxiv.org/abs/2608.05949v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-07/VLMs_for_Videogame_Data_Annotation.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision Language Models (VLMs) and Artificial Intelligence (AI) agents have revolutionized how engineers approach complex problems in real-world applications. Their adoption in video games is on the other hand limited by the extreme variability of the synthetic scenarios and their poor compliance wit...
+
+#### [Respect Your Zero-Shot Uncertainty: Conservative Calibration for Test-Time-Adapted Vision-Language Models](http://arxiv.org/abs/2608.05945v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-07/Respect_Your_Zero-Shot_Uncertainty_Conservative_Ca.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-time adaptation (TTA) can improve the recognition accuracy of vision-language models under distribution shift, but often degrades calibration, making predictive confidence unreliable for downstream decision-making. Many existing label-free calibration approaches are either coupled to prompt opt...
+
+#### [Mapping Armenian Paris: Extracting and Geocoding Commercial Advertisements from the 20th-Century Diaspora Press](http://arxiv.org/abs/2608.05911v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-07/Mapping_Armenian_Paris_Extracting_and_Geocoding_Co.pdf)
+- **领域**: cs.CV
+- **核心摘要**: This paper presents an end-to-end, IIIF-based pipeline that turns the digitised Armenian press of France into an interactive map of the 20th-century Parisian Armenian commercial community. On each page, commercial advertisements are located, read, and parsed into structured records, which are then g...
+
