@@ -6429,3 +6429,58 @@
 - **领域**: cs.CV
 - **核心摘要**: This paper presents an end-to-end, IIIF-based pipeline that turns the digitised Armenian press of France into an interactive map of the 20th-century Parisian Armenian commercial community. On each page, commercial advertisements are located, read, and parsed into structured records, which are then g...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-10
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [SABRE: Scalable and Automated Benchmarking of VLMs under Stress](http://arxiv.org/abs/2608.07435v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-10/SABRE_Scalable_and_Automated_Benchmarking_of_VLMs_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are improving rapidly, but benchmark development lags behind, making weaknesses hard to identify. Building stress tests is costly: samples must satisfy controlled conditions, remain answerable, and challenge current models. We present SABRE, a scalable, automated pipeli...
+
+#### [A Picture is Worth a Thousand Tokens: How Vision Language Models Cut AI Energy Costs While Improving Accuracy](http://arxiv.org/abs/2608.07427v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-10/A_Picture_is_Worth_a_Thousand_Tokens_How_Vision_La.pdf)
+- **领域**: cs.AI
+- **核心摘要**: LLM inference accounts for over 90% of AI operational energy, scaling directly with input token count---a critical inefficiency for telecom network analytics and numerical time-series data analysis (NTSDA), where raw multivariate KPI windows from 4G/5G cell sites expand into thousands of floating-po...
+
+#### [Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination](http://arxiv.org/abs/2608.07302v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-10/Same_Attention_Different_Truths_Put_Logit-Lens_ove.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) often suffer from object hallucination, generating objects that are absent from the image. Prior work largely attributes this to insufficient visual attention. However, we find that both real and hallucinated objects receive equally strong visual attention in the...
+
+#### [WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN](http://arxiv.org/abs/2608.07267v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-10/WNM-3D_A_World_Navigation_Model_with_3D_Scene_Cond.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Recent vision-language navigation (VLN) systems increasingly adapt pretrained vision-language models (VLMs) into vision-language-action (VLA) policies that map egocentric observations and language instructions directly to navigation actions. Although semantically capable, such action-centric trainin...
+
+#### [Human-AI Perceptual Alignment by Playing Hues and Cues](http://arxiv.org/abs/2608.07141v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-10/Human-AI_Perceptual_Alignment_by_Playing_Hues_and_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Evaluating the perceptual alignment between Contrastive Vision-Language Models (CVLMs) and humans is typically constrained by traditional benchmarks that overlook fine-grained semantic and cultural nuances. In this work, we propose a novel evaluation framework that leverages the gamified, discrete c...
+
+#### [Beyond Fluency: A Clinical Benchmark and Anomaly-Enhanced Baseline for Spine MRI Report Generation](http://arxiv.org/abs/2608.07117v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-10/Beyond_Fluency_A_Clinical_Benchmark_and_Anomaly-En.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Radiology reporting is time-consuming and subject to inter-rater variability, making automated report generation an attractive clinical application for Vision-Language Models (VLMs). We benchmark state-of-the-art VLMs on lumbar spine MRI with a focus on diagnostic accuracy and demonstrate that stand...
+
+#### [Explanation Stability of Test-Time Adaptation in Computational Pathology: A Large-Scale Benchmark](http://arxiv.org/abs/2608.07062v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-10/Explanation_Stability_of_Test-Time_Adaptation_in_C.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-time adaptation (TTA) has become a practical way to adapt deployed models to unlabeled target data, a setting that is especially relevant in computational pathology where staining, scanner, and cohort shifts are routine. While most TTA methods are evaluated by their effect on accuracy, clinical...
+
+#### [Summarize First, Download Later: Onboard VLMs for Bandwidth-Efficient Earth Observation](http://arxiv.org/abs/2608.06959v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-10/Summarize_First_Download_Later_Onboard_VLMs_for_Ba.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Modern Earth observation (EO) satellites carry increasingly advanced sensors that produce vast volumes of high-resolution, multispectral data, yet downlink capacity remains a critical bottleneck -- often causing significant latency or the loss of valuable observations within limited contact windows....
+
+#### [Degradation-Aware Prompt Learning with Cross-Modal Compensation for Adverse Weather Removal](http://arxiv.org/abs/2608.06939v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-10/Degradation-Aware_Prompt_Learning_with_Cross-Modal.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Adverse weather causes diverse and complex image degradations, severely compromising the reliability of computer vision systems. Existing all-in-one restoration models attempt to address multiple degradation types within a unified framework, but often lack explicit spatial and semantic modeling of d...
+
+#### [MuST-VAD: Mutual Structured Learning for Video Anomaly Detection](http://arxiv.org/abs/2608.06913v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-10/MuST-VAD_Mutual_Structured_Learning_for_Video_Anom.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In this paper, we propose MuST-VAD, a mutual structured learning framework for weakly supervised video anomaly detection (VAD) in which an anomaly detector and a large vision-language model (LVLM) exchange their acquired knowledge. Detectors in weakly supervised VAD learn anomaly scores from feature...
+
