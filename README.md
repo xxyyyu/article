@@ -6484,3 +6484,58 @@
 - **领域**: cs.CV
 - **核心摘要**: In this paper, we propose MuST-VAD, a mutual structured learning framework for weakly supervised video anomaly detection (VAD) in which an anomaly detector and a large vision-language model (LVLM) exchange their acquired knowledge. Detectors in weakly supervised VAD learn anomaly scores from feature...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-11
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation](http://arxiv.org/abs/2608.09818v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-11/MedPixel_A_Unified_Pixel-Language_Model_for_Medica.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reliable medical image understanding requires models to connect clinical language and visual reasoning with pixel-level grounding. Yet medical vision-language models often lack precise localization, whereas medical segmenters typically rely on explicit target categories or precise spatial prompts. T...
+
+#### [Hierarchical Fast--Slow ReAct Agent for Zero-Shot Object-Goal Navigation](http://arxiv.org/abs/2608.09816v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-11/Hierarchical_Fast--Slow_ReAct_Agent_for_Zero-Shot_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Zero-shot object-goal navigation (ZSON) requires a robot to find a named object category in a building it has never entered. The prevailing approach scores frontiers with a vision--language \emph{value map}: every decision is another argmax over the map as it currently stands, and the evidence behin...
+
+#### [RoboSeg: Online Part-Level Semantic Reconstruction for Robotic Manipulation via a Single Eye-in-Hand Camera](http://arxiv.org/abs/2608.09778v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-11/RoboSeg_Online_Part-Level_Semantic_Reconstruction_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Robotic manipulation requires perception systemsthat identify actionable parts such as handles, rims, triggers,and tool tips, not merely object categories or point clouds. This paper presents RoboSeg, a part-level semantic reconstructionsystem that links vision-language model (VLM) functional-partdi...
+
+#### [PragMatch: Separating Pragmatic Incongruity from Cross-Modal Mismatch in Large Vision-Language Models](http://arxiv.org/abs/2608.09772v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-11/PragMatch_Separating_Pragmatic_Incongruity_from_Cr.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Large Vision-Language Models (LVLMs) have demonstrated strong performance on multimodal benchmarks, yet it remains unclear whether they genuinely reason about relationships between images and text or rely on superficial correlations, known as shortcut learning. This question is particularly importan...
+
+#### [Diffuse the object, keep its label: curating detector training data from a few unlabeled photographs via VLM-built 3D vegetation scenes](http://arxiv.org/abs/2608.09691v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-11/Diffuse_the_object_keep_its_label_curating_detecto.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Labeled images of small objects hidden in vegetation are scarce, and detectors trained on them generalize poorly across sites. Rather than reusing labels collected at another site, we synthesize labeled training images from a handful of unlabeled photographs of the deployment site itself. A vision--...
+
+#### [Thinking With Tools, Not With Pixels: Tool Calls as Text Scaffolds for Visual Reasoning](http://arxiv.org/abs/2608.09682v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-11/Thinking_With_Tools_Not_With_Pixels_Tool_Calls_as_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Tool-augmented vision-language models increasingly "think with images": they call crop, zoom, or code tools and reason over the returned pixels. However, recent work using blind tests, gain decompositions, and attention analyses has shown that returned images contribute little, raising the question:...
+
+#### [FactorDrive: Adaptive Multi-Step Reasoning Driven by Planning-Critical Factors for End-to-End Autonomous Driving](http://arxiv.org/abs/2608.09591v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-11/FactorDrive_Adaptive_Multi-Step_Reasoning_Driven_b.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language models (VLMs) have advanced scene understanding and enabled explicit reasoning in end-to-end autonomous driving. However, existing methods insufficiently integrate spatial-physical evidence into planning reasoning, while reasoning adaptation remains coarse-grained and falls short of ...
+
+#### [HarnessWAM: Bridging Prediction and Deliberation in World Action Models](http://arxiv.org/abs/2608.09516v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-11/HarnessWAM_Bridging_Prediction_and_Deliberation_in.pdf)
+- **领域**: cs.RO
+- **核心摘要**: World Action Models (WAMs) jointly learn environmental dynamics and robot actions, introducing priors over physical evolution into embodied control. However, finite-horizon prediction and action generation are insufficient for complex embodied tasks that require global planning, cross-stage state ma...
+
+#### [GeoRoute: Geometry-Aware Hybrid Inference for Traffic Future-Frame Prediction](http://arxiv.org/abs/2608.09493v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-11/GeoRoute_Geometry-Aware_Hybrid_Inference_for_Traff.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Long-horizon future-frame prediction is important for autonomous driving, traffic surveillance, and intelligent transportation systems, yet remains challenging due to temporal ghosting, geometry drift, and inconsistent object motion. Recent latent video diffusion models have achieved impressive visu...
+
+#### [Listen, See and Track: Spatio-Temporal Audio-Visual Sound Event Reasoning for Omni-Modal Language Models](http://arxiv.org/abs/2608.09435v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-11/Listen_See_and_Track_Spatio-Temporal_Audio-Visual_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Understanding dynamic sound sources requires jointly determining what produces a sound, where the source is located, and how it moves over time. Yet existing audio-language models often represent clips as global acoustic events, while vision-language models lack the spatial audio cues needed to loca...
+
