@@ -6539,3 +6539,58 @@
 - **领域**: cs.AI
 - **核心摘要**: Understanding dynamic sound sources requires jointly determining what produces a sound, where the source is located, and how it moves over time. Yet existing audio-language models often represent clips as global acoustic events, while vision-language models lack the spatial audio cues needed to loca...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-12
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation](http://arxiv.org/abs/2608.11191v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-12/Test-Time_Self-Evolving_GUI_Visual_Grounding_via_R.pdf)
+- **领域**: cs.CV
+- **核心摘要**: GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt to adapt models via test-time reinforcement learning, they cannot reflect upon fa...
+
+#### [CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting](http://arxiv.org/abs/2608.11150v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-12/CausalSplat_Towards_Comprehensive_Hierarchical_Rea.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While 3D Gaussian Splatting (3DGS) has advanced open vocabulary scene understanding, existing methods remain confined to explicit queries. They struggle to interpret implicit intents, complex spatial constraints, and commonsense reasoning required for practical embodied interactions. To address this...
+
+#### [CapProbe: Evaluating Detailed Image Captions via Full-Scene Dense Question Answering](http://arxiv.org/abs/2608.11074v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-12/CapProbe_Evaluating_Detailed_Image_Captions_via_Fu.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Evaluating detailed image captions from Vision-Language Models (VLMs) requires going beyond surface-level semantic similarity. Reference-based metrics (e.g., CIDEr and SPICE) and LLM-as-scorer protocols struggle to verify dense factual claims, while existing QA-based alternatives generally offer low...
+
+#### [When Visual Signals Mislead: A Mechanistic Study of Attribute Hallucination in Vision-Language Models](http://arxiv.org/abs/2608.11024v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-12/When_Visual_Signals_Mislead_A_Mechanistic_Study_of.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Attribute hallucination---where vision-language models (VLMs) correctly identify an object but mischaracterize its properties---is prevalent yet mechanistically poorly understood. The dominant explanation, language-prior dominance, has motivated prior-suppression methods, but this explanation has no...
+
+#### [ThinkAfford: Affordance-Centric Reasoning for Fine-Grained 3D Grounding in Cluttered Scenes](http://arxiv.org/abs/2608.10981v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-12/ThinkAfford_Affordance-Centric_Reasoning_for_Fine-.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Task-driven 3D affordance grounding aims to localize the functional region in a cluttered 3D scene that enables an action specified by a natural-language instruction. Existing methods either predict 3D masks directly or construct them by selecting and fusing intermediate 2D/3D regions. However, they...
+
+#### [Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs](http://arxiv.org/abs/2608.10959v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-12/Once_Poisoned_Arbitrarily_Controlled_A_Programmabl.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing vision-language model (VLM) backdoors are usually treated as static vulnerabilities: one-to-one and N-to-N attacks bind one or more triggers to a finite set of targets before victim training. This assumption substantially underestimates the threat. We show that a single poisoning phase can ...
+
+#### [Order Matters: LVLMs as Judges for Temporal Reasoning in Image Sequences](http://arxiv.org/abs/2608.10908v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-12/Order_Matters_LVLMs_as_Judges_for_Temporal_Reasoni.pdf)
+- **领域**: cs.CV
+- **核心摘要**: As generative multimedia evolves from static image synthesis to complex, interleaved visual narratives, a foundational bottleneck has emerged: the judgment crisis. While human perception naturally synthesizes the temporal and logical flow of a story, automated evaluation systems remain largely "blin...
+
+#### [NullEdit: Stealthy Image Protection via VLM Condition Redirection](http://arxiv.org/abs/2608.10870v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-12/NullEdit_Stealthy_Image_Protection_via_VLM_Conditi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Modern image editors combine vision-language models (VLMs) with diffusion transformer backbones to modify a single reference image according to instructions without fine-tuning. This capability also enables unauthorized manipulation of publicly released images. Existing inference-time defenses eithe...
+
+#### [Multi-View Relational Distillation for Spatial Reasoning with Vision-Language Models](http://arxiv.org/abs/2608.10864v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-12/Multi-View_Relational_Distillation_for_Spatial_Rea.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have achieved strong image and video understanding, yet their visual-spatial representations remain geometrically fragile, leading to failures in spatial reasoning needed for embodied AI, robotics, and autonomous driving. Prior approaches to geometry grounding either fi...
+
+#### [PolyLayout: Hierarchical VLM-Guided Layout Generation Beyond Rectangular Rooms](http://arxiv.org/abs/2608.10838v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-12/PolyLayout_Hierarchical_VLM-Guided_Layout_Generati.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Generating physically plausible 3D room layouts is essential for home furnishing retail, enabling customers to visualize products in their own homes and confidently make purchasing decisions. However, a gap exists between academic research and real-world application: existing solutions primarily foc...
+
