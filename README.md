@@ -6594,3 +6594,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Generating physically plausible 3D room layouts is essential for home furnishing retail, enabling customers to visualize products in their own homes and confidently make purchasing decisions. However, a gap exists between academic research and real-world application: existing solutions primarily foc...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-13
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Curvature-Aware Zeroth-Order Optimization for Memory-Efficient Test-Time Adaptation](http://arxiv.org/abs/2608.12279v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-13/Curvature-Aware_Zeroth-Order_Optimization_for_Memo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-time adaptation (TTA) aims to enhance the cross-domain performance of pre-trained models by adapting to unlabeled test data. While most existing TTA methods rely on backpropagation (BP) for finetuning, BP-free methods such as zeroth-order (ZO) methods are more desired in practical on-device sce...
+
+#### [SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward](http://arxiv.org/abs/2608.12220v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-13/SCOUT_Unlocking_Enhanced_Spatial_Reasoning_via_Str.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing Vision-Language Models (VLMs) exhibits a critical bottleneck in robust spatial reasoning. Recent reinforcement learning (RL) methods aim to close this gap with verifiable outcomes, yet they suffer from poor credit assignment across intermediate reasoning steps. Concurrently, structured reas...
+
+#### [Look What the Probes Dragged In! Real-World Chest X-ray Shortcuts in MedCLIP](http://arxiv.org/abs/2608.12086v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-13/Look_What_the_Probes_Dragged_In_Real-World_Chest_X.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models, such as contrastive language-image pre-training (CLIP)-based approaches, have reached state-of-the-art (SOTA) results in medical artificial intelligence. However, recent work reveals that CLIP-based models remain vulnerable to shortcuts. We investigate how real-world shortcut...
+
+#### [Do You See What You Draw? A Semantic Closed-Loop Framework for Holistic Evaluation of Unified Multimodal Models](http://arxiv.org/abs/2608.11907v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-13/Do_You_See_What_You_Draw_A_Semantic_Closed-Loop_Fr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: As Large Vision-Language Models increasingly aim to integrate visual generation and understanding within a single parameter space, evaluating such structural unification in a cohesive manner remains a critical challenge. Current evaluation protocols predominantly treat generative and discriminative ...
+
+#### [LookBack: Where and How to Score LVLM Responses via Visual Reference Usage](http://arxiv.org/abs/2608.11847v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-13/LookBack_Where_and_How_to_Score_LVLM_Responses_via.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) integrate visual perception with language generation, enabling responses that span image understanding and complex reasoning. However, LVLMs do not just inherit the text-level hallucinations; they also hallucinate against the image, producing fluent responses ung...
+
+#### [How China-Origin Vision-Language Models Move from Refusal to Reframing in State Alignment](http://arxiv.org/abs/2608.11816v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-13/How_China-Origin_Vision-Language_Models_Move_from_.pdf)
+- **领域**: cs.CR
+- **核心摘要**: State-aligned distortion has been documented in China-origin text-based large language models (LLMs), but whether, and in what form, it arises in multimodal systems has not been systematically examined. We construct a balanced benchmark of 200 core entries spanning ten politically sensitive topics, ...
+
+#### [HUGIN: Enhancing Vision-Language Planning for Autonomous Logistics Sorting](http://arxiv.org/abs/2608.11692v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-13/HUGIN_Enhancing_Vision-Language_Planning_for_Auton.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Autonomous logistics sorting systems (ALSS) are an important industrial application of embodied AI, which requires joint planning over spatially disjoint camera views. We formulate this setting as Joint Multi-Scene Understanding (JMSU). With open-world visual understanding and task-planning capabili...
+
+#### [Learning from Multimodal Pseudo-Labels for Robust Open-Vocabulary Instance and Panoptic Segmentation](http://arxiv.org/abs/2608.11681v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-13/Learning_from_Multimodal_Pseudo-Labels_for_Robust_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: This work addresses the challenge of open-vocabulary instance segmentation (OVIS) and open-set panoptic segmentation (OSPS), which aim to recognize both predefined and unseen object categories without exhaustive human annotations. Existing methods often suffer from noisy pseudo-masks, limited visual...
+
+#### [Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads](http://arxiv.org/abs/2608.11661v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-13/Low-Interaction-Rank_Learning_Unifying_Multiplicat.pdf)
+- **领域**: cs.LG
+- **核心摘要**: A multiplicative dual-encoder network computes a real-valued output for a pair of inputs as the inner product of their separate encodings. This architecture has been developed independently in operator learning, bipartite matching, contrastive vision-language models, retrieval, and other areas, yet ...
+
+#### [Video2Track: From Real-World Interaction Videos to Steerable Adversarial Closed-Track Testing for Automated Driving Systems](http://arxiv.org/abs/2608.11592v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-13/Video2Track_From_Real-World_Interaction_Videos_to_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Closed-track testing plays a fundamental role in the verification and validation of automated driving systems (ADS), particularly for safety-critical scenarios, by enabling reproducible evaluation under controlled conditions. However, most existing approaches still rely on standardized protocols or ...
+
