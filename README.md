@@ -6649,3 +6649,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Closed-track testing plays a fundamental role in the verification and validation of automated driving systems (ADS), particularly for safety-critical scenarios, by enabling reproducible evaluation under controlled conditions. However, most existing approaches still rely on standardized protocols or ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-14
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification](http://arxiv.org/abs/2608.13463v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-14/MLLM-Routed_Heterogeneous_Ensembles_for_Robust_Cro.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Modern image classification models excel when trained on single task-specific datasets but often struggle to generalize across domains and difficulty levels. We propose ARMDIL, an Adaptive Router for Multi-Domain Image classification with LLMs. ARMDIL is an ensemble that uses a multimodal large lang...
+
+#### [LongEarth-R1: Benchmarking and Aligning Vision-Language Models for Long-Horizon Earth Observation Reasoning](http://arxiv.org/abs/2608.13344v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-14/LongEarth-R1_Benchmarking_and_Aligning_Vision-Lang.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Long-horizon Earth observation reasoning requires models to organize multi-stage geographic evolution, localize spatial changes, detect temporal anomalies, and infer future from extended image sequences. However, existing remote sensing vision-language models mainly focus on isolated images, image p...
+
+#### [AmalthAI: An Open-Source Computer Vision Platform for Cultural Heritage](http://arxiv.org/abs/2608.13343v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-14/AmalthAI_An_Open-Source_Computer_Vision_Platform_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Computer vision (CV) and machine learning (ML) offer new tools for cultural heritage (CH) artifact analysis, but the CV/ML pipeline remains largely inaccessible to CH domain experts, who lack the background to configure, train, or assess models. We present AmalthAI, an open-source CV platform that b...
+
+#### [How Good are Foundation Models in Longitudinal MRI Disease Progression Reasoning?](http://arxiv.org/abs/2608.13309v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-14/How_Good_are_Foundation_Models_in_Longitudinal_MRI.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Magnetic Resonance Imaging (MRI) interpretation is fundamental to clinical decision-making, requiring radiologists to integrate multi-view anatomical planes across sequential timepoints while precisely localizing interval changes. However, existing vision-language benchmarks remain confined to singl...
+
+#### [How Do VLMs Behave When Blind or Misled? Behavioral Evaluation of VLMs on Scientific Figures](http://arxiv.org/abs/2608.13267v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-14/How_Do_VLMs_Behave_When_Blind_or_Misled_Behavioral.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Existing vision-language model (VLM) benchmarks emphasize perception and reasoning accuracy (how well VLMs describe and reason about what they see in an image), with limited attention to behavioral reliability under uncertainty (how they behave when visual evidence is missing or misleading). We intr...
+
+#### [CoverPrune: Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport](http://arxiv.org/abs/2608.13226v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-14/CoverPrune_Coverage-Driven_Token_Pruning_for_3D_VL.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While 3D Vision-Language Models (3D VLMs) have demonstrated remarkable spatial reasoning capabilities, they suffer from massive visual token counts that create severe computational bottlenecks during inference. Existing token pruning methods primarily rely on diversity-based selection, discarding si...
+
+#### [TRAPSBench: Vision-Language Models Encode but Fail to Express Epistemic Restraint](http://arxiv.org/abs/2608.13167v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-14/TRAPSBench_Vision-Language_Models_Encode_but_Fail_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: When visual evidence is occluded or chaotic, models should abstain. In this paper, we show that Vision-Language Models (VLMs) can internally distinguish when abstention is required, but fail to express it anyway. We introduce TRAPSBench, a procedurally generated video benchmark of 1,404 matched phys...
+
+#### [QuISE: Defense against Typographic Attacks on VLMs via Query-Irrelevant Semantic Editing](http://arxiv.org/abs/2608.13119v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-14/QuISE_Defense_against_Typographic_Attacks_on_VLMs_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Typographic attacks pose a critical threat to vision-language models (VLMs) by injecting misleading text into images and causing models to rely on adversarial textual cues rather than visual evidence. Existing defenses often require model-specific modifications, additional training, or access to int...
+
+#### [Polish Medical Visual Question Answering: Vision-Language Models Underutilize Visual Evidence](http://arxiv.org/abs/2608.12928v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-14/Polish_Medical_Visual_Question_Answering_Vision-La.pdf)
+- **领域**: cs.AI
+- **核心摘要**: We introduce a Polish-language medical visual question answering (VQA) benchmark, built from Polish Board Certification Examination questions for licensed physicians and dentists pursuing specialist certification. The benchmark comprises image-containing questions spanning diverse medical specialtie...
+
+#### [NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents](http://arxiv.org/abs/2608.12898v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-14/NaviDC-OCR_Navigating_Document_Parsing_Across_Digi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Document parsing aims to transform unstructured documents into structured and machine-readable representations. Recent advances in Vision-Language Models (VLMs) have significantly advanced document parsing. However, existing approaches still face two major challenges. First, decoupled VLM-based meth...
+
