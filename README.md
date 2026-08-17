@@ -6814,3 +6814,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Document parsing aims to transform unstructured documents into structured and machine-readable representations. Recent advances in Vision-Language Models (VLMs) have significantly advanced document parsing. However, existing approaches still face two major challenges. First, decoupled VLM-based meth...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-17
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training](http://arxiv.org/abs/2608.14498v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-17/Rollplex_Cross-Phase_GPU_Spatial_Sharing_for_Visio.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Vision-language models (VLMs) enable embodied agents to reason and act from visual observations and language instructions. Reinforcement learning (RL) post-training enhances these capabilities using task feedback, but current on-policy RL runtimes execute rollout, reference scoring, and actor traini...
+
+#### [Seeing Red, Thinking Bad: Color Bias in Vision Language Models](http://arxiv.org/abs/2608.14286v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-17/Seeing_Red_Thinking_Bad_Color_Bias_in_Vision_Langu.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision language models (VLMs) are increasingly used in industrial decision-making systems, such as recruitment support and recommendation. This motivates careful analysis of how VLMs process visual and textual information. In this work, we study how VLMs interpret text rendered as an image, and inve...
+
+#### [On the Robustness of Temporal Vision-Language Models for Surgical Endoscopy Videos](http://arxiv.org/abs/2608.14262v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-17/On_the_Robustness_of_Temporal_Vision-Language_Mode.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Temporal vision-language models (TVLMs) offer a reusable, prompt-based interface for surgical video understanding, yet, their robustness under clinically realistic acquisition artifacts in endoscopy remains insufficiently characterized. In practice, degradations such as defocus, haze, motion blur, n...
+
+#### [Personalized Digital Semantic Communication for Image Transmission with Vision-Language Models](http://arxiv.org/abs/2608.14260v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-17/Personalized_Digital_Semantic_Communication_for_Im.pdf)
+- **领域**: eess.IV
+- **核心摘要**: Semantic communication (SC) enables bandwidth-efficient wireless image transmission, but most existing SC schemes are user-agnostic and ignore receiver-dependent semantics. To address this issue, we propose a personalized digital semantic communication (PDSC) framework that integrates a vision-langu...
+
+#### [AppleScab-LT: A Longitudinal Real-Field Apple Scab Dataset for Temporal Disease Progression Analysis](http://arxiv.org/abs/2608.14235v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-17/AppleScab-LT_A_Longitudinal_Real-Field_Apple_Scab_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The development of reliable plant disease monitoring systems is constrained by limited longitudinal datasets capturing disease progression under natural field conditions. Although existing plant disease datasets have advanced image-based recognition, most consist of static images acquired at a singl...
+
+#### [RankT2I: A Submodular Framework for Discovering Interpretable and Diverse Semantics in Text-to-Image Models](http://arxiv.org/abs/2608.14226v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-17/RankT2I_A_Submodular_Framework_for_Discovering_Int.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in text-to-image (T2I) models have revolutionized the field of image generation and editing. However, identifying semantics that a T2I model can successfully edit in an image continues to be a challenging task. Most existing approaches require users to manually specify semantics to m...
+
+#### [Can Language Models Understand mmWave Data? Benchmarking Large Language Models for mmWave Radar-Based Human Understanding](http://arxiv.org/abs/2608.14179v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-17/Can_Language_Models_Understand_mmWave_Data_Benchma.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Large language models (LLMs) have shown remarkable reasoning and generative capabilities, motivating their use as universal reasoning engines for perception. While modern approaches such as vision-language models (VLMs) have attempted to incorporate reasoning capabilities into visual sensing, the in...
+
+#### [PISA: A Pseudo-Individual Source-Domain Feature Adaptation Framework for Test-Time Open-Vocabulary Object Detection](http://arxiv.org/abs/2608.14142v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-17/PISA_A_Pseudo-Individual_Source-Domain_Feature_Ada.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Open-vocabulary object detection test-time adaptation (OVOD-TTA) aims to address the performance degradation that pre-trained base models suffer when encountering image-domain shifts. Existing source-free OVOD-TTA methods rely either on refined test-time information for re-scoring or on pseudo-label...
+
+#### [Content Based Video Narration of Gameplay with Vision Language Models](http://arxiv.org/abs/2608.14016v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-17/Content_Based_Video_Narration_of_Gameplay_with_Vis.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Live game commentary is scarce: it exists for professional esports broadcasts and almost nowhere else. We present a content-based video narration system that produces spoken, esports-style commentary for arbitrary gameplay recordings using a general-purpose vision-language model (VLM) and a text-to-...
+
+#### [MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning](http://arxiv.org/abs/2608.14015v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-17/MedClaw_Heuristic_Agent_Harness_for_Long-Horizon_S.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Understanding tens-of-minutes surgical videos requires long-horizon temporal reasoning, answering what happens before, after, or across stages of a procedure by grounding the question in visual evidence spread across time. Existing approaches handle this poorly: a one-shot vision-language model (VLM...
+
