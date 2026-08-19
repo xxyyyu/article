@@ -6869,3 +6869,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Understanding tens-of-minutes surgical videos requires long-horizon temporal reasoning, answering what happens before, after, or across stages of a procedure by grounding the question in visual evidence spread across time. Existing approaches handle this poorly: a one-shot vision-language model (VLM...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-19
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering](http://arxiv.org/abs/2608.18009v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-19/Memory_Tree_Guided_Key_Frame_Querying_for_Efficien.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Answering questions accurately and efficiently in embodied scenarios presents significant challenges due to limited computational and memory resources for Vision Language Model (VLM) inference. Existing methods adopt visual search key frame retrieval method to select critical question-related key fr...
+
+#### [PerFact: Perception-Derived Fact Prompting for 3D Brain MRI Report Generation](http://arxiv.org/abs/2608.17926v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-19/PerFact_Perception-Derived_Fact_Prompting_for_3D_B.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Radiology report generation has matured almost entirely on 2D chest radiographs, where the default route to better reports is a larger backbone or a pre-training one on medical data. We revisit that assumption on 3D multi-sequence brain MRI, a volumetric multi-disease regime, and find that the model...
+
+#### [ControlledShifts: Towards Standardizing Robustness Evaluation in Trajectory Prediction Under Distribution Shifts](http://arxiv.org/abs/2608.17882v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-19/ControlledShifts_Towards_Standardizing_Robustness_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Trajectory prediction is central to safety in autonomous driving, yet learning-based predictors tend to degrade sharply when encountering scenarios poorly represented by their training data. Many methods attempt to mitigate distribution shift degradation through data-centric or test-time adaptation ...
+
+#### [Vision-Language Models for Analog Gauge Reading: An Empirical Study of Specialization, Transfer and Reliability](http://arxiv.org/abs/2608.17723v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-19/Vision-Language_Models_for_Analog_Gauge_Reading_An.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Analog gauges remain common in industrial environments where manual inspection is costly or hazardous. The engineering application addressed here is direct numerical reading of single-target analog-gauge images, while the artificial-intelligence contribution is a systematic evaluation of specializat...
+
+#### [MemCatalyst: Amplifying Data Auditing on Vision-Language Models via Data Poisoning](http://arxiv.org/abs/2608.17722v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-19/MemCatalyst_Amplifying_Data_Auditing_on_Vision-Lan.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Vision-Language models (VLMs) achieve outstanding performance largely due to the amount of training data available on the internet. At the same time, data holders (e.g., artists) urgently need to determine whether their data has been used for model training without authorization, which concerns both...
+
+#### [OVIP-SG: Open-Vocabulary Instance-Preserving Scene Graphs for Mapping and Retrieval of Small, Fine-Grained Objects](http://arxiv.org/abs/2608.17633v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-19/OVIP-SG_Open-Vocabulary_Instance-Preserving_Scene_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Integrating open-vocabulary perception into object-level 3D scene graphs is a double-edged sword. While vision-language detectors recover long-tail categories and small, fine-grained objects overlooked by closed-set models, they also tend to fragment large surfaces and merge small objects into large...
+
+#### [GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting](http://arxiv.org/abs/2608.17535v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-19/GroupForward_Building_Referable_3D_Scenes_via_Inst.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Simultaneously reconstructing and understanding 3D environments is essential for embodied agents. Toward this goal, feed-forward semantic 3D Gaussian Splatting (3DGS) efficiently constructs semantic scene representations from sparse multi-view observations. However, existing methods lack explicit in...
+
+#### [SE-MoLoRA: Shared-Expert LoRA Adapters for Domain-Specific Photographic Assessment](http://arxiv.org/abs/2608.17514v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-19/SE-MoLoRA_Shared-Expert_LoRA_Adapters_for_Domain-S.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models can describe images fluently, but they often fail to provide actionable photographic critique because semantic content and aesthetic judgment remain entangled. We propose SE-MoLoRA, a modular parameter-efficient adaptation framework for domain-specific photographic assessment....
+
+#### [Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation](http://arxiv.org/abs/2608.17512v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-19/Embodied-Navigator_Point_Think_Memorize_and_Align_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Although Large Vision-Language Models (VLMs) have significantly advanced embodied navigation, their direct deployment remains challenging, as existing methods often force VLMs into unnatural action spaces that misalign with their 2D pre-training priors, compounded by rigid reasoning schedules and in...
+
+#### [EATR-Stereo: Embodiment-Aware Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control](http://arxiv.org/abs/2608.17453v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-19/EATR-Stereo_Embodiment-Aware_Routing_of_Paired_Ste.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Long-horizon humanoid vision--language--action (VLA) control with head-mounted stereo cameras requires visual interfaces that can exploit complementary views while maintaining compatibility with pretrained representations. Existing interfaces often discard complementary stereo evidence or fuse addit...
+
