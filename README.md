@@ -6924,3 +6924,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Long-horizon humanoid vision--language--action (VLA) control with head-mounted stereo cameras requires visual interfaces that can exploit complementary views while maintaining compatibility with pretrained representations. Existing interfaces often discard complementary stereo evidence or fuse addit...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-20
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [ReWEIGH the Evidence: Calibrating Token-Level Ordinal Visual Evidence to Mitigate Hallucinations in Large Vision-Language Models](http://arxiv.org/abs/2608.19075v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-20/ReWEIGH_the_Evidence_Calibrating_Token-Level_Ordin.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) often hallucinate, generating content that the input image does not support. Preventing such content during decoding calls for a candidate-specific measure of how strongly the image supports the token under consideration. The model's visual-token states offer a n...
+
+#### [ForeSightGuide: An Anticipatory Framework toward Accurate and Low-Redundancy Guidance for the Visually Impaired](http://arxiv.org/abs/2608.18993v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-20/ForeSightGuide_An_Anticipatory_Framework_toward_Ac.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Electronic travel aids are pivotal for the independent mobility of the visually impaired. While Vision-Language Models (VLMs) offer rich environmental understanding, they often suffer from excessive false positives in dynamic scenarios, leading to cognitive overload. To address this, we present Fore...
+
+#### [Uncertainty-Aware Art-Historical Dating with Vision-Language Models](http://arxiv.org/abs/2608.18984v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-20/Uncertainty-Aware_Art-Historical_Dating_with_Visio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Museum and archival datasets do not mirror historical artistic production, but materialize the contingent histories of collecting, preservation, cataloging, and digitization. This has direct consequences for interpreting pretrained image representations: they may appear to encode historical time whi...
+
+#### [Breaking the weakest link to evade vision language models](http://arxiv.org/abs/2608.18938v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-20/Breaking_the_weakest_link_to_evade_vision_language.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision Language Models (VLMs) have recently emerged as a critical component of multimodal AI systems, enabling joint reasoning over visual and textual inputs in real-world and safety-critical applications. Despite their growing deployment, the robustness of VLMs against adversarial threats remains i...
+
+#### [DentAgent: Evidence-Centric Multi-Agent Coordination for Multimodal Dental Reasoning](http://arxiv.org/abs/2608.18878v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-20/DentAgent_Evidence-Centric_Multi-Agent_Coordinatio.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Oral diseases affect billions of people worldwide, underscoring a pressing need for accurate and reliable dental assessment that integrates heterogeneous evidence from domain knowledge, radiographs, intraoral photographs, and 3D dental data. Most existing dental AI systems remain modality- or task-s...
+
+#### [EVADE: Evidence-Verified Agentic Diagnosis with Escape](http://arxiv.org/abs/2608.18833v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-20/EVADE_Evidence-Verified_Agentic_Diagnosis_with_Esc.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical vision-language models (VLMs) can achieve high accuracy but remain unreliable: they are systematically overconfident, benefit little from test-time reasoning, and lack the ability to reliably calibrate trust in their own responses. We introduce EVADE (Evidence-Verified Agentic Diagnosis with...
+
+#### [CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes](http://arxiv.org/abs/2608.18734v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-20/CL4D_Contrastive_Language-4D_Pretraining_for_Visio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: 4D understanding and reasoning is a fundamental capability for embodied AI agents operating in dynamic physical environments. However, existing vision encoders are largely limited to static 2D images or 3D point clouds without temporal modeling, or to 2D videos that lack accurate geometric depth rea...
+
+#### [Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI](http://arxiv.org/abs/2608.18671v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-20/Vision-Language_Models_for_Egocentric_Video_From_H.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Egocentric video captures activities from the wearer's perspective, providing a direct view of human attention, hand--object interaction, and goal-directed behavior. This perspective is increasingly important for wearable intelligence, assistive systems, human--robot interaction, and embodied AI, ye...
+
+#### [When Safety Overrides Vision: Exploring Dynamics between Vision Influence and Safety Alignment in Vision-Language Models](http://arxiv.org/abs/2608.18628v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-20/When_Safety_Overrides_Vision_Exploring_Dynamics_be.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Aligned vision-language models (VLMs) are designed to balance grounded visual reasoning with safe generation behavior. However, we observe a striking phenomenon: under safety-constrained instruction, models frequently abstain from answering questions that remain correctly answerable under default in...
+
+#### [Beyond LLM-Based Reasoning: Lightweight GNNs for Agent Failure Attribution](http://arxiv.org/abs/2608.18575v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-20/Beyond_LLM-Based_Reasoning_Lightweight_GNNs_for_Ag.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Large language model (LLM)-based multi-agent systems (MAS) often exhibit complex failure modes, which frequently cause agents to produce incorrect outcomes. This motivates the task of Agent Failure Attribution: given a failed multi-agent trajectory, identify the faulty agents and their corresponding...
+
