@@ -7089,3 +7089,58 @@
 - **领域**: cs.LG
 - **核心摘要**: Generalizable dynamic graph anomaly detection (DGAD) enables pretrained detectors to identify anomalies in unseen target domains without costly retraining. However, existing methods often fail for two reasons. First, they mainly rely on domain-agnostic patterns and miss domain-specific patterns that...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-23
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing](http://arxiv.org/abs/2608.20161v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-23/DARS_Dual-Level_Credit_Assignment_RL_with_Structur.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Instruction-based image editing uses a planner-renderer pipeline: a vision-language model (VLM) first converts the instruction into an edit plan, and a diffusion model then executes that plan. Training such systems with only final-image rewards is inefficient because a poor edit does not reveal whet...
+
+#### [DPC-Net: Dual-Prior Collaborative Network for All-in-One Image Restoration](http://arxiv.org/abs/2608.20141v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-23/DPC-Net_Dual-Prior_Collaborative_Network_for_All-i.pdf)
+- **领域**: cs.CV
+- **核心摘要**: All-in-One Image Restoration (AiOIR) aims to handle diverse degradations within a unified model. However, existing methods often overlook image semantics in degradation modeling and lack low-level visual priors during reconstruction, leading to structural distortions and semantic inconsistencies. To...
+
+#### [BeyondMasks: Evaluating Causal and Physical Consistency in Video Object Removal](http://arxiv.org/abs/2608.20107v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-23/BeyondMasks_Evaluating_Causal_and_Physical_Consist.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in generative video models have significantly improved visual realism in video object removal, yet evaluation protocols still focus on masked region fidelity, treating removal as local inpainting. In real scenes, object removal is a causal intervention: eliminating an object also req...
+
+#### [Evidence-Gated Task and Motion Planning with Vision-Language Models](http://arxiv.org/abs/2608.20084v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-23/Evidence-Gated_Task_and_Motion_Planning_with_Visio.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Robots executing long-horizon manipulation tasks from natural-language instructions must reason about both semantic task structure and geometric feasibility. However, under partial observability, the availability of goal-relevant objects may be uncertain. In such cases, approaches that combine Visio...
+
+#### [From Street View Imagery to Street Quality Indicators: Vision Language Inference for the Suburban 15-minute City](http://arxiv.org/abs/2608.20026v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-23/From_Street_View_Imagery_to_Street_Quality_Indicat.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Streetscape quality has become a central concern in contemporary urban planning, particularly within the framework of the pedestrian-friendly 15-minute city, where walkability and public-space quality are increasingly recognized as key determinants of urban performance. However, assessing streetscap...
+
+#### [PETA:Parameter-Efficient Test-Time Adaptation for Virtual Screening](http://arxiv.org/abs/2608.19906v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-23/PETAParameter-Efficient_Test-Time_Adaptation_for_V.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Accurately ranking active ligands for a target protein pocket from massive chemical libraries remains a central challenge in virtual screening. DrugCLIP and its recent extensions substantially accelerate this process by encoding protein pockets and molecules into a shared embedding space. Despite th...
+
+#### [EXIMO: VLM Guided Exploration of VLA Policies](http://arxiv.org/abs/2608.19891v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-23/EXIMO_VLM_Guided_Exploration_of_VLA_Policies.pdf)
+- **领域**: cs.AI
+- **核心摘要**: How to efficiently finetune robot policies to learn new tasks on the fly? State of the art robotic manipulation policies are based on behaviour cloning of large vision-language-action (VLA) models with billions of parameters on huge teleoperation datasets. While this simple approach has enabled sign...
+
+#### [Reliable Neural Collapse Approximation for Open-World Test-Time Adaptation](http://arxiv.org/abs/2608.19890v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-23/Reliable_Neural_Collapse_Approximation_for_Open-Wo.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Test-Time Adaptation (TTA) methods aim to bridge the domain gap between the source and target domains. However, traditional TTA methods become ineffective when the label distribution shift occurs, a challenge commonly referred to as an open-world scenario. In this paper, we introduce a new method na...
+
+#### [DIFFCZSL: Compositional Zero-Shot Learning Regularized by Diffusion Representations](http://arxiv.org/abs/2608.19871v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-23/DIFFCZSL_Compositional_Zero-Shot_Learning_Regulari.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Compositional Zero-Shot Learning (CZSL) aims to recognize unseen attribute-object compositions by leveraging knowledge of primitive concepts learned from seen compositions. Although recent works achieve impressive performance in CZSL by leveraging large vision-language models, they primarily rely on...
+
+#### [Online Test-Time Adaptation for Generalizable Dynamic Graph Anomaly Detection](http://arxiv.org/abs/2608.19858v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-23/Online_Test-Time_Adaptation_for_Generalizable_Dyna.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Generalizable dynamic graph anomaly detection (DGAD) enables pretrained detectors to identify anomalies in unseen target domains without costly retraining. However, existing methods often fail for two reasons. First, they mainly rely on domain-agnostic patterns and miss domain-specific patterns that...
+
