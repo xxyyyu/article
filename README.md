@@ -7144,3 +7144,58 @@
 - **领域**: cs.LG
 - **核心摘要**: Generalizable dynamic graph anomaly detection (DGAD) enables pretrained detectors to identify anomalies in unseen target domains without costly retraining. However, existing methods often fail for two reasons. First, they mainly rely on domain-agnostic patterns and miss domain-specific patterns that...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-24
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences](http://arxiv.org/abs/2608.21357v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-24/VIALS_A_Benchmark_for_Visual_Interpretation_of_Art.pdf)
+- **领域**: cs.AI
+- **核心摘要**: In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We introduce VIALS, a visual question-answering benchmark with 161 such interpretation ...
+
+#### [ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations](http://arxiv.org/abs/2608.21355v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-24/ViTacPhys_Physical_Property-Aware_Grasping_from_Hu.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Recent vision-based action models have demonstrated strong capabilities in complex manipulation, but they rarely leverage explicit object physical properties to adapt their policies. We introduce ViTacPhys, a visual-tactile framework and data acquisition system that estimates object mass and frictio...
+
+#### [Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning](http://arxiv.org/abs/2608.21305v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-24/Re3Cap_Retrieval-Guided_Refinement_for_Image_Capti.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reinforcement Learning (RL) has demonstrated significant gains in image captioning, yet it is still limited in encouraging Large Vision-Language Models (LVLMs) to explore novel reasoning strategies. This limitation leads to a performance gap between RL and Supervised Fine-Tuning (SFT). In this paper...
+
+#### [On the Transferability of Agricultural Weed Detection Under Cross-Field Distribution Shift](http://arxiv.org/abs/2608.21254v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-24/On_the_Transferability_of_Agricultural_Weed_Detect.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Accurate agricultural weed detection in real-world field conditions is essential for precision agriculture, enabling targeted intervention and reducing yield loss. Recent work has reported strong detection performance from UAV-based imagery across a range of crops, yet existing approaches evaluate w...
+
+#### [Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models](http://arxiv.org/abs/2608.21247v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-24/Just_Noticeable_Difference_Modeling_for_Token_Comp.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Token compression has become a key technique for reducing the inference cost of large foundation models, with approaches such as token pruning and KV-cache reuse widely adopted in vision-language models and recently explored for embodied agents. In embodied agents, tokens not only support perception...
+
+#### [A VLM Answer Is Not an Anomaly Score: Rank Compression in Training-Free Video Anomaly Detection](http://arxiv.org/abs/2608.21244v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-24/A_VLM_Answer_Is_Not_an_Anomaly_Score_Rank_Compress.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models enable training-free video anomaly detection by answering questions about video segments. VAD benchmarks, however, require a scalar anomaly score for each segment and evaluate the resulting ranking using the AUROC or AP. A VLM-based detector should therefore define an answer i...
+
+#### [Toward Vision Language Model-based Assessment of Clinical Quality and Usability of LGE-MR Images for Cardiac Ablation Planning](http://arxiv.org/abs/2608.21180v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-24/Toward_Vision_Language_Model-based_Assessment_of_C.pdf)
+- **领域**: eess.IV
+- **核心摘要**: LGE cardiac MRI is widely used for left atrial fibrosis assessment and ablation planning in atrial fibrillation patients as knowledge of fibrotic tissue regions identified from LGE-MRI is critical for catheter ablation. Often, poor quality images used during ablation planning can cause mis-localizat...
+
+#### [Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds](http://arxiv.org/abs/2608.21170v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-24/Is_Visual_Prompting_All_You_Need_Studying_VLM_Spat.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have advanced rapidly in multimodal reasoning, yet recent work shows that their failures often reflect an interaction between visual grounding and downstream reasoning. What remains less clear is how the visual presentation of a task shapes model performance and failure...
+
+#### [A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans](http://arxiv.org/abs/2608.21140v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-24/A_Modular_Agent_for_Reliable_and_Auditable_Spatial.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reliable spatial understanding is an important prerequisite for future medical vision-language systems that aim to support radiological report generation and structured image understanding. While modern vision-language models (VLMs) show promising performance on many medical imaging tasks, recent ev...
+
+#### [Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs](http://arxiv.org/abs/2608.21134v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-24/Llama-Mobile_Efficient_27-Bit_Quantization_of_VLMs.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Deploying vision-language models (VLMs) on mobile devices is challenging due to their significant memory and compute requirements. We present a framework for quantizing VLMs for efficient inference on resource-constrained hardware. Our approach combines a quantization pipeline that uses the model it...
+
