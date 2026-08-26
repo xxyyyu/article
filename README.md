@@ -7199,3 +7199,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Deploying vision-language models (VLMs) on mobile devices is challenging due to their significant memory and compute requirements. We present a framework for quantizing VLMs for efficient inference on resource-constrained hardware. Our approach combines a quantization pipeline that uses the model it...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-26
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [X-MULTI: VLM-based Imaging Factor Disentanglement for Factor-Aware Image Synthesis](http://arxiv.org/abs/2608.24563v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-26/X-MULTI_VLM-based_Imaging_Factor_Disentanglement_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Imaging factor disentanglement in text-to-image generation aims to independently control image acquisition properties such as types of camera lenses, sensor types, viewpoints, and domains to enable combinatorial generalization. This should let the model synthesize novel factor combinations unobserve...
+
+#### [DoublesEval: Diagnosing Multi-Agent Tactical Reasoning in Vision-Language Models via Professional Doubles Badminton](http://arxiv.org/abs/2608.24439v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-26/DoublesEval_Diagnosing_Multi-Agent_Tactical_Reason.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual Language Models (VLMs) excel at describing visible scene content but struggle to reason about dynamic multi-agent interactions, where action semantics depend on coordinated roles and spatial-temporal dependencies. We formalize this capability as \textbf{multi-agent tactical reasoning} and int...
+
+#### [Vision Language Model Fusion for Explainable Face Recognition](http://arxiv.org/abs/2608.24430v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-26/Vision_Language_Model_Fusion_for_Explainable_Face_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Responsible deployment of face verification systems requires more than accurate decisions: systems should also provide interpretable and auditable evidence that enables users to understand, assess, and challenge their decisions. Vision-language models (VLMs) provide a promising foundation for explai...
+
+#### [VideoHarness-RSI: Recursive Harness Self-Improvement for Long-Video Understanding with Frozen Vision-Language Models](http://arxiv.org/abs/2608.24302v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-26/VideoHarness-RSI_Recursive_Harness_Self-Improvemen.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Long-video understanding depends critically on how a limited model context is constructed from a much longer video. Existing approaches improve this process through compression, retrieval, memory, and agentic evidence acquisition, but these mechanisms are typically introduced as part of a manually d...
+
+#### [Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing](http://arxiv.org/abs/2608.24263v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-26/Real-World_Knowledge-Guided_Change_Data_Synthesis_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Change data synthesis provides a cost-effective solution for expanding training data and improving the performance of change detection models. However, existing synthesis methods typically rely on handcrafted rules to simulate changes, where limited coverage of class transitions restricts the divers...
+
+#### [Beyond Accuracy: A Dual-Judge Evaluation Protocol for Vision-Language Models in Legally Grounded Tasks](http://arxiv.org/abs/2608.24258v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-26/Beyond_Accuracy_A_Dual-Judge_Evaluation_Protocol_f.pdf)
+- **领域**: cs.AI
+- **核心摘要**: AI systems are increasingly evaluated for legally accountable settings, where correct outputs must also be justifiable against an applicable legal standard. Existing legal-AI benchmarks and LLM-as-judge protocols provide important infrastructure for measuring task performance and open-ended response...
+
+#### [What Does Prompt Learning Change? -A Natural-Language Concept Analysis of Vision-Language Models](http://arxiv.org/abs/2608.24142v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-26/What_Does_Prompt_Learning_Change_-A_Natural-Langua.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Prompt learning adapts vision-language models such as CLIP by optimizing continuous prompt vectors, but the learned prompts are difficult to interpret in natural language. We present PromptSpLiCE, a post-hoc method that expresses each class-conditioned text embedding as a sparse combination of conce...
+
+#### [Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation](http://arxiv.org/abs/2608.24138v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-26/Rubrics_as_Visual-Repair_Context_for_Self-Evolving.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models have shown strong progress in UI-to-code generation, yet their test-time self-evolution remains unstable. We first identify a fundamental obstacle, termed visual repair coupling: a local code edit may propagate through layout, style, and component dependencies, correctin...
+
+#### [PlaceSeek: Human-Centered Geospatial Retrieval of Urban Outdoor Places via Semantic Grounding and Affective Alignment](http://arxiv.org/abs/2608.24133v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-26/PlaceSeek_Human-Centered_Geospatial_Retrieval_of_U.pdf)
+- **领域**: cs.CV
+- **核心摘要**: People search for urban outdoor places not only by category or function, but also by what activities a place can support and how it is perceived. Existing geospatial retrieval remains largely POIcentric and metadata-driven, making it difficult to satisfy openended, affective, or activity-oriented ne...
+
+#### [MC-CXR: A Multi-Context Chest X-ray Benchmark for Context-Induced Disruption in Vision-Language Models](http://arxiv.org/abs/2608.24118v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-26/MC-CXR_A_Multi-Context_Chest_X-ray_Benchmark_for_C.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models (VLMs) are increasingly used in clinical pipelines where a chest X-ray is interpreted alongside retrieved reports, preliminary notes, or prior imaging. Existing benchmarks measure whether models answer correctly in isolation, but not whether they preserve a correct image-only ...
+
