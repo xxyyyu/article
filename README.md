@@ -7254,3 +7254,58 @@
 - **领域**: cs.CL
 - **核心摘要**: Vision-language models (VLMs) are increasingly used in clinical pipelines where a chest X-ray is interpreted alongside retrieved reports, preliminary notes, or prior imaging. Existing benchmarks measure whether models answer correctly in isolation, but not whether they preserve a correct image-only ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-27
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [TAU-Agent: An Agentic Retrieval-Augmented Framework for Traffic Anomaly Understanding](http://arxiv.org/abs/2608.25935v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-27/TAU-Agent_An_Agentic_Retrieval-Augmented_Framework.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Traffic Anomaly Understanding (TAU) requires models and systems to detect, reason about, and explain anomalous events in transportation videos. To address this challenge, we propose TAU-Agent, an agentic retrieval-augmented framework for traffic anomaly understanding. Given a task query, a central r...
+
+#### [Do Vision-Language Models Agree on the Affective Qualities of Shape? A Cross-Model Audit for Generative Design Interfaces](http://arxiv.org/abs/2608.25876v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-27/Do_Vision-Language_Models_Agree_on_the_Affective_Q.pdf)
+- **领域**: cs.HC
+- **核心摘要**: Generative design interfaces increasingly expose semantic controls that let users steer output with concepts such as "more elegant" or "more minimalist," typically encoded by a vision-language model (VLM). A practical question is whether state-of-the-art VLMs represent objects consistently in terms ...
+
+#### [LUTSeg: A Longitudinal Multi-Expert Dataset for Ulcer Tissue Segmentation](http://arxiv.org/abs/2608.25866v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-27/LUTSeg_A_Longitudinal_Multi-Expert_Dataset_for_Ulc.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Quantifying wound tissue composition is essential for monitoring chronic ulcer progression and guiding treatment decisions. However, pixel-level annotations are costly, and multi-tissue wound datasets remain scarce, particularly for neglected diseases such as leprosy. We introduce LUTSeg, a longitud...
+
+#### [Label-Free Foundational Model Selection for Medical Image Classification under Distribution Shift via Pseudo Label Discrepancy](http://arxiv.org/abs/2608.25810v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-27/Label-Free_Foundational_Model_Selection_for_Medica.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Foundation models are increasingly deployed for medical image analysis. However, under the inter-institutional distribution shift typical of deployment, their performance varies widely and cannot be known without target-domain labels, which are rarely available. This leaves a practical question unre...
+
+#### [Fairness-Aware Test-Time Prompt Tuning](http://arxiv.org/abs/2608.25707v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-27/Fairness-Aware_Test-Time_Prompt_Tuning.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Vision-language models have displayed remarkable capabilities in multi-modal understanding and are increasingly used in critical applications where economic and practical deployment constraints prohibit re-training or fine-tuning. However, these models can also exhibit systematic biases that disprop...
+
+#### [Overview of SHROOM-Visions 2026: A Shared Task on Hallucination Detection in Large Vision-Language Models](http://arxiv.org/abs/2608.25662v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-27/Overview_of_SHROOM-Visions_2026_A_Shared_Task_on_H.pdf)
+- **领域**: cs.CL
+- **核心摘要**: In 2026, we held the fourth iteration of the SHROOM Shared Task series: SHROOM-Visions (\textbf{S}hared-task on \textbf{H}allucinations and \textbf{R}elated \textbf{O}bservable \textbf{O}vergeneration \textbf{M}istakes in \textbf{Vision} language model\textbf{s}), which is hosted at the UncertaiNLP ...
+
+#### [Towards Purified Multi-Label Test-Time Adaptation of Vision-Language Models](http://arxiv.org/abs/2608.25653v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-27/Towards_Purified_Multi-Label_Test-Time_Adaptation_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-time adaptation (TTA) has been widely explored in single-label recognition, effectively mitigating distribution shifts, especially when combined with vision-language models. However, real-world images often contain multiple objects, while the more practical multi-label test-time adaptation (MLT...
+
+#### [Leveraging Inter-object Affordances for Efficient Planning in Contact-rich Tasks](http://arxiv.org/abs/2608.25641v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-27/Leveraging_Inter-object_Affordances_for_Efficient_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Traditional task-and-motion planning (TAMP) approaches primarily focus on defining sequences of actions along with the necessary geometric and kinematic constraints to execute long-horizon tasks. However, their applicability in real-world settings is limited, as they typically assume simplified obje...
+
+#### [RA-VLA: Retrieval-Augmented VLA for Test-Time Adaptation](http://arxiv.org/abs/2608.25585v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-27/RA-VLA_Retrieval-Augmented_VLA_for_Test-Time_Adapt.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language-Action (VLA) models provide a versatile foundation for general robotic manipulation, yet they exhibit significant brittleness when confronted with novel task distributions. While In-Context Imitation Learning (ICIL) offers a training-free alternative, existing frameworks suffer from ...
+
+#### [V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning](http://arxiv.org/abs/2608.25580v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-27/V-Rubrics_Visual_Faithfulness_via_Rubric-Based_Rei.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models can produce fluent answers that are insufficiently grounded in the visual evidence: a single unsupported object, chart value, or intermediate inference can undermine an otherwise plausible response. We argue that this is a credit-assignment failure in multimodal post-training....
+
