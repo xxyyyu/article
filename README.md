@@ -7309,3 +7309,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Vision-language models can produce fluent answers that are insufficiently grounded in the visual evidence: a single unsupported object, chart value, or intermediate inference can undermine an otherwise plausible response. We argue that this is a credit-assignment failure in multimodal post-training....
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-28
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information](http://arxiv.org/abs/2608.27417v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-28/Retrieval_Heads_Meet_Vision_Uncovering_How_VLMs_Lo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) can locate an image region referred to by a text prompt and route the corresponding visual evidence to the output, yet the internal mechanism behind this behavior is not understood. Inspired by retrieval heads in large language models, we ask whether VLMs contain an ana...
+
+#### [Embodied Scene Rearrangement Planning](http://arxiv.org/abs/2608.27371v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-28/Embodied_Scene_Rearrangement_Planning.pdf)
+- **领域**: cs.RO
+- **核心摘要**: This paper introduces Embodied Scene Rearrangement Planning (ESRP), a novel task requiring embodied agents to rearrange furniture in 3D scenes to match a target configuration using only egocentric observations and a top-down target layout. Unlike prior rearrangement tasks, ESRP precludes global stat...
+
+#### [PACE: A Unified Condense-and-Extract Paradigm for Fast VLM Inference](http://arxiv.org/abs/2608.27206v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-28/PACE_A_Unified_Condense-and-Extract_Paradigm_for_F.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) demonstrate exceptional visual reasoning capabilities, yet their inference costs escalate rapidly with the proliferation of visual tokens. Existing visual token pruning methods exhibit two fundamental limitations. First, most approaches operate exclusively post-vision e...
+
+#### [Ancient-Bench: A Comprehensive Multi-millennial, Multi-medium, and Multi-script Benchmark for Ancient Chinese Artifact Text Recognition](http://arxiv.org/abs/2608.27169v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-28/Ancient-Bench_A_Comprehensive_Multi-millennial_Mul.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Ancient Chinese artifact text recognition is fundamental to heritage digitization, and benchmarks for ancient texts are essential for evaluating current model capabilities. However, existing benchmarks suffer from ''fragmentation'', manifested in limited temporal coverage, limited medium diversity, ...
+
+#### [ReViCo: Unveiling the Limitations of VLMs in Visual Text Understanding via Error Correction](http://arxiv.org/abs/2608.27154v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-28/ReViCo_Unveiling_the_Limitations_of_VLMs_in_Visual.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision Language Models (VLMs) have shown great success in general visual tasks, yet they still struggle to deeply understand text within images. In this paper, we introduce ReViCo (Real Visual Correction), a benchmark designed to evaluate VLM text understanding through a novel task of visual text er...
+
+#### [MVC-Bench: Benchmarking Calibration of Medical Vision-Language Models](http://arxiv.org/abs/2608.27004v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-28/MVC-Bench_Benchmarking_Calibration_of_Medical_Visi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reliable evaluation of vision-language models (VLMs) and medical vision-language models (Medical-VLMs) requires calibrated confidence, particularly under realistic clinical conditions. However, existing efforts mainly focused on improving accuracy, leaving calibration in the medical domain underexpl...
+
+#### [4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation](http://arxiv.org/abs/2608.26947v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-28/4DSynth_Controllable_Procedural_World_Synthesis_fo.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Embodied agents need environments that are visually diverse, physically interactive, and changing over time. Procedural simulators can generate large interactive scene collections, and recent 4D generators produce compelling visual dynamics. Combining these properties in one environment, however, st...
+
+#### [Order Matters: A Chinese Multi-Panel Meme Benchmark for Vision-Language Reasoning](http://arxiv.org/abs/2608.26866v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-28/Order_Matters_A_Chinese_Multi-Panel_Meme_Benchmark.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Many multimodal tasks depend on how visual elements are ordered and composed, not only on recognizing them in isolation. Internet memes are a compact case of this problem: their punchline often depends on a constrained reading order and cross-panel visual--textual cues. While large vision-language m...
+
+#### [MedFG-VQA: Low-Frequency Memory and Graph Attention for Lightweight Medical VQA](http://arxiv.org/abs/2608.26848v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-28/MedFG-VQA_Low-Frequency_Memory_and_Graph_Attention.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical Visual Question Answering (Med-VQA) holds significant promise for clinical decision support, yet faces challenges due to limited annotated data and the high computational demands of existing large vision-language models. We propose MedFG-VQA, a lightweight framework that leverages a memory b...
+
+#### [Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning](http://arxiv.org/abs/2608.26809v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-28/Thinking_on_Shots_Consistent_Multi-Shot_Video_Edit.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While generative AI has significantly advanced video editing, existing methods primarily focus on single-shot or short video clips. Editing long videos with multiple instructions remains a formidable challenge. Naive chunking strategies, e.g., fixed-duration segmentation, often lead to entity fragme...
+
