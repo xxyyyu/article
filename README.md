@@ -7474,3 +7474,58 @@
 - **领域**: cs.CV
 - **核心摘要**: While generative AI has significantly advanced video editing, existing methods primarily focus on single-shot or short video clips. Editing long videos with multiple instructions remains a formidable challenge. Naive chunking strategies, e.g., fixed-duration segmentation, often lead to entity fragme...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-08-31
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [GeBDA: Building Damage Assessment as Text-Based Sequence Prediction](http://arxiv.org/abs/2608.28567v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-31/GeBDA_Building_Damage_Assessment_as_Text-Based_Seq.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Conventionally, Building Damage Assessment (BDA) is tackled either with dedicated network architectures or by fine-tuning geospatial image foundation models. In this work, we ask whether a general-purpose Vision-Language Model (VLM) can localize buildings and grade their damage through autoregressiv...
+
+#### [RECAST: Recent & Context-Aware Sampling for Test-Time Adaptation in Streaming Biosignals](http://arxiv.org/abs/2608.28271v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-31/RECAST_Recent__Context-Aware_Sampling_for_Test-Tim.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Streaming biosignals vary across subjects and drift over time, so population-trained models lose accuracy during long-term monitoring. Test-time adaptation (TTA) enables online personalization by updating the model on incoming samples. But in a stream, a basic question is left open: \emph{which samp...
+
+#### [Synth-JDoc: Synthesizing a Japanese Document Image Dataset for OCR with Diverse Layouts and Embedded Images](http://arxiv.org/abs/2608.28248v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-31/Synth-JDoc_Synthesizing_a_Japanese_Document_Image_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The ability of Large Vision Language Models (LVLMs) to read text within document images is crucial, as it enables various applications such as Document Visual Question Answering. To enhance the text-reading capabilities of LVLMs, high-quality OCR datasets are essential. This need is particularly cri...
+
+#### [Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring](http://arxiv.org/abs/2608.28246v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-31/Training-free_Suction_Grasp_Detection_for_Deformed.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Robotic sorting of recyclable waste is challenging due to the deformable and geometrically inconsistent nature of target objects. We present a training-free suction grasping system for sorting deformed aseptic beverage cartons, decoupling target identification from grasp-point selection. An open-voc...
+
+#### [Focus Where It Counts: A Salience-Driven Vision-Language Model for Low Vision Assistance](http://arxiv.org/abs/2608.28218v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-31/Focus_Where_It_Counts_A_Salience-Driven_Vision-Lan.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are rapidly progressing and offer promising capabilities for assistive technologies supporting persons with blindness or low vision. However, existing VLMs are primarily designed for general-purpose captioning and do not explicitly model human perceptual priorities, the...
+
+#### [WALDO: One-Shot Exemplar-Conditioned Object Detection in Cluttered Scenes](http://arxiv.org/abs/2608.28216v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-31/WALDO_One-Shot_Exemplar-Conditioned_Object_Detecti.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Locating a specific object instance in a cluttered scene using a single reference image and a short description, and reporting when that instance is absent, large vision-language models usually address this task. We ask whether the same capability is available far more cheaply, from representations ...
+
+#### [Dual-Stream Semantic Guidance with Prototype Anchor Calibration for Source-Fully-Free Adaptation of Vision-Language Models](http://arxiv.org/abs/2608.28145v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-31/Dual-Stream_Semantic_Guidance_with_Prototype_Ancho.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Source-Fully-Free Domain Adaptation (SFF-DA) has emerged as a strategic paradigm to adapt Vision-Language Models (VLMs) without any access to source data or task-specific source models. However, we identify a critical Dual Semantic Drift that hinders this process: static drift arising from the rigid...
+
+#### [Token-Budget Distillation: Transferring Full-Token Semantics to Compressed Video Vision-Language Models](http://arxiv.org/abs/2608.28138v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-31/Token-Budget_Distillation_Transferring_Full-Token_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Adapting video vision-language models (VLMs) is computationally expensive because video inputs produce a large number of visual tokens, making both fine-tuning and inference costly. Although visual token compression can reduce this overhead, direct adaptation on compressed inputs often causes semant...
+
+#### [Dynamic Alignment Compensation for Hallucination Mitigation in Large Vision-Language Models](http://arxiv.org/abs/2608.28058v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-31/Dynamic_Alignment_Compensation_for_Hallucination_M.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) remain prone to hallucinations, producing responses that are irrelevant or inconsistent with the multimodal input. Existing mitigation methods mainly rely on external supervision, output calibration, or attention regulation, leaving the internal representation dy...
+
+#### [Temporal Memory-Aware Online Test-Time Adaptation on Dynamic Graphs](http://arxiv.org/abs/2608.27948v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-08-31/Temporal_Memory-Aware_Online_Test-Time_Adaptation_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Test-time adaptation (TTA) on graphs aims to adapt a graph neural network (GNN) that is well-trained on the training graph to the test graph, which involves potential distribution shifts that may harm model generalization and test-time inference. While recent efforts have investigated TTA on static ...
+
