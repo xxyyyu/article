@@ -7529,3 +7529,58 @@
 - **领域**: cs.LG
 - **核心摘要**: Test-time adaptation (TTA) on graphs aims to adapt a graph neural network (GNN) that is well-trained on the training graph to the test graph, which involves potential distribution shifts that may harm model generalization and test-time inference. While recent efforts have investigated TTA on static ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-01
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Multi-View Reflective Surface Inspection via Semantic-Saliency Cross-Verification](http://arxiv.org/abs/2608.30997v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-01/Multi-View_Reflective_Surface_Inspection_via_Seman.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reflective smartphone cover glass is challenging to inspect from a single fixed viewpoint because defect visibility varies with viewing geometry and specular reflections. This gives rise to two practical challenges: defects may be weakly observable from certain viewpoints, while the available visual...
+
+#### [LOCI: A Locator-Critic with Refinement Loop](http://arxiv.org/abs/2608.30959v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-01/LOCI_A_Locator-Critic_with_Refinement_Loop.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) still struggle on tasks requiring complex visual understanding. We argue that the core issue is not high-level reasoning, but instead failing to locate critical details in the image. Due to this shortcoming, VLMs generate often plausible but incorrect reasoning based on...
+
+#### [LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation](http://arxiv.org/abs/2608.30935v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-01/LightNav-0_Eliciting_VLM_Spatial_Intelligence_for_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Embodied navigation requires agents to translate heterogeneous goals and visual observations into actions across tasks, environments, and robot embodiments. Modern vision-language models (VLMs) already encode spatial priors for visual grounding, spatial reasoning, and pointing, but these capabilitie...
+
+#### [Channel Gains to Captions: Task-Unified Multi-Level RF Sensing with Vision-Language Models](http://arxiv.org/abs/2608.30836v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-01/Channel_Gains_to_Captions_Task-Unified_Multi-Level.pdf)
+- **领域**: eess.SP
+- **核心摘要**: This letter investigates a task-unified multi-level radio-frequency (RF) sensing framework driven by vision-language models (VLMs). Existing RF sensing methods rely on task-specific designs and provide only partial environmental information, limiting their ability to handle emerging 6G applications....
+
+#### [Do VLMs Share Safety Neurons Across Modalities?](http://arxiv.org/abs/2608.30750v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-01/Do_VLMs_Share_Safety_Neurons_Across_Modalities.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Vision-language models (VLMs) can comply with harmful requests delivered through images, even when their LLM backbones would refuse the same content in text. While prior work characterizes these jailbreaks empirically or at the representation level, how visual inputs perturb safety pathways at the n...
+
+#### [BiG-SURE - Bipartite Graph for Semantic Uncertainty and Reliability Estimation of LLMs](http://arxiv.org/abs/2608.30646v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-01/BiG-SURE_-_Bipartite_Graph_for_Semantic_Uncertaint.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Reliable uncertainty estimation is a crucial requirement for deploying large language models (LLMs) and vision-language models (VLMs) in safety-critical settings, especially when the model parameters are not accessible (black-box). We propose BiG-SURE, an uncertainty estimator based on cross-tempera...
+
+#### [GarmentWeaver: Schema-Aware Structured Synthesis for Multimodal Sewing Patterns](http://arxiv.org/abs/2608.30550v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-01/GarmentWeaver_Schema-Aware_Structured_Synthesis_fo.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Multimodal Sewing pattern generation aims to infer executable sewing patterns from design cues such as sketches and textual descriptions. As an interpretable and simulation-compatible representation, sewing patterns are particularly valuable for digital garment creation. However, existing methods of...
+
+#### [Lot Machine: Multimodal Lot Extraction from Auction Catalogs](http://arxiv.org/abs/2608.30510v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-01/Lot_Machine_Multimodal_Lot_Extraction_from_Auction.pdf)
+- **领域**: cs.CV
+- **核心摘要**: For provenance research and art market studies, auction catalogs are an essential resource to trace specific objects over time and space. While historical auction catalogs follow established domain conventions, their internal formatting remains highly variable, and their large-scale analysis is curr...
+
+#### [VisER: Visual Evidence and Reliance for Object Hallucination Detection in LVLMs](http://arxiv.org/abs/2608.30480v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-01/VisER_Visual_Evidence_and_Reliance_for_Object_Hall.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Object hallucination remains a persistent reliability issue in large vision-language models, where generated object mentions may sound plausible but lack visual grounding. Recent training-free detectors use internal signals such as token likelihood, attention, visual confidence, or image-text simila...
+
+#### [ImageEval 2026: Culturally Grounded Arabic Multimodal Evaluation](http://arxiv.org/abs/2608.30475v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-01/ImageEval_2026_Culturally_Grounded_Arabic_Multimod.pdf)
+- **领域**: cs.CL
+- **核心摘要**: We present an overview of the ImageEval 2026 shared task on culturally grounded Arabic multimodal evaluation. It includes two tasks: (i) AynVQA, covering spoken visual question answering and image-grounded hallucination detection in English and Modern Standard Arabic (MSA), and (ii) CRAI-Bench, eval...
+
