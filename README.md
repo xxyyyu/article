@@ -7584,3 +7584,58 @@
 - **领域**: cs.CL
 - **核心摘要**: We present an overview of the ImageEval 2026 shared task on culturally grounded Arabic multimodal evaluation. It includes two tasks: (i) AynVQA, covering spoken visual question answering and image-grounded hallucination detection in English and Modern Standard Arabic (MSA), and (ii) CRAI-Bench, eval...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-02
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers](http://arxiv.org/abs/2609.01567v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-02/Selective_Agent_Guidance_via_Entropy_Learning_Auto.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve from environment interaction, and can repeat systematic errors. We study how to learn a cheap autonomo...
+
+#### [EdiTikZ: Scientific Figure Editing from Revision Trajectories](http://arxiv.org/abs/2609.01409v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-02/EdiTikZ_Scientific_Figure_Editing_from_Revision_Tr.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-language models (VLMs) have shown strong performance in generating scientific figures from text or images. However, producing publication-ready figures requires iterative refinement, making scientific figure editing an important yet largely unexplored task. Existing approaches rely on costly ...
+
+#### [InSight: A Benchmark for Agentic Claim Verification in Interactive Visualizations](http://arxiv.org/abs/2609.01383v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-02/InSight_A_Benchmark_for_Agentic_Claim_Verification.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision Language Models have demonstrated remarkable proficiency in interpreting static visual artifacts, but modern data analysis is inherently dynamic, requiring the active interrogation of interactive environments. Existing benchmarks are predominantly constrained to static imagery and one-shot qu...
+
+#### [IntroConformal: Conformal Factuality Guarantees for Large Vision-Language Models via Introspective Signals](http://arxiv.org/abs/2609.01375v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-02/IntroConformal_Conformal_Factuality_Guarantees_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) have achieved strong multimodal performance, yet ensuring the factual correctness of generated content remains challenging. Existing methods that provide statistical guarantees on factuality typically rely on external verifiers or generation-time confidence signa...
+
+#### [Reliability Challenges in Diffusion Vision-Language Models](http://arxiv.org/abs/2609.01318v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-02/Reliability_Challenges_in_Diffusion_Vision-Languag.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Diffusion-based Large Vision-Language Models (dLVLMs) have recently emerged as a compelling alternative to autoregressive (AR) LVLMs, offering advantages in parallel decoding, bidirectional context, and controllable generation. Despite rapid progress, their reliability properties remain largely unch...
+
+#### [Agentic Multimodal Models for Environmental Hyperspectral Unmixing](http://arxiv.org/abs/2609.01289v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-02/Agentic_Multimodal_Models_for_Environmental_Hypers.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Hyperspectral unmixing is a key task in remote sensing that aims to decompose mixed pixels in hyperspectral images into their constituent material signatures, or endmembers, and their fractional abundances. Conventional modular approaches estimate the scene composition through successive model-order...
+
+#### [Compressing AI Traffic: Standardized Neural Network Coding of Visual-Token Representations in Split Vision-Language Inference](http://arxiv.org/abs/2609.01200v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-02/Compressing_AI_Traffic_Standardized_Neural_Network.pdf)
+- **领域**: cs.CV
+- **核心摘要**: When the visual encoder and the language decoder of a vision-language model (VLM) run on different compute nodes, the intermediate visual-token embeddings become a communicated payload rather than an internal activation. We call such machine-consumed intermediate tensors AI traffic and ask how far t...
+
+#### [Dyn-3D: Unveiling and Resolving Ego-Motion Ambiguity in Vision-Language Models](http://arxiv.org/abs/2609.01059v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-02/Dyn-3D_Unveiling_and_Resolving_Ego-Motion_Ambiguit.pdf)
+- **领域**: cs.CV
+- **核心摘要**: As Vision-Language Models (VLMs) tackle dynamic 3D spatial reasoning, ego-motion perception becomes essential to resolve monocular scale ambiguity. However, current models often overfit to smooth trajectory priors rather than genuinely understanding physical motion. Consequently, their spatial reaso...
+
+#### [From Terminology to Diagrams: Visual-Instruction Generation for Scientific Diagram Understanding](http://arxiv.org/abs/2609.00948v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-02/From_Terminology_to_Diagrams_Visual-Instruction_Ge.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have demonstrated strong performance in visual question answering with natural images. However, they continue to struggle with scientific diagrams, which are designed to convey functional or relational meaning rather than literal scenes. We therefore introduce a framewo...
+
+#### [A multicenter benchmark and clinically structured metric for coronary CTA report generation](http://arxiv.org/abs/2609.00909v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-02/A_multicenter_benchmark_and_clinically_structured_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reliable evaluation of automated coronary computed tomography angiography (CCTA) report generation requires standardized multicentre benchmarks and clinically structured metrics. We established a four-centre benchmark comprising 3,021 CCTA series from 818 patient-report pairs to evaluate seven open-...
+
