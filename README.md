@@ -7639,3 +7639,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Reliable evaluation of automated coronary computed tomography angiography (CCTA) report generation requires standardized multicentre benchmarks and clinically structured metrics. We established a four-centre benchmark comprising 3,021 CCTA series from 818 patient-report pairs to evaluate seven open-...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-04
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Principia: Relational Physics Tests for Video Models](http://arxiv.org/abs/2609.04200v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-04/Principia_Relational_Physics_Tests_for_Video_Model.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavailable in generated video. We propose a different approach. When two objects in the same scene obey the...
+
+#### [Efficient Test-Time Adaptation through Human-AI Interaction](http://arxiv.org/abs/2609.04141v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-04/Efficient_Test-Time_Adaptation_through_Human-AI_In.pdf)
+- **领域**: cs.AI
+- **核心摘要**: AI agents are trained on population-scale data to encode broad capabilities spanning those of many practitioners. Yet the artifacts they produce rarely meet the personal bar professionals need to stake their reputation on. On realistic, open-ended tasks where success criteria are heterogeneous and i...
+
+#### [Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving](http://arxiv.org/abs/2609.04070v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-04/Continuous_Actions_from_Discrete_Minds_Latent-Alig.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Bridging the gap between the discrete reasoning of Vision-Language Models and the continuous, physics-constrained nature of autonomous driving remains a significant challenge. In this work, we introduce LaPla, a unified Vision-Language-Action (VLA) framework featuring latent-aligned planning to seam...
+
+#### [IchthyoNoma: Nomenclature and Context Sensitivity of Zero-Shot Biological Vision--Language Models for Bangladeshi Freshwater Fish Recognition](http://arxiv.org/abs/2609.03985v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-04/IchthyoNoma_Nomenclature_and_Context_Sensitivity_o.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Zero-shot vision-language models (VLMs) are increasingly used as training-free species recognizers, but reported accuracy can reflect more than visual species knowledge. We audit CLIP, BioCLIP, BioCLIP2, and a multilingual Jina CLIP v2 control on seven freshwater-fish categories from two Bangladeshi...
+
+#### [WorldReward: Reward Modeling for Camera-Conditioned World Models](http://arxiv.org/abs/2609.03952v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-04/WorldReward_Reward_Modeling_for_Camera-Conditioned.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Camera-conditioned world models generate interactive videos in which commanded actions should induce the expected scene changes while appearance, geometry, and temporal dynamics remain coherent. Existing rewards assess these requirements separately: geometry-based rewards estimate trajectory executi...
+
+#### [When Vision Meets Graphs: A Survey on Graph Reasoning and Learning](http://arxiv.org/abs/2609.03816v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-04/When_Vision_Meets_Graphs_A_Survey_on_Graph_Reasoni.pdf)
+- **领域**: cs.SI
+- **核心摘要**: Graphs are a fundamental data structure underlying many problems in the natural and social sciences. Over the past decade, Graph Neural Networks (GNNs) have dominated graph machine learning, supported by solid theoretical foundations. Yet scientists often understand graph structure through vision: c...
+
+#### [SVG-Score: Human-Aligned Evaluation of Text-to-SVG Generation](http://arxiv.org/abs/2609.03806v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-04/SVG-Score_Human-Aligned_Evaluation_of_Text-to-SVG_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Scalable Vector Graphics (SVG) generation is attracting increasing attention as generative models improve in expressiveness and controllability. Progress, however, is held back by the lack of domain-specific evaluation protocols: current practice relies on metrics designed for natural images, most n...
+
+#### [A Reverse Sign Language Dictionary: Open-Vocabulary Sign Recognition from Continuous Signing via Video Captioning and Description Retrieval](http://arxiv.org/abs/2609.03788v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-04/A_Reverse_Sign_Language_Dictionary_Open-Vocabulary.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Isolated Sign Language Recognition (ISLR) is conventionally cast as closed-set classification over gloss labels, which cannot generalize to signs unseen in training and ties every deployment to a gloss-annotated lexicon. We instead recognize signs extracted from continuous signing by (1) captioning ...
+
+#### [Unfold The World: Factorize 4D Properties in Reinforcing Spatial Reasoning](http://arxiv.org/abs/2609.03729v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-04/Unfold_The_World_Factorize_4D_Properties_in_Reinfo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite the remarkable prowess of Vision-Language Models (VLMs) in general multimodal tasks, they remain fundamentally ``flat'' when reasoning about the physical world. We argue that this spatial bottleneck stems from a profound dimensional mismatch: while VLMs are trained to interpret 2D projection...
+
+#### [MetaStructAtlas: A Grounded 3D Vision-Language Dataset and Benchmark for Functional and Structural Reasoning in Whole-Body PET/CT](http://arxiv.org/abs/2609.03690v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-04/MetaStructAtlas_A_Grounded_3D_Vision-Language_Data.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The joint interpretation of metabolic function and anatomical structure is essential for clinical diagnosis in whole-body PET/CT. Although recent advances in 3D medical vision-language models have demonstrated remarkable progress, current efforts are limited to regional CT imaging, leaving a critica...
+
