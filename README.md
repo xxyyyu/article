@@ -7804,3 +7804,58 @@
 - **领域**: cs.CV
 - **核心摘要**: The joint interpretation of metabolic function and anatomical structure is essential for clinical diagnosis in whole-body PET/CT. Although recent advances in 3D medical vision-language models have demonstrated remarkable progress, current efforts are limited to regional CT imaging, leaving a critica...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-07
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models](http://arxiv.org/abs/2609.05401v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-07/Same_Trajectory_Contradictory_Rewards_ROBORMBENCH_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantically equivalent goal descriptions. We show that current VLM reward models often violate this property....
+
+#### [Think-Verify-Revise: Neuro-Symbolic Visual Reasoning with Vision-Language Models and Dynamic Logic Tensor Networks](http://arxiv.org/abs/2609.05388v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-07/Think-Verify-Revise_Neuro-Symbolic_Visual_Reasonin.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual reasoning tasks require a system to jointly perceive visual content and apply formal relational constraints---a combination that neither pure neural nor purely symbolic approaches handle well in isolation. This paper proposes a Neuro-Symbolic (NeSy) framework that closes this gap by tightly c...
+
+#### [Cross-Domain Tracker Adaptation Without Target-Domain Labels via Vision-Language Agents](http://arxiv.org/abs/2609.05239v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-07/Cross-Domain_Tracker_Adaptation_Without_Target-Dom.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We present a system that uses a Vision-Language Model (VLM) as a diagnostic agent for adapting a detect-to-track pipeline to a new target domain without access to target-domain labels. Rather than optimizing against annotated metrics, the VLM directly inspects rendered tracking outputs, identifies v...
+
+#### [From Vision to Language: Investigating Causal Information Flow in Multimodal Decision-Making](http://arxiv.org/abs/2609.05149v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-07/From_Vision_to_Language_Investigating_Causal_Infor.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-Language Models are commonly evaluated through their final predictions, but understanding whether these decisions are grounded in visual evidence requires tracing how visual information contributes to language-based decisions. With this purpose in mind, we investigate cross-modal information ...
+
+#### [Learning 3D Editing without Paired Supervision via Generative Prior Distillation](http://arxiv.org/abs/2609.04942v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-07/Learning_3D_Editing_without_Paired_Supervision_via.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Instruction-guided 3D editing is essential for interactive content creation, yet it faces a significant bottleneck: the severe scarcity of high-quality paired training data. Existing approaches attempt to bypass this by either relying on slow test-time optimization or training on pseudo-pairs constr...
+
+#### [MM-IFEval-Pro: A Multilingual and Attack-Resistant Benchmark for Instruction-Following in Vision-Language Models](http://arxiv.org/abs/2609.04859v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-07/MM-IFEval-Pro_A_Multilingual_and_Attack-Resistant_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: As vision-language models (VLMs) rapidly advance in image understanding, cross-modal reasoning, and complex instruction execution, instruction-following capability has become a key indicator of their reliability and practicality. However, existing multimodal instruction-following benchmarks still su...
+
+#### [ElderBench: Benchmarking Autonomous Mobile Agents for Older Adults](http://arxiv.org/abs/2609.04850v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-07/ElderBench_Benchmarking_Autonomous_Mobile_Agents_f.pdf)
+- **领域**: cs.AI
+- **核心摘要**: While autonomous mobile agents hold great potential for assisting older adults with smartphone usage, existing GUI benchmarks mainly rely on explicit, goal-oriented instructions and rarely capture the naturally occurring language patterns of older users, such as indirect speech, referential ambiguit...
+
+#### [Where to Look Matters: Learning Influential Views for VLM-based 3D Visual Grounding](http://arxiv.org/abs/2609.04741v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-07/Where_to_Look_Matters_Learning_Influential_Views_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent zero-shot 3D visual grounding methods leverage vision-language models (VLMs) to localize objects in 3D scenes from natural language queries. However, these methods typically rely on heuristic rules to select which camera views are provided to the VLM, often prioritizing object visibility rath...
+
+#### [Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models](http://arxiv.org/abs/2609.04720v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-07/Knowing_What_Not_to_Answer_Selective_Non-Complianc.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models (VLMs) are expected to respond helpfully to appropriate requests while withholding compliance with requests that are incorrect, unsafe, infeasible, or unanswerable. However, existing benchmarks predominantly evaluate non-compliance at the level of the query as a whole, assumin...
+
+#### [Latent-Aligned Reasoning for Multimodal Recommendation](http://arxiv.org/abs/2609.04645v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-07/Latent-Aligned_Reasoning_for_Multimodal_Recommenda.pdf)
+- **领域**: cs.IR
+- **核心摘要**: Multimodal Vision-Language Models (VLMs) have demonstrated remarkable capabilities in cross-modal understanding, yet a fundamental challenge persists when applying them to recommendation: as representations propagate through multi-step reasoning, both visual and textual signals progressively attenua...
+
