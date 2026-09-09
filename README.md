@@ -7914,3 +7914,58 @@
 - **领域**: cs.IR
 - **核心摘要**: Multimodal Vision-Language Models (VLMs) have demonstrated remarkable capabilities in cross-modal understanding, yet a fundamental challenge persists when applying them to recommendation: as representations propagate through multi-step reasoning, both visual and textual signals progressively attenua...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-09
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs](http://arxiv.org/abs/2609.09124v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-09/Canonical_Color_as_a_Lens_into_Concept_Decodabilit.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual encoders construct a representation of the image input for Vision-Language models. How much conceptual, as opposed to immediately visible, information does this representation contain? We use canonical color as a controlled test case to ask whether vision encoders make canonical-color informa...
+
+#### [GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting](http://arxiv.org/abs/2609.09082v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-09/GoDeep_Annotation-Free_Open-Vocabulary_3D_Scene_Un.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Open vocabulary 3D semantic segmentation methods typically lift CLIP features into 3D. This embeds points in a joint vision-language space known to behave like a bag-of-words on compositional tasks. Furthermore, even annotation free variants often require a large 3D training corpus and a dedicated 3...
+
+#### [DSE-VTG: Dual-Side Enhancement for Training-Free Video Temporal Grounding](http://arxiv.org/abs/2609.08850v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-09/DSE-VTG_Dual-Side_Enhancement_for_Training-Free_Vi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Text-guided Video Temporal Grounding (VTG) aims to localize the relevant segments in an untrimmed video based on text queries, yet collecting dense temporal annotations and training task-specific models remain costly and brittle under distribution shift. Recent training-free VTG approaches mitigate ...
+
+#### [CASD: Chunk-Aligned Semantic Distillation for Multi-StageRobot Manipulation](http://arxiv.org/abs/2609.08638v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-09/CASD_Chunk-Aligned_Semantic_Distillation_for_Multi.pdf)
+- **领域**: cs.RO
+- **核心摘要**: An action chunk can span several stages of a manipulation task, yet a label for its first step describes only the current stage. We introduce Chunk-Aligned Semantic Distillation (CASD), which derives semantic targets for entire action chunks. An offline vision--language model segments demonstrations...
+
+#### [CLAMP: Constrained Decoding for Vision-Language Embodied Planning](http://arxiv.org/abs/2609.08602v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-09/CLAMP_Constrained_Decoding_for_Vision-Language_Emb.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Embodied planning increasingly relies on vision-language models (VLMs) to translate instructions and visual observations into executable action sequences. However, fluent plans are not always executable. A VLM may refer to objects that are not visually observed, select actions whose required afforda...
+
+#### [Estimating Semantic Ambiguity via Gaussian Context Distributions for VLM-Driven Traversability Analysis](http://arxiv.org/abs/2609.08583v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-09/Estimating_Semantic_Ambiguity_via_Gaussian_Context.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Autonomous navigation in unstructured environments requires robust scene understanding, yet Vision-Language Models (VLMs) often suffer from semantic ambiguity, where conflicting predictions can lead to dangerous failures. To address this, we present a novel pipeline for vision-based traversability e...
+
+#### [STSG-VQA: Evidence-Grounded Temporal Question Answering from Surgical Spatio-Temporal Scene Graphs](http://arxiv.org/abs/2609.08543v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-09/STSG-VQA_Evidence-Grounded_Temporal_Question_Answe.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite recent advances in surgical vision-language models (VLMs), temporal reasoning remains limited because existing supervision is largely frame-centric. Frame-level scene graphs (SGs) have proven effective in providing structured representations of surgical environments but do not explicitly mod...
+
+#### [Safe Task Planning with Long-Term Graph Memory for Embodied Agents](http://arxiv.org/abs/2609.08444v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-09/Safe_Task_Planning_with_Long-Term_Graph_Memory_for.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Large language models (LLMs) and vision-language models (VLMs) have significantly advanced zero-shot task planning for embodied agents. However, most LLM- and VLM-driven methods struggle to generate safe high-level actions due to a lack of physical risk awareness, particularly under partial observab...
+
+#### [Towards Embodied Air-Ground Cooperative Object Search: Benchmark, Dataset and Agentic Method](http://arxiv.org/abs/2609.08402v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-09/Towards_Embodied_Air-Ground_Cooperative_Object_Sea.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Air-Ground Object Search (AGOS) in urban environments is a challenging embodied task, which requires an Unmanned Aerial Vehicle (UAV) and an Unmanned Ground Vehicle (UGV) to jointly search for and verify a specified target vehicle from multi-view visual references. To study this underexplored proble...
+
+#### [To Adapt or Not to Adapt? Selective Adaptation for Vision-Language Models](http://arxiv.org/abs/2609.08367v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-09/To_Adapt_or_Not_to_Adapt_Selective_Adaptation_for_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-time adaptation (TTA) has emerged as a prominent strategy for adapting vision-language models to distribution shifts during inference. We conduct a per-sample analysis of model predictions before and after adaptation, and observe two failure modes in existing TTA methods that echo previous work...
+
