@@ -7969,3 +7969,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Test-time adaptation (TTA) has emerged as a prominent strategy for adapting vision-language models to distribution shifts during inference. We conduct a per-sample analysis of model predictions before and after adaptation, and observe two failure modes in existing TTA methods that echo previous work...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-10
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Precision in Rice Variety Classification using Stacking-Based Ensemble Learning](http://arxiv.org/abs/2609.10524v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-10/Precision_in_Rice_Variety_Classification_using_Sta.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Rice, a staple food for a significant portion of the global population, exhibits remarkable diversity in its varieties, presenting substantial challenges for accurate identification by consumers, traders, and farmers. This complexity often facilitates fraudulent practices, such as the unauthorized m...
+
+#### [Show-Harness: Just a VLM Agent Can Play Robots](http://arxiv.org/abs/2609.10522v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-10/Show-Harness_Just_a_VLM_Agent_Can_Play_Robots.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to "play" robots through a compact semantic interface linking intent to action...
+
+#### [Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization](http://arxiv.org/abs/2609.10410v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-10/Can_Foundation_Models_Moderate_Online_Content_Eval.pdf)
+- **领域**: cs.CL
+- **核心摘要**: The growing complexity of content moderation policies presents a critical challenge for their consistent operationalization. While foundation models possess the basic capabilities needed to confront this challenge, whether they can reliably moderate online content remains an unanswered question. In ...
+
+#### [Learning to Adapt and Calibrate: Score Distribution Alignment for Few-Shot Uncertainty Prediction in Medical VLMs](http://arxiv.org/abs/2609.10333v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-10/Learning_to_Adapt_and_Calibrate_Score_Distribution.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Uncertainty estimation for medical vision--language models (VLMs) using conformal prediction has gained increasing attention due to its distribution-free coverage guarantees. However, standard conformal prediction relies on exchangeability between calibration and test data and typically requires a s...
+
+#### [On-Policy Distillation for Vision-Language Model Adaptation, an Effective Paradigm on Low-Quality Multimodal Data](http://arxiv.org/abs/2609.10321v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-10/On-Policy_Distillation_for_Vision-Language_Model_A.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Knowledge distillation offers an efficient route to transfer a task-adapted vision-language teacher to a compact student. The training target in current vision-language distillation methods is typically constructed from the teacher prediction and applied uniformly to all training samples, making it ...
+
+#### [UOT-Gap: A Variational Principle for the Modality Gap in Vision-Language Models via Unbalanced Optimal Transport](http://arxiv.org/abs/2609.10224v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-10/UOT-Gap_A_Variational_Principle_for_the_Modality_G.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models such as CLIP embed images and text in a shared space, where modality-specific distributions often remain separated. Existing accounts connect this modality gap to initialization, contrastive dynamics, and information imbalance, while its distributional and pairwise contributio...
+
+#### [Cost-Aware Vision--Language Model Arbitration for Fabric Structure Recognition A Deployable Multi-Agent System](http://arxiv.org/abs/2609.10065v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-10/Cost-Aware_Vision--Language_Model_Arbitration_for_.pdf)
+- **领域**: eess.IV
+- **核心摘要**: Recognizing a fabric's structure is a prerequisite for translating textile-specific material information into structured digital form for downstream supply-chain systems. Pure CNN classifiers are cost-efficient but fail on visually ambiguous categories; vision--language models (VLMs) generalize more...
+
+#### [From Few-Shot Segmentation to Clinician-in-the-Loop Medical Image Analysis](http://arxiv.org/abs/2609.10001v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-10/From_Few-Shot_Segmentation_to_Clinician-in-the-Loo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Few-shot medical image segmentation (FSMIS) seeks to delineate unseen structures from a small support set, but its standard formulation fixes task-defining evidence before inference. This assumption is fragile when query cases exhibit acquisition shift, atypical pathology, ambiguous boundaries, or p...
+
+#### [From Pixels to Hierarchical Sequences: Quadtree Mask Encoding for Vision-Language Binary Change Detection](http://arxiv.org/abs/2609.09876v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-10/From_Pixels_to_Hierarchical_Sequences_Quadtree_Mas.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Dense change detection in remote sensing requires vision-language models (VLMs) to compare bi-temporal images and generate accurate pixel-level masks. Existing VLMs are largely confined to change captioning outputs, and the few that produce pixel-level masks still rely on external decoders or flat t...
+
+#### [LogiScope-VQA: Benchmarking Vision-Language Models for Logistics Hazard Identification in Industrial Scenarios](http://arxiv.org/abs/2609.09790v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-10/LogiScope-VQA_Benchmarking_Vision-Language_Models_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Multimodal Models (LMMs) large-scale deployment in industrial warehouse settings specifically necessitates that models exhibit human-expert-level hazard-oriented perception, understanding, and reasoning capabilities. However, the scarcity of real industrial data, tightly coupled to commercial ...
+
