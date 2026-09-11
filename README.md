@@ -8024,3 +8024,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Large Multimodal Models (LMMs) large-scale deployment in industrial warehouse settings specifically necessitates that models exhibit human-expert-level hazard-oriented perception, understanding, and reasoning capabilities. However, the scarcity of real industrial data, tightly coupled to commercial ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-11
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Can Edge-Deployable Vision-Language Models Identify Species?](http://arxiv.org/abs/2609.11916v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-11/Can_Edge-Deployable_Vision-Language_Models_Identif.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to evaluate for species identification. We test whether models in this deployment-relevant...
+
+#### [Combining Synthetic and Real Data for Low-Resource Historical OCR: A Manchu Case Study](http://arxiv.org/abs/2609.11495v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-11/Combining_Synthetic_and_Real_Data_for_Low-Resource.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Manchu, now critically endangered, was one of the principal languages of the Qing empire (1636-1912), and its extensive archival record is increasingly digitized but remains difficult to search and analyze at scale. Previous work showed that vision-language models (VLMs) trained only on synthetic Ma...
+
+#### [Beyond Confidence: Stability-Aware Test-Time Adaptation for LLM Reasoning](http://arxiv.org/abs/2609.11393v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-11/Beyond_Confidence_Stability-Aware_Test-Time_Adapta.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Test-time adaptation has emerged as a lightweight alternative to costly post-training for improving the reasoning capabilities of Large Language Models (LLMs) on downstream tasks. Predictive entropy provides a model-derived signal for such adaptation, guiding models toward higher-confidence reasonin...
+
+#### [Routing by Reasoning Need: Trajectory-Aware Decoding Control for Diffusion Vision-Language Models](http://arxiv.org/abs/2609.11315v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-11/Routing_by_Reasoning_Need_Trajectory-Aware_Decodin.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Diffusion vision-language models generate answers through iterative refinement, exposing intermediate answer trajectories that can be inspected and controlled at inference time. However, this controllability creates a reasoning-need mismatch, where a universal generation length is applied to questio...
+
+#### [Your Model Already Knows Don't Teach It, Learn to Ask It: Soft Prompting for Few-Shot Adaptation of Vision-Language Models](http://arxiv.org/abs/2609.11310v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-11/Your_Model_Already_Knows_Dont_Teach_It_Learn_to_As.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We address few-shot object detection with vision-language models (VLMs) in out-of-domain settings such as aerial, industrial, and medical imagery, using only ten annotated images for supervision. Existing adaptation methods are discrete prompt optimization and LoRA fine-tuning. We revisit a third op...
+
+#### [When is Test-Time Adaptation Identifiable From Unlabeled Evidence?](http://arxiv.org/abs/2609.11235v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-11/When_is_Test-Time_Adaptation_Identifiable_From_Unl.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-time adaptation (TTA) offers many ways to update a deployed model without labels, but choosing the wrong update can make a strong source model worse. Recent methods therefore try to predict which adaptation will work from unlabeled test data. We ask a prior question: does the evidence given to ...
+
+#### [Beyond Benchmarks: Using VLMs to Reveal Systematic Classification Failures Under Real World Conditions](http://arxiv.org/abs/2609.11126v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-11/Beyond_Benchmarks_Using_VLMs_to_Reveal_Systematic_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Verification and validation (V&V) of classification models is crucial to enable a wide range of sensor processing applications. Currently, the V&V process relies on time-consuming manual inspection of erroneous samples to find meaningful patterns. This work explores the use of Vision Language Models...
+
+#### [New Evidence, Same Choice: Testing Physical Experiment Selection in Vision Language Models](http://arxiv.org/abs/2609.11022v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-11/New_Evidence_Same_Choice_Testing_Physical_Experime.pdf)
+- **领域**: cs.CV
+- **核心摘要**: A model first sees an image from one physical measurement experiment, such as how far a block coasted, and must answer a question about a new trial, such as whether the block will pass a target after a fixed push. The initial experiment may provide enough information to answer, or the model may need...
+
+#### [Evaluation of Vision-Language Models Across Diverse Coastal Environments](http://arxiv.org/abs/2609.10855v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-11/Evaluation_of_Vision-Language_Models_Across_Divers.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) enable robotic per- ception by associating visual observations with natural-language concepts. Yet their performance in coastal environments remains largely unexplored. We introduce a densely labeled coastal dataset containing more than 1,000 images collected across sev...
+
+#### [BodyCam-VQA: Enhanced Body-Worn Camera Video Captioning via Multimodal Reasoning and Probe Question Generation](http://arxiv.org/abs/2609.10815v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-11/BodyCam-VQA_Enhanced_Body-Worn_Camera_Video_Captio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Police body-worn camera (BWC) footage has emerged as a critical aspect of law enforcement that ensures legal transparency, officer accountability, and the protection of civil rights. However, effectively processing this data remains a significant challenge due to its multimodal video format. BWC vid...
+
