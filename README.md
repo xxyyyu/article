@@ -8134,3 +8134,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Police body-worn camera (BWC) footage has emerged as a critical aspect of law enforcement that ensures legal transparency, officer accountability, and the protection of civil rights. However, effectively processing this data remains a significant challenge due to its multimodal video format. BWC vid...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-15
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Beyond Accuracy: Robustness, Cost, and Governance Trade-offs for Vision-Language Models in Templated Document Extraction](http://arxiv.org/abs/2609.15706v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-15/Beyond_Accuracy_Robustness_Cost_and_Governance_Tra.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-language models (VLMs) are increasingly used to extract structured fields from business documents, yet most evaluations report accuracy on clean benchmarks and offer little guidance to practitioners choosing an approach for a given task complexity. We address this gap with a measurement-groun...
+
+#### [NoteVQA: Benchmarking VLMs on Real-Life Questions from Human Communities](http://arxiv.org/abs/2609.15695v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-15/NoteVQA_Benchmarking_VLMs_on_Real-Life_Questions_f.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-language models (VLMs) increasingly power consumer-facing AI search, yet evaluating them on the diversity of everyday visual questions remains challenging. Existing benchmarks often target predefined capabilities, such as multi-hop retrieval or long-form synthesis, whereas users ask photo-gro...
+
+#### [Don't Send What You Don't Need: Question-Guided Token Pruning as a Privacy Defense for Vision-Language Models](http://arxiv.org/abs/2609.15671v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-15/Dont_Send_What_You_Dont_Need_Question-Guided_Token.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual Question Answering (VQA) with Vision-Language Models (VLMs) is increasingly used in privacy-sensitive and bandwidth-constrained settings. Federated Learning (FL), Split Learning (SL), and U-Shaped Split Learning (USL) keep raw data local, but transmitting all visual tokens across a model part...
+
+#### [From Model Patterns to Abstract Semantics in Compositional Zero-Shot Learning](http://arxiv.org/abs/2609.15649v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-15/From_Model_Patterns_to_Abstract_Semantics_in_Compo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Compositional Zero Shot Learning aims to recognize unseen compositions by recombining learned primitives. Recent methods rely on vision language models and attempt to explicitly model contextual variations of primitives through multiple representations. However, such approaches are limited by fixed ...
+
+#### [Human-Grounded Calibration for Long-Text Image-Text Congruence in Vision-Language Models](http://arxiv.org/abs/2609.15640v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-15/Human-Grounded_Calibration_for_Long-Text_Image-Tex.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Long-text image--text congruence scoring is increasingly important for vision-language systems that must evaluate whether detailed textual descriptions match visual content. However, raw similarity scores from dual-encoder models are difficult to interpret as calibrated congruence measures, especial...
+
+#### [ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs](http://arxiv.org/abs/2609.15635v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-15/ModaLens_Measuring_Image_Sensitivity_in_Report-Con.pdf)
+- **领域**: cs.CV
+- **核心摘要**: A radiology report can already answer a clinical question, so it is hard to tell whether a vision-language model also uses the image. ModaLens, a paired image-swap audit, measures how report availability changes image sensitivity: MedGemma-27B on 3,199 paired MIMIC-CXR cases from 293 patients, all 1...
+
+#### [A Unified Vision-Language Model for PSMA PET/CT Report Generation, Visual Question Answering, and Lesion Segmentation](http://arxiv.org/abs/2609.15603v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-15/A_Unified_Vision-Language_Model_for_PSMA_PETCT_Rep.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Accurate PSMA PET/CT interpretation is central to prostate cancer management, yet existing PET/CT AI models typically address isolated tasks. We propose a unified PSMA PET/CT vision-language model for report generation, visual question answering, and lesion segmentation. The framework adopts an LLaV...
+
+#### [AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation](http://arxiv.org/abs/2609.15457v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-15/AnchorGUI_Asymmetric_Memory_for_Dual-Scale_Learnin.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) enable autonomous GUI navigation, but agents still struggle to process and learn from dense, continuous visual histories. This bottleneck hinders both immediate error correction within a single episode (intra-trial) and experience distillation across multiple attempts (...
+
+#### [A Conservative OCR-Enabled Workflow for R214 Sodium Screening of South African Packaged Foods](http://arxiv.org/abs/2609.15427v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-15/A_Conservative_OCR-Enabled_Workflow_for_R214_Sodiu.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Using food package images to monitor sodium and salt content against South Africa's R214 sodium limits is challenging when screening decisions require product identity, nutrition facts panel evidence, reporting basis, and category-specific thresholds. This study presents a conservative image-based w...
+
+#### [Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs](http://arxiv.org/abs/2609.15322v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-15/Planning_in_the_Backbone_DiffAdapterVLA_for_Native.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Pretrained driving vision-language models (VLMs) integrate visual, route, language, and driving context into rich driving priors, yet their representation objectives remain separated from continuous driving planning. Existing methods typically begin trajectory generation only after the VLM has forme...
+
