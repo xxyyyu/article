@@ -8189,3 +8189,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Pretrained driving vision-language models (VLMs) integrate visual, route, language, and driving context into rich driving priors, yet their representation objectives remain separated from continuous driving planning. Existing methods typically begin trajectory generation only after the VLM has forme...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-16
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Tables Decoded: DELTA for Structure, TARQA for Understanding](http://arxiv.org/abs/2609.17458v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-16/Tables_Decoded_DELTA_for_Structure_TARQA_for_Under.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Table understanding is a core task in document intelligence, encompassing two key subtasks: table reconstruction and table visual question answering (TabVQA). While recent approaches predominantly rely on vision- language models (VLMs) operating on table images, we propose a more scalable and effect...
+
+#### [BrainFocus: EEG-Guided ROI Selection for Efficient Vision-Language Models](http://arxiv.org/abs/2609.17443v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-16/BrainFocus_EEG-Guided_ROI_Selection_for_Efficient_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) achieve strong visual question answering (VQA) performance, but processing large cluttered images is computationally expensive when only a small region is relevant. Electroencephalography (EEG) signals, which capture human neural responses to visual stimuli, can provide...
+
+#### [Vroom-Vroom at SHROOM-Visions: A Multi-Judge Committee for Detecting Hallucinated Spans in Vision-Language Outputs](http://arxiv.org/abs/2609.17327v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-16/Vroom-Vroom_at_SHROOM-Visions_A_Multi-Judge_Commit.pdf)
+- **领域**: cs.CL
+- **核心摘要**: This paper describes our submission to the SHROOM-Visions shared task on detecting and classifying hallucinated character spans in vision-language model outputs across four languages. We employ several fine-tuned vision-language models as independent annotators and combine their span predictions thr...
+
+#### [Probe-VAD: Ordinal Likelihood Probing for Training-Free Video Anomaly Detection](http://arxiv.org/abs/2609.17211v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-16/Probe-VAD_Ordinal_Likelihood_Probing_for_Training-.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Video anomaly detection (VAD) aims to localize anomalous events in untrimmed videos. Vision-language models (VLMs) provide rich visual understanding for training-free VAD, but existing approaches impose restrictive interfaces between visual understanding and anomaly scoring. Caption-based pipelines ...
+
+#### [DS2-Based Cross-Data-Space Interoperability for Precision Agriculture](http://arxiv.org/abs/2609.17185v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-16/DS2-Based_Cross-Data-Space_Interoperability_for_Pr.pdf)
+- **领域**: cs.DC
+- **核心摘要**: Despite the strategies of modern precision agriculture to leverage the integration of legacy agricultural systems, the challenges of IoT data fragmentation, farmers' sovereignty preservation, and limited interoperability still persist. This paper presents our work, conducted within the Horizon Europ...
+
+#### [ResLRP: The Role of Residual Cancellation in Attribution Instability in Vision Transformers](http://arxiv.org/abs/2609.17152v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-16/ResLRP_The_Role_of_Residual_Cancellation_in_Attrib.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision Transformers (ViTs) are central to most modern vision models, yet obtaining input attributions that are fine-grained, faithful, and stable remains challenging. Layer-wise Relevance Propagation (LRP) has been adapted to transformer attention, but in ViTs it often produces noisy, unfaithful exp...
+
+#### [Interactive Memory Learning for Long-Term Conversations](http://arxiv.org/abs/2609.17088v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-16/Interactive_Memory_Learning_for_Long-Term_Conversa.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Recent advancements in large language models have significantly enhanced the capabilities of agents in modeling long-term conversations. Despite these successes, existing approaches typically adopt a static heuristic paradigm, where information is passively archived without adaptive memory valuation...
+
+#### [Sparse MLLM Anchors, Dense Adaptation: Breaking the Self-Referential Loop in Wild Test-Time Adaptation](http://arxiv.org/abs/2609.17040v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-16/Sparse_MLLM_Anchors_Dense_Adaptation_Breaking_the_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Wild test-time adaptation (WTTA) updates a source model online under small test batches, concurrent distribution shifts, and time-varying class imbalance. Most WTTA methods derive their adaptation signals, including predictive uncertainty, sample reliability, and local feature geometry, from the mod...
+
+#### [sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader](http://arxiv.org/abs/2609.17021v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-16/sensVLA_Spatially-Grounded_Vision-Language-Action_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Autonomous wheel-loader control requires joint reasoning over task semantics, egocentric vision, proprioception, and 3D scene geometry. We present sensVLA, a Vision-Language-Action (VLA) architecture that combines a Qwen3-2B Vision-Language Model (VLM) with a fully trainable transformer action exper...
+
+#### [Search-Based Metamorphic Testing of Vision-Language Models in Autonomous Underwater Robotic Software](http://arxiv.org/abs/2609.17007v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-16/Search-Based_Metamorphic_Testing_of_Vision-Languag.pdf)
+- **领域**: cs.SE
+- **核心摘要**: Our industry partner focuses on quality assurance for industrial systems across multiple domains, including maritime systems, such as overwater vessels and autonomous underwater robots (AURs). Despite the strong performance of vision-language models (VLMs) in scene understanding, image captioning, a...
+
