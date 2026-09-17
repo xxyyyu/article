@@ -8244,3 +8244,58 @@
 - **领域**: cs.SE
 - **核心摘要**: Our industry partner focuses on quality assurance for industrial systems across multiple domains, including maritime systems, such as overwater vessels and autonomous underwater robots (AURs). Despite the strong performance of vision-language models (VLMs) in scene understanding, image captioning, a...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-17
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection](http://arxiv.org/abs/2609.19143v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-17/PANORAMA_Panoptic_Grounded_Captioning_via_Mask_Pro.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Existing methods that c...
+
+#### [In-Context Robot Learning with VLM Agents](http://arxiv.org/abs/2609.19138v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-17/In-Context_Robot_Learning_with_VLM_Agents.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Enabling robots to adapt to unfamiliar environments as readily as humans remains a moonshot goal of embodied AI. No finite collection of demonstrations can cover every task and situation a robot will encounter, making the ability to learn from context at deployment essential for generalization. Such...
+
+#### [MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education](http://arxiv.org/abs/2609.19088v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-17/MUSE_Benchmarking_Large_Vision-Language_Models_on_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language learning, models must interpret artistic imagery, understand its semantic, affective, and cultural cont...
+
+#### [PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image](http://arxiv.org/abs/2609.18920v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-17/PhysVGGT_Feed-Forward_Dense_Physical_Property_Esti.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Physical properties, such as friction, hardness, stiffness, and density, govern how robots should grasp, manipulate and interact with objects, yet estimating these properties from RGB images remains challenging. Existing methods typically employ per-object reconstruction augmented with physical prop...
+
+#### [KINO: A Keyframe Interface for VLM Planning and Whole-Body Control in Humanoid Loco-Manipulation](http://arxiv.org/abs/2609.18869v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-17/KINO_A_Keyframe_Interface_for_VLM_Planning_and_Who.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Humanoid loco-manipulation requires robots to interpret task instructions and scene semantics while executing coordinated whole-body motions. We propose a hierarchical framework that uses motion keyframes as an intermediate representation between Vision-Language Model (VLM) planning and Reinforcemen...
+
+#### [Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection](http://arxiv.org/abs/2609.18860v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-17/Decodable_but_Misrouted_Sparse_Features_Uncover_a_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: When a large vision-language model misclassifies a harmful meme, the failure may reflect missing internal evidence or an inability to route represented evidence to its output. We distinguish these cases in Gemma-3 and Qwen3.5 using sparse autoencoders, role-conditioned probes, causal interventions, ...
+
+#### [Calibrated Probabilistic Obstruction Reasoning with Vision-Language Models for Grasping in Clutter](http://arxiv.org/abs/2609.18718v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-17/Calibrated_Probabilistic_Obstruction_Reasoning_wit.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Retrieving a target from clutter requires deciding whether to grasp the target, remove a blocker, or defer. Existing methods typically commit to a single obstruction graph or removal strategy, ignoring uncertainty across alternative scene interpretations. They also rely on miscalibrated vision-langu...
+
+#### [RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection](http://arxiv.org/abs/2609.18690v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-17/RankGround_Efficient_High-Resolution_GUI_Grounding.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Graphical User Interface (GUI) grounding is a fundamental perception task for multimodal agents, enabling them to interpret natural language instructions and interact with digital interfaces. Existing methods face a fundamental trade-off between accuracy and efficiency: direct full-image inference o...
+
+#### [Label-free steering: Compressing test-time reinforcement learning into bias-only subspaces](http://arxiv.org/abs/2609.18587v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-17/Label-free_steering_Compressing_test-time_reinforc.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Test-time reinforcement learning (TTRL) enables models to improve their reasoning without relying on labeled training data, but existing approaches typically optimize a large fraction of the model parameters. This raises a natural question: can effective test-time adaptation emerge when both the rew...
+
+#### [GroundingVLN: Reasoning and Acting with Grounding for Vision-Language Navigation](http://arxiv.org/abs/2609.18581v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-17/GroundingVLN_Reasoning_and_Acting_with_Grounding_f.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Although vision-language models (VLMs) possess strong visual understanding and reasoning capabilities, existing vision-and-language navigation (VLN) agents struggle to connect semantic reasoning with spatial execution. Two coupled gaps remain in this connection, as intermediate reasoning is not expl...
+
