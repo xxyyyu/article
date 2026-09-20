@@ -8409,3 +8409,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Language-guided navigation for terrestrial-aerial bimodal robots requires selecting routes and locomotion modes that match scene context and task intent. Generated videos can represent such motion sequences, but recovering metrically consistent navigation references from them is challenging because ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-20
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [StageGuard: Learning Stage Transitions for Long-Horizon Robot Tasks via Agentic Distillation](http://arxiv.org/abs/2609.20791v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-20/StageGuard_Learning_Stage_Transitions_for_Long-Hor.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Hierarchical planning frameworks combine skills from multiple robot control policies for long-horizon task execution, where determining when to terminate the current skill and advance to the next subtask is essential. Existing approaches often rely on pre-designed completion signal checkers that are...
+
+#### [Should This Case Be Adapted? Prediction Fragmentation Controls Test-Time Adaptation](http://arxiv.org/abs/2609.20700v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-20/Should_This_Case_Be_Adapted_Prediction_Fragmentati.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Episodic test-time adaptation resets a frozen segmenter to source weights $M_0$ on each case and adapts for a fixed step count. A fixed horizon conflates a cohort-level question, how far to adapt, with an irreducibly per-case one, whether this case should be adapted at all. Cohort means hide that de...
+
+#### [Earth Surface Immune System for Rapid Monitoring of Unknown Anomalies](http://arxiv.org/abs/2609.20662v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-20/Earth_Surface_Immune_System_for_Rapid_Monitoring_o.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Earth surface anomalies, driven by escalating climate change, and expanding human activities, are increasing in both frequency and diversity, yet their limited historical data and unpredictability make them fundamentally different from conventional remote sensing targets. Existing methods address sp...
+
+#### [Semantic SLAM in Precision Agriculture using Bayesian Inference](http://arxiv.org/abs/2609.20604v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-20/Semantic_SLAM_in_Precision_Agriculture_using_Bayes.pdf)
+- **领域**: cs.RO
+- **核心摘要**: This paper presents a real-time semantic world modeling framework specialized for precision agriculture using autonomous robots. The framework combines probabilistic mapping of objects and their semantic attributes, updated through Bayesian inference, with a graph-based Simultaneous Localization and...
+
+#### [Imagine-TAMP: Imagination-Guided Task and Motion Planning in Partial Observability](http://arxiv.org/abs/2609.20396v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-20/Imagine-TAMP_Imagination-Guided_Task_and_Motion_Pl.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Robots operating in cluttered environments must often manipulate objects whose locations are only partially observable. A central challenge is deciding whether to acquire another observation or to first manipulate objects that may occlude the target. Conventional task and motion planning (TAMP) appr...
+
+#### [Cross-Modal Attention Acts as a Frequency Filter: Why Verbose Prompts Improve Robustness in Vision-Language Models](http://arxiv.org/abs/2609.20139v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-20/Cross-Modal_Attention_Acts_as_a_Frequency_Filter_W.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are fragile under image corruption. We find that the wording of the question affects VLMs in two opposite ways. Verbose questions make VLMs substantially more robust---e.g., rephrasing "Is there a cat?" into "Please look carefully and answer: is there a cat?". Conversel...
+
+#### [Perception, Layout, and Validation: Calibrated Confidence for Reliable Straight-Through Processing of Financial Documents](http://arxiv.org/abs/2609.20110v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-20/Perception_Layout_and_Validation_Calibrated_Confid.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Straight-through processing (STP) on extracted key-value fields from financial documents without human review requires a calibrated probability together with a bounded guarantee on the residual error of the auto-approved tier. The emergence of modern Vision Language Models (VLMs) provides an out-of-...
+
+#### [A Free Lunch? Adapting PP-OCRv6 for Historical Text Recognition](http://arxiv.org/abs/2609.20064v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-20/A_Free_Lunch_Adapting_PP-OCRv6_for_Historical_Text.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite impressive reported scores, large vision-language models have seen limited practical uptake in historical automatic text recognition because of their computational cost, dependence on large-scale pretraining, and hallucination. Historical ATR therefore continues to rely largely on compact CR...
+
+#### [Uni-LaDiR: Latent Diffusion Unifies Multimodal Reasoning](http://arxiv.org/abs/2609.19878v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-20/Uni-LaDiR_Latent_Diffusion_Unifies_Multimodal_Reas.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Multimodal reasoning requires models to draw on information from multiple modalities throughout the reasoning process. Yet existing methods often concatenate modality-specific thought tokens in a single sequence, leaving the model to bridge representational differences as it reasons across modalitie...
+
+#### [TADreamer: Zero-Shot Language-Guided 3D Navigation for Terrestrial-Aerial Bimodal Robots via Video Imagination](http://arxiv.org/abs/2609.19824v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-20/TADreamer_Zero-Shot_Language-Guided_3D_Navigation_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Language-guided navigation for terrestrial-aerial bimodal robots requires selecting routes and locomotion modes that match scene context and task intent. Generated videos can represent such motion sequences, but recovering metrically consistent navigation references from them is challenging because ...
+
