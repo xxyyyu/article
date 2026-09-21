@@ -8464,3 +8464,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Language-guided navigation for terrestrial-aerial bimodal robots requires selecting routes and locomotion modes that match scene context and task intent. Generated videos can represent such motion sequences, but recovering metrically consistent navigation references from them is challenging because ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-21
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [MintAct: A Unified Visual Agent for Digital Environments](http://arxiv.org/abs/2609.22083v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-21/MintAct_A_Unified_Visual_Agent_for_Digital_Environ.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We present MintAct, a family of vision-language models that unifies UI grounding, multi-step navigation across mobile, desktop, and web, and visual tool use, trained at 2B, 4B, and 8B scales. Through careful design of our environments, data, and training recipes, MintAct models match the performance...
+
+#### [DiaVLo: Diagnosing Behaviours of Vision-Language Models](http://arxiv.org/abs/2609.22008v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-21/DiaVLo_Diagnosing_Behaviours_of_Vision-Language_Mo.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones, is central to their reliable deployment. Yet, methods that identify VLM behaviours remain scarce. We pr...
+
+#### [When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence](http://arxiv.org/abs/2609.21942v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-21/When_Should_a_Failing_Robot_Ask_Initiating_Correct.pdf)
+- **领域**: cs.RO
+- **核心摘要**: A robot that fails at a task faces the first decision in corrective dialogue: act on its own diagnosis, consult another onboard sensor, or interrupt a person. Choosing well requires knowing how much the robot's sensors reveal about the cause and how reliable the robot's own diagnosis is. We build a ...
+
+#### [BLINC: Blind Calibration For Training-Free Speech Enhancement Adaptation](http://arxiv.org/abs/2609.21898v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-21/BLINC_Blind_Calibration_For_Training-Free_Speech_E.pdf)
+- **领域**: eess.AS
+- **核心摘要**: Speech enhancement (SE) models degrade under domain shifts and have to adapt to unseen target domains during deployment. Most existing test-time adaptation (TTA) methods for SE do so by adapting a subset of the model weights using a self-supervised loss, which requires backpropagation at test-time a...
+
+#### [Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition](http://arxiv.org/abs/2609.21879v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-21/Benchmarking_the_Explanatory_Quality_of_Open-Weigh.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have recently been proposed as promising tools for face recognition, as they can produce natural language explanations alongside similarity scores. This capability is considered appealing for face comparisons in forensic contexts, which require decisions to be transpare...
+
+#### [Touvigation: Embodied Adaptive Object Acquisition for Blind and Low-Vision Users in Unfamiliar Indoor Environments](http://arxiv.org/abs/2609.21828v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-21/Touvigation_Embodied_Adaptive_Object_Acquisition_f.pdf)
+- **领域**: cs.HC
+- **核心摘要**: Blind and low-vision users often face challenges when locating and physically acquiring objects in unfamiliar indoor environments. Existing vision-language-model-based assistants can provide semantic descriptions but may introduce latency, hallucinations, and guidance that is poorly aligned with emb...
+
+#### [Scaling Vision-Language Reward Learning for Robot Manipulation in Parallel Simulation](http://arxiv.org/abs/2609.21767v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-21/Scaling_Vision-Language_Reward_Learning_for_Robot_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language models (VLMs) can replace human annotators in preference-based reward learning, but sequential API requests and single-environment data collection make training slow and costly. We present RAPID (Reward learning with Adaptive Parallel Image Diversity), a system that couples GPU-paral...
+
+#### [Beyond Benchmark Scores: Auditing Medical Vision-Language Models for Chest X-Ray Tuberculosis Screening](http://arxiv.org/abs/2609.21763v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-21/Beyond_Benchmark_Scores_Auditing_Medical_Vision-La.pdf)
+- **领域**: cs.CV
+- **核心摘要**: A medical model's benchmark score does not establish that the same conclusion holds under a different evaluation. This study tests whether claims about model ranking, score reliability and screening performance survive changes in cohort, prompt, negative spectrum, specified prevalence and operating ...
+
+#### [ECG Mirage: Revealing and Mitigating the Underutilisation of ECGs in Vision-Language Models for Clinical Prediction](http://arxiv.org/abs/2609.21755v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-21/ECG_Mirage_Revealing_and_Mitigating_the_Underutili.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Emergency department (ED) decision-making relies on heterogeneous clinical information, including patient history, vital signs, laboratory results, and electrocardiograms (ECGs). Vision--language models (VLMs) can jointly process these modalities, but strong predictive performance does not necessari...
+
+#### [Balanced Prompt Adaptation against Entropy-Induced Collapse for Test-Time Binary Segmentation](http://arxiv.org/abs/2609.21743v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-21/Balanced_Prompt_Adaptation_against_Entropy-Induced.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Entropy minimization is a standard objective for test-time adaptation (TTA), but it can fail in imbalanced binary segmentation. Unlike image classification, dense segmentation aggregates thousands of pixel predictions, allowing the larger predicted class to dominate the update, pull minority predict...
+
