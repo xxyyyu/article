@@ -8519,3 +8519,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Entropy minimization is a standard objective for test-time adaptation (TTA), but it can fail in imbalanced binary segmentation. Unlike image classification, dense segmentation aggregates thousands of pixel predictions, allowing the larger predicted class to dominate the update, pull minority predict...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-22
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [MIGU: Multimodal Instruction Grounding under Uncertainty for Manipulation Planning](http://arxiv.org/abs/2609.24995v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-22/MIGU_Multimodal_Instruction_Grounding_under_Uncert.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Understanding natural human instructions is crucial for deploying robots in human-centric environments. We study multimodal instruction grounding, where language and gesture provide complementary but uncertain cues. We present MIGU, a modular framework that combines semantic and geometric evidence i...
+
+#### [SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models](http://arxiv.org/abs/2609.24875v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-22/SPHQuant_Efficient_extreme_low_bit_weight_quantiza.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent foundation models are moving toward native multimodal Vision-Language Models (VLMs), making VLMs a central form of next-generation foundation models. However, their large language backbones make edge deployment difficult due to high memory footprint and memory-bound autoregressive decoding. W...
+
+#### [INTCORT: Training-Free Spatial Reasoning Enhancement for Vision-Language Models via Input Transformations and Confidence Routing](http://arxiv.org/abs/2609.24813v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-22/INTCORT_Training-Free_Spatial_Reasoning_Enhancemen.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have demonstrated remarkable capabilities in multimodal tasks, yet they still exhibit poor ability in spatial reasoning. Existing training-dependent and training-free enhancement methods suffer from high computational costs with catastrophic forgetting and internal mech...
+
+#### [PrismGPT: Proxy-Guided Learning for Region-Aware Photo Editing with Self-Synthesized Reasoning](http://arxiv.org/abs/2609.24768v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-22/PrismGPT_Proxy-Guided_Learning_for_Region-Aware_Ph.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Professional photo finishing relies on both global adjustments and region-specific local edits guided by semantic masks, yet current automated methods handle this workflow only partially. We present PrismGPT, a Vision-Language Model (VLM) framework that produces structured, region-aware editing plan...
+
+#### [What do VLM-Based Vision-Language Navigation Models Rely on: Interpreting and Steering Policy Behavior](http://arxiv.org/abs/2609.24576v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-22/What_do_VLM-Based_Vision-Language_Navigation_Model.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Modern Vision-Language Navigation (VLN) models rely mostly on pre-trained large Vision-Language Models (VLMs) to predict navigation actions. While this fusion of language instructions and visual observations allows multimodal reasoning, it obscures how information is routed across modalities or what...
+
+#### [HyperCLIP++: Fine-tuning CLIP forOpen-vocabulary Semantic Segmentation in Hyperbolic Space](http://arxiv.org/abs/2609.24564v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-22/HyperCLIP_Fine-tuning_CLIP_forOpen-vocabulary_Sema.pdf)
+- **领域**: cs.CV
+- **核心摘要**: CLIP, a foundational vision-language model, has emerged as a powerful tool for open-vocabulary semantic segmentation. While freezing CLIP's text encoder is known to preserve its generalization capability, recent studies show that fine-tuning both CLIP's text and image encoders jointly significantly ...
+
+#### [ME-VLM:A Unified VLM for Embodied Cognition and Agent Coordination](http://arxiv.org/abs/2609.24526v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-22/ME-VLMA_Unified_VLM_for_Embodied_Cognition_and_Age.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Physical AI requires models to ground visual and linguistic understanding in real-world environments while accounting for environmental constraints and execution feedback. We introduce MachEmbodied-VLM (ME-VLM), a unified vision-language model with two variants, 4B and 35B-A3B, that brings together ...
+
+#### [AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos](http://arxiv.org/abs/2609.24487v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-22/AgentSTAR_Agentic_Shape_Tracking_and_Reconstructio.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In this work, we present a method for shape reconstruction and tracking from video via agentic analysis-by-synthesis. Unlike prior methods which first estimate dense pixel correspondences and then recover object motion from them, our method infers a structured 3D object model, including its geometry...
+
+#### [VPRune: Efficient Training-free Pre-LLM Visual Token Pruning](http://arxiv.org/abs/2609.24485v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-22/VPRune_Efficient_Training-free_Pre-LLM_Visual_Toke.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual token pruning is a promising approach to reducing the inference cost of large vision-language models (LVLMs), yet aggressive token reduction often causes substantial performance degradation. We identify three key factors behind this degradation: text-guided selection bias, information loss fr...
+
+#### [VLM-in-Sandbox: Visual Workspaces for Agentic Visual Reasoning](http://arxiv.org/abs/2609.24362v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-22/VLM-in-Sandbox_Visual_Workspaces_for_Agentic_Visua.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Sandboxed computer environments support multi-step reasoning with tools, executable programs, and persistent files, yet their extension from language models to vision-language models (VLMs) introduces a distinct state-management problem. Visual reasoning produces intermediate image-valued evidence--...
+
