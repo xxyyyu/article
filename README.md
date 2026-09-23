@@ -8574,3 +8574,58 @@
 - **领域**: cs.AI
 - **核心摘要**: Sandboxed computer environments support multi-step reasoning with tools, executable programs, and persistent files, yet their extension from language models to vision-language models (VLMs) introduces a distinct state-management problem. Visual reasoning produces intermediate image-valued evidence--...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-23
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Evaluating the Semantic-to-Geometric Gap in Adversarial Defenses Against Vision-Language Model-Based Plagiarism](http://arxiv.org/abs/2609.26733v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-23/Evaluating_the_Semantic-to-Geometric_Gap_in_Advers.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The rapidly advancing capabilities of vision-language models (VLMs) present a systemic challenge to academic integrity. VLMs now allow students to bypass meaningful engagement by capturing and submitting graphical problems as singular images, a practice we define as trivial plagiarism. To provide ed...
+
+#### [Diffusion Drafts, AR Verifies: Accelerating Document OCR with Self-Speculative Decoding](http://arxiv.org/abs/2609.26638v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-23/Diffusion_Drafts_AR_Verifies_Accelerating_Document.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Autoregressive OCR vision-language models accurately convert document images into text and structured markup, but require one sequential decoding step per output token, limiting inference speed. Unlike open-ended text generation, OCR outputs are strongly grounded in the input image, making diffusion...
+
+#### [Semantically-Guided Domain Randomization for Industrial Object Detection in Low-Image-Budget Regimes](http://arxiv.org/abs/2609.26505v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-23/Semantically-Guided_Domain_Randomization_for_Indus.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Retraining visual perception pipelines in High-Mix, Low-Volume (HMLV) automotive manufacturing must be carried out under tight annotation, energy, and time budgets, yet most Synthetic Data Generation (SDG) strategies still operate in the thousands of images. This work evaluates Semantically-Guided D...
+
+#### [Generalizing Manipulation Skills with a Local Coding Agent](http://arxiv.org/abs/2609.26499v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-23/Generalizing_Manipulation_Skills_with_a_Local_Codi.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Today, progress in open-weight language models enables systems capable of writing, executing and debugging code while still running on a single workstation. Most language-driven robots give the model a fixed action interface or a trained policy. Generalizing to a new task therefore means more engine...
+
+#### [SparseNav: Instruction-conditioned Sparse Semantic Perception for Training-Free Vision-Language Navigation](http://arxiv.org/abs/2609.26408v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-23/SparseNav_Instruction-conditioned_Sparse_Semantic_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Map-based vision-language navigation (VLN) relies on persistent spatial representations to connect language understanding with geometric planning. However, acquiring semantics beyond the needs of the current instruction can introduce unnecessary perception cost and irrelevant annotations. Continuous...
+
+#### [Hierarchical Floorplan-Guided Vision-Language Exploration for Embodied Question Answering](http://arxiv.org/abs/2609.26360v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-23/Hierarchical_Floorplan-Guided_Vision-Language_Expl.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Embodied Question Answering (EQA) requires an agent to explore a previously unseen environment, gather relevant information, and answer questions about the scene. Recent approaches leverage Vision-Language Models (VLMs) together with semantic maps or scene graphs to guide exploration. However, explo...
+
+#### [Towards Systematic Qualification of Vision-Language Models for Automotive Perception Systems](http://arxiv.org/abs/2609.25945v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-23/Towards_Systematic_Qualification_of_Vision-Languag.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The field of Artificial Intelligence has been adopted for many application domains. Vision Language Models are one of the recently advanced AI techniques that have been explored to support automotive features such as vehicle perception, and safety assurance. However, such language models are prone t...
+
+#### [Metric-Bench: Exploring In-context Spatial Metric Reasoning in VLMs for Indoor Scenes](http://arxiv.org/abs/2609.25841v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-23/Metric-Bench_Exploring_In-context_Spatial_Metric_R.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Metric reasoning is a critical and challenging task for Vision Language Models (VLMs), playing a pivotal role in embodied AI tasks such as robotic manipulation and autonomous navigation. However, current spatial reasoning remains bottlenecked by rigid pixel-level supervision; such localized optimiza...
+
+#### [Reading Right, Answering Wrong: How Visual Configuration Changes Affect Evidence Use in VLMs](http://arxiv.org/abs/2609.25770v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-23/Reading_Right_Answering_Wrong_How_Visual_Configura.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have achieved strong performance on tasks such as visual question answering, yet small image resizes can turn correct answers into errors. We investigate whether changes in visual configuration, such as image tiling and token arrangement, contribute to this instability....
+
+#### [SurgGraph: Quantitative Laparoscopic Video Understanding via Geometry-Grounded Scene Graphs](http://arxiv.org/abs/2609.25651v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-23/SurgGraph_Quantitative_Laparoscopic_Video_Understa.pdf)
+- **领域**: cs.HC
+- **核心摘要**: Surgical videos are a primary resource for teaching trainees anatomy, tool usage, and procedural skills. Yet learning from them at scale requires systems that understand surgical scenes. Existing approaches fall short: vision-language models lack fine-grained domain reasoning, task-specific models d...
+
