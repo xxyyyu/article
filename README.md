@@ -8629,3 +8629,58 @@
 - **领域**: cs.HC
 - **核心摘要**: Surgical videos are a primary resource for teaching trainees anatomy, tool usage, and procedural skills. Yet learning from them at scale requires systems that understand surgical scenes. Existing approaches fall short: vision-language models lack fine-grained domain reasoning, task-specific models d...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-29
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Harness Learning Enables Generalizable Test-Time Adaptation](http://arxiv.org/abs/2609.35738v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-29/Harness_Learning_Enables_Generalizable_Test-Time_A.pdf)
+- **领域**: cs.CL
+- **核心摘要**: A language-model agent is jointly defined by its model and its harness, the executable program that organizes model calls, tool use, and information flow. Because different tasks call for different ways of organizing these operations, the harness needs to be adapted using feedback from the task at h...
+
+#### [ScAn-Bench: Evaluating Scaling Analysis Methodology](http://arxiv.org/abs/2609.35707v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-29/ScAn-Bench_Evaluating_Scaling_Analysis_Methodology.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Recent progress in machine learning is driven by large-scale foundation models, where scaling laws and finding optimal scaling prescriptions for architecture, data, and hyperparameters are key in advancing the state-of-the-art. Therefore, it is surprising that no systematic study evaluates the metho...
+
+#### [FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching](http://arxiv.org/abs/2609.35673v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-29/FlowTool_Controlling_Tool_Parameter_in_Image_Retou.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Tool-based image editing (image retouching) is commonly formulated with autoregressive multimodal large language models (MLLMs) that sequentially generate reasoning, tool selections, and parameter values. In this work, we present a novel approach to tool-based image editing by framing the task as a ...
+
+#### [PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents](http://arxiv.org/abs/2609.35671v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-29/PhoneCLI_From_App_Interfaces_to_Callable_Commands_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Mobile GUI agents operate through a perception--action loop: at each step they screenshot the device, invoke a vision--language model (VLM), and emit an action. It is slow, costly, and brittle, yet most of what it does is navigation---and everyday navigation is static, ordered, and endlessly repeate...
+
+#### [Verifiable Visual Rewards Transfer from Synthetic Scenes to Natural Prompts](http://arxiv.org/abs/2609.35641v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-29/Verifiable_Visual_Rewards_Transfer_from_Synthetic_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Precise instruction following in image generation, such as satisfying object counts and spatial relations, remains an open challenge at least in part because it is learned using unreliable reward models such as object detectors and vision-language models. We introduce Verifiable Visual Rewards (VVR)...
+
+#### [From internal representations to model improvement through prediction errors](http://arxiv.org/abs/2609.35449v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-29/From_internal_representations_to_model_improvement.pdf)
+- **领域**: cs.CV
+- **核心摘要**: With limited annotation budgets, choosing which images to label determines how much a model improves. Data-selection methods that use features from a separately trained model, or scene descriptions written by vision-language models, have been successful, but those signals do not directly capture cha...
+
+#### [Beyond Saying Less: Fine-Grained Alignment for Informative and Faithful Vision-Language Models](http://arxiv.org/abs/2609.35294v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-29/Beyond_Saying_Less_Fine-Grained_Alignment_for_Info.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Object hallucination remains a major challenge for large vision-language models. While off-policy preference optimization proves to be an effective solution, on-policy reinforcement learning provides a more promising direction as it directly targets a model's current failure modes. However, we find ...
+
+#### [Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment](http://arxiv.org/abs/2609.35291v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-29/Narrow_Multimodal_Fine-Tuning_Can_Induce_Emergent_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Modern AI models are aligned through post-training to adapt them to downstream tasks. Recent work shows that fine-tuning language models on narrow tasks can induce emergent misalignment (EM), causing broadly harmful behaviors beyond the training task. However, EM has been studied almost entirely in ...
+
+#### [When Words Speak Louder than Images: Towards Understanding Language Bias in Vision-Language Models](http://arxiv.org/abs/2609.35272v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-29/When_Words_Speak_Louder_than_Images_Towards_Unders.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Despite substantial progress across downstream applications, vision-language models (VLMs) remain susceptible to language bias, often prioritizing linguistic cues over visual evidence and consequently producing incorrect predictions. Prior studies have proposed various approaches to understanding an...
+
+#### [Beyond Selection: Token Parameterization for Extreme Visual Token Compression](http://arxiv.org/abs/2609.35232v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-29/Beyond_Selection_Token_Parameterization_for_Extrem.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual-token compression is effective for improving the efficiency of vision-language models, but under extreme compression budgets, token pruning can break visual grounding while learned resamplers increase parameter count, attention cost, and training complexity. We revisit compression through a t...
+
