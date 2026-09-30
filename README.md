@@ -8684,3 +8684,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Visual-token compression is effective for improving the efficiency of vision-language models, but under extreme compression budgets, token pruning can break visual grounding while learned resamplers increase parameter count, attention cost, and training complexity. We revisit compression through a t...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-09-30
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [From Routing Signals to Selective Review: Visual regrounding in MoE VLMs](http://arxiv.org/abs/2609.38111v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-30/From_Routing_Signals_to_Selective_Review_Visual_re.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models (VLMs) may accept false visual premises, answering questions about a target object's color, count, location, or state even when it is absent. We call this reliability-critical behavior a target-absence grounding failure. Existing visual-grounding detectors primarily rely on ge...
+
+#### [NeuronEye: Query-Guided Visual Concept Activation for Vision-Language Reasoning](http://arxiv.org/abs/2609.38098v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-30/NeuronEye_Query-Guided_Visual_Concept_Activation_f.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Current vision-language models (VLMs) encode visual information in dense hidden states where object identity, spatial layout, and local attributes are implicitly entangled rather than explicitly disentangled, limiting their ability to isolate and modulate the specific visual evidence required by a g...
+
+#### [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](http://arxiv.org/abs/2609.38078v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-30/MotorMind_Scaffolding_General_Vision_Language_Mode.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language-action (VLA) models have advanced robotic manipulation, but their zero-shot generalization in new tasks and environments remains limited, and their reliance on specialized training keeps them from benefiting directly from rapidly advancing general-purpose vision-language models (VLMs...
+
+#### [EVO-WAM: Evolving World Action Models through Video-Action Verification](http://arxiv.org/abs/2609.38057v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-30/EVO-WAM_Evolving_World_Action_Models_through_Video.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Improving robot policies on new tasks without collecting additional expert demonstrations remains a central challenge in robot learning. World action models (WAMs) use broad video priors to jointly predict future videos and actions, offering a potential source of supervision for adapting to new task...
+
+#### [It's Not What the Image Shows: Irrelevant Context Destabilises VLM Judges Without Informing Them](http://arxiv.org/abs/2609.37863v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-30/Its_Not_What_the_Image_Shows_Irrelevant_Context_De.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models (VLMs) are increasingly used in place of human annotators, making it important that substitutability tests reflect the model rather than incidental evaluation conditions. We introduce MIST, the Misleading-Image Stress Test: 200 English sentences, each built around a phrase rea...
+
+#### [Can Vision-Language Models Stay Helpful When Facing Implicit Risks? Intent-Privilege OPSD for Efficient Safety-Helpfulness Alignment](http://arxiv.org/abs/2609.37837v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-30/Can_Vision-Language_Models_Stay_Helpful_When_Facin.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-Language Models (VLMs) remain vulnerable to cross-modal implicit risks: visual and textual inputs that appear benign in isolation can jointly elicit unsafe responses. Existing safety methods often require large preference datasets, costly multi-rollout training, or additional safeguards at in...
+
+#### [CHOQOLATE: Organizing Concept Bottleneck Latent Spaces with Choquet Integrals](http://arxiv.org/abs/2609.37786v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-30/CHOQOLATE_Organizing_Concept_Bottleneck_Latent_Spa.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Concept Bottleneck Models (CBMs) built on vision-language models such as CLIP represent a latent space as human-understandable concepts. These representations are unfaithful: related concepts are entangled, so individual scores do not reflect their intended meaning. We propose CHOQOLATE, an interpre...
+
+#### [Selective Channel Restoration for Backdoored Vision-Language Models](http://arxiv.org/abs/2609.37759v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-30/Selective_Channel_Restoration_for_Backdoored_Visio.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Vision-language models (VLMs) exhibit strong multimodal capabilities but remain vulnerable to backdoors implanted through poisoned fine-tuning data. Existing defenses often require extensive parameter updates during fine-tuning or incur per-query overhead during inference. To address these limitatio...
+
+#### [WISE-ATTA: When to Ask for Labels in Budgeted Active Test-Time Adaptation](http://arxiv.org/abs/2609.37687v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-30/WISE-ATTA_When_to_Ask_for_Labels_in_Budgeted_Activ.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Active test-time adaptation (ATTA) improves robustness under distribution shift by updating a deployed model during inference while selectively querying supervision. However, most existing ATTA methods implicitly assume that supervision can be requested for every incoming test batch, which can incur...
+
+#### [ProAct-VLM: Pre-Failure Vision-Language Task Replanning with Continuous Perception Feedback](http://arxiv.org/abs/2609.37681v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-09-30/ProAct-VLM_Pre-Failure_Vision-Language_Task_Replan.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Long-horizon robotic tasks are vulnerable to unexpected environmental changes that can render planned actions ineffective or unsafe. To address this, robots must detect such changes as they occur, interpret their impact, and adjust their actions accordingly. Traditional rule-based decision-making pi...
+
