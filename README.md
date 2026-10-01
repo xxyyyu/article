@@ -8739,3 +8739,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Long-horizon robotic tasks are vulnerable to unexpected environmental changes that can render planned actions ineffective or unsafe. To address this, robots must detect such changes as they occur, interpret their impact, and adjust their actions accordingly. Traditional rule-based decision-making pi...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-01
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents](http://arxiv.org/abs/2609.40325v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-01/WorldAuditBench_Interactive_3D_World_Auditing_with.pdf)
+- **领域**: cs.AI
+- **核心摘要**: As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as floating objects, traversable walls, or objects inconsistent with the surrounding scene. Multimodal AI ...
+
+#### [STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction](http://arxiv.org/abs/2609.40245v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-01/STARS_From_Spatiotemporal_Dynamics_to_Social_Repre.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Robot navigation in dynamic, human-centered environments requires socially-compliant decisions grounded in robust scene understanding. Recent Vision-Language Models (VLMs) exhibit promising capabilities such as object recognition, common-sense reasoning, and contextual understanding, capabilities th...
+
+#### [Less Data, Better Timing: Student-Curriculum Coupling for VLM On-Policy Distillation in Temporal Video Grounding](http://arxiv.org/abs/2609.40055v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-01/Less_Data_Better_Timing_Student-Curriculum_Couplin.pdf)
+- **领域**: cs.CV
+- **核心摘要**: On-policy distillation (OPD) provides dense supervision directly on student-generated trajectories, making it an effective post-training strategy for vision-language models in temporal video grounding (TVG). However, existing pipelines typically construct the training curriculum from a fixed teacher...
+
+#### [CoVisco: Codec-Native Vision Encoder with Native Token Compression for Unified Image-Video Understanding](http://arxiv.org/abs/2609.39924v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-01/CoVisco_Codec-Native_Vision_Encoder_with_Native_To.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models face a fundamental scaling bottleneck: the number of visual tokens grows with both temporal duration and spatial resolution, making long-video understanding expensive for the vision encoder and the language model. Existing methods often compress visual tokens after dense encod...
+
+#### [MCD: Causal Distillation of Multimodal In-Context Learning in Large Vision-Language Models](http://arxiv.org/abs/2609.39920v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-01/MCD_Causal_Distillation_of_Multimodal_In-Context_L.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) exhibit strong multimodal in-context learning (ICL) capabilities, yet this ability degrades substantially as model size decreases. Knowledge distillation offers a natural way to bridge this gap, but existing methods primarily align output distributions or hidden ...
+
+#### [Learning Where to Look: Anatomical Grounding and Guided Attention for Cardiac MRI Vision-Language Models](http://arxiv.org/abs/2609.39899v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-01/Learning_Where_to_Look_Anatomical_Grounding_and_Gu.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Cardiac magnetic resonance imaging (CMR) enables assessment of cardiac anatomy, ventricular function, and myocardial tissue characteristics. Clinicians interpret these images by identifying cardiac structures and focusing on the regions relevant to each clinical question, motivating anatomically gui...
+
+#### [Spherical Interpolation for Backward-Compatible Multimodal Representations](http://arxiv.org/abs/2609.39836v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-01/Spherical_Interpolation_for_Backward-Compatible_Mu.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Contrastive vision-language models map visual and textual representations into a shared normalized embedding space, making cosine similarity the natural metric for cross-modal retrieval. A practical challenge arises during model upgrades: independently trained models generally produce incompatible r...
+
+#### [ChronoGraph: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning](http://arxiv.org/abs/2609.39665v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-01/ChronoGraph_Functional_4D_Scene_Graphs_with_Vision.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Embodied agents must determine where to act, anticipate the resulting scene changes, and interpret observed outcomes to guide subsequent actions. This requires connecting 4D interaction understanding, which explains how past actions changed the scene, with spatially grounded planning, which determin...
+
+#### [Typographic Attack Against VLM-based AI-generated Image Detection](http://arxiv.org/abs/2609.39662v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-01/Typographic_Attack_Against_VLM-based_AI-generated_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are increasingly used for AI-generated image (AIGI) detection, providing natural-language explanations for authenticity judgments. However, their ability to interpret text within images may also expose these judgments to misleading semantic cues. We systematically evalu...
+
+#### [KilometerVision: A New Frontier for Large-Scale Spatial Intelligence in VLMs](http://arxiv.org/abs/2609.39588v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-01/KilometerVision_A_New_Frontier_for_Large-Scale_Spa.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We push the frontier of large-scale spatial intelligence in Vision-Language Models (VLMs) and introduce the first benchmark that probes geographical layout understanding from real-world videos, spanning up to 1km distances. Inspired by the cognitive science literature, we evaluate models against the...
+
