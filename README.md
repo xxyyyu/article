@@ -8794,3 +8794,58 @@
 - **领域**: cs.CV
 - **核心摘要**: We push the frontier of large-scale spatial intelligence in Vision-Language Models (VLMs) and introduce the first benchmark that probes geographical layout understanding from real-world videos, spanning up to 1km distances. Inspired by the cognitive science literature, we evaluate models against the...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-02
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication](http://arxiv.org/abs/2610.02161v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-02/DuoMind_Enabling_Distributed_Multi-Robot_Coordinat.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language models (VLMs) and vision-language-action models (VLAs) have recently driven rapid progress in general-purpose robots, yet most progress has focused on single-robot settings. Extending these capabilities to multi-robot systems remains challenging because robots must coordinate long-ho...
+
+#### [GeoLatent: Geometry-Guided Latent Structuring with Routed Optimization for 3D Reasoning](http://arxiv.org/abs/2610.02091v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-02/GeoLatent_Geometry-Guided_Latent_Structuring_with_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite progress in vision-language models, 3D spatial reasoning from 2D images remains challenging. Text-based methods describe intermediate geometry with discrete tokens, limiting fidelity for continuous spatial relations. Continuous latents offer richer representations, but a single latent type d...
+
+#### [UniWAM: Unified World-Action Model](http://arxiv.org/abs/2610.02054v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-02/UniWAM_Unified_World-Action_Model.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language-action models benefit from the understanding and reasoning capabilities of pretrained vision-language models, but action-only supervision provides limited grounding in world dynamics. Conversely, world-action models inherit spatiotemporal priors from video generation models, yet rema...
+
+#### [Task-Adaptive Grounded 3D-Programmers Using 2D VLMs](http://arxiv.org/abs/2610.02021v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-02/Task-Adaptive_Grounded_3D-Programmers_Using_2D_VLM.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent vision-language models (VLMs) exhibit remarkable generalization and reasoning abilities, yet 3D understanding in these models is limited by data scale, training diversity, and reasoning capacity. Instead of naively extending these models into 3D, we take a different approach: we enable powerf...
+
+#### [Controllable Multi-label Video Safety Detection via Adaptive Tversky Policy Optimization](http://arxiv.org/abs/2610.02019v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-02/Controllable_Multi-label_Video_Safety_Detection_vi.pdf)
+- **领域**: cs.CL
+- **核心摘要**: The rapid growth of video-based social media has increased users' exposure to harmful content, creating a need for reliable automated video safety detection. Although recent Vision-Language Models (VLMs) show strong video understanding capabilities, existing harmful video detection systems face two ...
+
+#### [From Reasoning Failures to Composable Video Spatial Intelligence](http://arxiv.org/abs/2610.01999v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-02/From_Reasoning_Failures_to_Composable_Video_Spatia.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Spatial reasoning benchmarks evaluate vision-language models across diverse tasks, but task-level scores do not reveal which underlying capabilities account for success or failure. Each task requires recovering spatial evidence, representing geometry, and reasoning over it. We disentangle these capa...
+
+#### [Token-Level Video Reinforcement Learning](http://arxiv.org/abs/2610.01973v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-02/Token-Level_Video_Reinforcement_Learning.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reinforcement learning (RL) for video generation usually assigns one scalar reward to an entire sampled video. Yet a video is not uniformly flawed: some visual tokens may already satisfy the prompt, whereas others require correction. A scalar reward cannot localize errors, causing optimization to pe...
+
+#### [SIEVE: Selective attention-value Suppression for Vision-Language Models Unlearning](http://arxiv.org/abs/2610.01962v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-02/SIEVE_Selective_attention-value_Suppression_for_Vi.pdf)
+- **领域**: cs.LG
+- **核心摘要**: The ability of vision-language models (VLMs) to associate visual identities with biographical information creates a need for selective unlearning of personally identifiable information (PII) while preserving permitted knowledge about the same individual. This setting is challenging because both sens...
+
+#### [Anti-Persona: Disrupting Unauthorized Identity Binding and Recognition in Personalized Vision--Language Models](http://arxiv.org/abs/2610.01944v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-02/Anti-Persona_Disrupting_Unauthorized_Identity_Bind.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Few-shot personalization enables large vision--language models (LVLMs) to learn user-specific visual concepts for applications such as personalized retrieval and subject-aware querying. However, it also creates a privacy risk: an adversary can bind a target identity from a few reference images and s...
+
+#### [Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens](http://arxiv.org/abs/2610.01939v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-02/Fewer_Tokens_Better_Action_GPT-6_Astra_Robot_Agent.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision language model (VLM) agents can control robots through visual feedback and action primitives, but repeated model invocations and redundant observations incur substantial token overhead. We introduce PyRUA-Lean, an interactive code-execution framework that couples feedback-driven primitive com...
+
