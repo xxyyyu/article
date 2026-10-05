@@ -8959,3 +8959,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Vision language model (VLM) agents can control robots through visual feedback and action primitives, but repeated model invocations and redundant observations incur substantial token overhead. We introduce PyRUA-Lean, an interactive code-execution framework that couples feedback-driven primitive com...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-05
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [DEPICT: Scoring Text-to-Image Alignment by Answer Agreement](http://arxiv.org/abs/2610.03617v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-05/DEPICT_Scoring_Text-to-Image_Alignment_by_Answer_A.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Image-text alignment is a core problem in computer vision with applications in caption evaluation, hallucination detection, data curation, and the benchmarking of text-to-image (T2I) generators. As T2I models improve, benchmarking has become demanding, requiring metrics capable of finding a series o...
+
+#### [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](http://arxiv.org/abs/2610.03476v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-05/MobiAgent_Dual-Loop_Recursive_Policy_Self-Improvem.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Long-horizon mobile manipulation presents significant challenges due to compounding execution errors and capacity interference between locomotion and arm control. While recent Vision-Language-Action models excel at short-horizon tasks, they lack the hierarchical reasoning required for multi-stage ob...
+
+#### [A Vision-Language Model (VLM)-based Pipeline for End-to-End Procedural Modeling of Field-Grown Maize from Point Clouds](http://arxiv.org/abs/2610.03468v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-05/A_Vision-Language_Model_VLM-based_Pipeline_for_End.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Editable 3D models of field-grown crops support high-throughput phenotyping and in silico breeding trials, but building them from scanned point clouds requires organ-level segmentation and fitting. Procedural generators can turn an organ-level parameter set into an analysis-suitable 3D model, but ob...
+
+#### [Corrupted but Correct: Why Vision-Language Models Lie to Themselves Internally](http://arxiv.org/abs/2610.03445v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-05/Corrupted_but_Correct_Why_Vision-Language_Models_L.pdf)
+- **领域**: cs.CV
+- **核心摘要**: A targeted adversarial perturbation can drive a vision-language model's (VLM's) teacher-forced training loss for a fixed target caption to near zero, yet the same model, allowed to generate freely, produces the original, correct description with no trace of the target. We call this dissociation the ...
+
+#### [From Patching to Pruning Visual Computation in Vision Language Models](http://arxiv.org/abs/2610.03389v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-05/From_Patching_to_Pruning_Visual_Computation_in_Vis.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision language models (VLMs) incur substantial inference cost because every visual token is processed by the attention and MLP projections of every decoder layer, even when token-specific visual computation is unnecessary at many depths. We introduce Patch-to-Prune (P2P), inspired by Mechanistic In...
+
+#### [Bridging Research and Practice: A Systematic Evaluation of Generalist and Dermatology-Specific Models in Clinical Skin Lesion Classification](http://arxiv.org/abs/2610.03193v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-05/Bridging_Research_and_Practice_A_Systematic_Evalua.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The application of machine learning to dermatology has grown substantially in recent years, moving beyond proof-of-concept studies toward potential applications. However, clinical dermatology remains a challenging and still open problem. Diagnostic assessment is often ambiguous, and skin lesions exh...
+
+#### [Foresight: planning future perception in streaming VLMs without retraining](http://arxiv.org/abs/2610.03123v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-05/Foresight_planning_future_perception_in_streaming_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing streaming vision-language models (VLMs) continuously perceive and reason over visual streams, but their computational pathways remain fixed throughout inference. Consequently, they cannot adapt computation to evolving scene dynamics, where different future events demand different levels and...
+
+#### [Relevant Evidence Decoding for Audio-Visual Hallucination Mitigation](http://arxiv.org/abs/2610.02976v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-05/Relevant_Evidence_Decoding_for_Audio-Visual_Halluc.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Audio-Visual Large Language Models (AV-LLMs) remain prone to cross-modal hallucinations, where one modality incorrectly affects predictions about another. Although contrastive decoding reduces hallucinations in vision-language models, its direct extension to AV-LLMs overlooks a key challenge: differ...
+
+#### [Found but Not Read: When Extracted Text Closes the Retrieval-Reading Gap in Document Vision-Language Models](http://arxiv.org/abs/2610.02880v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-05/Found_but_Not_Read_When_Extracted_Text_Closes_the_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Retrieval-augmented document question answering assumes that once the right page is found, a vision-language model (VLM) can read it. We show that this assumption often fails, leaving a retrieval-reading gap: evidence found but not used. A paired protocol isolates this gap by comparing answers from ...
+
+#### [Evaluating VQA in Vision Language Models using Cooperative Principles](http://arxiv.org/abs/2610.02878v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-05/Evaluating_VQA_in_Vision_Language_Models_using_Coo.pdf)
+- **领域**: cs.CL
+- **核心摘要**: We evaluate the performance of Vision Language Models in Visual Question Answering (VQA) when questions violate Grice's maxims. To do this, we use VLMs to generate question modifiers that add non-essential, ambiguous or false information and show that in the presence of such violations, the VLMs tha...
+
