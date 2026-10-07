@@ -9014,3 +9014,58 @@
 - **领域**: cs.CL
 - **核心摘要**: We evaluate the performance of Vision Language Models in Visual Question Answering (VQA) when questions violate Grice's maxims. To do this, we use VLMs to generate question modifiers that add non-essential, ambiguous or false information and show that in the presence of such violations, the VLMs tha...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-07
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [World Models' Last Exam in Physics](http://arxiv.org/abs/2610.08791v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-07/World_Models_Last_Exam_in_Physics.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluations often rely on model-based judgments or reference videos, while direct physical tests largely foc...
+
+#### [PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation](http://arxiv.org/abs/2610.08784v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-07/PEARS_Physical-Prior-Guided_Efficient_Adaptation_v.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Pretrained robotic policies can suffer substantial performance degradation under out-of-distribution (OOD) conditions encountered during deployment, motivating post-training through real-world interaction. However, reinforcement-learning (RL)-based post-training typically requires substantial enviro...
+
+#### [ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing](http://arxiv.org/abs/2610.08779v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-07/ALIVE_Interaction-Aligned_Object_Insertion_for_Fir.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Current video editors can insert objects but often struggle to make them participate in interactions such as being picked up or manipulated. We introduce ALIVE, a framework that makes inserted objects "alive" through coherent interactions with the source video's contents, using an edited first frame...
+
+#### [SpaTime: Streaming Vision-Language Models for Spatio-temporal Reasoning](http://arxiv.org/abs/2610.08713v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-07/SpaTime_Streaming_Vision-Language_Models_for_Spati.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Embodied agents must reason about 3D space while the video is still arriving, answering questions as soon as they have observed enough of the scene. VLMs that incorporate 3D geometric priors achieve strong spatial reasoning, but they operate offline, i.e., the full video must be available before the...
+
+#### [Selective Transfer of RL Updates for Visual Reasoning](http://arxiv.org/abs/2610.08659v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-07/Selective_Transfer_of_RL_Updates_for_Visual_Reason.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Model merging provides a training-free way to transfer reasoning capabilities from language models to vision-language models (VLMs), but endpoint-based transfer can conflate pre-existing model differences with changes acquired during reasoning post-training. We instead formulate capability transfer ...
+
+#### [Knee3DVLM: Dual-Sequence Full-Volume Vision-Language Modeling for Comprehensive Knee MRI Assessment](http://arxiv.org/abs/2610.08482v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-07/Knee3DVLM_Dual-Sequence_Full-Volume_Vision-Languag.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are increasingly being applied to three-dimensional medical imaging, but their application to knee MRI remains limited, particularly for interpreting the complementary sequences used in clinical practice. We introduce Knee3DVLM, a sequence-aware VLM that uses full-volum...
+
+#### [Image Bitstream Fine-grained Understanding for Privacy-Friendly AIoT](http://arxiv.org/abs/2610.08414v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-07/Image_Bitstream_Fine-grained_Understanding_for_Pri.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Image Bitstream Fine-grained Understanding (IBFU) aims to directly perform fine-grained classification and semantic description generation from encoded image byte sequences. In contrast to conventional pixel-domain visual understanding, IBFU conducts semantic analysis without fully decoding images i...
+
+#### [Seeing the Context: Enhancing Recommender Systems with Image-Derived Contextual Signals](http://arxiv.org/abs/2610.08407v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-07/Seeing_the_Context_Enhancing_Recommender_Systems_w.pdf)
+- **领域**: cs.IR
+- **核心摘要**: Contextual information, capturing the circumstances of a user-item interaction, is central to recommender systems. Prior work draws context from location, time, or reviews, but not images; multimodal recommender systems mainly use images to enrich item or user representations, not identify situation...
+
+#### [GeoPID: Decomposing and Steering Visual Information in Vision-Language Models](http://arxiv.org/abs/2610.08401v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-07/GeoPID_Decomposing_and_Steering_Visual_Information.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While recent vision-language models (VLMs) have shown outstanding performance across diverse applications, they tend to under-use visual information and over-rely on textual context. In this work, we propose \textsc{GeoPID}, a training-free framework that analyzes multimodal information within VLMs ...
+
+#### [Test-Time Adaptation of Quantized ViTs via Single-Pass Quantizer-Aligned Recalibration](http://arxiv.org/abs/2610.08358v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-07/Test-Time_Adaptation_of_Quantized_ViTs_via_Single-.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Post-training quantization is a standard route to fitting vision transformers (ViTs) into edge compute and memory budgets, yet quantized models become especially brittle under distribution shift. Test-time adaptation (TTA) addresses such shifts without labels, but most existing approaches are poorly...
+
