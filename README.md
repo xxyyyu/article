@@ -9069,3 +9069,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Post-training quantization is a standard route to fitting vision transformers (ViTs) into edge compute and memory budgets, yet quantized models become especially brittle under distribution shift. Test-time adaptation (TTA) addresses such shifts without labels, but most existing approaches are poorly...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-08
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models](http://arxiv.org/abs/2610.10526v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-08/Rephrase_Before_You_Act_Characterizing_and_Mitigat.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points: $π_{0.5}$ turns on a LIBERO stove 100% of the time for "switch on the ...
+
+#### [Detecting Adversarial Images through Response Profiles of Vision-Language Models](http://arxiv.org/abs/2610.10436v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-08/Detecting_Adversarial_Images_through_Response_Prof.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Adversarial perturbations can alter the predictions of frozen vision-language models (VLMs) while leaving their confidence and image--text similarity patterns seemingly plausible. We investigate whether we can identify adversarial inputs based on the broader way an image interacts with a collection ...
+
+#### [$Δ$Representation: Geometry Supervised Representation Learning of Phenotypes via Counterfactual Reasoning for Medical VLMs](http://arxiv.org/abs/2610.10286v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-08/ΔRepresentation_Geometry_Supervised_Representation.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical vision-language models (VLMs) have shown increasing potential for radiological image interpretation. Medical VLMs encode radiological images into visual representations that capture both anatomical and phenotypic information for diagnosis. Existing approaches improve pathological phenotype r...
+
+#### [Geometry-Supervised Visual Representation Learning for Multi-Phenotype Lesion Interpretation in Medical VLMs](http://arxiv.org/abs/2610.10238v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-08/Geometry-Supervised_Visual_Representation_Learning.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical vision-language models (VLMs) have shown increasing potential for clinical image interpretation. However, these models still struggle to interpret multi-phenotype lesions whose diagnosis requires the joint assessment of multiple pathological phenotypes. Existing vision-language alignment met...
+
+#### [Do Vision-Language-Action Models Understand Instructions? A Mechanistic Interpretability Study on Language Grounding](http://arxiv.org/abs/2610.10178v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-08/Do_Vision-Language-Action_Models_Understand_Instru.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language-Action models are designed to generalise across environments and task descriptions, raising the question of whether their action generation actually depends on the language instruction, or whether they largely rely on visual cues and superficial correlations. Robustness to variance i...
+
+#### [Beyond Anonymous Captions: Grounding Character Identity in Video Captioning and Question Answering](http://arxiv.org/abs/2610.10163v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-08/Beyond_Anonymous_Captions_Grounding_Character_Iden.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Linking people's appearance and actions to character identities is essential for understanding video narratives. We present a framework for identity-aware video captioning and person-centric question answering that combines automatic character identification, explicit spatial grounding, and task-spe...
+
+#### [HeiCo-FOCUS: A Clinically Grounded Dataset for Long-Context Video Understanding](http://arxiv.org/abs/2610.10156v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-08/HeiCo-FOCUS_A_Clinically_Grounded_Dataset_for_Long.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent advances in Vision-Language Models (VLMs) have led to rapid progress in video understanding across a wide range of benchmark tasks. However, existing evaluations largely focus on short-term reasoning, failing to assess a critical capability: maintaining cumulative temporal consistency over ex...
+
+#### [Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions](http://arxiv.org/abs/2610.09941v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-08/Purifying_Backdoored_Large_Vision-Language_Models_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) are increasingly deployed in safety-critical applications, yet they remain vulnerable to backdoor attacks. Defending against such attacks remains costly, as existing methods require either extensive retraining on clean data or per-query intervention at inference ...
+
+#### [Juno: Taming Predictive Latents for Vision-Language-Action Models](http://arxiv.org/abs/2610.09940v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-08/Juno_Taming_Predictive_Latents_for_Vision-Language.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Joint-embedding predictive architectures (JEPAs) predict masked or future observations in representation space, offering a natural source of predictive latents for vision-language-action (VLA) models. Yet making these latents useful across pretraining, policy learning, and deployment requires addres...
+
+#### [Inverting Multi-Vector Visual Document Indices](http://arxiv.org/abs/2610.09920v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-08/Inverting_Multi-Vector_Visual_Document_Indices.pdf)
+- **领域**: cs.IR
+- **核心摘要**: Prevailing multi-vector visual document retrievers store each page as about a thousand patch vectors, often in vector databases run by a third party. Since no one can read a page from its vectors, this index is easily treated as less sensitive than the page. However, because the index keeps one vect...
+
