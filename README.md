@@ -9179,3 +9179,58 @@
 - **领域**: cs.CV
 - **核心摘要**: CAD reconstruction methods assume a luxury reality rarely grants: unrestricted visual access to the object, photographed from any desired angle. Real objects, however, are scene-embedded, bolted against walls, wedged into corners, resting on floors, where the scene renders much of the view sphere un...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-10
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](http://arxiv.org/abs/2610.12461v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-10/OuroWorld_Bringing_Any_3D_World_Alive_as_Diverse_E.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph: a dynamic scene with vivid, diverse motion looping seamlessly from any viewpoint. A vision-languag...
+
+#### [SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2610.12402v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-10/SpaceCast-Bench_Evaluating_Predictive_Spatial_Reas.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing spatial reasoning benchmarks mainly test spatial perception: reading off relations already visible in the input. Yet real-world spatial intelligence demands predictive spatial reasoning: constructing a scene from observations, anticipating how an intervention changes it, and reasoning about...
+
+#### [WorldAlign: Decoupled 4D Reward for World-Consistent Video Generation](http://arxiv.org/abs/2610.12382v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-10/WorldAlign_Decoupled_4D_Reward_for_World-Consisten.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Faithful visual world simulation requires generated videos to maintain 4D world consistency, encompassing both static and dynamic consistency. Static consistency requires coherent 3D structure in static environments across viewpoints, while dynamic consistency requires plausible subject motion and c...
+
+#### [Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2610.12355v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-10/Distilling_Routed_3D_Privilege_for_Spatial_Reasoni.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Spatial reasoning remains a persistent weakness of vision-language models (VLMs), because RGB inputs do not directly provide geometric evidence. Existing remedies either inject 3D into the model at inference, paying architecture and latency costs, or train with outcome rewards that supervise only th...
+
+#### [Training on the Future: A Delay-Aware Audit of Test-Time Adaptation for Time-Series Forecasting](http://arxiv.org/abs/2610.12232v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-10/Training_on_the_Future_A_Delay-Aware_Audit_of_Test.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Test-time adaptation (TTA) methods for time-series forecasting update a deployed model, or a small adapter around it, from incoming ground truth. But the label of an $H$-step forecast exists only $H$ steps later, and real data pipelines add further delay. We build a leakage-free harness in which the...
+
+#### [Instance-anchored interaction evidence: Grounding robot plans in human pointing and handling](http://arxiv.org/abs/2610.12157v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-10/Instance-anchored_interaction_evidence_Grounding_r.pdf)
+- **领域**: cs.RO
+- **核心摘要**: A robot that assists people must often act on what a person has shown rather than said: which of several identical cartons was pointed at, or which box was handled. The plan is executed from the final scene, whereas the evidence occurs earlier, possibly on objects that have since moved. We propose i...
+
+#### [Healthy Counterfactual Generation via Diffusion Inpainting for Mammography Classification](http://arxiv.org/abs/2610.12147v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-10/Healthy_Counterfactual_Generation_via_Diffusion_In.pdf)
+- **领域**: cs.CV
+- **核心摘要**: False negatives remain a critical limitation of computer-aided diagnosis (CAD) systems for breast cancer screening due to delayed detection and treatment. To address this issue, we propose a counterfactual data augmentation strategy that generates healthy mammograms by "erasing" lesions from anomalo...
+
+#### [Instruction-Conditioned Electromagnetic Spectrum Understanding via Budget-Adaptive Signal Tokenization](http://arxiv.org/abs/2610.12142v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-10/Instruction-Conditioned_Electromagnetic_Spectrum_U.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Electromagnetic spectrum monitoring increasingly requires flexible analysis beyond task-specific recognition and detection. Multimodal large language models offer a unified interface, but extending vision-language models (VLMs) to raw I/Q signals requires tokenization that balances fidelity against ...
+
+#### [FearCaut-Qwen: Affective Steering in a Vision-Language Model Shifts the Decision Criterion for Hazard Assessment](http://arxiv.org/abs/2610.11986v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-10/FearCaut-Qwen_Affective_Steering_in_a_Vision-Langu.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) show great potential for damage assessment after a disaster, but a recurring deficiency is that they are reluctant to declare a hazard; that is, recall is low even when overall accuracy appears adequate. This study examines that deficiency by using signal detection theo...
+
+#### [Look Where You Can: Active View Selection for CAD Reconstruction under Occlusion](http://arxiv.org/abs/2610.11954v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-10/Look_Where_You_Can_Active_View_Selection_for_CAD_R.pdf)
+- **领域**: cs.CV
+- **核心摘要**: CAD reconstruction methods assume a luxury reality rarely grants: unrestricted visual access to the object, photographed from any desired angle. Real objects, however, are scene-embedded, bolted against walls, wedged into corners, resting on floors, where the scene renders much of the view sphere un...
+
