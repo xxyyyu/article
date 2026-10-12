@@ -9289,3 +9289,58 @@
 - **领域**: cs.CV
 - **核心摘要**: CAD reconstruction methods assume a luxury reality rarely grants: unrestricted visual access to the object, photographed from any desired angle. Real objects, however, are scene-embedded, bolted against walls, wedged into corners, resting on floors, where the scene renders much of the view sphere un...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-12
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Hide and Seek: HIDE Concepts to SEEK explanations for black box models](http://arxiv.org/abs/2610.13935v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-12/Hide_and_Seek_HIDE_Concepts_to_SEEK_explanations_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They requi...
+
+#### [When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors](http://arxiv.org/abs/2610.13910v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-12/When_VLMs_Destroy_What_They_Know_Spatial_Represent.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-Language Models (VLMs) increasingly analyze and reason about images, yet it remains unclear whether their internal representations faithfully encode the structured relations required for such reasoning. We introduce EICS (Evaluation-Invariant Concept Stability), a metric for testing whether r...
+
+#### [HorizonNav: Geometry-Guided Video Diffusion for Anticipatory 3D Robot Navigation](http://arxiv.org/abs/2610.13849v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-12/HorizonNav_Geometry-Guided_Video_Diffusion_for_Ant.pdf)
+- **领域**: cs.RO
+- **核心摘要**: We present HorizonNav, a video diffusion-based framework for anticipatory robot navigation that transforms a single RGB image and a text prompt into a geometrically aligned representation of plausible surrounding 3D space. Given the initial observation and a textual description of the reconstruction...
+
+#### [Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga](http://arxiv.org/abs/2610.13840v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-12/Studying_Comics_at_Scale_with_Artificial_Intellige.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Comics are one of the great visual records of the twentieth century: hundreds of thousands of pages in which a mass readership saw its leaders, its wars and its heroes. Most of this record has never been studied as a whole; comics scholarship proceeds one book at a time. We argue that artificial int...
+
+#### [SpatialASM: Internalizing Active Mentalization for Spatial Reasoning](http://arxiv.org/abs/2610.13832v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-12/SpatialASM_Internalizing_Active_Mentalization_for_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: When solving complex spatial reasoning tasks, ordinary humans naturally revisit the scenes from task-relevant viewpoints and mentally reconstruct the spatial layouts from those viewpoints. But can Large Vision-Language Models (LVLMs) proactively think in the same way? We term this ability Active Spa...
+
+#### [OccludeBench: Can VLMs Find What's Missing?](http://arxiv.org/abs/2610.13790v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-12/OccludeBench_Can_VLMs_Find_Whats_Missing.pdf)
+- **领域**: cs.CV
+- **核心摘要**: How well can vision-language models (VLMs) reason about what is missing from an image? We study this question with OccludeBench, a manually curated benchmark for recovering fully occluded objects from the visual evidence that remains. OccludeBench distinguishes direct cases, where the hidden object ...
+
+#### [UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes](http://arxiv.org/abs/2610.13783v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-12/UkrMeme_Multimodal_Explainable_Persuasion_Detectio.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Memes play a central role in modern online communication, especially in contexts of political conflict where visual and textual cues combine to convey persuasive messages. We study persuasive technique detection in Ukrainian memes using vision-language models (VLMs). We introduce UkrMeme, a dataset ...
+
+#### [Improving Semantic Coverage in AI Test & Evaluation through Generative Augmentation](http://arxiv.org/abs/2610.13697v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-12/Improving_Semantic_Coverage_in_AI_Test__Evaluation.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In test and evaluation (T&E) of AI models, evaluators typically have access only to a held-out test dataset and no knowledge of the training data or its semantic composition. If critical input conditions---such as time-of-day, weather, or scene location---are underrepresented in this test dataset, T...
+
+#### [Benchmarking Answer-Grounding Consistency in Remote Sensing Visual Question Answering](http://arxiv.org/abs/2610.13636v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-12/Benchmarking_Answer-Grounding_Consistency_in_Remot.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In grounded remote sensing visual question answering, a model produces a textual answer and identifies relevant objects in the image as grounding evidence. Existing evaluations measure answer correctness and localization quality, but do not directly assess answer-grounding consistency. We propose th...
+
+#### [Auditing VLM Benchmarks from Existing Evaluation Runs](http://arxiv.org/abs/2610.13548v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-12/Auditing_VLM_Benchmarks_from_Existing_Evaluation_R.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Every evaluation run of a vision-language model (VLM) already produces per-question artifacts (predictions, judged correctness, metadata) that leaderboards reduce to a single score and then discard. We reuse those artifacts to audit the benchmark itself, and add an audit layer to VLMEvalKit: six det...
+
