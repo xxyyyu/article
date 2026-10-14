@@ -9399,3 +9399,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Every evaluation run of a vision-language model (VLM) already produces per-question artifacts (predictions, judged correctness, metadata) that leaderboards reduce to a single score and then discard. We reuse those artifacts to audit the benchmark itself, and add an audit layer to VLMEvalKit: six det...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-14
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Plan-Bench: Can Existing VLMs Go Well Beyond Perception to Reason and Plan in Embodied Worlds?](http://arxiv.org/abs/2610.18836v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-14/Plan-Bench_Can_Existing_VLMs_Go_Well_Beyond_Percep.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have achieved strong performance in visual perception and spatial reasoning, leading to growing interest in using them as high-level planners for embodied AI. However, physical tasks require models to integrate spatial information, reason over temporal states, and gener...
+
+#### [Game2Real-Bench: Do Toy Games Reveal and Transfer to Real-World Visual Reasoning?](http://arxiv.org/abs/2610.18834v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-14/Game2Real-Bench_Do_Toy_Games_Reveal_and_Transfer_t.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual reasoning is an important capability for vision-language models (VLMs) to understand visual evidence, spatial structure, constraints, and state changes. Existing evaluations mainly rely on real-world data or procedurally generated tasks. Real-world data preserve natural complexity, while proc...
+
+#### [OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding](http://arxiv.org/abs/2610.18829v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-14/OmniCompass_A_Holistic_Benchmark_for_Omni-Modal_Vi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: With the rapid development of multimodal large language models (MLLMs), evaluating their video understanding capabilities has become increasingly important. Existing video understanding benchmarks cover only part of the evaluation dimensions, limiting systematic diagnosis of omni-modal video underst...
+
+#### [SP$^2$ec: Adaptive Self-Speculative Decoding for Vision-Language Models](http://arxiv.org/abs/2610.18735v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-14/SP2ec_Adaptive_Self-Speculative_Decoding_for_Visio.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Speculative Decoding (SD) has demonstrated its efficacy in accelerating large language model inference, but for Vision-Language Models (VLMs), the diverse input modalities make it difficult for a small trained drafter to achieve consistently high throughput. Self-speculative decoding reuses parts of...
+
+#### [Segment Where You Look: Attention as the Interface Between Language Models and Segmenters](http://arxiv.org/abs/2610.18729v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-14/Segment_Where_You_Look_Attention_as_the_Interface_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) that segment from language must pass the location of the referent to a pixel decoder. The dominant interface compresses it into the hidden state of a single [SEG] token, a d-dimensional vector with no spatial index, and leaves the decoder, which never sees the expressio...
+
+#### [GeoReader: Learning Latent Geometry for Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2610.18694v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-14/GeoReader_Learning_Latent_Geometry_for_Spatial_Rea.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) struggle with metric and multi-view relationships that remain implicit in RGB observations. Geometry foundation models recover this structure from RGB, but existing methods either fuse the estimated features with visual tokens and learn to use them from question answeri...
+
+#### [DPOison-VL: Clean Preference Poisoning in Vision-Language Direct Preference Optimization](http://arxiv.org/abs/2610.18609v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-14/DPOison-VL_Clean_Preference_Poisoning_in_Vision-La.pdf)
+- **领域**: cs.CR
+- **核心摘要**: Direct Preference Optimization (DPO) has become a widely adopted approach for aligning vision-language models (VLMs), yet the security of multimodal preference data remains largely unexplored. Existing preference poisoning attacks either corrupt explicit supervision signals or require visible trigge...
+
+#### [CREATE: Creativity Evaluation of VLMs using the Visual Remote Associates Test](http://arxiv.org/abs/2610.18569v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-14/CREATE_Creativity_Evaluation_of_VLMs_using_the_Vis.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision language models (VLMs) are used in creative tasks such as visual storytelling, design ideation, art interpretation, and advertising. Yet we lack principled ways to measure the lateral reasoning of these models compared to human potential. We introduce CREATE, a semi-automatically constructed ...
+
+#### [Behavioural self-monitoring for autonomous earth observation agents: The attribute reliability monitor (ARM)](http://arxiv.org/abs/2610.18548v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-14/Behavioural_self-monitoring_for_autonomous_earth_o.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Language and vision language models can support autonomous systems, but changing operating conditions may compromise the reliability of their semantic outputs. This work introduces the Attribute Reliability Monitor (ARM), a framework that accumulates evidence of suspicion over time to assess individ...
+
+#### [MemoryVLN: From Ego-Aware Memory Representation to Cross-Context Memory Reuse in Vision-Language Navigation](http://arxiv.org/abs/2610.18478v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-14/MemoryVLN_From_Ego-Aware_Memory_Representation_to_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Large vision-language models (LVLMs) have shown strong potential for embodied vision-language navigation (VLN), yet their performance degrades on long-horizon trajectories due to context-length limits, redundant historical observations, and unstable spatial alignment across time. These issues make i...
+
