@@ -9454,3 +9454,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Large vision-language models (LVLMs) have shown strong potential for embodied vision-language navigation (VLN), yet their performance degrades on long-horizon trajectories due to context-length limits, redundant historical observations, and unstable spatial alignment across time. These issues make i...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-15
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR](http://arxiv.org/abs/2610.20461v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-15/Equal_CER_Unequal_Damage_Severity-Weighted_Charact.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Character Error Rate (CER), the standard metric for OCR and vision-language models (VLMs), charges a typo as much as a wrong name. We introduce semCER, which keeps CER's alignment and denominator and charges each grapheme edit a severity from an LLM judge, with no word segmentation. Normalized CER k...
+
+#### [STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents](http://arxiv.org/abs/2610.20390v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-15/STP-GUI_Spatially-Aware_Token_Pruning_for_Efficien.pdf)
+- **领域**: cs.CV
+- **核心摘要**: With the rapid development of vision-language models (VLMs), Web-GUI agents have achieved promising performance in interacting with real-world interfaces through screenshot-based grounding. However, high-resolution screenshots and multi-turn histories introduce excessive visual tokens, causing subst...
+
+#### [Efficient Test-Time Adaptation For Robot Policies](http://arxiv.org/abs/2610.20318v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-15/Efficient_Test-Time_Adaptation_For_Robot_Policies.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Reinforcement-learning policies for robot locomotion can fail at deployment when operating conditions shift (e.g., rough or slippery terrain, payload changes, sensing degradation), and retraining or manual recalibration is often infeasible under on-device latency and memory constraints. We study tes...
+
+#### [Reflect After Failure: Brain-Inspired Self-Evolving Agents for Embodied Spatial Intelligence](http://arxiv.org/abs/2610.20312v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-15/Reflect_After_Failure_Brain-Inspired_Self-Evolving.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Vision-Language Models (VLMs) have made substantial progress in spatial reasoning, and self-evolving agents further extend these capabilities to embodied environments by learning from interactions. However, current self-evolution remains particularly challenging in embodied spatial tasks, complex an...
+
+#### [ObjDream: Guiding Vision-Language-Action Models with Object-Level Understanding and Future State Prediction](http://arxiv.org/abs/2610.20223v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-15/ObjDream_Guiding_Vision-Language-Action_Models_wit.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language-action (VLA) models have emerged as a powerful paradigm for robotic manipulation, enabling robots to generate actions from visual observations and language instructions. However, most existing VLA models still operate on image-level visual representations inherited from pretrained vi...
+
+#### [Seeing at the Edge: Energy Characterization of Vision-Language Model Inference on Edge Platforms](http://arxiv.org/abs/2610.20136v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-15/Seeing_at_the_Edge_Energy_Characterization_of_Visi.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Vision-language models (VLMs) are moving onto edge devices, but little is known about how much energy they draw on single-board computers with NPU or GPU accelerators, or where that energy goes. We measure total-system energy, latency, and thermal behavior of Qwen2-VL-2B-Instruct and its text-only s...
+
+#### [Why Generate a Click? Plug-in Decision Heads for Web Agents](http://arxiv.org/abs/2610.20107v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-15/Why_Generate_a_Click_Plug-in_Decision_Heads_for_We.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Web agents built on vision language models decide every action by generating text such as click(12), although most of that text encodes a choice among a few action types and a few dozen marked elements. We read these choices directly from the hidden states that the generator computes while it reads ...
+
+#### [GeoCloak: An Agentic Framework for Semantics-Preserving Geolocation Privacy via Peripheral Clue Manipulation](http://arxiv.org/abs/2610.20055v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-15/GeoCloak_An_Agentic_Framework_for_Semantics-Preser.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The rapid advancement of large vision language models (LVLMs) has made geolocation inference from images highly accurate and accessible. This poses serious privacy risks: a passive adversary with black-box LVLM access can infer a user's location from a single photo with no metadata. Existing protect...
+
+#### [Multimodal Medical Image Parsing with Task-Specific Low-Rank Adapters](http://arxiv.org/abs/2610.19901v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-15/Multimodal_Medical_Image_Parsing_with_Task-Specifi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Adapting a single vision-language model to medical image parsing requires training choices that reflect the demands of each task. We study task-specific adaptation with Qwen3.5-9B for FLARE 2026 Task 3, covering six task families and seven imaging modalities. Our system couples a shared, frozen 4-bi...
+
+#### [On the Limits of Representation-Based Test-Time Adaptation for Multimodal LLMs](http://arxiv.org/abs/2610.19892v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-15/On_the_Limits_of_Representation-Based_Test-Time_Ad.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Vision-language models suffer significant accuracy drops under common corruptions. While test-time adaptation (TTA) successfully mitigates these shifts in CLIP-like contrastive models, its application to generative multimodal large language models (MLLMs) remains underexplored and uniquely challengi...
+
