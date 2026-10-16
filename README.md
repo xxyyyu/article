@@ -9509,3 +9509,58 @@
 - **领域**: cs.LG
 - **核心摘要**: Vision-language models suffer significant accuracy drops under common corruptions. While test-time adaptation (TTA) successfully mitigates these shifts in CLIP-like contrastive models, its application to generative multimodal large language models (MLLMs) remains underexplored and uniquely challengi...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-16
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation](http://arxiv.org/abs/2610.22363v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-16/Perceive_Predict_and_Plan_a_Unified_World_Action_M.pdf)
+- **领域**: cs.CV
+- **核心摘要**: We introduce P$^{3}$-WAM, a unified world action model for egocentric dexterous manipulation that learns 3D perception, action-conditioned prediction, and goal-directed planning through three complementary modes: Perceive, which reconstructs articulated hand motion and camera trajectories from video...
+
+#### [DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2610.22356v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-16/DK-VLM_Geometry_as_Position_for_Spatial_Reasoning_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models still struggle to understand 3D spatial relations across views and update spatial judgments as the observer moves. A common approach fuses 3D reconstruction features into visual tokens, but aligning these features with pretrained semantic representations remains challenging un...
+
+#### [MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](http://arxiv.org/abs/2610.22276v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-16/MJev-Spatial_System_One_Spatial_Intelligence_via_N.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Spatial intelligence lets an agent perceive and act in the physical world, and many of its judgments must be made at interaction rates: which spatial relation holds, how far an object is, or where to place it. Vision-language models (VLMs) produce these answers by free-form text generation, paying f...
+
+#### [Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models](http://arxiv.org/abs/2610.22217v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-16/Skill-Decoupled_On-Policy_Expert_Distillation_for_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reinforcement learning (RL) can elicit specialized visual capabilities in vision-language models (VLMs), yet jointly optimizing heterogeneous objectives often introduces cross-capability gradient conflicts. Training experts independently mitigates this interference, but direct reward optimization ma...
+
+#### [REKI: Registering Knowledge in VLAs](http://arxiv.org/abs/2610.22178v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-16/REKI_Registering_Knowledge_in_VLAs.pdf)
+- **领域**: cs.RO
+- **核心摘要**: We introduce REKI, a 2.4B vision-language-action model (VLA) pretrained exclusively on public data that sets a new Pareto frontier between performance and model size: on LIBERO-Plus, RoboTwin Clean2Rand and RoboCasa365, it is outperformed only by models about twice its size. REKI consists of a visio...
+
+#### [Retrofitting Recurrent Vision-Language Models from Pretrained Backbones](http://arxiv.org/abs/2610.22075v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-16/Retrofitting_Recurrent_Vision-Language_Models_from.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent work shows that depth recurrence can be retrofitted into pretrained language models. In this work, we adapt this paradigm for visual understanding, using depth recurrence to reduce the parameter footprint of a pretrained vision-language model (VLM). To this end, we prune layers from the langu...
+
+#### [Memory as Weights: Internalizing Long-Term History for Streaming Videos](http://arxiv.org/abs/2610.22070v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-16/Memory_as_Weights_Internalizing_Long-Term_History_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Streaming vision-language models (VLMs) must continuously integrate information from the past while remaining responsive to current observations and user queries. Existing memory mechanisms typically compress, retrieve, or cache historical observations and reintroduce them into the input context, fo...
+
+#### [Visual Sanad: Auditing Vision-Language Models for False Acceptance of Qur'anic Citations](http://arxiv.org/abs/2610.22009v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-16/Visual_Sanad_Auditing_Vision-Language_Models_for_F.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are increasingly used to interpret religious, educational, and culturally sensitive visual content, yet their reliability on citation verification remains underexplored. We introduce Visual Sanad, a controlled benchmark for testing whether VLMs falsely accept incorrect ...
+
+#### [CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness](http://arxiv.org/abs/2610.21910v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-16/CoWorld_Reasoner_Agentic_Multimodal_Reasoning_with.pdf)
+- **领域**: cs.AI
+- **核心摘要**: As Vision-Language Models (VLMs) advance, they are increasingly expected to perform spatiotemporal reasoning over motion, actions, and view changes beyond what the input images show. Video World Models (VWMs) provide a natural unified engine for visual imagination by generating task-relevant visual ...
+
+#### [SurgStreamer: proactive, request-driven monitoring of surgical video streams with structured state and a reusable reasoning layer](http://arxiv.org/abs/2610.21895v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-16/SurgStreamer_proactive_request-driven_monitoring_o.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Surgical teams could benefit from assistants that watch the video for requested events, such as "tell me when the clip applier appears during Calot triangle dissection", and answer questions about what has already happened. We formalise this task as request-driven event detection with exact semantic...
+
