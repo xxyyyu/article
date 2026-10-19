@@ -9619,3 +9619,59 @@
 - **领域**: cs.CV
 - **核心摘要**: Surgical teams could benefit from assistants that watch the video for requested events, such as "tell me when the clip applier appears during Calot triangle dissection", and answer questions about what has already happened. We formalise this task as request-driven event detection with exact semantic...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-19
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [FedRAPP: Federated Test-Time Prompt Tuning for Vision-Language Models with Reliability-Aware Prompt Personalization](http://arxiv.org/abs/2610.23705v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-19/FedRAPP_Federated_Test-Time_Prompt_Tuning_for_Visi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Federated prompt learning enables vision-language models like CLIP to collaboratively adapt lightweight soft prompts across distributed clients without sharing raw data. However, existing federated prompt learning methods are designed primarily for supervised settings with labeled client data and as...
+
+#### [FlexPart: Text-Controlled Semantics-Aware 3D Part Segmentation at Flexible Granularity](http://arxiv.org/abs/2610.23659v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-19/FlexPart_Text-Controlled_Semantics-Aware_3D_Part_S.pdf)
+- **领域**: cs.CV
+- **核心摘要**: A 3D asset admits multiple valid part decompositions, while semantics-aware segmentation should reflect both the desired granularity and the parts a user wants to extract. Ideally, a practical segmentation
+  model should strive for a simple principle: what you ask for is what you get. However, reali...
+
+#### [A Language-Informed Loss for Visual Generation](http://arxiv.org/abs/2610.23653v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-19/A_Language-Informed_Loss_for_Visual_Generation.pdf)
+- **领域**: cs.CV
+- **核心摘要**: End-to-end visual generation with pixel-space loss has recently achieved competitive performance without the need for learned image tokenizers. In this work, we study whether language-informed supervision can provide a richer training signal than pixel loss for visual generation. We introduce LILIE ...
+
+#### [Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models](http://arxiv.org/abs/2610.23610v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-19/Not_Every_Mention_Is_a_Claim_Rethinking_Object_Hal.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Object hallucination in vision-language models (VLMs) is usually measured by checking each object a caption names against the image. Most benchmarks and detectors alike treat every object mention as a claim that the object is present. This assumption fails when a caption names an object without asse...
+
+#### [Enhancing RAG-based Medical VQA with Gated Multimodal Representations](http://arxiv.org/abs/2610.23588v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-19/Enhancing_RAG-based_Medical_VQA_with_Gated_Multimo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical Vision-Language Models (Med-LVLMs) have shown strong performance in Medical Visual Question Answering (MVQA), yet they may still produce factually inconsistent responses. Retrieval-Augmented Generation (RAG) can mitigate this issue by incorporating external clinical evidence; however, retrie...
+
+#### [HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents](http://arxiv.org/abs/2610.23479v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-19/HexaShell_A_Thin_Harness_for_Exploring_the_Limits_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Agents built on vision language models (VLMs) now compete with learned policies on robot manipulation leaderboards. We ask how far a coding agent can go when it controls a robot instead of a computer, and where it stops. Our system, HexaShell, keeps the harness thin: it only turns the agent's comman...
+
+#### [When Evidence Vanishes: Distilling Visual-Evidence Dependency in Medical Vision-Language Models](http://arxiv.org/abs/2610.23469v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-19/When_Evidence_Vanishes_Distilling_Visual-Evidence_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Compact medical vision-language models (VLMs) can answer clinical questions correctly without reliably using the image, relying instead on question wording or learned priors. Standard knowledge distillation copies a teacher's answer preference on the original image, but it leaves unchecked whether t...
+
+#### [HydraLLM: Adaptive Width Slicing for Elastic Text and Vision-Language Models](http://arxiv.org/abs/2610.23455v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-19/HydraLLM_Adaptive_Width_Slicing_for_Elastic_Text_a.pdf)
+- **领域**: cs.CL
+- **核心摘要**: LLMs and LVLMs are increasingly deployed across heterogeneous hardware, ranging from data-center GPUs to resource-constrained edge devices. Their fixed-size architectures limit the ability to reuse a single model across deployment settings with different compute, latency, and model-size targets. We ...
+
+#### [mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model](http://arxiv.org/abs/2610.23419v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-19/mmPencil_Toward_Writing-Style-Independent_In-Air_H.pdf)
+- **领域**: cs.HC
+- **核心摘要**: In-air handwriting recognition based on radio frequency (RF) signals offers a promising solution for human-computer interaction, yet existing methods are often limited by predefined writing planes, constrained writing styles, and small recognition vocabularies. To address these limitations, we propo...
+
+#### [FloodVLM-Pix: Language-Guided Pixel-Level Flood Understanding](http://arxiv.org/abs/2610.23377v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-19/FloodVLM-Pix_Language-Guided_Pixel-Level_Flood_Und.pdf)
+- **领域**: cs.CV
+- **核心摘要**: As climate change intensifies, floods are becoming more frequent and destructive, making accurate flood understanding an urgent priority. However, existing vision-language models perform poorly on flood-related tasks, suffering from attentional bias and inaccurate descriptions of flood magnitude. To...
+
