@@ -9675,3 +9675,58 @@
 - **领域**: cs.CV
 - **核心摘要**: As climate change intensifies, floods are becoming more frequent and destructive, making accurate flood understanding an urgent priority. However, existing vision-language models perform poorly on flood-related tasks, suffering from attentional bias and inaccurate descriptions of flood magnitude. To...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-20
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [What Language Adds, and at What Cost: Four Controlled Probes of Pathology Vision-Language Models](http://arxiv.org/abs/2610.26805v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-20/What_Language_Adds_and_at_What_Cost_Four_Controlle.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision--language models (VLMs) promise to make computational pathology queryable and able to draft reports, but how much language adds beyond the vision backbone is unclear, because almost every system is evaluated by its developers on test sets of their own choosing. We grade published evidence by ...
+
+#### [CAVA: Complementary-Label-Aware Data Valuation](http://arxiv.org/abs/2610.26734v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-20/CAVA_Complementary-Label-Aware_Data_Valuation.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Complementary-label learning (CLL) trains a classifier from labels that name a class an instance does not belong to. Such labels are cheap to collect from crowdworkers or vision-language models (VLMs), making them attractive for large-scale annotation. However, both sources can mistakenly assign the...
+
+#### [CaptionFuse: Training-Free Composed Product Retrieval Via VLM Intent Captioning and Weighted Embedding Fusion](http://arxiv.org/abs/2610.26661v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-20/CaptionFuse_Training-Free_Composed_Product_Retriev.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Composed Image Retrieval (CIR) retrieves products matching a reference image modified by natural language---a core capability for eCommerce search. Existing training-free methods fuse CLIP embeddings via arithmetic, but we identify a fundamental limitation: user text modifications are attribute-spar...
+
+#### [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](http://arxiv.org/abs/2610.26659v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-20/SpatialScout_Can_VLM_Agents_Actively_Explore_and_M.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Spatial intelligence requires agents to actively acquire visual evidence and integrate observations into a coherent representation of the three-dimensional world. Yet spatial question answering offers limited evidence of whether models can construct accurate metric maps through autonomous exploratio...
+
+#### [ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents](http://arxiv.org/abs/2610.26503v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-20/ScopeMem_Latent_Memory_That_Learns_Where_to_Revise.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Latent memory is gaining ground as a lightweight history supplement for GUI agents. It supplies history to a frozen vision-language model via prefix vectors trained with step-wise cross-entropy (CE). While resulting gains are naturally attributed to encoded history, our controlled experiments show t...
+
+#### [Cartender: Verifiable Language-Conditioned Driving by Learning the Drives Not Taken](http://arxiv.org/abs/2610.26390v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-20/Cartender_Verifiable_Language-Conditioned_Driving_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Every driving scene is logged once, but driving is one-to-many: the scene determines which behaviors are feasible, while an instruction selects among them. A log records only the action taken, leaving no direct supervision for alternative feasible actions or instructions the scene cannot support. Co...
+
+#### [XGLASS: X-Ray, Gaze and Language Assisted Slice Sequencing for CT Volumes](http://arxiv.org/abs/2610.26255v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-20/XGLASS_X-Ray_Gaze_and_Language_Assisted_Slice_Sequ.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) achieve remarkable performance on 2D medical images, such as X-rays or pathology images, while 3D VLMs that directly process CT/MRI volumes lag behind due to limited 3D training data and the predominance of 2D foundation architectures. To leverage powerful 2D VLMs for a...
+
+#### [Provable Adversarial Detection: Prime Quantization meets Gromov--Wasserstein](http://arxiv.org/abs/2610.26102v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-20/Provable_Adversarial_Detection_Prime_Quantization_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Adversarial vulnerability persists across modern vision architectures from CNNs to vision language models (VLMs), yet existing detection methods rely on heuristics without theoretical guarantees. We address the fundamental question of when adversarial perturbations can be provably detected from a ge...
+
+#### [AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and Test-time Adaptation in Evolving Environments](http://arxiv.org/abs/2610.25950v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-20/AdaExploreBench_Benchmarking_LLM_Agents_for_Proact.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Large Language Model (LLM) agents are increasingly deployed in unfamiliar and evolving environments, requiring them to proactively explore, understand, and adapt to environmental dynamics. However, existing benchmarks rarely test whether agents can proactively discover how an environment works and a...
+
+#### [SAPO: Self-Supervised Attention Policy Optimization for Improving Temporal Video Grounding in Vision-Language Models](http://arxiv.org/abs/2610.25923v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-20/SAPO_Self-Supervised_Attention_Policy_Optimization.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Video vision-language models (VLMs) have strong semantic understanding, yet remain unreliable at precise temporal grounding. Existing gains from explicitly aligning video frames with absolute time suggest that VLMs may already encode accurate temporal locations internally but lose precision when exp...
+
