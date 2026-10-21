@@ -9730,3 +9730,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Video vision-language models (VLMs) have strong semantic understanding, yet remain unreliable at precise temporal grounding. Existing gains from explicitly aligning video frames with absolute time suggest that VLMs may already encode accurate temporal locations internally but lose precision when exp...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-21
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [UniWALM: Unified World Action Language Model for Embodied Robot Control](http://arxiv.org/abs/2610.28626v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-21/UniWALM_Unified_World_Action_Language_Model_for_Em.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared representation, where each modality is both a conditioning signal and a supervision t...
+
+#### [Agentic Ensemble with Vision-Language Models for Visual Anomaly Detection](http://arxiv.org/abs/2610.28560v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-21/Agentic_Ensemble_with_Vision-Language_Models_for_V.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Visual anomaly detection aims to detect abnormal objects, while anomaly samples are often scarce during model training. Assembling multiple pretrained detectors can help by leveraging their transferable image scores and anomaly maps. However, most existing ensemble methods apply fixed fusion rules o...
+
+#### [SenseAlign: Understanding Vision and Touch through Language at Test Time](http://arxiv.org/abs/2610.28511v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-21/SenseAlign_Understanding_Vision_and_Touch_through_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Tactile-visual-language models combine vision and touch through a shared language space to recognize objects and materials. In real-world deployment, changes in lighting, contact quality or sensor hardware can shift visual or tactile inputs and degrade recognition performance. When both modalities c...
+
+#### [GazeLens for Efficient Egocentric Video Question Answering with Simple Gaze-Driven Adaptive Token Reduction](http://arxiv.org/abs/2610.28502v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-21/GazeLens_for_Efficient_Egocentric_Video_Question_A.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Smart glasses can help users understand their activities and surroundings, but small vision-language models must preserve useful evidence within limited computation. This is difficult because redundant frames consume the visual budget, while aggressive spatial compression can discard relevant detail...
+
+#### [CLOSER: Evidence-Aware Active Visual Verification for Embodied Object-Goal Navigation](http://arxiv.org/abs/2610.28476v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-21/CLOSER_Evidence-Aware_Active_Visual_Verification_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Object-goal navigation (ObjectNav) requires an embodied agent to find an instance of a specified category in an unseen environment and stop near it. The agent typically relies on an object detector but must judge online from a limited egocentric video stream, sometimes a single frame, whether a dete...
+
+#### [Multimodal Reranking Is a System One Decision](http://arxiv.org/abs/2610.28435v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-21/Multimodal_Reranking_Is_a_System_One_Decision.pdf)
+- **领域**: cs.IR
+- **核心摘要**: Multimodal rerankers are usually dedicated models: a vision-language model (VLM) is trained on retrieval data to score the candidates of a query. Scoring options is not specific to reranking. System One decision models such as Jev map a state and a typed question to one probability per option withou...
+
+#### [A Multi-Agent Framework for Automated Machine Learning with Evidence-based Planning for Medical Image Analysis](http://arxiv.org/abs/2610.28410v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-21/A_Multi-Agent_Framework_for_Automated_Machine_Lear.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Deep learning has become the default tool for medical image analysis, driven by the open-source movement. However, achieving the best performance on a given task remains difficult, with architecture selection and hyperparameter optimization (HPO) still considered "more of an art than a science". Aut...
+
+#### [VisualEvolve: A Skill Self-Evolution Framework for Visual Reasoning](http://arxiv.org/abs/2610.28386v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-21/VisualEvolve_A_Skill_Self-Evolution_Framework_for_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual tool use enables vision-language models (VLMs) to acquire task-relevant evidence, but its effectiveness can be limited by predefined visual operations and the tool-use strategies learned during training. Representing these operations and strategies as reusable external skills allows them to b...
+
+#### [Don't Skip the Baseline: A Controlled Comparison of Dynamic Expert Skipping in MoEs](http://arxiv.org/abs/2610.28369v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-21/Dont_Skip_the_Baseline_A_Controlled_Comparison_of_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: A growing body of work proposes dynamic expert-skipping methods for Mixture-of-Experts (MoE) models that adjust the number of experts activated per token during inference, aiming to preserve model quality while further reducing the number of active parameters. These methods have added calibrated imp...
+
+#### [Gated Prototype Transfer for Zero-Support Medical Vision Language Model](http://arxiv.org/abs/2610.28350v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-21/Gated_Prototype_Transfer_for_Zero-Support_Medical_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Realistic few-shot adaptation of medical vision-language models (VLMs) can leave low-prevalence classes without any labeled support. The training-free SS- Text+ solver remains operational in this setting, but its zero-support prototypes receive no visual adaptation and fall back to a purely textual ...
+
