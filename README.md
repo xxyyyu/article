@@ -9785,3 +9785,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Realistic few-shot adaptation of medical vision-language models (VLMs) can leave low-prevalence classes without any labeled support. The training-free SS- Text+ solver remains operational in this setting, but its zero-support prototypes receive no visual adaptation and fall back to a purely textual ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-22
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [ViBMR: A Large-Scale Multi-Sequence Brain MRI Dataset and Comprehensive Evaluation for Vietnamese Radiology Report Generation](http://arxiv.org/abs/2610.29905v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-22/ViBMR_A_Large-Scale_Multi-Sequence_Brain_MRI_Datas.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Automated radiology report generation for multi-sequence brain MRI holds strong promise for alleviating radiologists' workload, yet it remains a demanding problem: brain MRI studies are inherently volumetric, each pulse sequence carries complementary diagnostic information, and annotated data are cr...
+
+#### [Compositionality with Primitives: A Unified View from Euclidean to Hyperbolic Vision-Language Models](http://arxiv.org/abs/2610.29811v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-22/Compositionality_with_Primitives_A_Unified_View_fr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Compositional zero-shot learning (CZSL) aims to recognize novel combinations of previously observed objects and attributes. Prior work showed that large-scale vision-language models encode decomposable semantic structures that can be recomposed to enable generalization. The Geodesically Decomposable...
+
+#### [OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization](http://arxiv.org/abs/2610.29761v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-22/OMAR_Open-World_Multi-Attribute_Reasoning_for_Scen.pdf)
+- **领域**: cs.RO
+- **核心摘要**: With the advent of foundation models, robots are increasingly capable of understanding and executing explicitly specified human tasks. Extending these capabilities to open-ended tasks, however, requires robots to infer appropriate actions from the observed scene. Household organization exemplifies t...
+
+#### [Reconstruction-Augmented Visuomotor Pre-Training of 3D-Grounded Bimanual Dexterity from RGB-Only Human Videos](http://arxiv.org/abs/2610.29716v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-22/Reconstruction-Augmented_Visuomotor_Pre-Training_o.pdf)
+- **领域**: cs.RO
+- **核心摘要**: We present SpatialDex, a framework that learns 3D-grounded bimanual dexterity from RGB-only human videos through reconstruction-augmented visuomotor pre-training. The central idea is to learn human behavior together with its spatial context. From each video, we reconstruct the scene geometry and est...
+
+#### [FogTTA: Online Test-Time Adaptation for Robust Transformer-based Object Detection in Foggy Weather](http://arxiv.org/abs/2610.29618v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-22/FogTTA_Online_Test-Time_Adaptation_for_Robust_Tran.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Object detection models for autonomous driving commonly experience substantial performance drops when deployed under adverse weather due to the domain shift between training data and real-world operating conditions. This degradation is especially evident when models trained on clear-weather images e...
+
+#### [Plan First, Act Later: Streaming Reasoning for Executable Memory in Robot Control](http://arxiv.org/abs/2610.29329v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-22/Plan_First_Act_Later_Streaming_Reasoning_for_Execu.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Long-horizon robot manipulation requires a robot to remember task-relevant information beyond its short observation window. Existing memory-augmented policies typically retrieve relevant information from history and reason over it at execution time, placing a heavy reasoning burden on the high-level...
+
+#### [Asking What a Director Sees Can Change What Vision-Language Models Choose](http://arxiv.org/abs/2610.29318v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-22/Asking_What_a_Director_Sees_Can_Change_What_Vision.pdf)
+- **领域**: cs.CL
+- **核心摘要**: Vision-language models are now routinely tested on theory of mind: whether they can work out what another person sees, knows, and means. A common design asks the model to report that perspective and then to act for the person, and reads a correct report beside a wrong action as a failure to use the ...
+
+#### [Failure Modes of Vision-Language Models for Human Activity Understanding in Thermal HRI](http://arxiv.org/abs/2610.29244v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-22/Failure_Modes_of_Vision-Language_Models_for_Human_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Thermal cameras enable robots to perceive human activities in darkness while revealing less personally identifiable appearance information and fewer details of the surrounding environment than RGB cameras. As vision-language models (VLMs), originally developed for RGB imagery, are increasingly integ...
+
+#### [Encoded but Unused: Bounding the Sources of VLM Errors](http://arxiv.org/abs/2610.29241v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-22/Encoded_but_Unused_Bounding_the_Sources_of_VLM_Err.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In this paper, we investigate why vision-language models (VLMs) produce errors by decomposing them into two sources: visual-representation failures, in which the visual evidence required for the correct answer is not encoded, and visual-utilization failures, in which this evidence is encoded but not...
+
+#### [Think-Capture: Active 3D Geometry Acquisition for Spatial Reasoning in Vision-Language Models](http://arxiv.org/abs/2610.29232v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-22/Think-Capture_Active_3D_Geometry_Acquisition_for_S.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) excel at 2D recognition but often fail to maintain consistent 3D relations across sparse viewpoints, leading to spatial hallucinations under occlusion and perspective changes. Existing methods commonly fuse all frames with dense geometry, incurring substantial computati...
+
