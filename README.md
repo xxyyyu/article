@@ -9950,3 +9950,58 @@
 - **领域**: cs.CV
 - **核心摘要**: During the deep learning era, innovations in remote sensing (RS) vision models primarily focused on optimizing network architectures for specific tasks and conducting end-to-end training. However, with the advent of the Vision-Language Models (VLMs) era, constrained by substantial computational reso...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-25
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-25/Sensorimotor_Alignment_A_Platonic_Proxy_for_Embodi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a...
+
+#### [METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning](http://arxiv.org/abs/2610.31656v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-25/METTA_Memory-Enhanced_Test-Time_Adaptation_for_Met.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from ...
+
+#### [Progress Probes $P^2$: Lightweight Runtime Monitoring for Vision-Language-Action Models](http://arxiv.org/abs/2610.31613v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-25/Progress_Probes_P2_Lightweight_Runtime_Monitoring_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language-Action (VLA) models can perform diverse manipulation tasks directly from visual observations and natural language instructions, but they remain prone to mistakes and unpredictable failures. Deploying these policies without continuous human supervision will require robust runtime moni...
+
+#### [CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models](http://arxiv.org/abs/2610.31566v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-25/CellTrack-Bench_Microscopic_Cell_Tracking_Benchmar.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large language models have shown outstanding performance on text-first tasks such as coding, math, and writing. Recent efforts are shifting models' training to include scientific problems that often live in highly specialized domains beyond text, such as protein structure and biological images. Howe...
+
+#### [DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination](http://arxiv.org/abs/2610.31511v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-25/DuoCook_An_Overcooked-Inspired_Benchmark_for_Visua.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Coordinating two players in a cooking task requires a vision-language agent to track changing scene states, sequence recipe steps, and allocate shared resources under a time budget. We introduce an Overcooked-inspired benchmark for evaluating these capabilities in Unreal Engine environments construc...
+
+#### [AgentVQA: A Unified Benchmark for Agentic Visual Understanding](http://arxiv.org/abs/2610.31494v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-25/AgentVQA_A_Unified_Benchmark_for_Agentic_Visual_Un.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) can perform a broad range of tasks across diverse settings, yet their performance in agentic contexts remains poorly understood. Although online evaluations in simulators and real-world environments are essential for measuring interactive agent performance, they are cos...
+
+#### [MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models](http://arxiv.org/abs/2610.31478v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-25/MoG-VLM_Efficient_Video_Anomaly_Detection_through_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-Language Models (VLMs) have shown strong potential for video anomaly detection, but dense frame-level inference makes them impractical for real-time deployment. Existing acceleration commonly relies on uniform sampling, which ignores content dynamics and can either waste computation on static...
+
+#### [Ask About the Right Moment: Training-Free Object Identity Reasoning for Video-Language Models](http://arxiv.org/abs/2610.31471v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-25/Ask_About_the_Right_Moment_Training-Free_Object_Id.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Many questions about a video concern one physical object. Where does the ball end up after the cups are shuffled? Which card is the queen? How often was the mug covered? Video-language models (Video-LMs) recognise such objects in single frames but do not keep them apart over time. On real shell-game...
+
+#### [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](http://arxiv.org/abs/2610.31329v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-25/WeVisOne-VL_Unified_Visual_Perception_from_Objects.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level and pixel-level perception through structured next-token prediction. It supports multiple visual ta...
+
+#### [Data-Driven Vision-Language Models for Remote Sensing: A Survey](http://arxiv.org/abs/2610.31304v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-25/Data-Driven_Vision-Language_Models_for_Remote_Sens.pdf)
+- **领域**: cs.CV
+- **核心摘要**: During the deep learning era, innovations in remote sensing (RS) vision models primarily focused on optimizing network architectures for specific tasks and conducting end-to-end training. However, with the advent of the Vision-Language Models (VLMs) era, constrained by substantial computational reso...
+
