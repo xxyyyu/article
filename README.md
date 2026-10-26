@@ -10005,3 +10005,58 @@
 - **领域**: cs.CV
 - **核心摘要**: During the deep learning era, innovations in remote sensing (RS) vision models primarily focused on optimizing network architectures for specific tasks and conducting end-to-end training. However, with the advent of the Vision-Language Models (VLMs) era, constrained by substantial computational reso...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-26
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs](http://arxiv.org/abs/2610.32967v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-26/MiD-VLM_Detecting_and_Grounding_Global_Semantic_Mi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Semantic misinformation can arise when an authentic image is paired with a caption that changes or distorts its narrative. Because the image itself may contain no visible signs of manipulation, methods designed to detect pixel-level artifacts can miss these misleading image-caption pairs. We study t...
+
+#### [Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models](http://arxiv.org/abs/2610.32948v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-26/Beyond_Discrete_Tokens_Preserving_Numerical_Contin.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-based numerical prediction. Methods: This article presents HAD-VLM, a hybrid autoregressive-diffusion...
+
+#### [Multimodal Generative AI Assists Comprehensive Echocardiographic Interpretation](http://arxiv.org/abs/2610.32880v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-26/Multimodal_Generative_AI_Assists_Comprehensive_Ech.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Echocardiography is the cornerstone of cardiovascular diagnostics, yet its global utility is constrained by a critical shortage of experienced interpreters. Current artificial intelligence (AI) solutions remain limited, typically operating as opaque "black boxes" or focusing on narrow tasks that fai...
+
+#### [Predictive Long-Horizon Progress Modeling with Action-Aware Quantification](http://arxiv.org/abs/2610.32776v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-26/Predictive_Long-Horizon_Progress_Modeling_with_Act.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Quantitative and dense task progress feedback is essential for robotic manipulation across data curation, policy evaluation, and reinforcement learning. Existing progress annotations often rely on sparse keyframe markings derived from subjective manual judgments, limiting their scalability and cross...
+
+#### [Cross-Architectural Feature Fusion for Coronary Artery Stenosis Detection in X-ray Angiography](http://arxiv.org/abs/2610.32730v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-26/Cross-Architectural_Feature_Fusion_for_Coronary_Ar.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Coronary artery disease remains a leading cause of mortality, with stenosis detection from invasive X-ray Coronary Angiography (XCA) critical for diagnosis. Manual interpretation is time-consuming, subjective, and variable, especially under low contrast and vessel overlap. Existing deep learning met...
+
+#### [OWLS: Open-world Language-conditioned Speed Fields for Zero-Shot Rover Navigation](http://arxiv.org/abs/2610.32596v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-26/OWLS_Open-world_Language-conditioned_Speed_Fields_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Semantics can provide a proxy for physical traversability. Terrain that looks like loose sand or a rock field is likely to have similar physical properties. Open-vocabulary vision-language models (VLMs) enable this physical reasoning over terrain outside any fixed label set. We present Open-world La...
+
+#### [UAV-SwarmAgent: Scalable Multi-UAV Reconnaissance and Task Allocation via Code Generation and Vision-Language Reasoning](http://arxiv.org/abs/2610.32559v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-26/UAV-SwarmAgent_Scalable_Multi-UAV_Reconnaissance_a.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Supervising a multi-UAV reconnaissance mission usually means plotting waypoints and watching every drone. We present UAV SwarmAgent, a hierarchical multi-agent system in which an operator states the mission in one natural-language sentence and a ground-station agent writes and executes code that tur...
+
+#### [Efficient Zero-Shot Video Anomaly Detection via Signal-Aware Adaptive Fusion (SAAF)](http://arxiv.org/abs/2610.32486v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-26/Efficient_Zero-Shot_Video_Anomaly_Detection_via_Si.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Deploying Vision-Language Models for video anomaly detection confronts a fundamental constraint. Their semantic reasoning demands computational budgets incompatible with the scale of real-world video streams. We present Signal-Aware Adaptive Fusion (SAAF), a framework that achieves efficient zero-sh...
+
+#### [PCFBench: How Far Can Large Vision-Language Models Go in Physics-aware Photonic Inverse Design?](http://arxiv.org/abs/2610.32485v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-26/PCFBench_How_Far_Can_Large_Vision-Language_Models_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Photonic crystal fibers (PCFs) underpin critical applications in telecommunications, sensing, and high-power laser delivery, yet their design remains a manual, expert-intensive process that couples geometric intuition with deep waveguide physics. Vision-language models (VLMs) offer a promising path ...
+
+#### [PathJev: Decision-Native Vision-Language Modelling for Histopathology](http://arxiv.org/abs/2610.32478v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-26/PathJev_Decision-Native_Vision-Language_Modelling_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models used for decisions in histopathology rarely return calibrated probabilities over the candidates a user cares about. Decision-native models write a question and a candidate set chosen at run time into the input and return a normalised distribution from a small decision head in ...
+
