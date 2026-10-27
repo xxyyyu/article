@@ -10060,3 +10060,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Vision-language models used for decisions in histopathology rarely return calibrated probabilities over the candidates a user cares about. Decision-native models write a question and a candidate set chosen at run time into the input and return a normalised distribution from a small decision head in ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-27
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent](http://arxiv.org/abs/2610.35817v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-27/Pretraining_Knows_What_Simulation_Teaches_How_Comp.pdf)
+- **领域**: cs.RO
+- **核心摘要**: A robot policy needs to understand what a task is asking for in a scene, and how to move the robot to accomplish that task. To achieve these two skills, we introduce Zero-real Agent Policy (ZAP), a recipe that teaches a small off-the-shelf vision-language model to control a robot via a simple tool h...
+
+#### [Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies](http://arxiv.org/abs/2610.35704v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-27/Explainable_Multimodal_AI_Approach_to_Reduce_Unnec.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Recently, there has been rise in multimodal vision-language models for computer-aided diagnosis (CAD), yet their application in breast diagnosis, particularly for predicting biopsy outcomes remains limited. This study presents a multimodal vision-language approach, incorporating Grad-CAM as an Expla...
+
+#### [TrySee: Modular Perception-Enhanced VLM Grounding for Closed-Loop Robot Task Planning in Specialized Domains](http://arxiv.org/abs/2610.35687v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-27/TrySee_Modular_Perception-Enhanced_VLM_Grounding_f.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision Language Models (VLMs) have shown impressive capabilities in high-level reasoning and task planning for robots. However, specialized domains remain a challenge for VLMs' image interpretation and grounding abilities. We introduce TrySee, a modular closed-loop robot task planning pipeline integ...
+
+#### [Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation](http://arxiv.org/abs/2610.35636v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-27/Adapt_for_Planning_Not_just_Prediction_Optimistic_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Latent world models are typically pre-trained offline and kept frozen at test time, so planning with them can degrade under distribution shift. Test-time adaptation (TTA) can mitigate this degradation by updating the model during deployment. Unlike pre-training on fixed data, TTA for planning is clo...
+
+#### [ArchiveLens: A Generative Spatial Knowledge Framework for Semantic Reconstruction of Historical Maps](http://arxiv.org/abs/2610.35606v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-27/ArchiveLens_A_Generative_Spatial_Knowledge_Framewo.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Historical maps contain dense morphological and semantic information about past urban environments, but many digitization workflows focus primarily on extracting geometry, and do not capture cartographic semantics such as building use and construction materials. This study introduces ArchiveLens, a ...
+
+#### [Hypergraph-Enhanced Evidence Selection for Long-Context Multimodal Document QA](http://arxiv.org/abs/2610.35542v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-27/Hypergraph-Enhanced_Evidence_Selection_for_Long-Co.pdf)
+- **领域**: cs.IR
+- **核心摘要**: Long-context multimodal document question answering (QA) has become an important yet challenging task for modern vision-language models (VLMs), as it requires reasoning over evidence dispersed across pages and modalities within limited input budgets. Current pipelines adopt retrieval-augmented gener...
+
+#### [TP-JSCC: Efficient Token Pruning and Joint Source-Channel Coding for LVLMs-based 3D-VQA in Cloud-Edge Collaboration](http://arxiv.org/abs/2610.35489v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-27/TP-JSCC_Efficient_Token_Pruning_and_Joint_Source-C.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Deploying large vision-language models (LVLMs) on resource-constrained embodied agents for 3D visual question answering necessitates cloud-edge collaboration. However, offloading massive visual data to the cloud over bandwidth-limited and noisy channels introduces severe latency and transmission dis...
+
+#### [Shared Context, Separate Engines: Streaming Vision--Language Inference on Edge SoCs](http://arxiv.org/abs/2610.35309v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-27/Shared_Context_Separate_Engines_Streaming_Vision--.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Edge SoCs pack CPUs, GPUs, and NPUs, yet vision--language model (VLM) runtimes keep generation on one engine and leave the others idle. Streaming VLMs expose further parallelism: new frames arrive while earlier queries are still being answered. Engines differ in compute and memory access and contend...
+
+#### [Beyond Vision-Language Models: Visual-Semantic Affect Graphs for Emotion Recognition in Artworks](http://arxiv.org/abs/2610.35244v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-27/Beyond_Vision-Language_Models_Visual-Semantic_Affe.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Emotion recognition in artworks remains challenging because affective meaning is often subjective, implicit, and shaped by relationships between visual form and semantic associations. While vision-language models provide strong multimodal representations, direct image-to-emotion prediction may overl...
+
+#### [Improving VLMs on Scientific Chart Analysis via Autonomous Evolution](http://arxiv.org/abs/2610.35077v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-27/Improving_VLMs_on_Scientific_Chart_Analysis_via_Au.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Understanding and operating with scientific charts is a standard approach in data analysis, and while humans are good at interpreting such charts, open vision-language models (VLMs) are known to perform poorly when it comes to question answering based on such data types. Motivated by an initial obse...
+
