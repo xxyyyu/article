@@ -10170,3 +10170,58 @@
 - **领域**: cs.LG
 - **核心摘要**: Embedding-level scaling expands the capacity of language models through lookup-based memory rather than by increasing model depth, width, or dense computation. Extending this idea to vision-language models (VLMs) is challenging because visual features are continuous, spatially structured, and query-...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-29
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [When Should We Intervene at Test Time?](http://arxiv.org/abs/2610.37658v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-29/When_Should_We_Intervene_at_Test_Time.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images yet fail when a batch contains mostly one class. Average accuracy hides these failu...
+
+#### [Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video](http://arxiv.org/abs/2610.37619v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-29/Perceiving_and_Predicting_Dynamic_Sports_Spatiotem.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Agile robots require spatiotemporal intelligence to interpret scenes, reason about interactions, and anticipate future events. Yet it remains unclear how well foundation vision models support these capabilities, particularly from a moving egocentric camera, which is a natural view for robots. To inv...
+
+#### [Which Hand Was Late? Diagnosis for Robot Failure Recovery in Bimanual Tool Use](http://arxiv.org/abs/2610.37533v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-29/Which_Hand_Was_Late_Diagnosis_for_Robot_Failure_Re.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Failure diagnosers for robot manipulation are increasingly vision--language models (VLMs), trained and evaluated on single-arm failures produced by perturbing a successful demonstration. Bimanual tool use adds failures of other kinds: a tool that slips out of its socket while still held, two correct...
+
+#### [World Dreamer v5-lite: A Multi-Robot World Action Model with One Dreamer](http://arxiv.org/abs/2610.37518v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-29/World_Dreamer_v5-lite_A_Multi-Robot_World_Action_M.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Multi-robot control requires integrating distributed camera views while predicting separate action sequences. Most vision-language-action and world-action models target one robot. Combining multiple views alone does not establish spatial correspondence between them. World Dreamer v5-lite is a multi-...
+
+#### [TimeLineXR: An Interactive Exploration of Time in Vision-Language Models](http://arxiv.org/abs/2610.37349v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-29/TimeLineXR_An_Interactive_Exploration_of_Time_in_V.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recently, it has been shown that vision-language models (VLMs) have a certain intrinsic understanding of time. They can estimate the temporal origin of objects and encode time along a low-dimensional, non-linear manifold inside their embedding space~\cite{tekaya2025matter}. That result is quantitati...
+
+#### [Vision-Language-Action or World-Action? Just Action Models](http://arxiv.org/abs/2610.37219v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-29/Vision-Language-Action_or_World-Action_Just_Action.pdf)
+- **领域**: cs.CV
+- **核心摘要**: The vision-language-action (VLA) and world-action model (WAM) communities debate whether control policies should inherit pretrained knowledge from vision-language models or from visual generators. The debate, however, bundles three separable choices: backbone initialization, the objective applied to...
+
+#### [Multibranch Ensemble Head in Vision Foundation Models for Efficient Cucumber Phenological Stage Classification](http://arxiv.org/abs/2610.37118v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-29/Multibranch_Ensemble_Head_in_Vision_Foundation_Mod.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision Foundation Models (VFMs) pretrained with self-supervised learning, such as DINOv2, provide highly transferable features, yet adapting them to small, domain-shifted datasets is still challenging. We propose a regularizing multibranch ensemble head: a training and inference scheme that pairs lo...
+
+#### [SplatScout: Query-Driven Part-Level Referring Segmentation in Gaussian Scenes](http://arxiv.org/abs/2610.37098v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-29/SplatScout_Query-Driven_Part-Level_Referring_Segme.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing referring segmentation methods on Gaussian scenes primarily target whole objects, relying on segmenter-generated candidates from which a vision-language model (VLM) selects. Such predetermined fixed candidates may omit fine-grained parts needed as targets or cues for identifying objects. We...
+
+#### [Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding](http://arxiv.org/abs/2610.37093v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-29/Learning_to_Look_Beyond_Screens_Transferable_Visua.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual perception is evolving from passive recognition toward active, task-oriented observation. We investigate GUI grounding as a scalable source of spatial supervision for learning observation behaviors that transfer beyond interfaces. We introduce LBS (Look Beyond Screens), a vision-language mode...
+
+#### [V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models](http://arxiv.org/abs/2610.37019v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-29/V-LUMEN_Visual_Lookup_Memory_for_Embedding_Scaling.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Embedding-level scaling expands the capacity of language models through lookup-based memory rather than by increasing model depth, width, or dense computation. Extending this idea to vision-language models (VLMs) is challenging because visual features are continuous, spatially structured, and query-...
+
