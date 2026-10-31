@@ -10280,3 +10280,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Prompt-tuning has emerged as a parameter-efficient technique for adapting large-scale vision-language models (VLMs) to downstream tasks while keeping the pre-trained weights frozen. However, prompt-tuned VLMs often suffer from a base-to-novel dual miscalibration problem, where models typically show ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-10-31
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection](http://arxiv.org/abs/2610.40580v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-31/RADIOlogy_A_Single-Pass_Approach_to_Training-Free_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Current zero-shot anomaly detection methods often rely on complex prompt-learning techniques or computationally expensive sliding-window strategies to achieve fine-grained visual alignment to detect small-scale anomalies. This reliance stems from the fundamental limitation of standard CLIP architect...
+
+#### [VeriCUA: Verification as Agentic Exploration for Computer-Using Agents](http://arxiv.org/abs/2610.40578v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-31/VeriCUA_Verification_as_Agentic_Exploration_for_Co.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learning. Typical automated approaches prompt vision-language models (VLMs) to judge trajectories or generate...
+
+#### [Soil Moisture Estimation in Precision Agriculture: A Knowledge Distillation Approach](http://arxiv.org/abs/2610.40432v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-31/Soil_Moisture_Estimation_in_Precision_Agriculture_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Accurate soil moisture estimation is critical for precision agriculture, influencing irrigation, fertilization, and harvesting strategies. Traditional methods primarily rely on meteorological and soil property data, while recent approaches incorporate visual modalities such as aerial and geospatial ...
+
+#### [Textual Response-Aware Guidance for Zero-Shot Adversarial Robustness of Vision-Language Models](http://arxiv.org/abs/2610.40309v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-31/Textual_Response-Aware_Guidance_for_Zero-Shot_Adve.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) exhibit strong zero-shot generalization but remain vulnerable to adversarial attacks. Existing adversarial fine-tuning methods often use pre-trained model guidance to preserve image--text alignment while improving robustness. Our analysis of visual representation drift ...
+
+#### [TaskFrame: Connecting Task-Level Planning with Frame-Level Control for Game Agents](http://arxiv.org/abs/2610.40276v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-31/TaskFrame_Connecting_Task-Level_Planning_with_Fram.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Building general game agents requires both high-level task reasoning and low-latency action control in rapidly changing visual environments. These capabilities favor models with substantially different computational profiles, making them difficult to realize within a single model. In this work, we p...
+
+#### [Mobilizing the Archive: Bitext Extraction at Scale from Archival Documents for Extremely Low-resource Languages](http://arxiv.org/abs/2610.40233v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-31/Mobilizing_the_Archive_Bitext_Extraction_at_Scale_.pdf)
+- **领域**: cs.CL
+- **核心摘要**: While mining parallel sentences from web pages has proven effective for low-resource machine translation, the majority of the world's languages have little to no web presence. What they do have, though, are resources that are the result of centuries of efforts by linguists, such as grammars, diction...
+
+#### [It Takes Two to Probe, Thousands to Retrieve: Putting Vision--Language Probes to the Retrieval Test](http://arxiv.org/abs/2610.40124v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-31/It_Takes_Two_to_Probe_Thousands_to_Retrieve_Puttin.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision--language models (VLMs) are tested for fine-grained understanding with image--text matching probes, a model must prefer the correct image or caption over handcrafted negative. In retrieval, the correct item must beat thousands of alternatives. We measure how these two evaluation methods relat...
+
+#### [How Far Are We From On-Device VLM Inference? A Measurement Study on Edge NPUs](http://arxiv.org/abs/2610.40039v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-31/How_Far_Are_We_From_On-Device_VLM_Inference_A_Meas.pdf)
+- **领域**: cs.PF
+- **核心摘要**: Diverse optimizations spanning model architecture, inference runtime, and hardware acceleration have been proposed for on-device vision-language model (VLM) deployment on edge NPUs. Still, cross-layer coordination of VLM execution on edge NPUs remains largely underexplored. This paper presents an em...
+
+#### [Greenscapes: Optimized Vegetation Configurations in Cities](http://arxiv.org/abs/2610.40007v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-31/Greenscapes_Optimized_Vegetation_Configurations_in.pdf)
+- **领域**: cs.GR
+- **核心摘要**: Vegetation plays a central role in cities, serving functional roles such as balancing shade and sky exposure, shaping the microclimate, carbon sequestration, and providing acoustic screening. Furthermore, aesthetic choices in landscape styles (formal, modernist, picturesque) are important for citize...
+
+#### [M-PFT: Angular Margin for Calibrated Prompt-Tuning of Fine-Tuned Vision-Language Models](http://arxiv.org/abs/2610.39861v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-10-31/M-PFT_Angular_Margin_for_Calibrated_Prompt-Tuning_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Prompt-tuning has emerged as a parameter-efficient technique for adapting large-scale vision-language models (VLMs) to downstream tasks while keeping the pre-trained weights frozen. However, prompt-tuned VLMs often suffer from a base-to-novel dual miscalibration problem, where models typically show ...
+
