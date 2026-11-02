@@ -10390,3 +10390,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Prompt-tuning has emerged as a parameter-efficient technique for adapting large-scale vision-language models (VLMs) to downstream tasks while keeping the pre-trained weights frozen. However, prompt-tuned VLMs often suffer from a base-to-novel dual miscalibration problem, where models typically show ...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-11-02
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Hierarchical World Models with Implicit Dynamics](http://arxiv.org/abs/2610.42146v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-02/Hierarchical_World_Models_with_Implicit_Dynamics.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-actions or latent ski...
+
+#### [SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion](http://arxiv.org/abs/2610.41844v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-02/SketchMate_Agentic_Geometric_Reasoning_for_Zero-Sh.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Inserting an unseen part requires sub-millimetre precision and the correct orientation of keyed features. Current zero-shot agentic manipulation methods built on vision-language models (VLMs) produce spatial outputs that are far too coarse for this. We propose to let a VLM build a sketch model of th...
+
+#### [Latent-Lens: Visual Perception in Small Language Models Through Latent Communication](http://arxiv.org/abs/2610.41751v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-02/Latent-Lens_Visual_Perception_in_Small_Language_Mo.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Bridging independent vision-language models (VLMs) and small language models (SLMs) in a modular multi-agent system typically forces them to exchange information as discrete text, which creates a lossy bottleneck for spatial and fine-grained details. This constraint is especially acute for SLMs, who...
+
+#### [When Depth Lies: Benchmarking Vision-Language Models on Mirror-Induced RGB-D Ambiguity](http://arxiv.org/abs/2610.41651v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-02/When_Depth_Lies_Benchmarking_Vision-Language_Model.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) have made significant progress in spatial reasoning, particularly by integrating RGB images with depth data, which is often assumed to faithfully reflect physical distances. However, mirrors violate this assumption: they distort depth readings while reproducing object a...
+
+#### [GRIT: Gradient Masking for Visually Misgrounded Tokens in Text-Rich Reasoning](http://arxiv.org/abs/2610.41629v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-02/GRIT_Gradient_Masking_for_Visually_Misgrounded_Tok.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Reinforcement learning with verifiable rewards (RLVR) has recently been extended to vision-language models (VLMs), yet its effectiveness remains limited for text-rich reasoning tasks. We highlight a key factor contributing to this limitation: models frequently arrive at correct final answers despite...
+
+#### [Parse Before You Execute: Efficient Spatial Reasoning with Executable Primitives](http://arxiv.org/abs/2610.41389v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-02/Parse_Before_You_Execute_Efficient_Spatial_Reasoni.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Spatial reasoning in Vision-Language Models (VLMs) has increasingly benefited from tool-integrated pipelines that ground computation in explicit geometry. However, existing systems often compile queries into relatively open-ended artifacts, such as code, task constraints, tool plans, or gathered evi...
+
+#### [GenDSR: Transferring Representations from Video Generation Models for Dynamic Spatial Reasoning](http://arxiv.org/abs/2610.41314v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-02/GenDSR_Transferring_Representations_from_Video_Gen.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Dynamic spatial reasoning is essential for connecting visual intelligence to thephysical world, yet remains challenging for vision-language models (VLMs), which must preserve scene state while tracking how spatial relations evolve over time. Meanwhile, video generation models (VGMs), trained to synt...
+
+#### [Hawkeye: Reading Illegible Text with Vision Language Models](http://arxiv.org/abs/2610.41254v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-02/Hawkeye_Reading_Illegible_Text_with_Vision_Languag.pdf)
+- **领域**: cs.CV
+- **核心摘要**: While modern Vision-Language Models (VLMs) have been remarkably successful in general scene text recognition, they consistently struggle with the long-tail distribution of text that is degraded by motion blur or low resolution. These limitations are particularly apparent in egocentric applications l...
+
+#### [TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents](http://arxiv.org/abs/2610.41216v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-02/TinyAstral_Transferring_Self-Evolving_Harnesses_to.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Robot agents built on vision-language models depend on both the planner and its harness: the tools, feedback, memory, and recovery logic around it. Can improvements to a large teacher's harness be carried into a compact agent with lower inference compute cost? We present TinyAstral, a two-stage appr...
+
+#### [LLM Detoxification via Transition-Aware Reward-Guided Representation Sampling](http://arxiv.org/abs/2610.41165v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-02/LLM_Detoxification_via_Transition-Aware_Reward-Gui.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Large Language Models (LLMs) can generate toxic content, motivating effective test-time detoxification. Existing representation steering methods often rely on static or coarse interventions and provide imprecise guidance because they inadequately model transitions between toxic and non-toxic generat...
+
