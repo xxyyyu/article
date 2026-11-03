@@ -10445,3 +10445,58 @@
 - **领域**: cs.AI
 - **核心摘要**: Large Language Models (LLMs) can generate toxic content, motivating effective test-time detoxification. Existing representation steering methods often rely on static or coarse interventions and provide imprecise guidance because they inadequately model transitions between toxic and non-toxic generat...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-11-03
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models](http://arxiv.org/abs/2611.03622v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-03/DA_Decoupling_Description_and_Assessment_Enables_V.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in failed executions due to implicit success assumptions or relative temporal ranking designs. Naive pro...
+
+#### [TAMPAgent: Agentic Belief-Space Planning for Mobile Manipulation](http://arxiv.org/abs/2611.03584v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-03/TAMPAgent_Agentic_Belief-Space_Planning_for_Mobile.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Open-world robotic mobile manipulation requires acting in physical environments with only partial information. While recent Large Vision-Language Model (LVLM) agents show strong open-world reasoning capabilities, existing architectures that rely on direct tool calling struggle with geometric uncerta...
+
+#### [PlantVLM-Edge: Quantized Vision-Language Models for On-Device Crop Health Diagnosis](http://arxiv.org/abs/2611.03557v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-03/PlantVLM-Edge_Quantized_Vision-Language_Models_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Timely and accurate crop health diagnosis is essential for sustainable agricultural production, yet accurate diagnosis often requires expert knowledge that is not readily available. Recent vision-language models (VLMs) have demonstrated remarkable capabilities in visual understanding, reasoning, and...
+
+#### [Same Outputs, Different Scores: Auditing the Unchecked Graders of Multimodal LLM Benchmarks](http://arxiv.org/abs/2611.03377v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-03/Same_Outputs_Different_Scores_Auditing_the_Uncheck.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Every multimodal-LLM multiple-choice benchmark ends with a scoring rule that converts a model's response, often free-form text rather than a clean option letter, into a right/wrong verdict, buried in its code. Unlike the dataset, this rule is chosen without justification and left unexamined, yet it ...
+
+#### [EO-Jev: Decision Model for Earth Observation](http://arxiv.org/abs/2611.03371v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-03/EO-Jev_Decision_Model_for_Earth_Observation.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Earth observation (EO) workflows require selecting among known outcomes, estimating confidence, and processing large volumes of imagery. Generative vision-language models can address these tasks, but autoregressive decoding is computationally costly and their confidence estimates are unreliable. Dec...
+
+#### [Every Pixel Is an Option: A System One Model for Medical Ultrasound Biometry](http://arxiv.org/abs/2611.03360v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-03/Every_Pixel_Is_an_Option_A_System_One_Model_for_Me.pdf)
+- **领域**: cs.CV
+- **核心摘要**: **Purpose:** Ultrasound biometry is widely used across various clinical applications, including prenatal and cardiac examinations, to obtain quantitative measurements by placing calipers at anatomical landmarks. However, these measurements remain subject to interoperator variability as they rely lar...
+
+#### [ArabGeoText: Tool-Augmented Vision-Language Models for Arabic Geospatial Text Spotting](http://arxiv.org/abs/2611.03339v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-03/ArabGeoText_Tool-Augmented_Vision-Language_Models_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Geospatial text spotting involves locating and transcribing geographic labels, such as road names, district names, and landmarks, in raster maps. These labels are often small, densely arranged, and arbitrarily oriented. Although Arabic text recognition has been studied extensively in documents and n...
+
+#### [VerifLM: Physically Verified Image-Edit-Guided Goal Pose Generation for Robotic Manipulation](http://arxiv.org/abs/2611.03268v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-03/VerifLM_Physically_Verified_Image-Edit-Guided_Goal.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Many manipulation goals are easier to visualize than to specify numerically through explicit geometric constraints. We present VerifLM, a framework that converts image-edited goal configurations into physically verified 6-DoF object poses for planning. Using an edited image, VerifLM recovers an init...
+
+#### [Calibrating Multimodal Test-Time Adaptation under Reliability and Availability Modality Shifts](http://arxiv.org/abs/2611.03232v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-03/Calibrating_Multimodal_Test-Time_Adaptation_under_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multimodal test-time adaptation (TTA) enables pretrained multimodal models to accommodate distribution shifts during inference using only unlabeled test data, without recourse to the original training data. Compared with unimodal adaptation, multimodal adaptation is further complicated by the coexis...
+
+#### [Behavioral Affinity Transduction for Zero-Shot Vision-Language Classification](http://arxiv.org/abs/2611.03132v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-03/Behavioral_Affinity_Transduction_for_Zero-Shot_Vis.pdf)
+- **领域**: cs.CV
+- **核心摘要**: An image that is hard to classify on its own may have a helpful neighbor in the same unlabeled batch. Zero-shot vision-language models (VLMs) score images independently and leave this evidence unused. We study small unlabeled query batches with no labeled examples. Visual similarity can reflect pose...
+
