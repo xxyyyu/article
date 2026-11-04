@@ -10500,3 +10500,58 @@
 - **领域**: cs.CV
 - **核心摘要**: An image that is hard to classify on its own may have a helpful neighbor in the same unlabeled batch. Zero-shot vision-language models (VLMs) score images independently and leave this evidence unused. We study small unlabeled query batches with no labeled examples. Visual similarity can reflect pose...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-11-04
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [GUILD: Guided Iterative Data Collection for Imitation Learning](http://arxiv.org/abs/2611.05368v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-04/GUILD_Guided_Iterative_Data_Collection_for_Imitati.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuition, resulting in data that contributes little to overall policy performance. Recent work has shown t...
+
+#### [Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs](http://arxiv.org/abs/2611.05249v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-04/Should_the_Action_Expert_Train_the_VLM_Action-Toke.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language-action (VLA) models increasingly pair a pre-trained vision-language model (VLM) with a flow-matching expert that conditions its action predictions on the VLM's key-value representations. Those representations must carry information useful for control, yet the VLM was never trained fo...
+
+#### [Asynchronous Robot Policies](http://arxiv.org/abs/2611.05155v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-04/Asynchronous_Robot_Policies.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Scaling vision-language foundation models has significantly advanced generalist robot manipulation, but the increased model scale introduces computational latency that degrades real-time physical reactivity. Existing Vision-Language-Action (VLA) architectures execute high-level semantic reasoning an...
+
+#### [WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation](http://arxiv.org/abs/2611.05129v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-04/WayTrace_A_Map-to-Language-to-Trace_Hierarchy_for_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Web services provide walking directions for nearly every city, but following them reliably over long routes remains challenging for autonomous robots. Point-goal navigation policies rely heavily on accurate GNSS, while most vision-language navigation models struggle to execute even short instruction...
+
+#### [VIGOR: Visual Gain Ordering for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models](http://arxiv.org/abs/2611.05066v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-04/VIGOR_Visual_Gain_Ordering_for_Hallucination_Mitig.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multimodal discrete diffusion language models (dLLMs) generate responses through iterative mask prediction and offer a promising alternative to autoregressive large vision-language models. However, they still suffer from hallucination, producing outputs that are plausible under language priors but i...
+
+#### [Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture](http://arxiv.org/abs/2611.04972v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-04/Caging_Vision-Language_Navigation_for_Legged_Robot.pdf)
+- **领域**: cs.RO
+- **核心摘要**: By harnessing the inherent commonsense capabilities of pretrained Large Language Models (LLMs) and Vision-Language Models (VLMs), current Vision-Language Action(VLA) models for legged robots excel at interpreting language-based navigation commands but lack the physical grounding and explicit safety ...
+
+#### [Learning Where to Look: Observation Policy Optimization for Thinking with Images](http://arxiv.org/abs/2611.04943v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-04/Learning_Where_to_Look_Observation_Policy_Optimiza.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Complex visual question answering often requires vision-language models to think with images, i.e., actively acquire local visual evidence by zooming into informative regions of high-resolution images. Our error analysis shows that many failures in this setting originate from incorrect observation a...
+
+#### [Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models](http://arxiv.org/abs/2611.04903v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-04/Heads_That_Write_Not_Just_Point_Image_Retrieval_He.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) can process interleaved text and multiple images in a single context, but how they internally identify the image relevant to a question remains poorly understood. We study this grounding step as in-context image retrieval and introduce ICIR-MCQ, a controlled prob...
+
+#### [OCR in the Foundation Model Era: From Specialist Models to Unified Models](http://arxiv.org/abs/2611.04874v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-04/OCR_in_the_Foundation_Model_Era_From_Specialist_Mo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Optical Character Recognition (OCR) is among the oldest and most widely deployed applications of artificial intelligence. This survey reviews its development, focusing on the Foundation Model Era. We define OCR through faithful transcription: within a specified visual scope, OCR should completely re...
+
+#### [The Pen is Mightier than the Pixel: Natural Textual Unlearnable Example for Large Vision Language Models](http://arxiv.org/abs/2611.04817v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-04/The_Pen_is_Mightier_than_the_Pixel_Natural_Textual.pdf)
+- **领域**: cs.AI
+- **核心摘要**: The proliferation of Large Vision Language Models (LVLMs), trained on vast and often sensitive datasets, raised concerns regarding data privacy and unauthorized usage. Unlearnable Examples (UEs), which subtly perturb training data to mislead the models, have emerged as a promising defense method. Th...
+
