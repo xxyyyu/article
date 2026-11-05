@@ -10555,3 +10555,58 @@
 - **领域**: cs.AI
 - **核心摘要**: The proliferation of Large Vision Language Models (LVLMs), trained on vast and often sensitive datasets, raised concerns regarding data privacy and unauthorized usage. Unlearnable Examples (UEs), which subtly perturb training data to mislead the models, have emerged as a promising defense method. Th...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-11-05
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Visual Token Routing: Learning to keep tokens that matter](http://arxiv.org/abs/2611.06854v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-05/Visual_Token_Routing_Learning_to_keep_tokens_that_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Computer-use agents (CUAs) have recently achieved superhuman performance on several long-horizon benchmarks. However, their computational cost limits their use in long-horizon tasks and real-time domains such as video games. A key bottleneck is representing each screenshot as thousands of visual tok...
+
+#### [EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models](http://arxiv.org/abs/2611.06748v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-05/EvoWorld_Towards_Out-of-Sight_World_Evolution_in_G.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Generative video models are increasingly used as visual world simulators, yet their primary strength lies in rendering plausible pixels rather than reasoning about how a world should evolve. Coherent world evolution requires more than visual fidelity: when an event occurs, a model must infer its con...
+
+#### [$A^3$-VLA: Automatic Perception-Guided Attention Alignment for Robot Manipulation](http://arxiv.org/abs/2611.06447v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-05/A3-VLA_Automatic_Perception-Guided_Attention_Align.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-Language-Action Models (VLAs) enable robots to perform manipulation tasks by leveraging Vision-Language Models (VLMs) to process visual observations and language instructions. However, the action prediction objective itself lacks fine-grained task-specific perceptual supervision, making it pr...
+
+#### [DreamRealm: Exploring and Materializing Hallucination Worlds for Trustworthy Vision-Language Models](http://arxiv.org/abs/2611.06433v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-05/DreamRealm_Exploring_and_Materializing_Hallucinati.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Multimodal large language models (MLLMs) remain prone to visual hallucinations when correct responses depend on subtle visual details. One line of post-training methods constructs visual contrasts through image retrieval, generation, or editing to improve fine-grained perception. However, these cont...
+
+#### [Traffic-VL: Reinforced Vision-Language Models for Generalizable End-to-End Traffic Signal Control](http://arxiv.org/abs/2611.06353v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-05/Traffic-VL_Reinforced_Vision-Language_Models_for_G.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Existing traffic signal control methods typically rely on structured traffic states produced by dedicated perception pipelines. Emerging visual approaches often use idealized simulator images and convert them into intermediate representations before control, limiting their ability to directly exploi...
+
+#### [Beyond Scene Shortcuts: Action-Centric Video-Text Alignment for Fine-Grained Action Understanding](http://arxiv.org/abs/2611.06302v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-05/Beyond_Scene_Shortcuts_Action-Centric_Video-Text_A.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Fine-grained action understanding requires vision-language models to ground what an agent does, how it acts, and why it acts in spatio-temporal evidence. However, richer supervision can backfire: fine-tuned models may generate detailed action descriptions grounded in static scenes and salient object...
+
+#### [MonoLaDN: Language-Guided DeNoising for Monocular 3D Object Detection](http://arxiv.org/abs/2611.06282v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-05/MonoLaDN_Language-Guided_DeNoising_for_Monocular_3.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Monocular 3D object detection offers a low-cost route to 3D perception, but it remains fundamentally ill-posed, since depth must be inferred from a single view. Recent transformer-based detectors learn geometry purely from image features and 3D box annotations, lacking the high-level semantic priors...
+
+#### [A Systematic Benchmark for Evaluating Multimodal Personalized Reasoning of Vision-Language Models](http://arxiv.org/abs/2611.06259v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-05/A_Systematic_Benchmark_for_Evaluating_Multimodal_P.pdf)
+- **领域**: cs.AI
+- **核心摘要**: People often make decisions by holistically reasoning over heterogeneous forms of personal information. In this paper, we study the relatively underexplored capability of multimodal personalized reasoning in multimodal large language models (MLLMs). To this end, we introduce \texttt{MPRBench}, a nov...
+
+#### [UniCompress: From Multi-LoRA Experts to One Compact Model for Edge Intelligence](http://arxiv.org/abs/2611.06075v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-05/UniCompress_From_Multi-LoRA_Experts_to_One_Compact.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Embodied and edge systems increasingly rely on vision-language models (VLMs) to support heterogeneous skills, yet deploying a separate task adapter for each skill while retaining a high-precision backbone creates substantial memory and management costs. We present UniCompress, a deployment-oriented ...
+
+#### [RI-Prune: Relation and Information Aware Visual Token Pruning for Multi-Image Vision-Language Models](http://arxiv.org/abs/2611.06047v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-05/RI-Prune_Relation_and_Information_Aware_Visual_Tok.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large vision-language models (LVLMs) have recently been extended to handle multiple input images, but this extension dramatically increases the visual token budget, making visual-token pruning not merely an efficiency option but a practical necessity. Existing visual-token pruning methods, primarily...
+
