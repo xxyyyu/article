@@ -10665,3 +10665,58 @@
 - **领域**: cs.RO
 - **核心摘要**: Humanoid locomotion policies trained without an explicit smoothness objective tend to produce jerky, high-energy gaits that stress actuators. Vision-language models (VLMs) offer an appealing reward source: given a rendered rollout, a VLM returns an aesthetic quality score on [0,10] without task-spec...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-11-07
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](http://arxiv.org/abs/2611.08449v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-07/VFlash_Fast_Accurate_Visual_Planning_via_Flash_Pri.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one co...
+
+#### [Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception](http://arxiv.org/abs/2611.08441v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-07/Edge-Assisted_Crowdsensing_for_Explainable_Cyclist.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Cyclist fatality rates remain high despite policy support for active travel, and autonomous vehicles add complexity to mixed traffic. Neither crash statistics nor multi-model detection pipelines scale to continuous monitoring of perceived safety along a route. We present an edge-assisted crowdsensin...
+
+#### [RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines](http://arxiv.org/abs/2611.08308v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-07/RM-VLM_From_Natural-Language_Task_Descriptions_to_.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functions as automata, RMs expose the task's temporal structure and allow such rewards to be handled withi...
+
+#### [Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling](http://arxiv.org/abs/2611.08185v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-07/Multimodal_Hierarchical_Mixture-of-Experts_for_3D_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Medical 3D scans and reports are inherently hierarchical, with diagnostic cues concentrated in specific anatomical regions across multiple levels of organization. Yet, most medical vision-language models ignore this structure and fail to focus on clinically relevant anatomy. We introduce MedHiVE, wh...
+
+#### [ATHAAR: A Medieval Scientific Arabic Manuscript Dataset for Handwritten Text Recognition](http://arxiv.org/abs/2611.08091v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-07/ATHAAR_A_Medieval_Scientific_Arabic_Manuscript_Dat.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Despite recent progress in handwritten text recognition, medieval Arabic scientific manuscripts remain an open challenge for current vision-language models (VLMs) due to cursive ligatures, variable diacritization, and more importantly the lack of training data. This paper aims to address this gap, b...
+
+#### [NutriVisRAG: Multimodal Exemplar Grounding for Nutrient Estimation with Vision-Language Models](http://arxiv.org/abs/2611.08054v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-07/NutriVisRAG_Multimodal_Exemplar_Grounding_for_Nutr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Diet is a major determinant of health, yet accurate dietary assessment from free-living meal images remains challenging. Existing retrieval-based Vision-Language Model (VLM) approaches to nutrient estimation typically rely on textual food representations, while, to our knowledge, direct grounding on...
+
+#### [HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness](http://arxiv.org/abs/2611.08039v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-07/HITCH_Teaching_a_Vision-Language_Model_to_Operate_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Enabling vision-language models (VLMs) to control humanoid robots requires both reliable whole-body interfaces and knowledge of how to use the body that carries over across tasks. We present HITCH (Harness Interfaces To Command Humanoids), a harness in which perception returns the 3D position of any...
+
+#### [WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation](http://arxiv.org/abs/2611.07939v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-07/WAM-Sim01_World_Anchored_Memory_Meets_Online_RL_fo.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Autoregressive driving world models systematically suffer from structural drift, identity drift, and quality decay over long rollout horizons due to transient conditioning signals that lack persistent state. We present WAM-Sim, a driving world model anchored by a persistent hierarchical memory and o...
+
+#### [Towards Generalist Graph-Level Anomaly Detection](http://arxiv.org/abs/2611.07706v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-07/Towards_Generalist_Graph-Level_Anomaly_Detection.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Graph-level anomaly detection (GLAD) aims to identify graphs that deviate significantly from the majority. While recent advances have achieved competitive performance, existing approaches mainly follow a dataset-specific paradigm, requiring substantial in-domain data and training cost when applied t...
+
+#### [PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion](http://arxiv.org/abs/2611.07679v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-07/PhySA_Decoupling_Aesthetic_and_Physical_Rewards_fo.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Humanoid locomotion policies trained without an explicit smoothness objective tend to produce jerky, high-energy gaits that stress actuators. Vision-language models (VLMs) offer an appealing reward source: given a rendered rollout, a VLM returns an aesthetic quality score on [0,10] without task-spec...
+
