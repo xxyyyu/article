@@ -10775,3 +10775,59 @@
 - **领域**: cs.RO
 - **核心摘要**: Humanoid locomotion policies trained without an explicit smoothness objective tend to produce jerky, high-energy gaits that stress actuators. Vision-language models (VLMs) offer an appealing reward source: given a rendered rollout, a VLM returns an aesthetic quality score on [0,10] without task-spec...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-11-09
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Seeing What Matters: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation](http://arxiv.org/abs/2611.09794v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-09/Seeing_What_Matters_Benchmarking_Task-Conditioned_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: When should a robot look at the cup, and when at the portafilter? Spatial-reasoning benchmarks evaluate whether a model can describe a scene, but manipulation needs something more specific: the ability to acquire the particular evidence that makes the current command executable. A view that is infor...
+
+#### [Decoupled Mode Connectivity for Base-to-Novel Generalization in Vision-Language Models](http://arxiv.org/abs/2611.09655v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-09/Decoupled_Mode_Connectivity_for_Base-to-Novel_Gene.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Prompt learning adapts vision-language models such as CLIP by optimizing a short learnable prompt. The cross-entropy objective pulls this prompt toward
+  base-class specialization, whereas generalization to unseen classes benefits from staying close to CLIP's zero-shot feature space. Because both ob...
+
+#### [SPSC: Zero-Shot Cross-Subject EEG-to-Image Reconstruction via Semantic Preservation and Subspace Calibration](http://arxiv.org/abs/2611.09380v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-09/SPSC_Zero-Shot_Cross-Subject_EEG-to-Image_Reconstr.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Pretrained vision-language models and diffusion generators have driven rapid progress in brain-to-image generation, while EEG-based reconstruction is still constrained by low signal-to-noise ratio and cross-subject semantic shifts. Zero-shot cross-subject reconstruction poses even greater challenges...
+
+#### [FIND: Frequency Invariance Disentanglement for Test-Time Adaptation in LiDAR 3D Detection](http://arxiv.org/abs/2611.09170v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-09/FIND_Frequency_Invariance_Disentanglement_for_Test.pdf)
+- **领域**: cs.CV
+- **核心摘要**: LiDAR-based 3D Object Detection (L3OD) is a fundamental 3D perception task, yet its performance is often compromised by domain shifts arising from diverse sensor configurations and environmental conditions. Existing Test-Time Adaptation (TTA) methods primarily leverage self-supervision in the spatia...
+
+#### [Learning When to Think: Dual-Reference Offline Optimization for Adaptive VLM Reasoning](http://arxiv.org/abs/2611.09154v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-09/Learning_When_to_Think_Dual-Reference_Offline_Opti.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Reasoning traces improve vision-language models on complex multimodal tasks, but forcing every input to follow a long reasoning process leads to overthinking and unnecessary inference cost. We study adaptive fast/slow thinking for VLMs, where one model answers directly for simple inputs and reasons ...
+
+#### [PathXAI: Evidence-guided structured pathology reporting by transferable tissue segmentation](http://arxiv.org/abs/2611.09117v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-09/PathXAI_Evidence-guided_structured_pathology_repor.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Pathology reporting requires translating tissue observations across regions and slides into specific diagnoses and supporting morphological descriptions. However, the use of explicit tissue-composition measurements to guide H&E-based report generation remains underexplored. Thus, we developed PathXA...
+
+#### [Training-Free Active Test-Time Adaptation for Vision-Language Models](http://arxiv.org/abs/2611.09084v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-09/Training-Free_Active_Test-Time_Adaptation_for_Visi.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Test-time adaptation (TTA) for vision-language models (VLMs) is usually studied in a fully unsupervised regime, where adaptation relies on pseudo-labels, confidence scores, or entropy computed by the model itself. This is a severe restriction on hard shifted samples: the model is asked to repair its...
+
+#### [Did I See It or Think It? Probing Reality Monitoring in Vision-Language Models with Concept Injection](http://arxiv.org/abs/2611.09014v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-09/Did_I_See_It_or_Think_It_Probing_Reality_Monitorin.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Recent work tests whether language models can introspect by injecting a concept direction into their activations and asking whether they notice it and can name it. These studies are text-only. Vision-language models (VLMs) face an additional problem, known in cognitive psychology as reality monitori...
+
+#### [HomeLoop: A Simulation Framework and Benchmark for Robot-IoT Coordination in Everyday Domestic Assistance and Safety](http://arxiv.org/abs/2611.08914v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-09/HomeLoop_A_Simulation_Framework_and_Benchmark_for_.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Recent progress in embodied robotics is bringing robots closer to deployment in homes, as vision-language models (VLMs) are demonstrating significant advances in reasoning, making VLM-driven robots promising home assistant agents. These agents will often be introduced into homes that already have ca...
+
+#### [Segmenting Geometric Textures of 3D Meshes](http://arxiv.org/abs/2611.08897v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-09/Segmenting_Geometric_Textures_of_3D_Meshes.pdf)
+- **领域**: cs.GR
+- **核心摘要**: Recognizing geometric texture patterns on 3D models is critical for applications such as heritage protection, model editing, and 3D printing. Existing 3D model segmentation methods predominantly focus on identifying high-level semantic parts, thereby failing to capture middle-level textures. While r...
+
