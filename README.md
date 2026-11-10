@@ -10831,3 +10831,58 @@
 - **领域**: cs.GR
 - **核心摘要**: Recognizing geometric texture patterns on 3D models is critical for applications such as heritage protection, model editing, and 3D printing. Existing 3D model segmentation methods predominantly focus on identifying high-level semantic parts, thereby failing to capture middle-level textures. While r...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-11-10
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis](http://arxiv.org/abs/2611.12869v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-10/Where_Does_Alignment_Emerge_and_What_Does_It_Mean_.pdf)
+- **领域**: cs.LG
+- **核心摘要**: The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligning with those of vision models. However, recent work has questioned whether this trend continues to ...
+
+#### [OptiCover: A Scalable and Multi-Surface Framework for Cold-Start Visual Optimization under Semantic Constraints](http://arxiv.org/abs/2611.12727v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-10/OptiCover_A_Scalable_and_Multi-Surface_Framework_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Selecting an effective cover photo is a critical yet understudied problem in visual merchandising for e-commerce marketplaces. On Airbnb, hosts upload many photos depicting different rooms, amenities, and points of interest, but must manually choose a single static cover photo that is reused across ...
+
+#### [GeoScope: Training-Free Program Execution beyond the Counting Horizon for Ultra-High-Resolution Remote Sensing Question Answering](http://arxiv.org/abs/2611.12699v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-10/GeoScope_Training-Free_Program_Execution_beyond_th.pdf)
+- **领域**: cs.CV
+- **核心摘要**: In ultra-high-resolution (UHR) remote sensing images, the objects that questions count in a region or relate by direction often span only a few pixels. Existing methods mainly decide where a vision-language model (VLM) should look and trust its answer in the chosen view. We show that this assumption...
+
+#### [Evaluating Cross-Signal Coherence in Mammography Vision-Language Models](http://arxiv.org/abs/2611.12574v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-10/Evaluating_Cross-Signal_Coherence_in_Mammography_V.pdf)
+- **领域**: cs.CV
+- **核心摘要**: As vision-language models (VLMs) move toward interpreting medical images directly, their outputs increasingly include not just a label but a stated confidence and a written justification. Yet the field still predominantly evaluates VLMs using just accuracy. We evaluate the coherence between answer, ...
+
+#### [GHiML: VLM-Guided Hierarchical Multi-Label Learning with Applications to Benthic Imagery](http://arxiv.org/abs/2611.12564v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-10/GHiML_VLM-Guided_Hierarchical_Multi-Label_Learning.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision language models (VLMs) encode substantial expert knowledge within their weights, yet their direct application to specialised classification domains such as benthic imagery remains limited. Meanwhile, vision transformers trained on these tasks rely predominantly on low-level visual latents (co...
+
+#### [EditJudge-Bench: Auditing VLM Image-Edit Judges with Synthetic Ground Truth](http://arxiv.org/abs/2611.12524v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-10/EditJudge-Bench_Auditing_VLM_Image-Edit_Judges_wit.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models (VLMs) are increasingly used as automated judges for image-editing benchmarks, yet their reliability is poorly understood. Auditing these judges is difficult because real edited images lack controlled ground truth and entangle the requested changes with model artefacts, uninte...
+
+#### [TMT: Adapting CLIP to Infrared Imagery via Text-Derived Modality Knowledge Transfer](http://arxiv.org/abs/2611.12345v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-10/TMT_Adapting_CLIP_to_Infrared_Imagery_via_Text-Der.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Vision-language models such as CLIP achieve strong performance across computer vision tasks, yet their image-text alignment is less reliable for infrared (IR) imagery because large-scale pre-training is dominated by visible-spectrum data. Due to the high cost of the infrared-text labeling, we invest...
+
+#### [Controlling Temporal Pseudo-Label Marginals for Stable Online Test-Time Adaptation](http://arxiv.org/abs/2611.12242v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-10/Controlling_Temporal_Pseudo-Label_Marginals_for_St.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Continual Test-Time Adaptation (CTTA) methods update models online using a stream of unlabeled data to overcome distribution shifts encountered at test time. However, CTTA is often unstable, as it can reinforce biases in early predictions and increasingly predict only a few classes, resulting in dri...
+
+#### [Harnessing Vision-Language Models for Federated Unsupervised Visual Recognition](http://arxiv.org/abs/2611.12187v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-10/Harnessing_Vision-Language_Models_for_Federated_Un.pdf)
+- **领域**: cs.LG
+- **核心摘要**: Federated learning (FL) is a promising research paradigm that enables collaborative model training across distributed clients without data sharing. To handle unlabeled data in local clients, existing unsupervised FL research has primarily focused on tasks like clustering and self-supervised represen...
+
+#### [Next-Generation Segmentation in Radiotherapy: A Narrative Review from Atlas-Based Methods to Agentic Vision-Language Models](http://arxiv.org/abs/2611.12085v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-10/Next-Generation_Segmentation_in_Radiotherapy_A_Nar.pdf)
+- **领域**: eess.IV
+- **核心摘要**: Precise segmentation of target volumes and organs at risk is an essential prerequisite for modern, high-precision radiation therapy. However, this task has traditionally been time-consuming and subject to high interobserver variability. Motivated by these limitations, more advanced and novel approac...
+
