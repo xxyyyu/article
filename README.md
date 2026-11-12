@@ -10941,3 +10941,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Remote sensing scene classification (RSSC) is traditionally formulated as a vision-centric problem, where inference relies on rich visual representations extracted from images. In this work, we revisit this assumption by introducing text-only RSSC, a new problem setting that investigates whether rem...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-11-12
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference](http://arxiv.org/abs/2611.14469v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-12/C2-Routing_Complementary_Cropping_and_Compression_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Visual Question Answering (VQA) imposes substantial computational overhead on vision-language models (VLMs), motivating model-agnostic input reduction methods that can be readily applied across diverse VLMs, including in black-box settings. Simply enforcing a visual-token cap reduces computation, bu...
+
+#### [Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection](http://arxiv.org/abs/2611.14436v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-12/Metric-Aligned_Group_Relative_Policy_Optimization_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Deepfake detectors are commonly evaluated on real/fake classification alone, but real-world applications require explanations of the visual evidence behind each prediction. Joint vision-language models struggle with authenticity assessment, producing "real" narratives for manipulated images. To addr...
+
+#### [Sckwoky at SHROOM-Visions: Character-Level Hallucination-Span Detection in Image-Conditioned VLMs via Dual-Prompted LoRA Decoders](http://arxiv.org/abs/2611.14100v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-12/Sckwoky_at_SHROOM-Visions_Character-Level_Hallucin.pdf)
+- **领域**: cs.CL
+- **核心摘要**: We present our system for the SHROOM-visions 2026 shared task on character-level hallucination span detection in image-conditioned vision-language model (VLM) responses, evaluated across English, French, Italian, and Chinese. The detector is built on a frozen Gemma-4-12B-it backbone with trainable L...
+
+#### [ZoomGain: Mining Global-to-Zoom Perception Gaps for Fine-Grained Visual Supervision](http://arxiv.org/abs/2611.14076v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-12/ZoomGain_Mining_Global-to-Zoom_Perception_Gaps_for.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Fine-grained visual perception requires Vision-Language Models (VLMs) to locate and interpret subtle evidence within complex scenes. Constructing supervision for this ability is challenging: questions must have correct, unambiguous answers that depend on actual fine-grained visual details rather tha...
+
+#### [Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3](http://arxiv.org/abs/2611.14060v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-12/Where_Do_Vision-Language_Models_Get_Left_and_Right.pdf)
+- **领域**: cs.CV
+- **核心摘要**: A vision-language model may take left-right direction from the orientation of image content within patches, its vision transformer's (ViT) position code, or token positions and order in its language model (LLM). Ablations show the ViT code is necessary; we test sufficiency by mirroring only a positi...
+
+#### [From Show Programs to Linked Data](http://arxiv.org/abs/2611.14037v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-12/From_Show_Programs_to_Linked_Data.pdf)
+- **领域**: cs.IR
+- **核心摘要**: Many heritage institutions hold extensive collections of show programs. Too numerous to be cataloged individually, they remain difficult to access and are still largely undigitized. This paper presents a workflow for transforming such documents into structured, interoperable data by combining vision...
+
+#### [Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models](http://arxiv.org/abs/2611.13997v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-12/Specify_Privacy_Yourself_Assessing_Inference-Time_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) have demonstrated remarkable capabilities but raise significant privacy concerns due to their abilities to infer sensitive personal information from images with high precision. While current LVLMs are relatively well aligned to protect universal privacy, e.g., cr...
+
+#### [EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding](http://arxiv.org/abs/2611.13907v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-12/EVAThink_Evidence_Sufficiency-Guided_Training_for_.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Under a fixed frame budget, video understanding with vision-language models (VLMs) depends on whether the sampled frames provide sufficient evidence for the question. Sufficient frame evidence supports direct answering, whereas less informative observations may benefit from reasoning that connects t...
+
+#### [Persistent Metric-Semantic Maritime Scene Memory from Open-Vocabulary 3D Scene Graphs](http://arxiv.org/abs/2611.13903v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-12/Persistent_Metric-Semantic_Maritime_Scene_Memory_f.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Three-dimensional scene graphs (3DSGs) can provide robots with persistent metric-semantic representations for spatial reasoning, but the existing methods have primarily been developed for indoor and terrestrial environments. In this paper we investigate how a representative outdoor open-vocabulary m...
+
+#### [Towards Text-Only Remote Sensing Scene Classification via Semantic Proxy](http://arxiv.org/abs/2611.13851v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-12/Towards_Text-Only_Remote_Sensing_Scene_Classificat.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Remote sensing scene classification (RSSC) is traditionally formulated as a vision-centric problem, where inference relies on rich visual representations extracted from images. In this work, we revisit this assumption by introducing text-only RSSC, a new problem setting that investigates whether rem...
+
