@@ -10996,3 +10996,58 @@
 - **领域**: cs.CV
 - **核心摘要**: Remote sensing scene classification (RSSC) is traditionally formulated as a vision-centric problem, where inference relies on rich visual representations extracted from images. In this work, we revisit this assumption by introducing text-only RSSC, a new problem setting that investigates whether rem...
 
+
+
+### 📅 研究周报 & 文献下载: 2026-11-13
+> **追踪方向**: Precision Agriculture, Plant Protection Robot, Test-Time Adaptation, Vision-Language Models, Geometric Structure-Preserving
+
+#### [Predicting Ethanol Drinking Status from Nonhuman Primate Liver Histology: A Proof of Concept for Parameter-efficient Fine-tuning in Few-Shot Vision-Language Modeling](http://arxiv.org/abs/2611.17105v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-13/Predicting_Ethanol_Drinking_Status_from_Nonhuman_P.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Combining vision-language models (VLMs) with parameter-efficient fine-tuning (PEFT) offers a promising approach to few-shot whole-slide image (WSI) classification in computational pathology. This study evaluates this approach for predicting ethanol drinking status from nonhuman primate liver histolo...
+
+#### [Report of the 8th LSVOS Challenge: Mobile Unified Multimodal Understanding](http://arxiv.org/abs/2611.16925v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-13/Report_of_the_8th_LSVOS_Challenge_Mobile_Unified_M.pdf)
+- **领域**: cs.CV
+- **核心摘要**: This report summarizes the Mobile Unified Multimodal Understanding (MUMU) track of the 8th Large-scale Video Object Segmentation (LSVOS) Challenge, held in conjunction with ECCV 2026. MUMU asks for a single unified model that jointly performs multi-concept image tagging over quality, scene, and even...
+
+#### [Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents](http://arxiv.org/abs/2611.16744v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-13/Scale-Induced_Semantic_Shift_in_Visual_Prompt_Inje.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Visual content in multimedia systems may be resized, compressed, or re-rendered before it is interpreted by a vision-language model. We study a security failure mode in which these transformations change the machine-readable semantics of an image: a textual instruction is not recovered at a $512\tim...
+
+#### [From Foundation VLM to Versatile Driving VLM: A Triplet Incremental Training Approach](http://arxiv.org/abs/2611.16727v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-13/From_Foundation_VLM_to_Versatile_Driving_VLM_A_Tri.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Adapting general Vision-Language Models (VLMs) to Autonomous Driving (AD) is thought to require heavy 3D spatial priors or intrusive architectural overhauls to compensate for a lack of spatial grounding. In this work, we present a counterintuitive pilot study: off-the-shelf general VLMs already exhi...
+
+#### [NSDL: Neuro-Symbolic Division of Labor for Multi-Robot Task Planning](http://arxiv.org/abs/2611.16671v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-13/NSDL_Neuro-Symbolic_Division_of_Labor_for_Multi-Ro.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Planning for a heterogeneous robot team from a scene image and an instruction involves two kinds of decisions. Some must be judged from the scene: which goals are already met, how the task splits, and which robot does what. Others follow from these and can be computed: prerequisite actions, handoffs...
+
+#### [Safety as a Budget: Calibrating the Control Channel of Constrained GRPO for Vision-Language Models](http://arxiv.org/abs/2611.16628v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-13/Safety_as_a_Budget_Calibrating_the_Control_Channel.pdf)
+- **领域**: cs.AI
+- **核心摘要**: Reinforcement learning can teach vision-language models (VLMs) to decline harmful image-text requests, but how safe the result becomes is set indirectly, through reward weights found by trial runs. Stating safety as budgets on the rate of harmful assistance and the rate of over-refusal, enforced by ...
+
+#### [Do the Details Help the Whole? One-Way Transfer from Person Actions to Group Intent in VLMs on JRDB-Social](http://arxiv.org/abs/2611.16581v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-13/Do_the_Details_Help_the_Whole_One-Way_Transfer_fro.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Social scene datasets label people at two levels: what each person is doing and what the group is there for. Training on both levels at once is often assumed to help each of them. We test this assumption for vision-language models (VLMs) on JRDB-Social, treating person actions as the details and gro...
+
+#### [Can an LVLM Perceive Event Boundaries Like a Human?](http://arxiv.org/abs/2611.16452v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-13/Can_an_LVLM_Perceive_Event_Boundaries_Like_a_Human.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Large Vision-Language Models (LVLMs) reason effectively about video content, but whether they perceive its event boundaries in a manner consistent with humans remains unclear. We first investigate this through Generic Event Boundary Detection (GEBD), which identifies event boundaries naturally perce...
+
+#### [I See What You Want: Decoding Hierarchical Operator Intent from Visual Teleoperation History](http://arxiv.org/abs/2611.16419v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-13/I_See_What_You_Want_Decoding_Hierarchical_Operator.pdf)
+- **领域**: cs.RO
+- **核心摘要**: Vision-language models (VLMs) have become a powerful foundation for robotic scene understanding, task planning, and language-conditioned control. A natural question follows: can these models also decode what a human operator intends while teleoperating a robot, without any explicit instruction? We f...
+
+#### [RICapBench: A Fine-Grained Visual Understanding Benchmark Dataset for Vision-Language Models in Remote Sensing](http://arxiv.org/abs/2611.16413v1)
+- **📥 本地PDF**: [点击阅读](./papers/2026-11-13/RICapBench_A_Fine-Grained_Visual_Understanding_Ben.pdf)
+- **领域**: cs.CV
+- **核心摘要**: Advances in vision-language models (VLMs) have improved remote sensing image analysis and supported geospatial decision-making. However, fine-grained understanding of remote sensing imagery remains challenging for VLMs. Large variations in object scale, complex geospatial relations among instances, ...
+
